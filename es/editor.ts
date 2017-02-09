@@ -4248,7 +4248,7 @@
     </message>
     <message>
         <source>Parameters to be passed to the plugin.</source>
-        <translation>Parámetros a pasar al complemento.</translation>
+        <translation>Parámetros a cambiar dentro del plugin.</translation>
     </message>
     <message>
         <source>Value</source>
@@ -4267,22 +4267,22 @@
     </message>
     <message>
         <source>Setting for where the character should be moved.</source>
-        <translation>Ajuste al cual se moverá el personaje.</translation>
+        <translation>Ajuste del lugar al que se transportará el personaje.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_QuickInn</name>
     <message>
         <source>Inn</source>
-        <translation>Pensión</translation>
+        <translation>Posada</translation>
     </message>
     <message>
         <source>%1\G for one night. Would you like to stay?</source>
-        <translation>%1\G para una noche. ¿Desea alojarse?</translation>
+        <translation>El precio es de %1\G por noche. ¿Quieres alojarte?</translation>
     </message>
     <message>
         <source>You don't have enough money.</source>
-        <translation>No tiene suficiente dinero.</translation>
+        <translation>No tienes suficiente dinero.</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -4298,14 +4298,14 @@
     </message>
     <message>
         <source>The amount of money required to stay at the inn.</source>
-        <translation>La cantidad de dinero necesaria para alojarse en la pensión.</translation>
+        <translation>La cantidad de dinero necesaria para alojarse en la posada.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_QuickTransfer</name>
     <message>
         <source>Transfer</source>
-        <translation>Transferir</translation>
+        <translation>Transportar</translation>
     </message>
     <message>
         <source>Location</source>
@@ -4313,7 +4313,7 @@
     </message>
     <message>
         <source>Setting for where the character should be moved.</source>
-        <translation>Ajuste al cual se moverá el personaje.</translation>
+        <translation>Ajuste del lugar al que se transportará el personaje.</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -4321,22 +4321,22 @@
     </message>
     <message>
         <source>Direction of the character after moving.</source>
-        <translation>Dirección del personaje después de moverse.</translation>
+        <translation>Dirección a la que mira el personaje tras transportarse.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_QuickTreasure</name>
     <message>
         <source>Treasure</source>
-        <translation>Tesoro</translation>
+        <translation>Cofre</translation>
     </message>
     <message>
         <source>%1\G were found!</source>
-        <translation>¡%1\G encontrados!</translation>
+        <translation>¡Encuentras %1\G!</translation>
     </message>
     <message>
         <source>%1 was found!</source>
-        <translation>¡%1 encontrado!</translation>
+        <translation>¡Obtienes %1!</translation>
     </message>
     <message>
         <source>Content</source>
@@ -4344,23 +4344,23 @@
     </message>
     <message>
         <source>Content of the treasure chest.</source>
-        <translation>Contenidos del cofre del tesoro.</translation>
+        <translation>Contenido del cofre del tesoro.</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation>Oro</translation>
+        <translation>Dinero</translation>
     </message>
     <message>
         <source>Sets the specified amount of gold as the treasure.</source>
-        <translation>Ajusta la cantidad especificada de oro como el tesoro.</translation>
+        <translation>Ajusta una cantidad específica de dinero para el cofre.</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation>Artículo</translation>
+        <translation>Objeto</translation>
     </message>
     <message>
         <source>Sets the specified item as the treasure.</source>
-        <translation>Ajusta el artículo especificado como el tesoro.</translation>
+        <translation>Ajusta un objeto específico para el cofre.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -4368,7 +4368,7 @@
     </message>
     <message>
         <source>Sets the specified weapon as the treasure.</source>
-        <translation>Ajusta el arma especificada como el tesoro.</translation>
+        <translation>Ajusta un arma específica para el cofre.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -4376,7 +4376,7 @@
     </message>
     <message>
         <source>Sets the specified armor as the treasure.</source>
-        <translation>Ajusta la armadura especificada como el tesoro.</translation>
+        <translation>Ajusta una armadura específica para el cofre.</translation>
     </message>
 </context>
 <context>
@@ -4392,7 +4392,7 @@
     <message>
         <source>Preview the selected file</source>
         <translatorcomment>原文はピリオドが含まれておりませんが、全体の統一の為にピリオドを追加致しました。</translatorcomment>
-        <translation>Vista previa archivo seleccionado.</translation>
+        <translation>Visualiza el archivo seleccionado.</translation>
     </message>
     <message>
         <source>Import</source>
@@ -4400,7 +4400,7 @@
     </message>
     <message>
         <source>Import a file into the selected folder.</source>
-        <translation type="vanished">Importar archivo a la carpeta seleccionada.</translation>
+        <translation>Importa archivos a la carpeta seleccionada.</translation>
     </message>
     <message>
         <source>Export</source>
@@ -4409,7 +4409,7 @@
     <message>
         <source>Export the selected file</source>
         <translatorcomment>原文はピリオドが含まれておりませんが、全体の統一の為にピリオドを追加致しました。</translatorcomment>
-        <translation>Exportar archivo seleccionado.</translation>
+        <translation>Exporta los archivos seleccionados.</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -4418,7 +4418,7 @@
     <message>
         <source>Delete the selected file</source>
         <translatorcomment>原文はピリオドが含まれておりませんが、全体の統一の為にピリオドを追加致しました。</translatorcomment>
-        <translation>Eliminar archivo seleccionado.</translation>
+        <translation>Elimina los archivos seleccionados.</translation>
     </message>
     <message>
         <source>File to export to</source>
@@ -4443,7 +4443,7 @@
     </message>
     <message>
         <source>Import files into the selected folder.</source>
-        <translation>Importar archivos a carpeta seleccionada.</translation>
+        <translation>Importa los archivos a carpeta seleccionada.</translation>
     </message>
     <message>
         <source>File(s) to import</source>
@@ -4455,14 +4455,14 @@
     </message>
     <message>
         <source>Opens the DLC folder, for steam installations.</source>
-        <translation>Abre la carpeta DLC, para instalaciones Steam.</translation>
+        <translation>Abre la carpeta de DLCs, para instalaciones con Steam.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ResourcePreview</name>
     <message>
         <source>Resource Preview</source>
-        <translation>Vista previa recursos</translation>
+        <translation>Vista previa de los recursos</translation>
     </message>
 </context>
 <context>
@@ -4504,7 +4504,7 @@
     <name>Dialog_StartingParty</name>
     <message>
         <source>Starting Party</source>
-        <translation>Grupo de inicio</translation>
+        <translation>Grupo inicial</translation>
     </message>
     <message>
         <source>Actor</source>
@@ -4512,7 +4512,7 @@
     </message>
     <message>
         <source>Actor in the starting party.</source>
-        <translation>Actor en el grupo de inicio.</translation>
+        <translation>Actor en el grupo inicial.</translation>
     </message>
 </context>
 <context>
