@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>Cloak</source>
-        <translation>Накидка</translation>
+        <translation>Покров(Плащ, шарф...)</translation>
     </message>
     <message>
         <source>Accessory 1</source>
@@ -207,7 +207,7 @@
     </message>
     <message>
         <source>Facial Mark Color</source>
-        <translation>Цвет метки лица</translation>
+        <translation>Цвет отметки</translation>
     </message>
     <message>
         <source>Beast Ears Color</source>
@@ -270,19 +270,19 @@
     </message>
     <message>
         <source>Image to be displayed as the event.</source>
-        <translation>Изображение для отображения в качестве события.</translation>
+        <translation>Изображение графики события.</translation>
     </message>
     <message>
         <source>Include Equipment</source>
-        <translation>Включить экипировку</translation>
+        <translation>Включая экипировку</translation>
     </message>
     <message>
         <source>Items that are equipped by party members will also be affected.</source>
-        <translation>На предметы, которыми экипированы участники стороны, также будет оказано влияние.</translation>
+        <translation>Разрешить или нет удалять экипированные предметы.</translation>
     </message>
     <message>
         <source>Items that are equipped by party members will also be treated as their possession.</source>
-        <translation>Предметы, которыми экипированы участники стороны, будут также обрабатываться по мере их наличия.</translation>
+        <translation>Разрешить проверять экипированные предметы, иначе учитываться будут только в инвентаре.</translation>
     </message>
     <message>
         <source>Allow Knockout</source>
@@ -290,7 +290,7 @@
     </message>
     <message>
         <source>Allows HP to drop to 0. If unchecked, stops at 1 HP.</source>
-        <translation>Разрешает падение HP до 0. Если не отмечено, останавливается на 1 HP.</translation>
+        <translation>Разрешает падение здоровья до 0. Если не отмечено, останавливается на 1 HP.</translation>
     </message>
     <message>
         <source>Show Level Up</source>
@@ -298,7 +298,7 @@
     </message>
     <message>
         <source>Displays a message upon leveling up.</source>
-        <translation>Отображает сообщение в случае повышения уровня.</translation>
+        <translation>Показать сообщение о повышении уровня.</translation>
     </message>
     <message>
         <source>Loop Horizontally</source>
@@ -315,7 +315,7 @@
     </message>
     <message>
         <source>Image to be displayed on the menu screen.</source>
-        <translation>Изображение для отображения в экранном меню.</translation>
+        <translation>Изображение на титульном экране.</translation>
     </message>
     <message>
         <source>Character</source>
