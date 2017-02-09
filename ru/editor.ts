@@ -5,65 +5,65 @@
     <name>AnimationFrameList</name>
     <message>
         <source>Frame List</source>
-        <translation>Покадровый список</translation>
+        <translation>Список кадров</translation>
     </message>
     <message>
         <source>The selected frame is displayed in the right side.&lt;br&gt;[N] Selects the next item.&lt;br&gt;[B] Selects the previous item.</source>
-        <translation>Выбранный кадр отображается в правой стороне.&lt;br&gt;[N] Выбирает следующий пункт.&lt;br&gt;[B] Выбирает предыдущий пункт.</translation>
+        <translation>Выбранный кадр отображается справа.&lt;br&gt;[N] Выбирает следующий кадр.&lt;br&gt;[B] Выбирает предыдущий кадр.</translation>
     </message>
 </context>
 <context>
     <name>AnimationScreen</name>
     <message>
         <source>To Upper</source>
-        <translation>К верхнему</translation>
+        <translation>Выше</translation>
     </message>
     <message>
         <source>To Lower</source>
-        <translation>К нижнему</translation>
+        <translation>Ниже</translation>
     </message>
 </context>
 <context>
     <name>CharacterGenerator</name>
     <message>
         <source>Parts List</source>
-        <translation>Список параметров</translation>
+        <translation>Список элементов</translation>
     </message>
     <message>
         <source>Selects a kind of parts.</source>
-        <translation>Выбирает параметр.</translation>
+        <translation>Доступные элементы.</translation>
     </message>
     <message>
         <source>Randomize</source>
-        <translation>Выб. в случ. порядке</translation>
+        <translation>Случайно</translation>
     </message>
     <message>
         <source>Sets all the parts at random.</source>
-        <translation>Выполняет случайный выбор параметров.</translation>
+        <translation>Создаёт случайного персонажа.</translation>
     </message>
     <message>
         <source>Face Image</source>
-        <translation>Тип лица</translation>
+        <translation>Лицо</translation>
     </message>
     <message>
         <source>Opens the export window for face images.</source>
-        <translation>Открывает окно экспорта типов лица.</translation>
+        <translation>Открывает окно экспорта лица.</translation>
     </message>
     <message>
         <source>Walk Character</source>
-        <translation>Анимация Ходьба</translation>
+        <translation>Персонаж</translation>
     </message>
     <message>
         <source>Opens the export window for walk characters.</source>
-        <translation>Открывает окно экспорта анимаций Ходьба.</translation>
+        <translation>Открывает окно экспорта анимации передвижения.</translation>
     </message>
     <message>
         <source>Damage Character</source>
-        <translation>Анимация Урон</translation>
+        <translation>В нокауте</translation>
     </message>
     <message>
         <source>Opens the export window for damage characters.</source>
-        <translation>Открывает окно экспорта анимаций Урон.</translation>
+        <translation>Открывает окно экспорта анимации "в нокауте".</translation>
     </message>
     <message>
         <source>Battler</source>
@@ -71,7 +71,7 @@
     </message>
     <message>
         <source>Opens the export window for side-view battlers.</source>
-        <translation>Открывает окно экспорта для просмотра бойцов сбоку.</translation>
+        <translation>Открывает окно экспорта бойца.</translation>
     </message>
     <message>
         <source>Save Settings</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Loads the saved settings.</source>
-        <translation>Загружает сохраненные настройки.</translation>
+        <translation>Загружает сохраненные настройки персонажа.</translation>
     </message>
     <message>
         <source>Variation</source>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Selects a variation.</source>
-        <translation>Выбирает разновидность.</translation>
+        <translation>Выбирает разновидность элемента.</translation>
     </message>
     <message>
         <source>Color</source>
@@ -103,16 +103,16 @@
     </message>
     <message>
         <source>Selects a color.</source>
-        <translation>Выбирает цвет.</translation>
+        <translation>Выбирает цвет элемента.</translation>
     </message>
     <message>
         <source>Preview</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Предв. просм.</translation>
+        <translation>Предпросмотр</translation>
     </message>
     <message>
         <source>Previews the generated images.</source>
-        <translation>Производит предварительный просмотр созданных изображений.</translation>
+        <translation>Показывает, как будет выглядеть персонаж.</translation>
     </message>
 </context>
 <context>
@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Facial Mark</source>
-        <translation>Метка лица</translation>
+        <translation>Отметки на лице</translation>
     </message>
     <message>
         <source>Beast Ears</source>
@@ -495,7 +495,7 @@
         <translation>Точка максимального поражения. Представляет максимальное количество поражения, которое может выдержать персонаж.</translation>
     </message>
     <message>
-        <source>Maximum magic point. Represents the character&apos;s maximum power for using magic skills.</source>
+        <source>Maximum magic point. Represents the character's maximum power for using magic skills.</source>
         <translation>Точка максимальной магии. Представляет максимальную мощность персонажа для использования магических умений.</translation>
     </message>
     <message>
@@ -1059,7 +1059,7 @@
     </message>
     <message>
         <source>Zzz</source>
-        <translation>Zzz</translation>
+        <translation>Сон</translation>
     </message>
     <message>
         <source>User-defined 1</source>
@@ -1635,59 +1635,59 @@
     <name>DeploymentOption</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Опции</translation>
+        <translation>Опции</translation>
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="unfinished">Устанавливает опции внедрения.</translation>
+        <translation>Настройки экспорта.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
-        <translation type="unfinished">Исключить неиспользованные файлы</translation>
+        <translation>Исключить неиспользованные файлы</translation>
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="unfinished">Файлы, которые  не используются в игре, будут исключены во внедрении.</translation>
+        <translation>Файлы, которые  не используются в игре, будут исключены при экспорте.</translation>
     </message>
     <message>
         <source>Zip Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Архивация ZIP</translation>
     </message>
     <message>
         <source>Zip compress the project files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Архивировать проект при помощи ZIP.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Шифрование</translation>
+        <translation>Шифрование</translation>
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="unfinished">Установить опции шифрования.</translation>
+        <translation>Параметры шифрования.</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="unfinished">Графические файлы</translation>
+        <translation>Графика</translation>
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="unfinished">Шифровать графический файл, включенный в этот дистрибутив.</translation>
+        <translation>Зашифровать изображения, включённые в этот проект.</translation>
     </message>
     <message>
         <source>Audio files</source>
-        <translation type="unfinished">Аудио файлы</translation>
+        <translation>Аудио файлы</translation>
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="unfinished">Шифровать аудио файл, включенный в этот дистрибутив.</translation>
+        <translation>Зашифровать аудио файлы, включённые в этот проект.</translation>
     </message>
     <message>
         <source>Encryption key</source>
-        <translation type="unfinished">Ключ шифрования</translation>
+        <translation>Ключ шифрования</translation>
     </message>
     <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="unfinished">Введите ключ шифрования.</translation>
+        <translation>Введите ключ шифрования.</translation>
     </message>
 </context>
 <context>
@@ -1795,7 +1795,7 @@
         <translation>HP</translation>
     </message>
     <message>
-        <source>Possible when this enemy&apos;s HP is in the specified range.</source>
+        <source>Possible when this enemy's HP is in the specified range.</source>
         <translation>Возможно, когда HP противника находится в указанном диапазоне.</translation>
     </message>
     <message>
@@ -1803,7 +1803,7 @@
         <translation>MP</translation>
     </message>
     <message>
-        <source>Possible when this enemy&apos;s MP is in the specified range.</source>
+        <source>Possible when this enemy's MP is in the specified range.</source>
         <translation>Возможно, когда MP противника находится в указанном диапазоне.</translation>
     </message>
     <message>
@@ -1819,7 +1819,7 @@
         <translation>Уровень стороны</translation>
     </message>
     <message>
-        <source>Possible when the party members&apos; highest level is greater than or equal to the specified number.</source>
+        <source>Possible when the party members' highest level is greater than or equal to the specified number.</source>
         <translation>Возможно, когда наивысший уровень сторонних участников больше или равен указанному числу.</translation>
     </message>
     <message>
@@ -2056,7 +2056,7 @@
         <translation>НР противн.</translation>
     </message>
     <message>
-        <source>Starts when an enemy&apos;s HP is less than or equal to the specified percentage.&lt;br&gt;If you want to start the event just before the enemy dies, add [Immortal] state temporarily on the battle start.</source>
+        <source>Starts when an enemy's HP is less than or equal to the specified percentage.&lt;br&gt;If you want to start the event just before the enemy dies, add [Immortal] state temporarily on the battle start.</source>
         <translation>Запускается, когда HP противника менее или равно определенному числу процентов.&lt;br&gt;Если нужно запустить событие прямо перед смертью противника, временно добавьте состояние [Бессмертие] в начале битвы.</translation>
     </message>
     <message>
@@ -2069,7 +2069,7 @@
         <translation>НР действ. суб.</translation>
     </message>
     <message>
-        <source>Starts when an actor&apos;s HP is less than or equal to the specified percentage.</source>
+        <source>Starts when an actor's HP is less than or equal to the specified percentage.</source>
         <translation>Запускается, когда HP действующего субъекта менее или равно определенному числу процентов.</translation>
     </message>
     <message>
@@ -2109,7 +2109,7 @@
         <translation>Инициализировать</translation>
     </message>
     <message>
-        <source>Initializes the actor&apos;s level and equipment.</source>
+        <source>Initializes the actor's level and equipment.</source>
         <translation>Инициализирует уровень действующего субъекта и экипировку.</translation>
     </message>
     <message>
@@ -2416,7 +2416,7 @@
         <translation>Добавить сост-е</translation>
     </message>
     <message>
-        <source>Adds the specified state. Specifying a value over 100% enables success at a rate higher than the target&apos;s original effectiveness.</source>
+        <source>Adds the specified state. Specifying a value over 100% enables success at a rate higher than the target's original effectiveness.</source>
         <translation>Добавляет указанное состояние. Указание значения выше 100 % включает успех при скорости выше исходной эффективности цели.</translation>
     </message>
     <message>
@@ -2817,7 +2817,7 @@
         <translation>Предмет</translation>
     </message>
     <message>
-        <source>Uses the number of the specified item in the party&apos;s inventory.</source>
+        <source>Uses the number of the specified item in the party's inventory.</source>
         <translation>Использует количество определенного пункта в инвентаре участника.</translation>
     </message>
     <message>
@@ -2829,7 +2829,7 @@
         <translation>Оружие</translation>
     </message>
     <message>
-        <source>Uses the number of the specified weapon in the party&apos;s inventory without the equipped items.</source>
+        <source>Uses the number of the specified weapon in the party's inventory without the equipped items.</source>
         <translation>Использует количество определенного оружия в инвентаре участника без предметов экипировки.</translation>
     </message>
     <message>
@@ -2837,7 +2837,7 @@
         <translation>Броня</translation>
     </message>
     <message>
-        <source>Uses the number of the specified armor in the party&apos;s inventory without the equipped items.</source>
+        <source>Uses the number of the specified armor in the party's inventory without the equipped items.</source>
         <translation>Использует количество определенной брони в инвентаре участника без предметов экипировки.</translation>
     </message>
     <message>
@@ -2969,69 +2969,69 @@
     <name>Dialog_GameShare</name>
     <message>
         <source>Game Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Поделится игрой</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация</translation>
     </message>
     <message>
         <source>If necessary to authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если необходима авторизация.</translation>
     </message>
     <message>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация</translation>
     </message>
     <message>
         <source>Authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация.</translation>
     </message>
     <message>
         <source>Deauthorize</source>
         <comment>Deauthorize Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Деавторизация</translation>
     </message>
     <message>
         <source>Cancel authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить авторизацию.</translation>
     </message>
     <message>
         <source>Account has not been authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Аккаунт не был авторизован.</translation>
     </message>
     <message>
         <source>Your acount is</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш аккаунт:</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GameShareOgc</name>
     <message>
         <source>Game Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Поделится игрой</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация</translation>
     </message>
     <message>
         <source>If necessary to authenticate OPEN GAME CREATORS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если необходима авторизация на OPEN GAME CREATORS.</translation>
     </message>
     <message>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация</translation>
     </message>
     <message>
         <source>Authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация.</translation>
     </message>
     <message>
         <source>Account has not been authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Аккаунт не был авторизован.</translation>
     </message>
 </context>
 <context>
@@ -4053,7 +4053,7 @@
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Сжатие проекта</translation>
     </message>
 </context>
 <context>
@@ -4296,7 +4296,7 @@
         <translation>%1\G на одну ночь. Хотите остановиться?</translation>
     </message>
     <message>
-        <source>You don&apos;t have enough money.</source>
+        <source>You don't have enough money.</source>
         <translation>У вас недостаточно денег.</translation>
     </message>
     <message>
@@ -4654,8 +4654,8 @@
         <translation>Количество атак +</translation>
     </message>
     <message>
-        <source>Increases the number of times a normal attack hits a target. Entering &quot;+1&quot; means two consecutive attacks.</source>
-        <translation>Увеличивает количество поражений цели нормальной атакой. Ввод &quot;+1&quot; означает две последовательные атаки.</translation>
+        <source>Increases the number of times a normal attack hits a target. Entering "+1" means two consecutive attacks.</source>
+        <translation>Увеличивает количество поражений цели нормальной атакой. Ввод "+1" означает две последовательные атаки.</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -4781,47 +4781,48 @@
     <name>Dialog_Upload</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
-        <translation type="unfinished">Создание дистрибутива...</translation>
+        <translation>Создание пакета проекта...</translation>
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Сжатие проекта</translation>
     </message>
     <message>
         <source>The compressed file size exceeded 300 MBytes.
 Please lower the file size of this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер сжатого проекта превышает 300 Мб.
+Пожалуйста, оптимизируйте проект.</translation>
     </message>
     <message>
         <source>It exceeds the data capacity that can be posted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Превышен максимальный размер проекта.</translation>
     </message>
     <message>
         <source>File uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка проекта</translation>
     </message>
 </context>
 <context>
     <name>Dialog_UploadOgc</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
-        <translation type="unfinished">Создание дистрибутива...</translation>
+        <translation>Создание пакета проекта...</translation>
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Сжатие проекта</translation>
     </message>
     <message>
         <source>File uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка проекта</translation>
     </message>
 </context>
 <context>
@@ -4903,14 +4904,14 @@ Please lower the file size of this project.</source>
     <name>Dialog_WebBrowser</name>
     <message>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Браузер</translation>
     </message>
 </context>
 <context>
     <name>Dialog_WebBrowserOgc</name>
     <message>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Браузер</translation>
     </message>
 </context>
 <context>
@@ -4980,7 +4981,7 @@ Please lower the file size of this project.</source>
         <translation>Профиль</translation>
     </message>
     <message>
-        <source>Text to be displayed on the status screen. Enter information such as the character&apos;s profile.</source>
+        <source>Text to be displayed on the status screen. Enter information such as the character's profile.</source>
         <translation>Текст для отображения на экране состояния. Введите информацию, такую как профиль персонажа.</translation>
     </message>
     <message>
@@ -5448,24 +5449,24 @@ Please lower the file size of this project.</source>
         <translation>Автоматически создает сообщение.</translation>
     </message>
     <message>
-        <source>&quot;casts *!&quot;</source>
-        <translation>&quot;броски *!&quot;</translation>
+        <source>"casts *!"</source>
+        <translation>"броски *!"</translation>
     </message>
     <message>
         <source> casts %1!</source>
         <translation>броски %1!</translation>
     </message>
     <message>
-        <source>&quot;does *!&quot;</source>
-        <translation>&quot;делает *!&quot;</translation>
+        <source>"does *!"</source>
+        <translation>"делает *!"</translation>
     </message>
     <message>
         <source> does %1!</source>
         <translation>делает %1!</translation>
     </message>
     <message>
-        <source>&quot;uses *!&quot;</source>
-        <translation>&quot;использует *!&quot;</translation>
+        <source>"uses *!"</source>
+        <translation>"использует *!"</translation>
     </message>
     <message>
         <source> uses %1!</source>
@@ -5476,8 +5477,8 @@ Please lower the file size of this project.</source>
         <translation>Требуемое оружие</translation>
     </message>
     <message>
-        <source>Weapon type required to use the skill. For example, this is used to prevent the selection of a &quot;Sword Skill&quot; unless a sword is equipped.</source>
-        <translation>Тип оружия, требуемый для использования умения. Например, это используется для предотвращения выбора &quot;Умение владения мечом&quot;, пока меч отсутствует в экипировке.</translation>
+        <source>Weapon type required to use the skill. For example, this is used to prevent the selection of a "Sword Skill" unless a sword is equipped.</source>
+        <translation>Тип оружия, требуемый для использования умения. Например, это используется для предотвращения выбора "Умение владения мечом", пока меч отсутствует в экипировке.</translation>
     </message>
     <message>
         <source>Weapon Type 1</source>
@@ -5724,7 +5725,7 @@ Please lower the file size of this project.</source>
         <translation>Если состояние продолжается</translation>
     </message>
     <message>
-        <source>Message to be displayed on the target&apos;s turn while the state is active.</source>
+        <source>Message to be displayed on the target's turn while the state is active.</source>
         <translation>Сообщение для отображения при положении цели, когда состояние активно.</translation>
     </message>
     <message>
@@ -5799,7 +5800,7 @@ Please lower the file size of this project.</source>
         <translation>Поросль</translation>
     </message>
     <message>
-        <source>Sets as translucent the bottom some pixels of a character on the tile, which can make the character&apos;s feet seemingly hidden in a bush.</source>
+        <source>Sets as translucent the bottom some pixels of a character on the tile, which can make the character's feet seemingly hidden in a bush.</source>
         <translation>Устанавливает прозрачность нижней части некоторых пикселей персонажа на плитке, которая может придать видимость сокрытия ступней персонажа в поросли.</translation>
     </message>
     <message>
@@ -6319,7 +6320,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Sub</source>
         <comment>Subtract</comment>
-        <translation>Sub</translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Subtracts the operand from the specified variable(s).</source>
@@ -6328,7 +6329,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Mul</source>
         <comment>Multiply</comment>
-        <translation>Mul</translation>
+        <translation>*</translation>
     </message>
     <message>
         <source>Multiplies the specified variable(s) by the operand.</source>
@@ -6337,7 +6338,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Div</source>
         <comment>Divide</comment>
-        <translation>Div</translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>Divides the specified variable(s) by the operand.</source>
@@ -6346,7 +6347,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Mod</source>
         <comment>Modulo</comment>
-        <translation>Mod</translation>
+        <translation>Остаток</translation>
     </message>
     <message>
         <source>Divides the specified variable(s) by the operand and stores the remainder(s).</source>
@@ -7455,11 +7456,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Target all enemies in the troop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Все противники.</translation>
     </message>
     <message>
         <source>Target all enemies in the troop?</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать анимацию на всех противниках?</translation>
     </message>
 </context>
 <context>
@@ -8294,19 +8295,19 @@ Please lower the file size of this project.</source>
         <translation>Устанавливает команды, отображаемые в списке. Не имеет эффекта в игре.</translation>
     </message>
     <message>
-        <source>Changes the amount of money in the party&apos;s inventory.</source>
+        <source>Changes the amount of money in the party's inventory.</source>
         <translation>Изменяет количество денег в инвентаре стороны.</translation>
     </message>
     <message>
-        <source>Changes the item in the party&apos;s inventory.</source>
+        <source>Changes the item in the party's inventory.</source>
         <translation>Изменяет предмет в инвентаре стороны.</translation>
     </message>
     <message>
-        <source>Changes the weapon in the party&apos;s inventory.</source>
+        <source>Changes the weapon in the party's inventory.</source>
         <translation>Изменяет оружие в инвентаре стороны.</translation>
     </message>
     <message>
-        <source>Changes the armor in the party&apos;s inventory.</source>
+        <source>Changes the armor in the party's inventory.</source>
         <translation>Изменяет броню в инвентаре стороны.</translation>
     </message>
     <message>
@@ -8382,7 +8383,7 @@ Please lower the file size of this project.</source>
         <translation>Изменят текущее положение определенного события. Нельзя переместить событие на другую карту.</translation>
     </message>
     <message>
-        <source>Scrolls the map without changing the player&apos;s location. Used only on the map screen.</source>
+        <source>Scrolls the map without changing the player's location. Used only on the map screen.</source>
         <translation>Прокручивает карту без изменения расположения игрока. Используется только на экране карты.</translation>
     </message>
     <message>
@@ -8410,7 +8411,7 @@ Please lower the file size of this project.</source>
         <translation>Отображает определенную анимацию для персонажа на карте.</translation>
     </message>
     <message>
-        <source>Displays the specified balloon icon above the character&apos;s head.</source>
+        <source>Displays the specified balloon icon above the character's head.</source>
         <translation>Отображает определенную пиктограмму подсказки над головой персонажа.</translation>
     </message>
     <message>
@@ -8690,22 +8691,23 @@ Please lower the file size of this project.</source>
     <message>
         <source>Succeeded to upload a project.
 Please complete the post with follow this link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проект успешно загружен.
+Пожалуйста, оформите пост по ссылке.</translation>
     </message>
     <message>
         <source>Failed to upload a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось загрузить проект.</translation>
     </message>
 </context>
 <context>
     <name>GameShareOgc</name>
     <message>
         <source>Succeeded to upload a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проект успешно загружен.</translation>
     </message>
     <message>
         <source>Failed to upload a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось загрузить проект.</translation>
     </message>
 </context>
 <context>
@@ -8974,7 +8976,7 @@ Please complete the post with follow this link.</source>
         <translation>НР действ. суб.</translation>
     </message>
     <message>
-        <source>Don&apos;t Run</source>
+        <source>Don't Run</source>
         <translation>Не запускать</translation>
     </message>
 </context>
@@ -9072,7 +9074,7 @@ Please complete the post with follow this link.</source>
         <translation>Элемент</translation>
     </message>
     <message>
-        <source>Element of the damage. Final damage varies depending on the target&apos;s resistance to the element in question.</source>
+        <source>Element of the damage. Final damage varies depending on the target's resistance to the element in question.</source>
         <translation>Элемент повреждения. Окончательное повреждение отличается в зависимости от сопротивления цели данному элементу.</translation>
     </message>
     <message>
@@ -9084,8 +9086,8 @@ Please complete the post with follow this link.</source>
         <translation>Формула</translation>
     </message>
     <message>
-        <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, &quot;a.atk&quot; stands for user&apos;s attack power.</source>
-        <translation>Формула для расчета основного повреждения. Пользователь выражается посредством а, а цель;- посредством b, и затем за каждым из них следует точка для возможности просмотра состояний, показанных далее. Например, &quot;a.atk&quot; указывается для силы атаки пользователя.</translation>
+        <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, "a.atk" stands for user's attack power.</source>
+        <translation>Формула для расчета основного повреждения. Пользователь выражается посредством а, а цель;- посредством b, и затем за каждым из них следует точка для возможности просмотра состояний, показанных далее. Например, "a.atk" указывается для силы атаки пользователя.</translation>
     </message>
     <message>
         <source>Variance</source>
@@ -9100,7 +9102,7 @@ Please complete the post with follow this link.</source>
         <translation>Критические удары</translation>
     </message>
     <message>
-        <source>Whether to enable critical hits. When enabled, critical hits will be determined based on the user&apos;s critical rate and the target&apos;s critical evasion rate.</source>
+        <source>Whether to enable critical hits. When enabled, critical hits will be determined based on the user's critical rate and the target's critical evasion rate.</source>
         <translation>Включение или отключение критических ударов. Если включено, критические удары будут определяться на основании критической скорости пользователя и критической скорости уклонения цели.</translation>
     </message>
     <message>
@@ -9316,7 +9318,7 @@ Please complete the post with follow this link.</source>
         <translation>Скор.</translation>
     </message>
     <message>
-        <source>Value that is added to the character&apos;s agility when determining action order. This allows you to create actions that are powerful but take a long time to perform.</source>
+        <source>Value that is added to the character's agility when determining action order. This allows you to create actions that are powerful but take a long time to perform.</source>
         <translation>Значение, которое добавляется к маневренности персонажа при определении порядка действия. Это позволяет создавать действия, которые являются более сильными, но требуют больше времени для выполнения.</translation>
     </message>
     <message>
@@ -9348,7 +9350,7 @@ Please complete the post with follow this link.</source>
         <translation>Тип удара</translation>
     </message>
     <message>
-        <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user&apos;s hit rate and target&apos;s evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target&apos;s magic evasion rate.</source>
+        <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user's hit rate and target's evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target's magic evasion rate.</source>
         <translation>Способ определения удара. &lt;br&gt;[Определенный удар] Принимает успешное использование действия за удар.&lt;br&gt;[Физическая атака] Определяет удары на основании скорости удара пользователя и скорости уклонения цели.&lt;br&gt;[Магическая атака] Определяет удары на основании скорости магического уклонения цели.</translation>
     </message>
     <message>
@@ -9539,21 +9541,21 @@ Please complete the post with follow this link.</source>
     <name>Group_Network</name>
     <message>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Сеть</translation>
     </message>
     <message>
         <source>Turns the upload operation on/off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вкл\выкл загрузку проектов.</translation>
     </message>
     <message>
         <source>NicoNico</source>
         <comment>Upload operation enable</comment>
-        <translation type="unfinished"></translation>
+        <translation>NicoNico</translation>
     </message>
     <message>
         <source>OPEN GAME CREATORS</source>
         <comment>Upload operation enable</comment>
-        <translation type="unfinished"></translation>
+        <translation>OPEN GAME CREATORS</translation>
     </message>
 </context>
 <context>
@@ -9641,7 +9643,7 @@ Please complete the post with follow this link.</source>
         <translation>Изменения параметров</translation>
     </message>
     <message>
-        <source>Set how much the actor&apos;s parameters will increase by equipping this item.</source>
+        <source>Set how much the actor's parameters will increase by equipping this item.</source>
         <translation>Установить, на сколько будут увеличены параметры действующего субъекта посредством экипировки этим предметом.</translation>
     </message>
 </context>
@@ -10110,7 +10112,7 @@ Please complete the post with follow this link.</source>
         <translation>Запустить прозрачно</translation>
     </message>
     <message>
-        <source>Starts the game with the player&apos;s transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
+        <source>Starts the game with the player's transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
         <translation>Запускает игру с включенным флажком прозрачности игрока. Это можно выключить командой события [Изменить прозрачность].</translation>
     </message>
     <message>
@@ -10142,7 +10144,7 @@ Please complete the post with follow this link.</source>
         <translation>Отображает TP в битве</translation>
     </message>
     <message>
-        <source>Displays the TP of each party member in the status window during battles. Uncheck this option if you don&apos;t use TP system.</source>
+        <source>Displays the TP of each party member in the status window during battles. Uncheck this option if you don't use TP system.</source>
         <translation>Отображает TP каждого участника стороны в окне состояния во время битв. Уберите отметку с этого параметра, если вы не используете систему TP.</translation>
     </message>
     <message>
@@ -10594,38 +10596,38 @@ Please complete the post with follow this link.</source>
     <name>Html</name>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединение</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="unfinished"></translation>
+        <translation>Успешная авторизация.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация не удалась.</translation>
     </message>
     <message>
         <source>Please close this window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, закройте окно.</translation>
     </message>
 </context>
 <context>
     <name>HtmlOgc</name>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединение</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="unfinished"></translation>
+        <translation>Успешная авторизация.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация не удалась.</translation>
     </message>
     <message>
         <source>Please close this window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, закройте окно.</translation>
     </message>
 </context>
 <context>
@@ -10803,7 +10805,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Freq</source>
         <comment>Movement Frequency</comment>
-        <translation>Freq</translation>
+        <translation>Частота</translation>
     </message>
     <message>
         <source>Options</source>
@@ -11521,15 +11523,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Поделиться игрой(NICONICO)</translation>
     </message>
     <message>
         <source>Upload the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить игру.</translation>
     </message>
     <message>
         <source>Game Share(OPEN GAME CREATORS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Поделиться игрой(OPEN GAME CREATORS)</translation>
     </message>
 </context>
 <context>
@@ -11600,22 +11602,22 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Yes</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Да</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <source>No</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Нет</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>OK</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -12821,7 +12823,7 @@ Please complete the post with follow this link.</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <source>%1&apos;s Party</source>
+        <source>%1's Party</source>
         <translation>%1-я сторона</translation>
     </message>
     <message>
@@ -12977,16 +12979,16 @@ Please complete the post with follow this link.</source>
         <translation>%1 защитил %2!</translation>
     </message>
     <message>
-        <source>%1&apos;s %2 went up!</source>
+        <source>%1's %2 went up!</source>
         <translation>%1-й %2 поднялся!</translation>
     </message>
     <message>
-        <source>%1&apos;s %2 went down!</source>
+        <source>%1's %2 went down!</source>
         <translation>%1-й %2 упал!</translation>
     </message>
     <message>
-        <source>%1&apos;s %2 returned to normal!</source>
-        <translation>%1&apos;s %2 вернулся к норме!</translation>
+        <source>%1's %2 returned to normal!</source>
+        <translation>%1's %2 вернулся к норме!</translation>
     </message>
     <message>
         <source>There was no effect on %1!</source>
@@ -14081,7 +14083,7 @@ HP reaches 0.</source>
         <translation>Золото</translation>
     </message>
     <message>
-        <source>Based on the party&apos;s money.</source>
+        <source>Based on the party's money.</source>
         <translation>На основании денег стороны.</translation>
     </message>
     <message>
