@@ -324,7 +324,7 @@
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation>Изображение для отображения на экране карты.</translation>
+        <translation>Изображение персонажа на карте.</translation>
     </message>
     <message>
         <source>[SV] Battler</source>
@@ -333,7 +333,7 @@
     </message>
     <message>
         <source>Image to be displayed in battle when in side-view mode.</source>
-        <translation>Изображение для отображения в битве в режиме просмотра сбоку.</translation>
+        <translation>Изображение для боевой системы с видом сбоку.</translation>
     </message>
     <message>
         <source>Player</source>
@@ -373,7 +373,7 @@
     </message>
     <message>
         <source>EXP</source>
-        <translation>EXP</translation>
+        <translation>Опыт</translation>
     </message>
     <message>
         <source>Max HP</source>
@@ -394,17 +394,17 @@
     <message>
         <source>M.Attack</source>
         <translatorcomment>英語の「Magic」が省略になっており、「.」がついておりますので、それに倣っております。</translatorcomment>
-        <translation>Атака М.</translation>
+        <translation>Маг. атака</translation>
     </message>
     <message>
         <source>M.Defense</source>
         <translatorcomment>英語の「Magic」が省略になっており、「.」がついておりますので、それに倣っております。</translatorcomment>
-        <translation>Защита М.</translation>
+        <translation>Маг. защита</translation>
     </message>
     <message>
         <source>Agility</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Маневрен.</translation>
+        <translation>Ловкость</translation>
     </message>
     <message>
         <source>Luck</source>
@@ -412,23 +412,23 @@
     </message>
     <message>
         <source>Hit Rate</source>
-        <translation>Скорость ударов</translation>
+        <translation>Шанс попадания</translation>
     </message>
     <message>
         <source>Evasion Rate</source>
-        <translation>Уклонение</translation>
+        <translation>Шанс уклонения</translation>
     </message>
     <message>
         <source>Critical Rate</source>
-        <translation>Критическая скорость</translation>
+        <translation>Шанс критического попадания</translation>
     </message>
     <message>
         <source>Critical Evasion</source>
-        <translation>Критическое уклонение</translation>
+        <translation>Шанс критического уклонения</translation>
     </message>
     <message>
         <source>Magic Evasion</source>
-        <translation>Магическое уклонение</translation>
+        <translation>Шанс магического уклонения</translation>
     </message>
     <message>
         <source>Magic Reflection</source>
@@ -448,11 +448,11 @@
     </message>
     <message>
         <source>TP Regeneration</source>
-        <translation>Восстановление TP</translation>
+        <translation>Регенерация TP</translation>
     </message>
     <message>
         <source>Target Rate</source>
-        <translation>Целевая скорость</translation>
+        <translation>Шанс стать целью</translation>
     </message>
     <message>
         <source>Guard Effect</source>
@@ -460,7 +460,7 @@
     </message>
     <message>
         <source>Recovery Effect</source>
-        <translation>Эффективность восстановления</translation>
+        <translation>Эффект восстановления</translation>
     </message>
     <message>
         <source>Pharmacology</source>
@@ -468,7 +468,7 @@
     </message>
     <message>
         <source>MP Cost Rate</source>
-        <translation>Размер стоимости MP</translation>
+        <translation>Стоимость MP</translation>
     </message>
     <message>
         <source>TP Charge Rate</source>
@@ -476,15 +476,15 @@
     </message>
     <message>
         <source>Physical Damage</source>
-        <translation>Физическое повреждение</translation>
+        <translation>Получение физического урона</translation>
     </message>
     <message>
         <source>Magical Damage</source>
-        <translation>Магическое повреждение</translation>
+        <translation>Получение магического урона</translation>
     </message>
     <message>
         <source>Floor Damage</source>
-        <translation>Повреждение на территории</translation>
+        <translation>Повреждение от поверхности</translation>
     </message>
     <message>
         <source>Experience</source>
@@ -492,35 +492,35 @@
     </message>
     <message>
         <source>Maximum hit point. Represents the maximum amount of damage that the character can withstand.</source>
-        <translation>Точка максимального поражения. Представляет максимальное количество поражения, которое может выдержать персонаж.</translation>
+        <translation>Максимальное здоровье. Определяет, сколько урона может выдержать персонаж.</translation>
     </message>
     <message>
         <source>Maximum magic point. Represents the character's maximum power for using magic skills.</source>
-        <translation>Точка максимальной магии. Представляет максимальную мощность персонажа для использования магических умений.</translation>
+        <translation>Максимальная мана. Определяет, как много заклинаний может использовать персонаж.</translation>
     </message>
     <message>
         <source>Attack power. Affects things like the amount of damage done to opponents.</source>
-        <translation>Сила атаки. Влияет на такие вещи, как величина повреждения, наносимого противникам.</translation>
+        <translation>Сила атаки. Влияет на величину урона, наносимого противникам.</translation>
     </message>
     <message>
         <source>Defense power. Affects things like the amount of damage taken from opponents.</source>
-        <translation>Сила защиты. Влияет на такие вещи, как величина повреждения, наносимого противниками.</translation>
+        <translation>Сила защиты. Влияет на величину повреждения, наносимого противниками.</translation>
     </message>
     <message>
         <source>Magic attack power. Affects things like the power of the magic the character uses.</source>
-        <translation>Сила магической атаки. Влияет на такие вещи, как сила магии, используемой персонажем.</translation>
+        <translation>Сила магической атаки. Влияет на силу магии, используемой персонажем.</translation>
     </message>
     <message>
         <source>Magic defense power. Affects things like the power of magic attacks from opponents.</source>
-        <translation>Сила магической защиты. Влияет на такие вещи, как сила магических атак, выполняемых противниками.</translation>
+        <translation>Сила магической защиты. Влияет на силу магических атак, выполняемых противниками.</translation>
     </message>
     <message>
         <source>Agility. Affects things like attack order.</source>
-        <translation>Маневренность. Влияет на порядок атаки.</translation>
+        <translation>Ловкость. Влияет на порядок атаки.</translation>
     </message>
     <message>
         <source>Luck. Affects things like the chance of status ailments occurring.</source>
-        <translation>Удача. Влияет на шансы состояний возникновения заболевания.</translation>
+        <translation>Удача. Влияет на успешное наложение ослаблений и воздействие состояний.</translation>
     </message>
     <message>
         <source>Fight</source>
@@ -540,7 +540,7 @@
     <message>
         <source>Guard</source>
         <comment>command</comment>
-        <translation>Атака</translation>
+        <translation>Защита</translation>
     </message>
     <message>
         <source>Item</source>
@@ -550,7 +550,7 @@
     <message>
         <source>Skill</source>
         <comment>command</comment>
-        <translation>Умение</translation>
+        <translation>Навык</translation>
     </message>
     <message>
         <source>Equip</source>
@@ -596,7 +596,7 @@
         <source>Key Item</source>
         <comment>command</comment>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Ключ. предм.</translation>
+        <translation>Важный предмет</translation>
     </message>
     <message>
         <source>Equip</source>
@@ -606,12 +606,12 @@
     <message>
         <source>Optimize</source>
         <comment>command: best equip</comment>
-        <translation>Оптимизировать</translation>
+        <translation>Лучшее</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>command: remove all</comment>
-        <translation>Очистить</translation>
+        <translation>Снять всё</translation>
     </message>
     <message>
         <source>Buy</source>
@@ -636,7 +636,7 @@
     <message>
         <source>To Title</source>
         <comment>command</comment>
-        <translation>К заголовку</translation>
+        <translation>В титульное меню</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -649,7 +649,7 @@
     </message>
     <message>
         <source>1 Enemy</source>
-        <translation>1 Противник</translation>
+        <translation>Противник</translation>
     </message>
     <message>
         <source>All Enemies</source>
@@ -657,35 +657,35 @@
     </message>
     <message>
         <source>1 Random Enemy</source>
-        <translation>1 Случайный противник</translation>
+        <translation>Случайный противник</translation>
     </message>
     <message>
         <source>2 Random Enemies</source>
-        <translation>2 Случайные противники</translation>
+        <translation>Случайные противники(два)</translation>
     </message>
     <message>
         <source>3 Random Enemies</source>
-        <translation>3 Случайные противники</translation>
+        <translation>Случайные противники(три)</translation>
     </message>
     <message>
         <source>4 Random Enemies</source>
-        <translation>4 Случайные противники</translation>
+        <translation>Случайные противники(четыре)</translation>
     </message>
     <message>
         <source>1 Ally</source>
-        <translation>1 Союзник</translation>
+        <translation>Союзник</translation>
     </message>
     <message>
         <source>All Allies</source>
-        <translation>Все союзники</translation>
+        <translation>Вся партия</translation>
     </message>
     <message>
         <source>1 Ally (Dead)</source>
-        <translation>1 Союзник (мертвый)</translation>
+        <translation>Союзник (мертвый)</translation>
     </message>
     <message>
         <source>All Allies (Dead)</source>
-        <translation>Все союзники (мертвые)</translation>
+        <translation>Вся партия (мертвецы)</translation>
     </message>
     <message>
         <source>The User</source>
@@ -709,12 +709,12 @@
     </message>
     <message>
         <source>Regular Item</source>
-        <translation>Постоянный предмет</translation>
+        <translation>Обычный предмет</translation>
     </message>
     <message>
         <source>Key Item</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Ключ. предм.</translation>
+        <translation>Важный предмет</translation>
     </message>
     <message>
         <source>Hidden Item A</source>
@@ -730,7 +730,7 @@
     </message>
     <message>
         <source>Dual Wield</source>
-        <translation>Двойное обладание</translation>
+        <translation>Два оружия</translation>
     </message>
     <message>
         <source>Auto Battle</source>
@@ -742,7 +742,7 @@
     </message>
     <message>
         <source>Substitute</source>
-        <translation>Заменить</translation>
+        <translation>Охрана</translation>
     </message>
     <message>
         <source>Preserve TP</source>
@@ -758,31 +758,31 @@
     </message>
     <message>
         <source>No Disappear</source>
-        <translation>Нет исчезновения</translation>
+        <translation>Не исчезает</translation>
     </message>
     <message>
         <source>Encounter Half</source>
-        <translation>Неполный встречный бой</translation>
+        <translation>Меньше столкновений в два раза</translation>
     </message>
     <message>
         <source>Encounter None</source>
-        <translation>Нет встречного боя</translation>
+        <translation>Без столкновений</translation>
     </message>
     <message>
         <source>Cancel Surprise</source>
-        <translation>Отменить неожиданное нападение</translation>
+        <translation>Отменить засаду</translation>
     </message>
     <message>
         <source>Raise Preemptive</source>
-        <translation>Мобилизовать упреждение</translation>
+        <translation>Повысить шанс на упреждающий удар</translation>
     </message>
     <message>
         <source>Gold Double</source>
-        <translation>Двойное золото</translation>
+        <translation>Удваивание валюты</translation>
     </message>
     <message>
         <source>Drop Item Double</source>
-        <translation>Бросить двойной предмет</translation>
+        <translation>Увеличить шанс выпадения предметов в два раза</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -790,7 +790,7 @@
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Шаблон</translation>
+        <translation>Образец</translation>
     </message>
     <message>
         <source>X</source>
@@ -806,15 +806,15 @@
     </message>
     <message>
         <source>Rotation</source>
-        <translation>Вращение</translation>
+        <translation>Угол</translation>
     </message>
     <message>
         <source>Mirror</source>
-        <translation>Зеркало</translation>
+        <translation>Отразить</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Непрозрач.</translation>
+        <translation>Непроз-ть</translation>
     </message>
     <message>
         <source>Blend</source>
@@ -843,7 +843,7 @@
     </message>
     <message>
         <source>Whether to draw the cell flipped horizontally.</source>
-        <translation>Нужно ли перетянуть ячейку, повернутую горизонтально.</translation>
+        <translation>Нужно ли отразить ячейку горизонтально.</translation>
     </message>
     <message>
         <source>Opacity level of the cell.</source>
@@ -851,7 +851,7 @@
     </message>
     <message>
         <source>Blend mode used when the cell is drawn.</source>
-        <translation>Смешанный режим, используемый, когда ячейка перетаскивается.</translation>
+        <translation>Режим смешивания, используемый при отрисовке ячейки.</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -907,27 +907,27 @@
     </message>
     <message>
         <source>Choice #1</source>
-        <translation>Выбор № 1</translation>
+        <translation>Выбор №1</translation>
     </message>
     <message>
         <source>Choice #2</source>
-        <translation>Выбор № 2</translation>
+        <translation>Выбор №2</translation>
     </message>
     <message>
         <source>Choice #3</source>
-        <translation>Выбор № 3</translation>
+        <translation>Выбор №3</translation>
     </message>
     <message>
         <source>Choice #4</source>
-        <translation>Выбор № 4</translation>
+        <translation>Выбор №4</translation>
     </message>
     <message>
         <source>Choice #5</source>
-        <translation>Выбор № 5</translation>
+        <translation>Выбор №5</translation>
     </message>
     <message>
         <source>Choice #6</source>
-        <translation>Выбор № 6</translation>
+        <translation>Выбор №6</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -947,11 +947,11 @@
     </message>
     <message>
         <source>Map X</source>
-        <translation>Карта Х</translation>
+        <translation>Х карты</translation>
     </message>
     <message>
         <source>Map Y</source>
-        <translation>Карта Y</translation>
+        <translation>Y карты</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -959,24 +959,24 @@
     </message>
     <message>
         <source>Screen X</source>
-        <translation>Экран X</translation>
+        <translation>X экрана</translation>
     </message>
     <message>
         <source>Screen Y</source>
-        <translation>Экран Y</translation>
+        <translation>Y экрана</translation>
     </message>
     <message>
         <source>Map ID</source>
-        <translation>Идентификатор карты</translation>
+        <translation>Номер карты</translation>
     </message>
     <message>
         <source>Party Members</source>
         <comment>Number of Party Members</comment>
-        <translation>Участники стороны</translation>
+        <translation>Члены партии</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation>Золото</translation>
+        <translation>Валюта</translation>
     </message>
     <message>
         <source>Steps</source>
@@ -992,7 +992,7 @@
     </message>
     <message>
         <source>Save Count</source>
-        <translation>Сохранить счет</translation>
+        <translation>Счет сохранений</translation>
     </message>
     <message>
         <source>Battle Count</source>
@@ -1023,7 +1023,7 @@
     </message>
     <message>
         <source>Exclamation</source>
-        <translation>Восклицательный знак</translation>
+        <translation>Восклицание</translation>
     </message>
     <message>
         <source>Question</source>
@@ -1043,7 +1043,7 @@
     </message>
     <message>
         <source>Sweat</source>
-        <translation>Пот</translation>
+        <translation>Капля</translation>
     </message>
     <message>
         <source>Cobweb</source>
@@ -1055,7 +1055,7 @@
     </message>
     <message>
         <source>Light Bulb</source>
-        <translation>Лампа</translation>
+        <translation>Идея</translation>
     </message>
     <message>
         <source>Zzz</source>
@@ -1063,27 +1063,27 @@
     </message>
     <message>
         <source>User-defined 1</source>
-        <translation>Определено пользователем 1</translation>
+        <translation>Пользовательская 1</translation>
     </message>
     <message>
         <source>User-defined 2</source>
-        <translation>Определено пользователем 2</translation>
+        <translation>Пользовательская 2</translation>
     </message>
     <message>
         <source>User-defined 3</source>
-        <translation>Определено пользователем 3</translation>
+        <translation>Пользовательская 3</translation>
     </message>
     <message>
         <source>User-defined 4</source>
-        <translation>Определено пользователем 4</translation>
+        <translation>Пользовательская 4</translation>
     </message>
     <message>
         <source>User-defined 5</source>
-        <translation>Определено пользователем 5</translation>
+        <translation>Пользовательская 5</translation>
     </message>
     <message>
         <source>Upper Left</source>
-        <translation>Верхний левый</translation>
+        <translation>Верхний левый угол</translation>
     </message>
     <message>
         <source>Center</source>
@@ -1091,31 +1091,31 @@
     </message>
     <message>
         <source>Terrain Tag</source>
-        <translation>Метка территории</translation>
+        <translation>Код местности</translation>
     </message>
     <message>
         <source>Event ID</source>
-        <translation>Идентификатор события</translation>
+        <translation>Номер события</translation>
     </message>
     <message>
         <source>Tile ID (Layer 1)</source>
-        <translation>Идентификатор заголовка (уровень 1)</translation>
+        <translation>Номер тайла (слой 1)</translation>
     </message>
     <message>
         <source>Tile ID (Layer 2)</source>
-        <translation>Идентификатор заголовка (уровень 2)</translation>
+        <translation>Номер тайла (слой 2)</translation>
     </message>
     <message>
         <source>Tile ID (Layer 3)</source>
-        <translation>Идентификатор заголовка (уровень 3)</translation>
+        <translation>Номер тайла (слой 3)</translation>
     </message>
     <message>
         <source>Tile ID (Layer 4)</source>
-        <translation>Идентификатор заголовка (уровень 4)</translation>
+        <translation>Номер тайла (слой 4)</translation>
     </message>
     <message>
         <source>Region ID</source>
-        <translation>Идентификатор области</translation>
+        <translation>Номер региона</translation>
     </message>
     <message>
         <source>=</source>
@@ -1147,11 +1147,11 @@
     </message>
     <message>
         <source>Left</source>
-        <translation>Слева</translation>
+        <translation>Влево</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Справа</translation>
+        <translation>Вправо</translation>
     </message>
     <message>
         <source>Up</source>
@@ -1196,12 +1196,12 @@
     <message>
         <source>Left</source>
         <comment>Button</comment>
-        <translation>Слева</translation>
+        <translation>Влево</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>Button</comment>
-        <translation>Справа</translation>
+        <translation>Вправо</translation>
     </message>
     <message>
         <source>Up</source>
@@ -1226,7 +1226,7 @@
     <message>
         <source>Swing</source>
         <comment>Short-range Weapon</comment>
-        <translation>Поворот</translation>
+        <translation>Взмах</translation>
     </message>
     <message>
         <source>Missile</source>
@@ -1255,7 +1255,7 @@
     </message>
     <message>
         <source>Cane</source>
-        <translation>Палка</translation>
+        <translation>Прут</translation>
     </message>
     <message>
         <source>Bow</source>
@@ -1267,15 +1267,15 @@
     </message>
     <message>
         <source>Gun</source>
-        <translation>Мушкет</translation>
+        <translation>Пушка</translation>
     </message>
     <message>
         <source>Claw</source>
-        <translation>Коготь</translation>
+        <translation>Когти</translation>
     </message>
     <message>
         <source>Glove</source>
-        <translation>Перчатка</translation>
+        <translation>Перчатки</translation>
     </message>
     <message>
         <source>Spear</source>
@@ -1283,11 +1283,11 @@
     </message>
     <message>
         <source>User-defined 6</source>
-        <translation>Определено пользователем 6</translation>
+        <translation>Пользовательская 6</translation>
     </message>
     <message>
         <source> frames</source>
-        <translation>кадры</translation>
+        <translation> кадры(ов)</translation>
     </message>
     <message>
         <source> frame</source>
@@ -1295,7 +1295,7 @@
     </message>
     <message>
         <source> seconds</source>
-        <translation>секунды</translation>
+        <translation> секунд(ы)</translation>
     </message>
     <message>
         <source> second</source>
@@ -1307,7 +1307,7 @@
     </message>
     <message>
         <source>Random</source>
-        <translation>В случайном порядке</translation>
+        <translation>Случайно</translation>
     </message>
     <message>
         <source>Index </source>
@@ -1323,11 +1323,11 @@
     </message>
     <message>
         <source>Club</source>
-        <translation>Палица</translation>
+        <translation>Булава</translation>
     </message>
     <message>
         <source>Combat Chain</source>
-        <translation>Цепь для боя</translation>
+        <translation>Боевая цепь</translation>
     </message>
     <message>
         <source>Futuristic Sword</source>
@@ -1364,7 +1364,7 @@
     <message>
         <source>Multiply</source>
         <comment>Multiply blending</comment>
-        <translation>Умножить</translation>
+        <translation>Умножение</translation>
     </message>
     <message>
         <source>Screen</source>
@@ -1379,7 +1379,7 @@
     <message>
         <source>Dark</source>
         <comment>Theme</comment>
-        <translation>Темный</translation>
+        <translation>Тьма</translation>
     </message>
     <message>
         <source>High Contrast White</source>
@@ -1415,43 +1415,43 @@
     </message>
     <message>
         <source>Replaced by the value of the nth variable.</source>
-        <translation>Заменено на значение энной переменной.</translation>
+        <translation>Заменяется на значение переменной под номером n.</translation>
     </message>
     <message>
         <source>Replaced by the name of the nth actor.</source>
-        <translation>Заменено на имя энного действ. суб.</translation>
+        <translation>Заменяется на имя персонажа в базе данных под номером n.</translation>
     </message>
     <message>
         <source>Replaced by the name of the nth party member.</source>
-        <translation>Заменено на имя энного стороннего участника.</translation>
+        <translation>Заменяется на имя персонажа в партии под номером n.</translation>
     </message>
     <message>
         <source>Replaced by the currency unit.</source>
-        <translation>Заменено на денежный знак.</translation>
+        <translation>Заменяется названием валюты.</translation>
     </message>
     <message>
         <source>Draw the subsequent text in the nth color.</source>
-        <translation>Отобраз. посл-щий текст в энном цвете.</translation>
+        <translation>Окрашивает последующий текст цветом под номером n.</translation>
     </message>
     <message>
         <source>Draw the nth icon.</source>
-        <translation>Переместить энную пиктограмму.</translation>
+        <translation>Показать иконку под определённым номером.</translation>
     </message>
     <message>
         <source>Increase the text size by one step.</source>
-        <translation>Увеличить размер текста на один шаг.</translation>
+        <translation>Увеличить текст на один размер.</translation>
     </message>
     <message>
         <source>Decrease the text size by one step.</source>
-        <translation>Уменьшить размер текста на один шаг.</translation>
+        <translation>Уменьшить текст на один размер.</translation>
     </message>
     <message>
         <source>Replaced with the backslash character.</source>
-        <translation>Заменено на символ обратной косой черты.</translation>
+        <translation>Заменяется на "\".</translation>
     </message>
     <message>
         <source>Open the gold window.</source>
-        <translation>Открыть золотое окно.</translation>
+        <translation>Показать окно валюты.</translation>
     </message>
     <message>
         <source>Wait 1/4 second.</source>
@@ -1463,19 +1463,19 @@
     </message>
     <message>
         <source>Wait for button input.</source>
-        <translation>Подождать кнопочный ввод.</translation>
+        <translation>Ждать нажатия кнопки.</translation>
     </message>
     <message>
         <source>Display remaining text on same line all at once.</source>
-        <translation>Отобраз. весь оставш. текст на той же линии сразу.</translation>
+        <translation>Мгновенно отображает оставшейся текст на строке.</translation>
     </message>
     <message>
         <source>Cancel the effect that displays text all at once.</source>
-        <translation>Отмен. дейст., кот. отобр. сразу весь текст.</translation>
+        <translation>Отменяет показ сразу всех символов на строке.</translation>
     </message>
     <message>
         <source>Do not wait for input after displaying text.</source>
-        <translation>Не ждать ввода после отображения текста.</translation>
+        <translation>Не ждать нажатия кнопки действия, что бы показать следующее сообщение.</translation>
     </message>
 </context>
 <context>
@@ -1486,7 +1486,7 @@
     </message>
     <message>
         <source>The contents of the selected item are displayed in the right side of the window.&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>Содержание выбранного пункта отображается в правой стороне окна.&lt;br&gt;[F5] Выбирает следующий пункт.&lt;br&gt;[F4] Выбирает предыдущий пункт.</translation>
+        <translation>Содержание выбранного пункта отображается в правой части окна.&lt;br&gt;[F5] Выбирает следующий пункт.&lt;br&gt;[F4] Выбирает предыдущий пункт.</translation>
     </message>
     <message>
         <source>Change Maximum</source>
@@ -1494,7 +1494,7 @@
     </message>
     <message>
         <source>Changes the number of data entries.</source>
-        <translation>Изменяет количество вводов данных.</translation>
+        <translation>Изменяет количество данных.</translation>
     </message>
 </context>
 <context>
@@ -1506,11 +1506,11 @@
     <message>
         <source>Actors</source>
         <translatorcomment>はみだしていた為、省略致しました。</translatorcomment>
-        <translation>Действ. суб.</translation>
+        <translation>Персонажи</translation>
     </message>
     <message>
         <source>Data for player-controlled party members.</source>
-        <translation>Данные для участников стороны, управляемых игроком.</translation>
+        <translation>Данные персонажей-сопратийцев, управляемых игроком.</translation>
     </message>
     <message>
         <source>Classes</source>
@@ -1518,7 +1518,7 @@
     </message>
     <message>
         <source>Data that determines roles of actors within the party.</source>
-        <translation>Данные, которые определяют роли действующих субъектов для стороны.</translation>
+        <translation>Данные ролей персонажей.</translation>
     </message>
     <message>
         <source>Skills</source>
@@ -1526,7 +1526,7 @@
     </message>
     <message>
         <source>Data for actions that produce special effects by consuming MP or TP.</source>
-        <translation>Данные для действий, которые создают особые эффекты посредством использования MP или TP.</translation>
+        <translation>Данные действий, использующих ману(MP) и очки тактики(TP).</translation>
     </message>
     <message>
         <source>Items</source>
@@ -1534,7 +1534,7 @@
     </message>
     <message>
         <source>Data for non-equipment items, such as recovery and event items.</source>
-        <translation>Данные для не относящихся к экипировке предметов, таких как восстановление и предметы события.</translation>
+        <translation>Данные предметов, которые не экипируются на персонажей.</translation>
     </message>
     <message>
         <source>Weapons</source>
@@ -1542,7 +1542,7 @@
     </message>
     <message>
         <source>Data for weapon items that increase attack power mainly.</source>
-        <translation>Данные для пунктов оружия, которые главным образом увеличивают силу атаки.</translation>
+        <translation>Данные оружия.</translation>
     </message>
     <message>
         <source>Armors</source>
@@ -1550,7 +1550,7 @@
     </message>
     <message>
         <source>Data for armor items that increase defense power mainly.</source>
-        <translation>Данные для пунктов брони, которые главным образом увеличивают силу защиты.</translation>
+        <translation>Данные брони.</translation>
     </message>
     <message>
         <source>Enemies</source>
@@ -1558,7 +1558,7 @@
     </message>
     <message>
         <source>Data for enemies fought in battles.</source>
-        <translation>Данные для противников, участвующих в битвах.</translation>
+        <translation>Данные противников, участвующих в битвах.</translation>
     </message>
     <message>
         <source>Troops</source>
@@ -1566,7 +1566,7 @@
     </message>
     <message>
         <source>Data for enemy groups. The unit in which they appear in the game.</source>
-        <translation>Данные для групп врагов. Элемент, в виде которого они появляются в игре.</translation>
+        <translation>Данные отрядов врагов. Именно отряды участвуют в битвах.</translation>
     </message>
     <message>
         <source>States</source>
@@ -1574,7 +1574,7 @@
     </message>
     <message>
         <source>Data influencing character status in various ways.</source>
-        <translation>Данные, влияющие на состояние персонажа различными способами.</translation>
+        <translation>Данные состояний персонажей.</translation>
     </message>
     <message>
         <source>Animations</source>
@@ -1582,25 +1582,25 @@
     </message>
     <message>
         <source>Data used for various visual effects.</source>
-        <translation>Данные, используемые для различных визуальных эффектов.</translation>
+        <translation>Данные различных визуальных эффектов.</translation>
     </message>
     <message>
         <source>Tilesets</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Комплекты сегм.</translation>
+        <translation>Тайлсеты</translation>
     </message>
     <message>
         <source>Data defining the behavior of tilesets for maps.</source>
-        <translation>Данные, определяющие поведение комплектов сегментов для карт.</translation>
+        <translation>Данные тайлсетов.</translation>
     </message>
     <message>
         <source>Common Events</source>
         <translatorcomment>省略のピリオドを追加しております。はみ出していたので、短く致しました。</translatorcomment>
-        <translation>Соб. общ. хар.</translation>
+        <translation>Общие события</translation>
     </message>
     <message>
         <source>Data for commonly used events.</source>
-        <translation>Данные для часто используемых событий.</translation>
+        <translation>Данные общих событий.</translation>
     </message>
     <message>
         <source>System</source>
@@ -1624,7 +1624,7 @@
     </message>
     <message>
         <source>Text data such as command and parameter names.</source>
-        <translation>Текстовые данные, такие как называния команд и параметров.</translation>
+        <translation>Текстовые данные, такие как названия команд и параметров.</translation>
     </message>
     <message>
         <source>Discard changes to the database?</source>
@@ -1647,7 +1647,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation>Файлы, которые  не используются в игре, будут исключены при экспорте.</translation>
+        <translation>Файлы, которые не используются в игре, будут исключены во внедрении.</translation>
     </message>
     <message>
         <source>Zip Compression</source>
@@ -1663,7 +1663,7 @@
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation>Параметры шифрования.</translation>
+        <translation>Настройки шифрования.</translation>
     </message>
     <message>
         <source>Image files</source>
@@ -1671,7 +1671,7 @@
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation>Зашифровать изображения, включённые в этот проект.</translation>
+        <translation>Зашифровать графику.</translation>
     </message>
     <message>
         <source>Audio files</source>
@@ -1679,7 +1679,7 @@
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation>Зашифровать аудио файлы, включённые в этот проект.</translation>
+        <translation>Зашифровать аудио файлы.</translation>
     </message>
     <message>
         <source>Encryption key</source>
@@ -1708,7 +1708,7 @@
     </message>
     <message>
         <source>Closes this window without saving any changes.</source>
-        <translation>Закрывает это окно без сохранения любых изменений.</translation>
+        <translation>Закрывает это окно без сохранения изменений.</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -1744,7 +1744,7 @@
     </message>
     <message>
         <source>Skill and Rating</source>
-        <translation>Навык и оценка</translation>
+        <translation>Навык и приоритет</translation>
     </message>
     <message>
         <source>Basic action settings.</source>
@@ -1752,7 +1752,7 @@
     </message>
     <message>
         <source>Skill</source>
-        <translation>Умение</translation>
+        <translation>Навык</translation>
     </message>
     <message>
         <source>Skill that will be used as the action.</source>
@@ -1760,11 +1760,11 @@
     </message>
     <message>
         <source>Rating</source>
-        <translation>Оценка</translation>
+        <translation>Приоритет</translation>
     </message>
     <message>
         <source>Priority of the action. Of all actions meeting the conditions, the one with the highest rating will be the standard, and the one within 2 rating points of the standard will be used. Actions 1 rating point away will be used 2/3 of the time and those 2 rating points away will be used 1/3 of the time.</source>
-        <translation>Приоритет действия. Из всех действий, отвечающих условиям, действие с наивысшей оценкой будет являться стандартным, а использоваться будет действие в пределах 2 оценочных пунктов стандартного действия. Отсутствие 1 оценочного балла действий будет использоваться 2/3 времени, и отсутствие 2 оценочных баллов будет использоваться 1/3 времени.</translation>
+        <translation>Приоритет действия. Если все действия могут выполниться, стандартным будет действие с наивысшим приоритетом, остальные будут выполнятся с приоритетом меньшим не более чем на два. Если разница будет равна одному, то оно будет вызываться 2/3 из общего времени, если разница 2, то 1/3.</translation>
     </message>
     <message>
         <source>Conditions</source>
@@ -1780,15 +1780,15 @@
     </message>
     <message>
         <source>Possible as long as the specified action can be performed.</source>
-        <translation>Возможно в то время, когда указанное действие может быть выполнено.</translation>
+        <translation>Возможно всегда, пока действие может выполняться.</translation>
     </message>
     <message>
         <source>Turn</source>
-        <translation>Положение</translation>
+        <translation>Ход</translation>
     </message>
     <message>
         <source>Possible when the specified turn has been surpassed. Specifies the turn count with A + B * X. If A = 1 and B = 3, the condition will be met at turn 1, 4, 7, and so on. Turn 0 has no meaning here.</source>
-        <translation>Возможно, когда указанный поворот был преодолен. Определяет счет поворотов посредством A + B * X. Если A = 1 и B = 3, условие будет выполнено на повороте 1, 4, 7 и так далее. Поворот 0 не имеет значения здесь.</translation>
+        <translation>Выполняется после указанного хода. Определяет повторение формулой A + B * X. Если A = 1 и B = 3, условие будет выполнено в ходы 1, 4, 7 и так далее. Ход 0 означает, что событие запускается перед началом боя.</translation>
     </message>
     <message>
         <source>HP</source>
@@ -1812,15 +1812,15 @@
     </message>
     <message>
         <source>Possible when the specified state has been added to this enemy.</source>
-        <translation>Возможно, когда указанное состояние было добавлено для этого противника.</translation>
+        <translation>Возможно, когда указанное состояние было добавлено этому противнику.</translation>
     </message>
     <message>
         <source>Party Level</source>
-        <translation>Уровень стороны</translation>
+        <translation>Уров. партии</translation>
     </message>
     <message>
         <source>Possible when the party members' highest level is greater than or equal to the specified number.</source>
-        <translation>Возможно, когда наивысший уровень сторонних участников больше или равен указанному числу.</translation>
+        <translation>Возможно, когда наивысший уровень в партии больше или равен указанному числу.</translation>
     </message>
     <message>
         <source>or above</source>
@@ -1828,18 +1828,18 @@
     </message>
     <message>
         <source>Switch</source>
-        <translation>Оператор</translation>
+        <translation>Переключатель</translation>
     </message>
     <message>
         <source>Possible when the specified switch is ON.</source>
-        <translation>Возможно, когда указанный оператор ВКЛ.</translation>
+        <translation>Возможно, когда указанный переключатель включён.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AnimationBatch</name>
     <message>
         <source>Batch</source>
-        <translation>Пакет</translation>
+        <translation>Группа</translation>
     </message>
     <message>
         <source>Data</source>
@@ -1847,7 +1847,7 @@
     </message>
     <message>
         <source>Data types to change.</source>
-        <translation>Типы данных для изменения.</translation>
+        <translation>Какие данные изменить.</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -1893,7 +1893,7 @@
     </message>
     <message>
         <source>Distance to shift.</source>
-        <translation>Расстояние для сдвига.</translation>
+        <translation>Определяет дистанцию сдвига.</translation>
     </message>
     <message>
         <source>X</source>
@@ -1901,7 +1901,7 @@
     </message>
     <message>
         <source>Value to be added to X coordinates.</source>
-        <translation>Величина для добавления к координатам Х.</translation>
+        <translation>Величина, которая будет добавлена к координате Х.</translation>
     </message>
     <message>
         <source>Y</source>
@@ -1909,14 +1909,14 @@
     </message>
     <message>
         <source>Value to be added to Y coordinates.</source>
-        <translation>Величина для добавления к координатам Y.</translation>
+        <translation>Величина, которая будет добавлена к координате Y.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AnimationTimings</name>
     <message>
         <source>SE and Flash Timing</source>
-        <translation>Хронометраж SE и вспышки</translation>
+        <translation>Время SE и вспышки</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -1924,7 +1924,7 @@
     </message>
     <message>
         <source>Frame number to associate this data.</source>
-        <translation>Количество кадров для связи с этим данными.</translation>
+        <translation>Номер кадра для выбранного эффекта.</translation>
     </message>
     <message>
         <source>SE</source>
@@ -1932,7 +1932,7 @@
     </message>
     <message>
         <source>Sound effect to play at the specified frame.</source>
-        <translation>Звуковой эффект для воспроизведения в указанном кадре.</translation>
+        <translation>Звуковой эффект для указанного кадра.</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -1940,7 +1940,7 @@
     </message>
     <message>
         <source>Flash effect to play at the specified frame.</source>
-        <translation>Эффект вспышки для воспроизведения в указанном кадре.</translation>
+        <translation>Эффект вспышки в указанном кадре.</translation>
     </message>
     <message>
         <source>None</source>
@@ -1948,7 +1948,7 @@
     </message>
     <message>
         <source>No flash effect.</source>
-        <translation>Нет эффекта вспышки.</translation>
+        <translation>Без эффекта вспышки.</translation>
     </message>
     <message>
         <source>Target</source>
@@ -1956,7 +1956,7 @@
     </message>
     <message>
         <source>Flashes the animation target.</source>
-        <translation>Засвечивает цель анимации.</translation>
+        <translation>Вспышка на цели анимации.</translation>
     </message>
     <message>
         <source>Screen</source>
@@ -1964,7 +1964,7 @@
     </message>
     <message>
         <source>Flashes the entire screen.</source>
-        <translation>Засвечивает весь экран.</translation>
+        <translation>Вспышка на весь экран.</translation>
     </message>
     <message>
         <source>Hide Target</source>
@@ -1976,18 +1976,18 @@
     </message>
     <message>
         <source>Duration</source>
-        <translation>Длительность</translation>
+        <translation>Продолжительность</translation>
     </message>
     <message>
         <source>Duration of the flash in 1/15 seconds.</source>
-        <translation>Длительность вспышки в 1/15 секунды.</translation>
+        <translation>Продолжительность вспышки в 1/15 секунды.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AnimationTween</name>
     <message>
         <source>Tween</source>
-        <translation>Преобразовать</translation>
+        <translation>Переход</translation>
     </message>
     <message>
         <source>Data</source>
@@ -1995,7 +1995,7 @@
     </message>
     <message>
         <source>Data types to tween.</source>
-        <translation>Типы данных для преобразования.</translation>
+        <translation>К каким данным применить переход.</translation>
     </message>
 </context>
 <context>
@@ -2010,7 +2010,7 @@
     </message>
     <message>
         <source>Motion type displaying when an actor attacks with this weapon.</source>
-        <translation>Тип движения, отображающийся, когда действующий субъект атакует этим оружием.</translation>
+        <translation>Тип движения, отображающееся, когда персонаж атакует этим оружием.</translation>
     </message>
     <message>
         <source>Image</source>
@@ -2036,28 +2036,28 @@
     </message>
     <message>
         <source>Turn End</source>
-        <translation>Завершение поворота</translation>
+        <translation>Конец хода</translation>
     </message>
     <message>
         <source>Starts when all of the actions of enemies and actors have finished.</source>
-        <translation>Запускается, когда все действия противников и действующих субъектов завершены.</translation>
+        <translation>Выполняется, когда все противники и персонажи завершат свой ход.</translation>
     </message>
     <message>
         <source>Turn</source>
-        <translation>Положение</translation>
+        <translation>Ход</translation>
     </message>
     <message>
         <source>Starts when the specified turn has been surpassed. Specifies the turn count with A + B * X. If A = 1 and B = 3, the condition will be met at turn 1, 4, 7, and so on. Turn 0 means that the event starts before command entry.</source>
-        <translation>Запускается, когда указанный поворот был преодолен. Определяет счет поворотов посредством A + B * X. Если A = 1 и B = 3, условие будет выполнено на повороте 1, 4, 7 и так далее. Положение 0 означает, что событие запускается перед вводом команды.</translation>
+        <translation>Выполняется после указанного хода. Определяет повторение формулой A + B * X. Если A = 1 и B = 3, условие будет выполнено в ходы 1, 4, 7 и так далее. Ход 0 означает, что событие запускается перед началом боя.</translation>
     </message>
     <message>
         <source>Enemy HP</source>
         <translatorcomment>はみだしていた為、省略致しました。</translatorcomment>
-        <translation>НР противн.</translation>
+        <translation>НР врага</translation>
     </message>
     <message>
         <source>Starts when an enemy's HP is less than or equal to the specified percentage.&lt;br&gt;If you want to start the event just before the enemy dies, add [Immortal] state temporarily on the battle start.</source>
-        <translation>Запускается, когда HP противника менее или равно определенному числу процентов.&lt;br&gt;Если нужно запустить событие прямо перед смертью противника, временно добавьте состояние [Бессмертие] в начале битвы.</translation>
+        <translation>Выполняется, когда здоровье врага менее или равно определенному проценту.&lt;br&gt;Если нужно запустить событие прямо перед смертью противника, временно добавьте состояние [Бессмертие] в начале битвы.</translation>
     </message>
     <message>
         <source>or below</source>
@@ -2066,35 +2066,35 @@
     <message>
         <source>Actor HP</source>
         <translatorcomment>はみだしていた為、省略致しました。</translatorcomment>
-        <translation>НР действ. суб.</translation>
+        <translation>НР персонажа</translation>
     </message>
     <message>
         <source>Starts when an actor's HP is less than or equal to the specified percentage.</source>
-        <translation>Запускается, когда HP действующего субъекта менее или равно определенному числу процентов.</translation>
+        <translation>Выполняется, когда здоровье персонажа менее или равно определенному проценту.</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation>Оператор</translation>
+        <translation>Переключатель</translation>
     </message>
     <message>
         <source>Starts when the specified switch is ON.</source>
-        <translation>Запускается, когда указанный оператор ВКЛ.</translation>
+        <translation>Выполняется, когда указанный переключатель включён.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_BattleTest</name>
     <message>
         <source>Battle Test</source>
-        <translation>Боевое испытание</translation>
+        <translation>Тест битвы</translation>
     </message>
     <message>
         <source>Actor</source>
         <translatorcomment>はみだしていた為、省略致しました。</translatorcomment>
-        <translation>Действ. суб.</translation>
+        <translation>Персонаж</translation>
     </message>
     <message>
         <source>Actor to use in the battle test.</source>
-        <translation>Действующий субъект для использования в боевом испытании.</translation>
+        <translation>Персонаж для проверочного боя.</translation>
     </message>
     <message>
         <source>Level</source>
@@ -2102,15 +2102,15 @@
     </message>
     <message>
         <source>Level of the actor.</source>
-        <translation>Уровень действующего субъекта.</translation>
+        <translation>Уровень персонажа.</translation>
     </message>
     <message>
         <source>Initialize</source>
-        <translation>Инициализировать</translation>
+        <translation>Сбросить</translation>
     </message>
     <message>
         <source>Initializes the actor's level and equipment.</source>
-        <translation>Инициализирует уровень действующего субъекта и экипировку.</translation>
+        <translation>Инициализирует уровень и экипировку активного персонажа.</translation>
     </message>
     <message>
         <source>Equipment</source>
@@ -2118,15 +2118,15 @@
     </message>
     <message>
         <source>Weapon and armor that the actor has equipped in the battle test.</source>
-        <translation>Оружие и броня, которыми экипирован действующий субъект боевого испытания.</translation>
+        <translation>Оружие и броня, которыми экипирован персонаж.</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Состояние</translation>
+        <translation>Характеристики</translation>
     </message>
     <message>
         <source>Displays status computation based on the level and the equipment.</source>
-        <translation>Отображает вычисление состояния, основываясь на уровне и экипировке.</translation>
+        <translation>Отображает характеристики, основываясь на уровне и экипировке.</translation>
     </message>
 </context>
 <context>
@@ -2141,14 +2141,14 @@
     </message>
     <message>
         <source>Number of new data entries. When decreasing the number, any existing entries above that number will be deleted.</source>
-        <translation>Число новых вводов данных. Когда число снижается, любые существующие вводы выше этого числа будут удалены.</translation>
+        <translation>Количество данных. Осторожно, если вы уменьшите количество, то можете потерять имеющиеся данные.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_CharacterGenerator</name>
     <message>
         <source>Character Generator</source>
-        <translation>Редактор персонажа</translation>
+        <translation>Генератор персонажа</translation>
     </message>
     <message>
         <source>Male</source>
@@ -2172,7 +2172,7 @@
     </message>
     <message>
         <source>Walk Character</source>
-        <translation>Анимация Ходьба</translation>
+        <translation>Анимация шага</translation>
     </message>
     <message>
         <source>Battler</source>
@@ -2180,7 +2180,7 @@
     </message>
     <message>
         <source>Damage Character</source>
-        <translation>Анимация Урон</translation>
+        <translation>Анимация урона</translation>
     </message>
     <message>
         <source>Kid</source>
@@ -2202,7 +2202,7 @@
     <name>Dialog_Deployment</name>
     <message>
         <source>Deployment</source>
-        <translation>Внедрение</translation>
+        <translation>Экспорт</translation>
     </message>
     <message>
         <source>Platform</source>
@@ -2210,7 +2210,7 @@
     </message>
     <message>
         <source>Target platform of the distribution package.</source>
-        <translation>Целевая платформа для дистрибутива.</translation>
+        <translation>Целевая платформа для игры.</translation>
     </message>
     <message>
         <source>Windows</source>
@@ -2230,27 +2230,27 @@
     </message>
     <message>
         <source>Output Location</source>
-        <translation>Область выходных данных</translation>
+        <translation>Конечная папка</translation>
     </message>
     <message>
         <source>Location to create the package folder.</source>
-        <translation>Расположение для создания папки дистрибутива.</translation>
+        <translation>Папка, где будет лежать экспортированный проект.</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation>Выбрать</translation>
+        <translation>Путь</translation>
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation>Выбрать расположение.</translation>
+        <translation>Выбрать папку пакета игры.</translation>
     </message>
     <message>
         <source>Choose Directory</source>
-        <translation>Выбрать каталог</translation>
+        <translation>Выберите папку</translation>
     </message>
     <message>
         <source>Location is empty.</source>
-        <translation>Расположение пусто.</translation>
+        <translation>Путь пуст.</translation>
     </message>
     <message>
         <source>Path name is too long.</source>
@@ -2274,11 +2274,11 @@
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Опции</translation>
+        <translation>Дополнительно</translation>
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="vanished">Устанавливает опции внедрения.</translation>
+        <translation>Дополнительные опции экспорта.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -2286,7 +2286,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="vanished">Файлы, которые  не используются в игре, будут исключены во внедрении.</translation>
+        <translation>Файлы, которые  не используются, будут исключены из пакета игры.</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -2294,11 +2294,11 @@
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="vanished">Установить опции шифрования.</translation>
+        <translation>Параметры шифрования.</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="vanished">Графические файлы</translation>
+        <translation>Графика</translation>
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
