@@ -7426,7 +7426,7 @@ Por favor, reduce el tamaño de este proyecto.</translation>
     </message>
     <message>
         <source>Target all enemies in the troop?</source>
-        <translation>Selecciona a todos</translation>
+        <translation>Seleccionar a todos</translation>
     </message>
 </context>
 <context>
@@ -13488,7 +13488,7 @@ cuando los PV lleguen a 0.</translation>
     <name>ObjTroopMemberBox</name>
     <message>
         <source>Entire Troop</source>
-        <translation>Toda el grupo enem.</translation>
+        <translation>Todo el grupo enem.</translation>
     </message>
 </context>
 <context>
