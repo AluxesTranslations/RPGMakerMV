@@ -1630,7 +1630,7 @@
     <name>DeploymentOption</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opciones</translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <source>Set the deployment options.</source>
@@ -1642,7 +1642,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="unfinished">Los archivos no utilizados en el juego se excluirán del despliegue.</translation>
+        <translation>Los archivos no utilizados en el juego se excluirán del despliegue.</translation>
     </message>
     <message>
         <source>Zip Compression</source>
@@ -1654,7 +1654,7 @@
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Encriptación</translation>
+        <translation>Encriptación</translation>
     </message>
     <message>
         <source>Set the Encryption options.</source>
@@ -1662,7 +1662,7 @@
     </message>
     <message>
         <source>Image files</source>
-        <translation type="unfinished">Archivos de imagen</translation>
+        <translation>Archivos de imagen</translation>
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
@@ -1678,11 +1678,11 @@
     </message>
     <message>
         <source>Encryption key</source>
-        <translation type="unfinished">Código de encriptación</translation>
+        <translation>Código de encriptación</translation>
     </message>
     <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="unfinished">Introduce el código de encriptación.</translation>
+        <translation>Introduce el código de encriptación.</translation>
     </message>
 </context>
 <context>
@@ -4769,7 +4769,7 @@
     </message>
     <message>
         <source>Creating a distribution package...</source>
-        <translation type="unfinished">Creando un paquete de distribución...</translation>
+        <translation>Creando un paquete de distribución...</translation>
     </message>
     <message>
         <source>File compression</source>
@@ -4798,7 +4798,7 @@ Por favor, reduce el tamaño de este proyecto.</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
-        <translation type="unfinished">Creando un paquete de distribución...</translation>
+        <translation>Creando un paquete de distribución...</translation>
     </message>
     <message>
         <source>File compression</source>
@@ -10963,7 +10963,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Movement commands to be run. Press a button on the right to add a new command.</source>
-        <translation>Comandos de movimiento a ejecutar. Pulse un botón a la derecha para añadir un nuevo comando.</translation>
+        <translation>Comandos de movimiento a ejecutar. Pulsa un botón de la derecha para añadir un nuevo comando.</translation>
     </message>
     <message>
         <source>Options</source>
@@ -10975,11 +10975,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Repeat Movements</source>
-        <translation>Repetir movimientos</translation>
+        <translation>Repetición cíclica</translation>
     </message>
     <message>
         <source>After running all the commands, returns to the top of the list.</source>
-        <translation>Después de ejecutar todos los comandos, regresa a la parte superior de la lista.</translation>
+        <translation>Después de ejecutar todos los comandos, los repite desde el principio de la lista.</translation>
     </message>
     <message>
         <source>Skip If Cannot Move</source>
@@ -10987,11 +10987,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Skips any command that would move a character into an impassable location.</source>
-        <translation>Omite un comando que movería a un personaje a una ubicación intransitable.</translation>
+        <translation>Omite cualquier comando que movería a un personaje a una ubicación intransitable.</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation>Esperar hasta fin</translation>
+        <translation>Esperar hasta finalizar</translation>
     </message>
     <message>
         <source>Waits for the movements to finish.</source>
@@ -11006,15 +11006,15 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <name>Layout_ParallaxBack</name>
     <message>
         <source>Image</source>
-        <translation>Imagen</translation>
+        <translation>Gráfico</translation>
     </message>
     <message>
         <source>Image of the parallax background.</source>
-        <translation>Imagen de fondo del paralaje.</translation>
+        <translation>Gráfico del fondo de mapa.</translation>
     </message>
     <message>
         <source>Loops the parallax background horizontally.</source>
-        <translation>Cicla el fondo de paralaje horizontalmente.</translation>
+        <translation>Crea un bucle horizontal para el fondo de mapa.</translation>
     </message>
     <message>
         <source>Scroll</source>
@@ -11026,7 +11026,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Loops the parallax background vertically.</source>
-        <translation>Cicla el fondo de paralaje verticalmente.</translation>
+        <translation>Crea un bucle vertical para el fondo de mapa.</translation>
     </message>
     <message>
         <source>Automatically performs vertical scrolling at the specified speed.</source>
@@ -11038,7 +11038,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>(Target Name)</source>
         <translatorcomment>まだ長い場合は、ターゲットの意味の(Objetivo)のみとして頂くか、ネームの省略形の(Nom. objetivo)に変更して頂けますと幸いです。</translatorcomment>
-        <translation>(Nombre objetivo)</translation>
+        <translation>(Nom. de objetivo)</translation>
     </message>
 </context>
 <context>
@@ -11080,7 +11080,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation>Aproximadamente %1</translation>
+        <translation>Acerca de %1</translation>
     </message>
 </context>
 <context>
@@ -11103,15 +11103,15 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation>Escala</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Herramientas</translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Partida</translation>
+        <translation>Juego</translation>
     </message>
     <message>
         <source>Help</source>
@@ -11119,11 +11119,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Quick Event Creation</source>
-        <translation>Creación rápida de evento</translation>
+        <translation>Crear eventos predefinidos</translation>
     </message>
     <message>
         <source>Transfer</source>
-        <translation>Transferir</translation>
+        <translation>Transportar</translation>
     </message>
     <message>
         <source>Door</source>
@@ -11135,7 +11135,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Inn</source>
-        <translation>Pensión</translation>
+        <translation>Posada</translation>
     </message>
     <message>
         <source>Set Starting Position</source>
@@ -11205,15 +11205,15 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Adds a sample map as a new map.</source>
-        <translation>Añade un mapa de muestra como nuevo mapa.</translation>
+        <translation>Carga un mapa de muestra y lo añade como nuevo mapa.</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation>Desplazamiento</translation>
+        <translation>Desplazar mapa</translation>
     </message>
     <message>
         <source>Shifts the current map contents.</source>
-        <translation>Desplaza los contenidos del mapa actual.</translation>
+        <translation>Desplaza de sitio los contenidos de mapa actual.</translation>
     </message>
     <message>
         <source>Save as Image</source>
@@ -11221,7 +11221,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Saves the current map as a image file.</source>
-        <translation>Guarda el mapa actual como un archivo de imagen.</translation>
+        <translation>Guarda una captura de imagen del mapa actual.</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -11303,7 +11303,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Draws tiles freehand.</source>
-        <translation>Dibuja casillas a mano alzada.</translation>
+        <translation>Dibuja tiles a mano alzada.</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -11323,11 +11323,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Flood Fill</source>
-        <translation>Relleno de inundación</translation>
+        <translation>Rellenar</translation>
     </message>
     <message>
         <source>Fills the enclosed area.</source>
-        <translation>Rellena el área cerrada.</translation>
+        <translation>Rellena un área cerrada.</translation>
     </message>
     <message>
         <source>Shadow Pen</source>
@@ -11343,7 +11343,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Zooms in the map view.</source>
-        <translation>Acerca el zoom sobre la vista del mapa.</translation>
+        <translation>Acerca el zoom de la vista del mapa.</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -11351,7 +11351,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Zooms out the map view.</source>
-        <translation>Aleja el zoom sobre la vista del mapa.</translation>
+        <translation>Aleja el zoom de la vista del mapa.</translation>
     </message>
     <message>
         <source>Actual Size</source>
@@ -11359,7 +11359,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Displays the map at a scale of 1:1.</source>
-        <translation>Muestra el mapa con una escala de 1:1.</translation>
+        <translation>Muestra el mapa en una escala de 1:1.</translation>
     </message>
     <message>
         <source>Database</source>
@@ -11371,11 +11371,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Plugin Manager</source>
-        <translation>Gestor de complementos</translation>
+        <translation>Gestor de plugins</translation>
     </message>
     <message>
         <source>Opens the plugin manager window.</source>
-        <translation>Abre la ventana del gestor de complementos.</translation>
+        <translation>Abre la ventana del gestor de plugins.</translation>
     </message>
     <message>
         <source>Sound Test</source>
@@ -11399,7 +11399,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Starts a playtest of the current game.</source>
-        <translation>Inicia una prueba de juego de la partida actual.</translation>
+        <translation>Inicia una prueba del juego partida actual.</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -11407,7 +11407,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Opens folder for the current game.</source>
-        <translation>Abre la carpeta de la partida actual.</translation>
+        <translation>Abre la carpeta del juego actual.</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -11427,7 +11427,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Exit %1</source>
-        <translation>Salir %1</translation>
+        <translation>Salir de %1</translation>
     </message>
     <message>
         <source>Exits the application.</source>
@@ -11467,23 +11467,23 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Steam Management</source>
-        <translation>Administrar Steam</translation>
+        <translation>Administración de STEAM</translation>
     </message>
     <message>
         <source>Manage Your Steam Cloud.</source>
-        <translation>Administrar tu Steam Cloud.</translation>
+        <translation>Administra tu STEAM Cloud.</translation>
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir juego (NICONICO)</translation>
     </message>
     <message>
         <source>Upload the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sube el juego.</translation>
     </message>
     <message>
         <source>Game Share(OPEN GAME CREATORS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir juego (OPEN GAME CREATORS)</translation>
     </message>
 </context>
 <context>
@@ -11508,7 +11508,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <name>MenuItem_IconSetViewer</name>
     <message>
         <source>IconSet Viewer</source>
-        <translation>Visor Iconset</translation>
+        <translation>Ver la lista de Iconos</translation>
     </message>
     <message>
         <source>Icon Index</source>
@@ -11516,14 +11516,14 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Index number of the selected icon.</source>
-        <translation>Número de índice del icono seleccionado.</translation>
+        <translation>Número de la ID del icono seleccionado.</translation>
     </message>
 </context>
 <context>
     <name>MenuItem_PluginHelpEverywhere</name>
     <message>
         <source>Plugin Help</source>
-        <translation>Ayuda de complementos</translation>
+        <translation>Ayuda de plugins</translation>
     </message>
 </context>
 <context>
@@ -11554,22 +11554,22 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Yes</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Sí</translation>
+        <translation>Sí</translation>
     </message>
     <message>
         <source>No</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">No</translation>
+        <translation>No</translation>
     </message>
     <message>
         <source>OK</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Aceptar</translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -11614,7 +11614,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Switch to be turned ON.</source>
-        <translation>Interruptor que debe encenderse.</translation>
+        <translation>Interruptor que va a activarse.</translation>
     </message>
 </context>
 <context>
@@ -11625,18 +11625,18 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Switch to be turned OFF.</source>
-        <translation>Interruptor que debe apagarse.</translation>
+        <translation>Interruptor que va a desactivarse.</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand41</name>
     <message>
         <source>Image</source>
-        <translation>Imagen</translation>
+        <translation>Gráfico</translation>
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation>Imagen a visualizar en la pantalla de mapa.</translation>
+        <translation>Gráfico a visualizar en la pantalla de mapa.</translation>
     </message>
 </context>
 <context>
@@ -11654,11 +11654,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <name>MovementCommand43</name>
     <message>
         <source>Blend Mode</source>
-        <translation>Modo de fusión</translation>
+        <translation>Modo de mezcla</translation>
     </message>
     <message>
         <source>Blend mode used when the character is drawn.</source>
-        <translation>Modo de fusión usado al dibujar el personaje.</translation>
+        <translation>Modo de mezcla usado al dibujar el personaje.</translation>
     </message>
 </context>
 <context>
@@ -11735,11 +11735,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>1 Step Forward</source>
-        <translation>1 paso hacia delante</translation>
+        <translation>Un paso hacia delante</translation>
     </message>
     <message>
         <source>1 Step Backward</source>
-        <translation>1 paso hacia atrás</translation>
+        <translation>Un paso hacia atrás</translation>
     </message>
     <message>
         <source>Jump</source>
@@ -11792,15 +11792,15 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Turn away from Player</source>
-        <translation>Girar dir. opuesta al jugador</translation>
+        <translation>Girar opuesto al jugador</translation>
     </message>
     <message>
         <source>Switch ON</source>
-        <translation>Activado</translation>
+        <translation>Interruptor ON</translation>
     </message>
     <message>
         <source>Switch OFF</source>
-        <translation>Desactivado</translation>
+        <translation>Interruptor OFF</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -11822,52 +11822,52 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Walking Animation ON</source>
-        <translation>Animación a pie activada</translation>
+        <translation>Animación al andar ON</translation>
     </message>
     <message>
         <source>Walking Animation OFF</source>
-        <translation>Animación a pie desactivada</translation>
+        <translation>Animación al andar OFF</translation>
     </message>
     <message>
         <source>Stepping Animation ON</source>
-        <translation>Anim. paso a paso activada</translation>
+        <translation>Personaje animado ON</translation>
     </message>
     <message>
         <source>Stepping Animation OFF</source>
         <translatorcomment>さらに短くする必要がある場合は、A. paso a paso desactiv. として頂けますと幸いです。</translatorcomment>
-        <translation>A. paso a paso desactivada</translation>
+        <translation>Personaje animado OFF</translation>
     </message>
     <message>
         <source>Direction Fix ON</source>
-        <translation>Dirección fija activada</translation>
+        <translation>Dirección fija ON</translation>
     </message>
     <message>
         <source>Direction Fix OFF</source>
-        <translation>Dirección fija desactivada</translation>
+        <translation>Dirección fija OFF</translation>
     </message>
     <message>
         <source>Through ON</source>
-        <translation>A través activado</translation>
+        <translation>Atravesable ON</translation>
     </message>
     <message>
         <source>Through OFF</source>
-        <translation>A través desactivado</translation>
+        <translation>Atravesable OFF</translation>
     </message>
     <message>
         <source>Transparent ON</source>
-        <translation>Transparente activado</translation>
+        <translation>Transparencia ON</translation>
     </message>
     <message>
         <source>Transparent OFF</source>
-        <translation>Transparente desactivado</translation>
+        <translation>Transparencia OFF</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Imagen</translation>
+        <translation>Gráfico</translation>
     </message>
     <message>
         <source>Change Image</source>
-        <translation>Cambiar imagen</translation>
+        <translation>Cambiar gráfico</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -11879,11 +11879,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Blend Mode</source>
-        <translation>Modo de fusión</translation>
+        <translation>Modo de mezcla</translation>
     </message>
     <message>
         <source>Change Blend Mode</source>
-        <translation>Cambiar modo de fusión</translation>
+        <translation>Cambiar modo de mezcla</translation>
     </message>
     <message>
         <source>SE</source>
@@ -11899,43 +11899,43 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Undefined Command</source>
-        <translation>v</translation>
+        <translation>Comando indefinido</translation>
     </message>
     <message>
         <source>Moves to the lower tile.</source>
-        <translation>Se mueve a la casilla inferior.</translation>
+        <translation>Se mueve al tile inferior.</translation>
     </message>
     <message>
         <source>Moves to the left tile.</source>
-        <translation>Se mueve a la casilla izquierda.</translation>
+        <translation>Se mueve al tile izquierdo.</translation>
     </message>
     <message>
         <source>Moves to the right tile.</source>
-        <translation>Se mueve a la casilla derecha.</translation>
+        <translation>Se mueve al tile derecho.</translation>
     </message>
     <message>
         <source>Moves to the upper tile.</source>
-        <translation>Se mueve a la casilla superior.</translation>
+        <translation>Se mueve al tile superior.</translation>
     </message>
     <message>
         <source>Moves to the lower left tile diagonally.</source>
-        <translation>Se mueve diagonalmente a la casilla izquierda inferior.</translation>
+        <translation>Se mueve diagonalmente al tile inferior izquierdo.</translation>
     </message>
     <message>
         <source>Moves to the lower right tile diagonally.</source>
-        <translation>Se mueve diagonalmente a la casilla derecha inferior.</translation>
+        <translation>Se mueve diagonalmente al tile inferior derecho.</translation>
     </message>
     <message>
         <source>Moves to the upper left tile diagonally.</source>
-        <translation>Se mueve diagonalmente a la casilla izquierda superior.</translation>
+        <translation>Se mueve diagonalmente al tile superior izquierdo.</translation>
     </message>
     <message>
         <source>Moves to the upper right tile diagonally.</source>
-        <translation>Se mueve diagonalmente a la casilla derecha superior.</translation>
+        <translation>Se mueve diagonalmente al tile superior derecho.</translation>
     </message>
     <message>
         <source>Moves up, down, left, or right.</source>
-        <translation>Se mueve hacia arriba, hacia abajo, hacia la izquierda o hacia la derecha.</translation>
+        <translation>Se mmoverá hacia arriba, hacia abajo, hacia la izquierda o hacia la derecha.</translation>
     </message>
     <message>
         <source>Moves toward the current location of the player.</source>
@@ -11947,15 +11947,15 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Moves in the current direction.</source>
-        <translation>Se mueve en la dirección actual.</translation>
+        <translation>Se mueve en la dirección en que mire.</translation>
     </message>
     <message>
         <source>Moves in the opposite direction without turning around.</source>
-        <translation>Se mueve en la dirección contraria sin girar.</translation>
+        <translation>Se mueve en la dirección contraria a la que mire sin girarse.</translation>
     </message>
     <message>
         <source>Jumps from the current position.</source>
-        <translation>Salta desde la posición actual.</translation>
+        <translation>Da un salto desde la posición actual.</translation>
     </message>
     <message>
         <source>Waits for a specified amount of time.</source>
@@ -11995,7 +11995,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Faces up, down, left, or right.</source>
-        <translation>Mira hacia arriba, hacia abajo, hacia la izquierda o hacia la derecha.</translation>
+        <translation>Mirará hacia arriba, hacia abajo, hacia la izquierda o hacia la derecha.</translation>
     </message>
     <message>
         <source>Faces toward the current location of the player.</source>
@@ -12015,43 +12015,43 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Changes the speed.</source>
-        <translation>Cambia la velocidad.</translation>
+        <translation>Cambia la velocidad de movimiento.</translation>
     </message>
     <message>
         <source>Changes the frequency. Only applies to autonomous movement.</source>
-        <translation>Cambia la frecuencia. Sólo es válido para el movimiento autónomo.</translation>
+        <translation>Cambia la frecuencia. Sólo es válido para el movimiento automático.</translation>
     </message>
     <message>
         <source>Turns on the walking animation when the character is moving.</source>
-        <translation>Activa la animación a pie cuando el personaje se está moviendo.</translation>
+        <translation>Activa la animación de caminar cuando el personaje se está moviendo.</translation>
     </message>
     <message>
         <source>Turns off the walking animation when the character is moving.</source>
-        <translation>Desactiva la animación a pie cuando el personaje se está moviendo.</translation>
+        <translation>Desactiva la animación de caminar cuando el personaje se está moviendo.</translation>
     </message>
     <message>
         <source>Turns on the stepping animation when the character has stopped.</source>
-        <translation>Activa la animación paso a paso cuando el personaje se ha detenido.</translation>
+        <translation>Activa la animación caminar cuando el personaje no está en movimiento.</translation>
     </message>
     <message>
         <source>Turns off the stepping animation when the character has stopped.</source>
-        <translation>Desactiva la animación paso a paso cuando el personaje se ha detenido.</translation>
+        <translation>Desactiva la animación de caminar cuando el personaje no está en movimiento.</translation>
     </message>
     <message>
         <source>Makes it impossible to change the direction of the character.</source>
-        <translation>Imposibilita el cambio de dirección del personaje.</translation>
+        <translation>Impide cambiar la dirección en la que el personaje está mirando.</translation>
     </message>
     <message>
         <source>Makes it possible to change the direction of the character.</source>
-        <translation>Posibilita el cambio de dirección del personaje.</translation>
+        <translation>Posibilita cambiar la dirección en la que el personaje está mirando.</translation>
     </message>
     <message>
         <source>Makes it possible to move through impassable tiles and characters.</source>
-        <translation>Permite desplazarse por las casillas y personajes intransitables.</translation>
+        <translation>Permite desplazarse por los tiles y personajes intransitables.</translation>
     </message>
     <message>
         <source>Makes it impossible to move through impassable tiles and characters.</source>
-        <translation>No permite desplazarse por las casillas y personajes intransitables.</translation>
+        <translation>No permite desplazarse por los tiles y personajes intransitables.</translation>
     </message>
     <message>
         <source>Makes the character invisible.</source>
@@ -12063,7 +12063,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Changes the image of the character.</source>
-        <translation>Cambia la imagen del personaje.</translation>
+        <translation>Cambia el gráfico del personaje.</translation>
     </message>
     <message>
         <source>Changes the opacity of the character.</source>
@@ -12071,15 +12071,15 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Changes the blend mode of the character.</source>
-        <translation>Cambia el modo de fusión del personaje.</translation>
+        <translation>Cambia el modo de mezcla del personaje.</translation>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>Reproduce el SE especificado.</translation>
+        <translation>Reproduce el efecto de sonido (SE) especificado.</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
-        <translation>Evalúa el texto como JavaScript.</translation>
+        <translation>Evalúa un texto como JavaScript.</translation>
     </message>
 </context>
 <context>
@@ -12091,15 +12091,15 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Frequency of autonomous movement.</source>
-        <translation>Frecuencia de movimiento autónomo.</translation>
+        <translation>Frecuencia de movimiento automático.</translation>
     </message>
     <message>
         <source>1: Lowest</source>
-        <translation>1: Mínimo</translation>
+        <translation>1: Muy baja</translation>
     </message>
     <message>
         <source>2: Lower</source>
-        <translation>2: Menor</translation>
+        <translation>2: Baja</translation>
     </message>
     <message>
         <source>3: Normal</source>
@@ -12107,11 +12107,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>4: Higher</source>
-        <translation>4: Mayor</translation>
+        <translation>4: Alta</translation>
     </message>
     <message>
         <source>5: Highest</source>
-        <translation>5: Máximo</translation>
+        <translation>5: Muy alta</translation>
     </message>
 </context>
 <context>
@@ -12154,127 +12154,127 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <name>NewDataMaker</name>
     <message>
         <source>Hit Physical</source>
-        <translation>Golpe físico</translation>
+        <translation>Golpe - Físico</translation>
     </message>
     <message>
         <source>Hit Effect</source>
-        <translation>Golpe de efecto</translation>
+        <translation>Golpe - Efecto</translation>
     </message>
     <message>
         <source>Hit Fire</source>
-        <translation>Golpe de fuego</translation>
+        <translation>Golpe - Fuego</translation>
     </message>
     <message>
         <source>Hit Ice</source>
-        <translation>Golpe de hielo</translation>
+        <translation>Golpe - Hielo</translation>
     </message>
     <message>
         <source>Hit Thunder</source>
-        <translation>Golpe de trueno</translation>
+        <translation>Golpe - Rayo</translation>
     </message>
     <message>
         <source>Slash Physical</source>
-        <translation>Cuchillada física</translation>
+        <translation>Corte - Físico</translation>
     </message>
     <message>
         <source>Slash Effect</source>
-        <translation>Cuchillada de efecto</translation>
+        <translation>Corte - Efecto</translation>
     </message>
     <message>
         <source>Slash Fire</source>
-        <translation>Cuchillada de fuego</translation>
+        <translation>Corte - Fuego</translation>
     </message>
     <message>
         <source>Slash Ice</source>
-        <translation>Cuchillada de hielo</translation>
+        <translation>Corte - Hielo</translation>
     </message>
     <message>
         <source>Slash Thunder</source>
-        <translation>Cuchillada de trueno</translation>
+        <translation>Corte - Rayo</translation>
     </message>
     <message>
         <source>Pierce Physical</source>
-        <translation>Puñalada física</translation>
+        <translation>Puñalada - Físico</translation>
     </message>
     <message>
         <source>Pierce Effect</source>
-        <translation>Puñalada de efecto</translation>
+        <translation>Puñalada - Efecto</translation>
     </message>
     <message>
         <source>Pierce Fire</source>
-        <translation>Puñalada de fuego</translation>
+        <translation>Puñalada - Fuego</translation>
     </message>
     <message>
         <source>Pierce Ice</source>
-        <translation>Puñalada de hielo</translation>
+        <translation>Puñalada - Hielo</translation>
     </message>
     <message>
         <source>Pierce Thunder</source>
-        <translation>Puñalada de trueno</translation>
+        <translation>Puñalada - Rayo</translation>
     </message>
     <message>
         <source>Claw Physical</source>
-        <translation>Garra física</translation>
+        <translation>Garra - Físico</translation>
     </message>
     <message>
         <source>Claw Effect</source>
-        <translation>Garra de efecto</translation>
+        <translation>Garra - Efecto</translation>
     </message>
     <message>
         <source>Claw Fire</source>
-        <translation>Garra de fuego</translation>
+        <translation>Garra - Fuego</translation>
     </message>
     <message>
         <source>Claw Ice</source>
-        <translation>Garra de hielo</translation>
+        <translation>Garra - Hielo</translation>
     </message>
     <message>
         <source>Claw Thunder</source>
-        <translation>Garra de trueno</translation>
+        <translation>Garra - Rayo</translation>
     </message>
     <message>
         <source>Hit Special 1</source>
-        <translation>Golpe especial 1</translation>
+        <translation>Golpe - Especial I</translation>
     </message>
     <message>
         <source>Hit Special 2</source>
-        <translation>Golpe especial 2</translation>
+        <translation>Golpe - Especial II</translation>
     </message>
     <message>
         <source>Slash Special 1</source>
-        <translation>Cuchillada especial 1</translation>
+        <translation>Corte - Especial I</translation>
     </message>
     <message>
         <source>Slash Special 2</source>
-        <translation>Cuchillada especial 2</translation>
+        <translation>Corte - Especial II</translation>
     </message>
     <message>
         <source>Slash Special 3</source>
-        <translation>Cuchillada especial 3</translation>
+        <translation>Corte - Especial III</translation>
     </message>
     <message>
         <source>Pierce Special 1</source>
-        <translation>Puñalada especial 1</translation>
+        <translation>Puñalada - Especial I</translation>
     </message>
     <message>
         <source>Pierce Special 2</source>
-        <translation>Puñalada especial 2</translation>
+        <translation>Puñalada - Especial II</translation>
     </message>
     <message>
         <source>Claw Special</source>
-        <translation>Garra especial</translation>
+        <translation>Garra - Especial</translation>
     </message>
     <message>
         <source>Arrow Special</source>
-        <translation>Flecha especial</translation>
+        <translation>Flecha - Especial</translation>
     </message>
     <message>
         <source>General Special 1</source>
-        <translation>Especial general 1</translation>
+        <translation>General - Especial I</translation>
     </message>
     <message>
         <source>General Special 2</source>
-        <translation>Especial general 2</translation>
+        <translation>General - Especial II</translation>
     </message>
     <message>
         <source>Breath</source>
@@ -12306,83 +12306,83 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Bodyslam</source>
-        <translation>Lanzamiento de cuerpo</translation>
+        <translation>Embestida</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Flash</translation>
+        <translation>Resplandor</translation>
     </message>
     <message>
         <source>Heal One 1</source>
-        <translation>Sanar uno 1</translation>
+        <translation>Cura - Único I</translation>
     </message>
     <message>
         <source>Heal One 2</source>
-        <translation>Sanar uno 2</translation>
+        <translation>Cura - Único II</translation>
     </message>
     <message>
         <source>Heal All 1</source>
-        <translation>Sanar todo 1</translation>
+        <translation>Cura - Todos I</translation>
     </message>
     <message>
         <source>Heal All 2</source>
-        <translation>Sanar todo 2</translation>
+        <translation>Cura - Todos II</translation>
     </message>
     <message>
         <source>Cure One 1</source>
-        <translation>Curar uno 1</translation>
+        <translation>Sanación - Único I</translation>
     </message>
     <message>
         <source>Cure One 2</source>
-        <translation>Curar uno 2</translation>
+        <translation>Sanación - Único II</translation>
     </message>
     <message>
         <source>Cure All 1</source>
-        <translation>Curar todo 1</translation>
+        <translation>Sanación - Todos I</translation>
     </message>
     <message>
         <source>Cure All 2</source>
-        <translation>Curar todo 2</translation>
+        <translation>Sanación - Todos II</translation>
     </message>
     <message>
         <source>Revive 1</source>
-        <translation>Revivir 1</translation>
+        <translation>Revivir I</translation>
     </message>
     <message>
         <source>Revive 2</source>
-        <translation>Revivir 2</translation>
+        <translation>Revivir II</translation>
     </message>
     <message>
         <source>Powerup 1</source>
-        <translation>Recargar 1</translation>
+        <translation>Aumento I</translation>
     </message>
     <message>
         <source>Powerup 2</source>
-        <translation>Recargar 2</translation>
+        <translation>Aumento II</translation>
     </message>
     <message>
         <source>Powerup 3</source>
-        <translation>Recargar 3</translation>
+        <translation>Aumento III</translation>
     </message>
     <message>
         <source>Powerdown 1</source>
-        <translation>Pérdida de energía 1</translation>
+        <translation>Disminución I</translation>
     </message>
     <message>
         <source>Powerdown 2</source>
-        <translation>Pérdida de energía 2</translation>
+        <translation>Disminución II</translation>
     </message>
     <message>
         <source>Powerdown 3</source>
-        <translation>Pérdida de energía 3</translation>
+        <translation>Disminución III</translation>
     </message>
     <message>
         <source>Bind</source>
-        <translation>Unir</translation>
+        <translation>Enlazar</translation>
     </message>
     <message>
         <source>Absorb</source>
-        <translation>Absorber</translation>
+        <translation>Absorción</translation>
     </message>
     <message>
         <source>Poison</source>
@@ -12394,11 +12394,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation>Silencio</translation>
+        <translation>Mudez</translation>
     </message>
     <message>
         <source>Sleep</source>
-        <translation>Reposo</translation>
+        <translation>Sueño</translation>
     </message>
     <message>
         <source>Confusion</source>
@@ -12414,228 +12414,228 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Fire One 1</source>
-        <translation>Fuego uno 1</translation>
+        <translation>Fuego - Único I</translation>
     </message>
     <message>
         <source>Fire One 2</source>
-        <translation>Fuego uno 2</translation>
+        <translation>Fuego - Único II</translation>
     </message>
     <message>
         <source>Fire All 1</source>
-        <translation>Todo fuego 1</translation>
+        <translation>Fuego - Todos I</translation>
     </message>
     <message>
         <source>Fire All 2</source>
-        <translation>Todo fuego 2</translation>
+        <translation>Fuego - Todos II</translation>
     </message>
     <message>
         <source>Fire All 3</source>
-        <translation>Todo fuego 3</translation>
+        <translation>Fuego - Todos III</translation>
     </message>
     <message>
         <source>Ice One 1</source>
-        <translation>Hielo uno 1</translation>
+        <translation>Hielo - Único I</translation>
     </message>
     <message>
         <source>Ice One 2</source>
-        <translation>Hielo uno 2</translation>
+        <translation>Hielo - Único II</translation>
     </message>
     <message>
         <source>Ice All 1</source>
-        <translation>Todo hielo 1</translation>
+        <translation>Hielo - Todos I</translation>
     </message>
     <message>
         <source>Ice All 2</source>
-        <translation>Todo hielo 2</translation>
+        <translation>Hielo - Todos II</translation>
     </message>
     <message>
         <source>Ice All 3</source>
-        <translation>Todo hielo 3</translation>
+        <translation>Hielo - Todos III</translation>
     </message>
     <message>
         <source>Thunder One 1</source>
-        <translation>Trueno uno 1</translation>
+        <translation>Rayo - Único I</translation>
     </message>
     <message>
         <source>Thunder One 2</source>
-        <translation>Trueno uno 2</translation>
+        <translation>Rayo - Único II</translation>
     </message>
     <message>
         <source>Thunder All 1</source>
-        <translation>Todo trueno 1</translation>
+        <translation>Rayo - Todos I</translation>
     </message>
     <message>
         <source>Thunder All 2</source>
-        <translation>Todo trueno 2</translation>
+        <translation>Rayo - Todos II</translation>
     </message>
     <message>
         <source>Thunder All 3</source>
-        <translation>Todo trueno 3</translation>
+        <translation>Rayo - Todos III</translation>
     </message>
     <message>
         <source>Water One 1</source>
-        <translation>Agua uno 1</translation>
+        <translation>Aqua - Único I</translation>
     </message>
     <message>
         <source>Water One 2</source>
-        <translation>Agua uno 2</translation>
+        <translation>Aqua - Único II</translation>
     </message>
     <message>
         <source>Water All 1</source>
-        <translation>Todo agua 1</translation>
+        <translation>Aqua - Todos I</translation>
     </message>
     <message>
         <source>Water All 2</source>
-        <translation>Todo agua 2</translation>
+        <translation>Aqua - Todos II</translation>
     </message>
     <message>
         <source>Water All 3</source>
-        <translation>Todo agua 3</translation>
+        <translation>Aqua - Todos III</translation>
     </message>
     <message>
         <source>Earth One 1</source>
-        <translation>Tierra uno 1</translation>
+        <translation>Tierra - Único I</translation>
     </message>
     <message>
         <source>Earth One 2</source>
-        <translation>Tierra uno 2</translation>
+        <translation>Tierra - Único II</translation>
     </message>
     <message>
         <source>Earth All 1</source>
-        <translation>Todo tierra 1</translation>
+        <translation>Tierra - Todos I</translation>
     </message>
     <message>
         <source>Earth All 2</source>
-        <translation>Todo tierra 2</translation>
+        <translation>Tierra - Todos II</translation>
     </message>
     <message>
         <source>Earth All 3</source>
-        <translation>Todo tierra 3</translation>
+        <translation>Tierra - Todos III</translation>
     </message>
     <message>
         <source>Wind One 1</source>
-        <translation>Viento uno 1</translation>
+        <translation>Viento - Único I</translation>
     </message>
     <message>
         <source>Wind One 2</source>
-        <translation>Viento uno 2</translation>
+        <translation>Viento - Único II</translation>
     </message>
     <message>
         <source>Wind All 1</source>
-        <translation>Todo viento 1</translation>
+        <translation>Viento - Todos I</translation>
     </message>
     <message>
         <source>Wind All 2</source>
-        <translation>Todo viento 2</translation>
+        <translation>Viento - Todos II</translation>
     </message>
     <message>
         <source>Wind All 3</source>
-        <translation>Todo viento 3</translation>
+        <translation>Viento - Todos III</translation>
     </message>
     <message>
         <source>Light One 1</source>
-        <translation>Luz uno 1</translation>
+        <translation>Sacro - Único I</translation>
     </message>
     <message>
         <source>Light One 2</source>
-        <translation>Luz uno 2</translation>
+        <translation>Sacro - Único II</translation>
     </message>
     <message>
         <source>Light All 1</source>
-        <translation>Todo luz 1</translation>
+        <translation>Sacro - Todos I</translation>
     </message>
     <message>
         <source>Light All 2</source>
-        <translation>Todo luz 2</translation>
+        <translation>Sacro - Todos II</translation>
     </message>
     <message>
         <source>Light All 3</source>
-        <translation>Todo luz 3</translation>
+        <translation>Sacro - Todos III</translation>
     </message>
     <message>
         <source>Darkness One 1</source>
-        <translation>Oscuridad uno 1</translation>
+        <translation>Oscuridad - Único I</translation>
     </message>
     <message>
         <source>Darkness One 2</source>
-        <translation>Oscuridad uno 2</translation>
+        <translation>Oscuridad - Único II</translation>
     </message>
     <message>
         <source>Darkness All 1</source>
-        <translation>Todo oscuridad 1</translation>
+        <translation>Oscuridad - Todos I</translation>
     </message>
     <message>
         <source>Darkness All 2</source>
-        <translation>Todo oscuridad 2</translation>
+        <translation>Oscuridad - Todos II</translation>
     </message>
     <message>
         <source>Darkness All 3</source>
-        <translation>Todo oscuridad 3</translation>
+        <translation>Oscuridad - Todos III</translation>
     </message>
     <message>
         <source>Neutral One 1</source>
-        <translation>Neutro uno 1</translation>
+        <translation>No elemental - Único I</translation>
     </message>
     <message>
         <source>Neutral One 2</source>
-        <translation>Neutro uno 2</translation>
+        <translation>No elemental - Único II</translation>
     </message>
     <message>
         <source>Neutral All 1</source>
-        <translation>Todo neutro 1</translation>
+        <translation>No elemental - Todos I</translation>
     </message>
     <message>
         <source>Neutral All 2</source>
-        <translation>Todo neutro 2</translation>
+        <translation>No elemental - Todos II</translation>
     </message>
     <message>
         <source>Neutral All 3</source>
-        <translation>Todo neutro 3</translation>
+        <translation>No elemental - Todos III</translation>
     </message>
     <message>
         <source>Shoot Normal</source>
-        <translation>Disparo normal</translation>
+        <translation>Disparo - Normal</translation>
     </message>
     <message>
         <source>Shoot Barrage</source>
-        <translation>Disparo en ráfaga</translation>
+        <translation>Disparo - Ráfaga</translation>
     </message>
     <message>
         <source>Shoot All</source>
-        <translation>Disparar todo</translation>
+        <translation>Disparo - Todos</translation>
     </message>
     <message>
         <source>Shoot Special</source>
-        <translation>Disparo especial</translation>
+        <translation>Disparo - Especial</translation>
     </message>
     <message>
         <source>Laser One</source>
-        <translation>Láser uno</translation>
+        <translation>Láser - Único</translation>
     </message>
     <message>
         <source>Laser All</source>
-        <translation>Láser todo</translation>
+        <translation>Láser - Todos</translation>
     </message>
     <message>
         <source>Light Pillar 1</source>
-        <translation>Pilar de luz 1</translation>
+        <translation>Columna de Luz I</translation>
     </message>
     <message>
         <source>Light Pillar 2</source>
-        <translation>Pilar de luz 2</translation>
+        <translation>Columna de Luz II</translation>
     </message>
     <message>
         <source>Ball of Light</source>
-        <translation>Bola de luz</translation>
+        <translation>Esfera de Luz</translation>
     </message>
     <message>
         <source>Glowing Light</source>
-        <translation>Luz resplandeciente</translation>
+        <translation>Luz candente</translation>
     </message>
     <message>
         <source>G</source>
         <comment>currency unit</comment>
-        <translation>G</translation>
+        <translation>O</translation>
     </message>
     <message>
         <source>Level</source>
@@ -12644,34 +12644,34 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Lv</source>
         <comment>Level (abbr.)</comment>
-        <translation>Lv</translation>
+        <translation>Nv.</translation>
     </message>
     <message>
         <source>HP</source>
-        <translation>HP</translation>
+        <translation>PV</translation>
     </message>
     <message>
         <source>HP</source>
         <comment>HP (abbr.)</comment>
-        <translation>HP</translation>
+        <translation>PV</translation>
     </message>
     <message>
         <source>MP</source>
-        <translation>MP</translation>
+        <translation>PM</translation>
     </message>
     <message>
         <source>MP</source>
         <comment>MP (abbr.)</comment>
-        <translation>MP</translation>
+        <translation>PM</translation>
     </message>
     <message>
         <source>TP</source>
-        <translation>TP</translation>
+        <translation>PT</translation>
     </message>
     <message>
         <source>TP</source>
         <comment>TP (abbr.)</comment>
-        <translation>TP</translation>
+        <translation>PT</translation>
     </message>
     <message>
         <source>EXP</source>
@@ -12685,12 +12685,12 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Max HP</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>HP máx.</translation>
+        <translation>PV Máx.</translation>
     </message>
     <message>
         <source>Max MP</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>MP máx.</translation>
+        <translation>PM Máx.</translation>
     </message>
     <message>
         <source>Attack</source>
@@ -12703,12 +12703,12 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>M.Attack</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Ataque M.</translation>
+        <translation>Ataque Mág.</translation>
     </message>
     <message>
         <source>M.Defense</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Defensa M.</translation>
+        <translation>Defensa Mág.</translation>
     </message>
     <message>
         <source>Agility</source>
@@ -12730,7 +12730,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Always Dash</source>
-        <translation>Siempre embestida</translation>
+        <translation>Correr siempre</translation>
     </message>
     <message>
         <source>Command Remember</source>
@@ -12738,39 +12738,39 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>BGM Volume</source>
-        <translation>Volumen BGM</translation>
+        <translation>Volumen de música</translation>
     </message>
     <message>
         <source>BGS Volume</source>
-        <translation>Volumen BGS</translation>
+        <translation>Volumen de ambiente</translation>
     </message>
     <message>
         <source>ME Volume</source>
-        <translation>Volumen ME</translation>
+        <translation>Volumen de melodía</translation>
     </message>
     <message>
         <source>SE Volume</source>
-        <translation>Volumen SE</translation>
+        <translation>Volumen de efectos</translation>
     </message>
     <message>
         <source>Possession</source>
-        <translation>Posesión</translation>
+        <translation>Tienes</translation>
     </message>
     <message>
         <source>Current %1</source>
-        <translation>Actual %1</translation>
+        <translation>%1 actual</translation>
     </message>
     <message>
         <source>To Next %1</source>
-        <translation>Al siguiente %1</translation>
+        <translation>Hasta el siguiente %1</translation>
     </message>
     <message>
         <source>Save to which file?</source>
-        <translation>¿Guardar en qué archivo?</translation>
+        <translation>¿En qué archivo quieres guardar?</translation>
     </message>
     <message>
         <source>Load which file?</source>
-        <translation>¿Cargar en qué archivo?</translation>
+        <translation>¿Qué archivo quieres cargar?</translation>
     </message>
     <message>
         <source>File</source>
@@ -12778,15 +12778,15 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>%1's Party</source>
-        <translation>%1 del grupo</translation>
+        <translation>El grupo de %1</translation>
     </message>
     <message>
         <source>%1 emerged!</source>
-        <translation>¡%1 emergido!</translation>
+        <translation>¡%1 ha aparecido!</translation>
     </message>
     <message>
         <source>%1 got the upper hand!</source>
-        <translation>¡%1 obtuvo ventaja!</translation>
+        <translation>¡%1 tiene la iniciativa!</translation>
     </message>
     <message>
         <source>%1 was surprised!</source>
@@ -12794,11 +12794,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>%1 has started to escape!</source>
-        <translation>¡%1 ha comenzado a escapar!</translation>
+        <translation>¡%1 ha comenzado a huir!</translation>
     </message>
     <message>
         <source>However, it was unable to escape!</source>
-        <translation>Sin embargo, ¡fue incapaz de escapar!</translation>
+        <translation>¡Pero es incapaz de conseguirlo!</translation>
     </message>
     <message>
         <source>%1 was victorious!</source>
@@ -12810,23 +12810,23 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>%1 %2 received!</source>
-        <translation>¡%1 %2 recibido!</translation>
+        <translation>¡Recibes %1 %2!</translation>
     </message>
     <message>
         <source>%1\G found!</source>
-        <translation>¡%1\G encontrado!</translation>
+        <translation>¡Obtienes %1\G!</translation>
     </message>
     <message>
         <source>%1 found!</source>
-        <translation>¡%1 encontrado!</translation>
+        <translation>¡Obtienes %1!</translation>
     </message>
     <message>
         <source>%1 is now %2 %3!</source>
-        <translation>¡%1 es ahora %2 %3!</translation>
+        <translation>¡%1 está ahora a %2 %3!</translation>
     </message>
     <message>
         <source>%1 learned!</source>
-        <translation>¡%1 aprendido!</translation>
+        <translation>¡Aprendes %1!</translation>
     </message>
     <message>
         <source>%1 uses %2!</source>
@@ -12835,82 +12835,82 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>An excellent hit!!</source>
         <comment>critical to enemy</comment>
-        <translation>¡Excelente golpe!</translation>
+        <translation>¡Un golpe impresionante!</translation>
     </message>
     <message>
         <source>A painful blow!!</source>
         <comment>critical to actor</comment>
-        <translation>¡Golpe doloroso!</translation>
+        <translation>¡Un golpe doloroso!</translation>
     </message>
     <message>
         <source>%1 took %2 damage!</source>
         <comment>actor</comment>
-        <translation>¡%1 recibió %2 de daños!</translation>
+        <translation>¡%1 ha recibido un daño de %2!</translation>
     </message>
     <message>
         <source>%1 recovered %2 %3!</source>
         <comment>actor</comment>
-        <translation>¡%1 recuperado %2 %3!</translation>
+        <translation>¡%1 recupera %2 %3!</translation>
     </message>
     <message>
         <source>%1 gained %2 %3!</source>
         <comment>actor</comment>
-        <translation>¡%1 obtenido %2 %3!</translation>
+        <translation>¡%1 obtiene %2 %3!</translation>
     </message>
     <message>
         <source>%1 lost %2 %3!</source>
         <comment>actor</comment>
-        <translation>¡%1 perdido %2 %3!</translation>
+        <translation>¡%1 pierde %2 %3!</translation>
     </message>
     <message>
         <source>%1 was drained of %2 %3!</source>
         <comment>actor</comment>
-        <translation>¡%1 drenado de %2 %3!</translation>
+        <translation>¡%1 ha drenado de %2 %3!</translation>
     </message>
     <message>
         <source>%1 took no damage!</source>
         <comment>actor</comment>
-        <translation>¡%1 no recibió daños!</translation>
+        <translation>¡%1 no recibió ningún daño!</translation>
     </message>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>actor</comment>
-        <translation>¡Fallo! ¡%1 no recibió daños!</translation>
+        <translation>¡Fallo! ¡%1 no recibió ningún daño!</translation>
     </message>
     <message>
         <source>%1 took %2 damage!</source>
         <comment>enemy</comment>
-        <translation>¡%1 recibió %2 de daños!</translation>
+        <translation>¡%1 ha recibido daño de %2!</translation>
     </message>
     <message>
         <source>%1 recovered %2 %3!</source>
         <comment>enemy</comment>
-        <translation>¡%1 recuperado %2 %3!</translation>
+        <translation>¡%1 recupera %2 %3!</translation>
     </message>
     <message>
         <source>%1 gained %2 %3!</source>
         <comment>enemy</comment>
-        <translation>¡%1 obtenido %2 %3!</translation>
+        <translation>¡%1 obtiene %2 %3!</translation>
     </message>
     <message>
         <source>%1 lost %2 %3!</source>
         <comment>enemy</comment>
-        <translation>¡%1 perdido %2 %3!</translation>
+        <translation>¡%1 pierde %2 %3!</translation>
     </message>
     <message>
         <source>%1 was drained of %2 %3!</source>
         <comment>enemy</comment>
-        <translation>¡%1 drenado de %2 %3!</translation>
+        <translation>¡%1 ha drenado de %2 %3!</translation>
     </message>
     <message>
         <source>%1 took no damage!</source>
         <comment>enemy</comment>
-        <translation>¡%1 no recibió daños!</translation>
+        <translation>¡%1 no recibió ningún daño!</translation>
     </message>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>enemy</comment>
-        <translation>¡Fallo! ¡%1 no recibió daños!</translation>
+        <translation>¡Fallo! ¡%1 no recibió ningún daño!</translation>
     </message>
     <message>
         <source>%1 evaded the attack!</source>
@@ -12930,15 +12930,15 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>%1 protected %2!</source>
-        <translation>¡%1 protegido %2!</translation>
+        <translation>¡%1 protegió a %2!</translation>
     </message>
     <message>
         <source>%1's %2 went up!</source>
-        <translation>¡%1's %2 subió!</translation>
+        <translation>¡%1 de %2 subió!</translation>
     </message>
     <message>
         <source>%1's %2 went down!</source>
-        <translation>¡%1's %2 bajó!</translation>
+        <translation>¡%1 de %2 bajó!</translation>
     </message>
     <message>
         <source>%1's %2 returned to normal!</source>
@@ -12966,7 +12966,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Thunder</source>
         <comment>element</comment>
-        <translation>Trueno</translation>
+        <translation>Rayo</translation>
     </message>
     <message>
         <source>Water</source>
@@ -12996,7 +12996,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Magic</source>
         <comment>skill type</comment>
-        <translation>Mágico</translation>
+        <translation>Magia</translation>
     </message>
     <message>
         <source>Special</source>
@@ -13037,11 +13037,11 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Head</source>
-        <translation>Cabeza</translation>
+        <translation>Casco</translation>
     </message>
     <message>
         <source>Body</source>
-        <translation>Cuerpo</translation>
+        <translation>Coraza</translation>
     </message>
     <message>
         <source>Accessory</source>
@@ -13095,7 +13095,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Guard</source>
         <comment>skill</comment>
-        <translation>Protección</translation>
+        <translation>Defensa</translation>
     </message>
     <message>
         <source>Dual Attack</source>
@@ -13115,7 +13115,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Escape</source>
         <comment>skill</comment>
-        <translation>Escapada</translation>
+        <translation>Huida</translation>
     </message>
     <message>
         <source>Wait</source>
@@ -13125,7 +13125,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Heal</source>
         <comment>skill</comment>
-        <translation>Sanar</translation>
+        <translation>Curar</translation>
     </message>
     <message>
         <source>Fire</source>
@@ -13135,7 +13135,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Spark</source>
         <comment>skill</comment>
-        <translation>Chispa</translation>
+        <translation>Centella</translation>
     </message>
     <message>
         <source>Potion</source>
@@ -13150,7 +13150,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Dispel Herb</source>
         <comment>item</comment>
-        <translation>Hierba desvanecedora</translation>
+        <translation>Hierba disipadora</translation>
     </message>
     <message>
         <source>Stimulant</source>
@@ -13205,7 +13205,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Slime</source>
         <comment>enemy</comment>
-        <translation>Lodo</translation>
+        <translation>Limo</translation>
     </message>
     <message>
         <source>Orc</source>
@@ -13220,12 +13220,12 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Knockout</source>
         <comment>state</comment>
-        <translation>Knockout</translation>
+        <translation>Muerte</translation>
     </message>
     <message>
         <source>Guard</source>
         <comment>state</comment>
-        <translation>Protección</translation>
+        <translation>Defensa</translation>
     </message>
     <message>
         <source>Immortal</source>
@@ -13245,12 +13245,12 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Silence</source>
         <comment>state</comment>
-        <translation>Silencio</translation>
+        <translation>Mudez</translation>
     </message>
     <message>
         <source>Rage</source>
         <comment>state</comment>
-        <translation>Rabia</translation>
+        <translation>Locura</translation>
     </message>
     <message>
         <source>Confusion</source>
@@ -13260,12 +13260,12 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Fascination</source>
         <comment>state</comment>
-        <translation>Fascinación</translation>
+        <translation>Enamoramiento</translation>
     </message>
     <message>
         <source>Sleep</source>
         <comment>state</comment>
-        <translation>Reposo</translation>
+        <translation>Sueño</translation>
     </message>
     <message>
         <source> has fallen!</source>
@@ -13275,12 +13275,12 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source> is slain!</source>
         <comment>Knockout-enemy</comment>
-        <translation> ¡asesinado!</translation>
+        <translation> ¡es asesinado!</translation>
     </message>
     <message>
         <source> revives!</source>
         <comment>Knockout-remove</comment>
-        <translation> ¡revive!</translation>
+        <translation> ¡vuelve a la vida!</translation>
     </message>
     <message>
         <source> is poisoned!</source>
@@ -13315,77 +13315,77 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source> is silenced!</source>
         <comment>Silence-actor</comment>
-        <translation> ¡está callado!</translation>
+        <translation> ¡está silenciado!</translation>
     </message>
     <message>
         <source> is silenced!</source>
         <comment>Silence-enemy</comment>
-        <translation> ¡está callado!</translation>
+        <translation> ¡está silenciado!</translation>
     </message>
     <message>
         <source> is no longer silenced!</source>
         <comment>Silence-remove</comment>
-        <translation> ¡ya no está callado!</translation>
+        <translation> ¡ya no está silenciado!</translation>
     </message>
     <message>
         <source> is enraged!</source>
         <comment>Rage-actor</comment>
-        <translation> ¡está furioso!</translation>
+        <translation> ¡está en locura!</translation>
     </message>
     <message>
         <source> is enraged!</source>
         <comment>Rage-enemy</comment>
-        <translation> ¡está furioso!</translation>
+        <translation> ¡está en locura!</translation>
     </message>
     <message>
         <source> is no longer enraged!</source>
         <comment>Rage-remove</comment>
-        <translation> ¡ya no está furioso!</translation>
+        <translation> ¡ya no está en locura!</translation>
     </message>
     <message>
         <source> is confused!</source>
         <comment>Confusion-actor</comment>
-        <translation> ¡está confuso!</translation>
+        <translation> ¡está confundido!</translation>
     </message>
     <message>
         <source> is confused!</source>
         <comment>Confusion-enemy</comment>
-        <translation> ¡está confuso!</translation>
+        <translation> ¡está confundido!</translation>
     </message>
     <message>
         <source> is no longer confused!</source>
         <comment>Confusion-remove</comment>
-        <translation> ¡ya no está confuso!</translation>
+        <translation> ¡ya no está confundido!</translation>
     </message>
     <message>
         <source> is fascinated!</source>
         <comment>Fascination-actor</comment>
-        <translation> ¡está fascinado!</translation>
+        <translation> ¡está enamorado!</translation>
     </message>
     <message>
         <source> is fascinated!</source>
         <comment>Fascination-enemy</comment>
-        <translation> ¡está fascinado!</translation>
+        <translation> ¡está enamorado!</translation>
     </message>
     <message>
         <source> is no longer fascinated!</source>
         <comment>Fascination-remove</comment>
-        <translation> ¡ya no está fascinado!</translation>
+        <translation> ¡ya no está enamorado!</translation>
     </message>
     <message>
         <source> falls asleep!</source>
         <comment>Sleep-actor</comment>
-        <translation> ¡se está durmiendo!</translation>
+        <translation> ¡está dormido!</translation>
     </message>
     <message>
         <source> falls asleep!</source>
         <comment>Sleep-enemy</comment>
-        <translation> ¡se está durmiendo!</translation>
+        <translation> ¡está dormido!</translation>
     </message>
     <message>
         <source> is sleeping.</source>
         <comment>Sleep-persist</comment>
-        <translation> está durmiendo.</translation>
+        <translation> sigue dormido.</translation>
     </message>
     <message>
         <source> wakes up!</source>
@@ -13395,17 +13395,20 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Skill #1 will be used when you select
 the Attack command.</source>
-        <translation>La habilidad #1 será utilizada al seleccionar el comando Atacar.</translation>
+        <translation>La habilidad #1 se utilizará
+al seleccionar el comando Atacar.</translation>
     </message>
     <message>
         <source>Skill #2 will be used when you select
 the Guard command.</source>
-        <translation>La habilidad #2 será utilizada al seleccionar el comando Protección.</translation>
+        <translation>La habilidad #2 se utilizará
+al seleccionar el comando Defensa.</translation>
     </message>
     <message>
         <source>State #1 will be automatically added when
 HP reaches 0.</source>
-        <translation>El estado #1 será automáticamente añadido cuando HP sea 0.</translation>
+        <translation>El estado #1 se añadirá automáticamente
+cuando los PV lleguen a 0.</translation>
     </message>
     <message>
         <source> attacks!</source>
@@ -13415,7 +13418,7 @@ HP reaches 0.</source>
     <message>
         <source> guards.</source>
         <comment>skill message</comment>
-        <translation> protege.</translation>
+        <translation> se protege.</translation>
     </message>
     <message>
         <source> flees.</source>
@@ -13435,7 +13438,7 @@ HP reaches 0.</source>
     <message>
         <source>Overworld</source>
         <comment>tileset</comment>
-        <translation>Supramundo</translation>
+        <translation>Mapa del mundo</translation>
     </message>
     <message>
         <source>Outside</source>
@@ -13455,23 +13458,23 @@ HP reaches 0.</source>
     <message>
         <source>SF Outside</source>
         <comment>tileset (cyberpunk)</comment>
-        <translation>CF Exterior</translation>
+        <translation>Exterior - CF</translation>
     </message>
     <message>
         <source>SF Inside</source>
         <comment>tileset (cyberpunk)</comment>
-        <translation>CF Interior</translation>
+        <translation>Interior - CF</translation>
     </message>
 </context>
 <context>
     <name>ObjIconImageBox</name>
     <message>
         <source>Icon Index</source>
-        <translation>índice de iconos</translation>
+        <translation>Índice de iconos</translation>
     </message>
     <message>
         <source>Index number of the selected icon.</source>
-        <translation>Número de índice del icono seleccionado.</translation>
+        <translation>Número de la ID del icono seleccionado.</translation>
     </message>
 </context>
 <context>
@@ -13485,7 +13488,7 @@ HP reaches 0.</source>
     <name>ObjTroopMemberBox</name>
     <message>
         <source>Entire Troop</source>
-        <translation>Toda la tropa</translation>
+        <translation>Toda el grupo enem.</translation>
     </message>
 </context>
 <context>
@@ -13519,7 +13522,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Save changes to the game?</source>
-        <translation>¿Guardar cambios en la partida?</translation>
+        <translation>¿Guardas los cambios en el juego?</translation>
     </message>
     <message>
         <source>The output folder already exists. Overwrite?</source>
@@ -13527,15 +13530,15 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Failed to write database.</source>
-        <translation>Fallos al escribir en base de datos.</translation>
+        <translation>Fallo al escribir en base de datos.</translation>
     </message>
     <message>
         <source>Unable to read file %1.</source>
-        <translation>Incapaz de leer archivo %1.</translation>
+        <translation>Incapaz de leer el archivo %1.</translation>
     </message>
     <message>
         <source>Unable to write file %1.</source>
-        <translation>Incapaz de escribir archivo %1.</translation>
+        <translation>Incapaz de escribir el archivo %1.</translation>
     </message>
     <message>
         <source>Unexpected file format.</source>
@@ -13597,7 +13600,7 @@ HP reaches 0.</source>
     <name>SteamWindow</name>
     <message>
         <source>Steam Management</source>
-        <translation>Administrar Steam</translation>
+        <translation>Administración de STEAM</translation>
     </message>
     <message>
         <source>Info</source>
@@ -13605,15 +13608,15 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Unable to update Steam Workshop Item, you are banned from the community.</source>
-        <translation>No se puede actualizar el artículo Steam Workshop porque no perteneces a la comunidad.</translation>
+        <translation>Imposible actualizar el artículo de Steam Workshop, no perteneces a la comunidad.</translation>
     </message>
     <message>
         <source>A Timeout occurred when sharing or updating your Workshop Item.</source>
-        <translation>Expiró el tiempo mientras compartías o actualizabas un artículo Workshop.</translation>
+        <translation>Expiró el tiempo mientras compartías o actualizabas tu artículo de la Workshop.</translation>
     </message>
     <message>
         <source>Unabled to create Workshop Item, you are not logged onto steam!</source>
-        <translation>No se pudo crear el artículo Workshop porque no iniciaste sesión en steam!</translation>
+        <translation>¡No se pudo crear el artículo de Workshop porque no iniciaste sesión en steam!</translation>
     </message>
     <message>
         <source>You still need to accept the Steamwork Shop Agreement in order for this Workshop Item to not appear only private.</source>
@@ -13629,7 +13632,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>An unknown error occurred when attempting to update the Workshop Item.</source>
-        <translation>Se produjo un error desconocido durante la actualización del artículo workshop.</translation>
+        <translation>Se produjo un error desconocido durante la actualización del artículo de Workshop.</translation>
     </message>
     <message>
         <source>Subscribed</source>
@@ -13645,11 +13648,11 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Project Name</source>
-        <translation>Nombre proyecto</translation>
+        <translation>Nombre del proyecto</translation>
     </message>
     <message>
         <source>Project Description</source>
-        <translation>Descripción proyecto</translation>
+        <translation>Descripción del proyecto</translation>
     </message>
     <message>
         <source>Graphics:</source>
@@ -13685,7 +13688,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Game/Resource Flavor</source>
-        <translation>Juego/Recurso de matiz</translation>
+        <translation>Juego/Gusto del recurso</translation>
     </message>
     <message>
         <source>Visibility</source>
@@ -13694,11 +13697,12 @@ HP reaches 0.</source>
     <message>
         <source>By submitting this item, 
  you agree to the</source>
-        <translation>Al enviar este artículo das tu consentimiento a</translation>
+        <translation>Al enviar este artículo
+das tu consentimiento al</translation>
     </message>
     <message>
         <source>Steam Workshop Agreement</source>
-        <translation>Acuerdo Steam Workshop</translation>
+        <translation>Acuerdo de Steam Workshop</translation>
     </message>
     <message>
         <source>Share on Workshop</source>
@@ -13706,7 +13710,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>You need to agree to the Steam Workshop User Agreement.</source>
-        <translation>Debes aceptar el Acuerdo Steam Workshop.</translation>
+        <translation>Debes aceptar el Acuerdo de Steam Workshop.</translation>
     </message>
     <message>
         <source>Progress</source>
@@ -13730,7 +13734,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Workshop Item</source>
-        <translation>Elemento Workshop</translation>
+        <translation>Elemento de Workshop</translation>
     </message>
     <message>
         <source>Local</source>
@@ -13758,7 +13762,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Could not find the project file associated with this workshop item.</source>
-        <translation>No se pudo encontrar el archivo de proyecto asociado con este artículo workshop.</translation>
+        <translation>No se pudo encontrar el archivo de proyecto asociado con este artículo de Workshop.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -13774,39 +13778,39 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>You must input a valid Project Name for the Workshop Item.</source>
-        <translation>Debes introducir un nombre de proyecto válido para el artículo Workshop.</translation>
+        <translation>Debes introducir un nombre de proyecto válido para el artículo de Workshop.</translation>
     </message>
     <message>
         <source>You must input a valid Project Description for the Workshop Item.</source>
-        <translation>Debes introducir una descripción de proyecto válida para el artículo Workshop.</translation>
+        <translation>Debes introducir una descripción de proyecto válida para el artículo de Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image for the Workshop Item.</source>
-        <translation>Debes seleccionar una imagen en miniatura válida para el artículo Wokshop.</translation>
+        <translation>Debes seleccionar una imagen en miniatura válida para el artículo de Wokshop.</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image other than the default for the Workshop Item.</source>
-        <translation>Debes seleccionar una imagen en miniatura que no sea la predeterminada para el artículo Workshop.</translation>
+        <translation>Debes seleccionar una imagen en miniatura que no sea la predeterminada para el artículo de Workshop.</translation>
     </message>
     <message>
         <source>The Thumbnail Image must be less than 1mb.</source>
-        <translation>La imagen en miniatura tiene que tener menos de 1mb.</translation>
+        <translation>La imagen en miniatura tiene que tener menos de 1Mb.</translation>
     </message>
     <message>
         <source>You must select a valid Item Type for the Workshop Item.</source>
-        <translation>Tienes que seleccionar un tipo de elemento válido para el artículo Workshop.</translation>
+        <translation>Tienes que seleccionar un tipo de elemento válido para el artículo de Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Genre/Resource Type for the Workshop Item.</source>
-        <translation>Tienes que seleccionar un género/tipo recurso válido para el artículo Workshop.</translation>
+        <translation>Tienes que seleccionar un género/tipo recurso válido para el artículo de Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Genre/Resource Flavor for the Workshop Item.</source>
-        <translation>Tienes que seleccionar un género/tipo de recurso de matiz válido para el artículo Workshop.</translation>
+        <translation>Tienes que seleccionar un género/tipo de gusto del recurso válido para el artículo de Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Visibility Level for the Workshop Item.</source>
-        <translation>Tienes que seleccionar un nivel de visibilidad válido para el artículo Workshop.</translation>
+        <translation>Tienes que seleccionar un nivel de visibilidad válido para el artículo de Workshop.</translation>
     </message>
     <message>
         <source>Steam API Available: Yes</source>
@@ -13814,11 +13818,11 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Storage Available: </source>
-        <translation>Almacenamiento disponible:</translation>
+        <translation>Almacenamiento disponible: </translation>
     </message>
     <message>
         <source>Storage Used: </source>
-        <translation>Almacenamiento usado:</translation>
+        <translation>Almacenamiento usado: </translation>
     </message>
     <message>
         <source>Steam API Available: No</source>
@@ -13834,7 +13838,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Failed to obtain owned Workshop Items data.</source>
-        <translation>No pudieron obtenerse los datos de los artículos Workshop adquiridos.</translation>
+        <translation>No pudieron obtenerse los datos de los artículos de Workshop adquiridos.</translation>
     </message>
     <message>
         <source>Creating</source>
@@ -13877,20 +13881,20 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Compares with the constant value.</source>
-        <translation>Compara con el valor constante.</translation>
+        <translation>Comparada con el valor constante.</translation>
     </message>
     <message>
         <source>Compares with the value of the specified variable.</source>
-        <translation>Compara con el valor de la variable especificada.</translation>
+        <translation>Comparada con el valor de la variable especificada.</translation>
     </message>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。はみ出しにならないよう、真ん中のスペースを削除しております。</translatorcomment>
-        <translation>Interrup.auto.</translation>
+        <translation>Int. local</translation>
     </message>
     <message>
         <source>Based on the state of the specified self switch. Vaild only in the map event.</source>
-        <translation>En base al estado del interruptor automático especificado. Válido solamente en el evento de mapa.</translation>
+        <translation>En base al estado del interruptor local especificado. Válido solamente en el evento de mapa.</translation>
     </message>
     <message>
         <source>Timer</source>
@@ -13939,11 +13943,11 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Class</source>
-        <translation>Clase</translation>
+        <translation>Rol</translation>
     </message>
     <message>
         <source>Based on the class of the specified actor.</source>
-        <translation>En base a la clase del actor especificado.</translation>
+        <translation>En base al rol del actor especificado.</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -13976,7 +13980,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular state.</source>
-        <translation>En base a si el actor especificado posee o no un estado concreto.</translation>
+        <translation>En base a si el actor especificado contrajo o no un estado concreto.</translation>
     </message>
 </context>
 <context>
@@ -13991,7 +13995,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Appeared</source>
-        <translation>Apareció</translation>
+        <translation>En el grupo enem.</translation>
     </message>
     <message>
         <source>Based on whether or not the specified enemy is participating in battle.</source>
@@ -14003,7 +14007,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the specified enemy has a particular state.</source>
-        <translation>En base a si el enemigo especificado posee o no un estado concreto.</translation>
+        <translation>En base a si el enemigo especificado contrajo o no un estado concreto.</translation>
     </message>
     <message>
         <source>Character</source>
@@ -14034,7 +14038,7 @@ HP reaches 0.</source>
     <name>Tab_ConditionalBranch4</name>
     <message>
         <source>Gold</source>
-        <translation>Oro</translation>
+        <translation>Dinero</translation>
     </message>
     <message>
         <source>Based on the party's money.</source>
@@ -14042,11 +14046,11 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Item</source>
-        <translation>Artículo</translation>
+        <translation>Objeto</translation>
     </message>
     <message>
         <source>Based on whether or not the party has a particular item.</source>
-        <translation>En base a si el grupo posee o no un artículo concreto.</translation>
+        <translation>En base a si el grupo posee o no un objeto concreto.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -14089,11 +14093,11 @@ HP reaches 0.</source>
     <name>Tab_DBSystem</name>
     <message>
         <source>Game Title</source>
-        <translation>Título de la partida</translation>
+        <translation>Título del juego</translation>
     </message>
     <message>
         <source>Title of the game.</source>
-        <translation>El título de la partida.</translation>
+        <translation>El título del juego.</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -14105,19 +14109,19 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Vehicle Images</source>
-        <translation>Imágenes de vehículos</translation>
+        <translation>Gráficos de vehículos</translation>
     </message>
     <message>
         <source>Images of the vehicles to be displayed on the map screen.</source>
-        <translation>Las imágenes de los vehículos a visualizar en la pantalla de mapa.</translation>
+        <translation>Los gráficos de los vehículos a visualizar en la pantalla de mapa.</translation>
     </message>
     <message>
         <source>Image of the %1.</source>
-        <translation>Imagen del %1.</translation>
+        <translation>Gráfico del %1.</translation>
     </message>
     <message>
         <source>Window Color</source>
-        <translation>Color ventana</translation>
+        <translation>Color de ventana</translation>
     </message>
     <message>
         <source>Background color of windows used in the game.</source>
@@ -14133,19 +14137,19 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Images</source>
-        <translation>Imágenes</translation>
+        <translation>Gráficos</translation>
     </message>
     <message>
         <source>Background and frame images to be displayed on the title screen.</source>
-        <translation>Imágenes de fotogramas y fondo a visualizar en la pantalla de título.</translation>
+        <translation>Gráficos y fotogramas de fondo a visualizar en la pantalla de título.</translation>
     </message>
     <message>
         <source>Draw Game Title</source>
-        <translation>Dibujar casilla de partida</translation>
+        <translation>Escribir Título del juego</translation>
     </message>
     <message>
         <source>Draws the game title string on the title screen. Uncheck this option if you want to use your own title logo.</source>
-        <translation>Dibuja la cadena de casillas de la partida en la pantalla de título. Elimine la marca de esta opción si desea usar su propio logotipo de título.</translation>
+        <translation>Escribe el Título del juego en la pantalla de título usando la fuente del juego. Elimina la marca de esta opción si deseas usar tu propio logotipo para el título.</translation>
     </message>
 </context>
 <context>
@@ -14156,7 +14160,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Various basic statuses displayed in the game.</source>
-        <translation>Varios estados básicos visualizados durante la partida.</translation>
+        <translation>Varios estados básicos visualizados durante el juego.</translation>
     </message>
     <message>
         <source>Level</source>
@@ -14168,35 +14172,35 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>HP</source>
-        <translation>HP</translation>
+        <translation>P. de Vida</translation>
     </message>
     <message>
         <source>HP (abbr.)</source>
-        <translation>HP</translation>
+        <translation>P. de Vida (abr.)</translation>
     </message>
     <message>
         <source>MP</source>
-        <translation>MP</translation>
+        <translation>P. Mágicos</translation>
     </message>
     <message>
         <source>MP (abbr.)</source>
-        <translation>MP</translation>
+        <translation>P. Mágicos (abr.)</translation>
     </message>
     <message>
         <source>TP</source>
-        <translation>TP</translation>
+        <translation>P. de Técnica</translation>
     </message>
     <message>
         <source>TP (abbr.)</source>
-        <translation>TP</translation>
+        <translation>P. de Técnica (abr.)</translation>
     </message>
     <message>
         <source>EXP</source>
-        <translation>EXP</translation>
+        <translation>Experiencia</translation>
     </message>
     <message>
         <source>EXP (abbr.)</source>
-        <translation>EXP</translation>
+        <translation>Experiencia (abr.)</translation>
     </message>
     <message>
         <source>Parameters</source>
@@ -14204,7 +14208,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Various parameter names displayed in the game.</source>
-        <translation>Varios nombres de parámetros visualizados durante la partida.</translation>
+        <translation>Varios nombres de parámetros visualizados durante el juego.</translation>
     </message>
     <message>
         <source>Commands</source>
@@ -14212,7 +14216,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Command names displayed in the game.</source>
-        <translation>Nombres de los comandos visualizados durante la partida.</translation>
+        <translation>Nombres de los comandos visualizados durante el juego.</translation>
     </message>
 </context>
 <context>
@@ -14223,7 +14227,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Data for representing the special characteristics given to skills and items.</source>
-        <translation>Datos para la representación de las características especiales proporcionadas a habilidades y artículos.</translation>
+        <translation>Datos para la representación de las características especiales proporcionadas a habilidades y objetos.</translation>
     </message>
     <message>
         <source>Name of the element.</source>
@@ -14231,7 +14235,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Changes the number of elements.</source>
-        <translation>Cambia el número de artículos.</translation>
+        <translation>Cambia el número de objetos.</translation>
     </message>
     <message>
         <source>Skill Types</source>
@@ -14243,7 +14247,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Name of the skill type. Displayed as a command in the game.</source>
-        <translation>Nombre del tipo de habilidad. Visualizado como un comando durante la partida.</translation>
+        <translation>Nombre del tipo de habilidad. Visualizado como un comando durante el juego.</translation>
     </message>
     <message>
         <source>Changes the number of skill types.</source>
