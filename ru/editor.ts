@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>Cloak</source>
-        <translation>Покров(Плащ, шарф...)</translation>
+        <translation>Накидка (Плащ, шарф...)</translation>
     </message>
     <message>
         <source>Accessory 1</source>
@@ -239,7 +239,7 @@
     </message>
     <message>
         <source>Hair Clip Color</source>
-        <translation>Цвет зажима для волос</translation>
+        <translation>Цвет заколки</translation>
     </message>
     <message>
         <source>Mesh Color</source>
@@ -315,7 +315,7 @@
     </message>
     <message>
         <source>Image to be displayed on the menu screen.</source>
-        <translation>Изображение на титульном экране.</translation>
+        <translation>Изображение графики лица персонажа в меню.</translation>
     </message>
     <message>
         <source>Character</source>
