@@ -9901,7 +9901,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Use Item</source>
-        <translation>Utilizzare elemento</translation>
+        <translation>Usa oggetto</translation>
     </message>
     <message>
         <source>Critical to Enemy</source>
@@ -9925,11 +9925,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor Loss</source>
-        <translation>Perdita dell'attore</translation>
+        <translation>Sconfitta dell'attore</translation>
     </message>
     <message>
         <source>Actor Drain</source>
-        <translation>Scarico dell'attore</translation>
+        <translation>Risucchio dell'attore</translation>
     </message>
     <message>
         <source>Actor No Damage</source>
@@ -9953,11 +9953,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Enemy Loss</source>
-        <translation>Perdita del nemico</translation>
+        <translation>Sconfitta del nemico</translation>
     </message>
     <message>
         <source>Enemy Drain</source>
-        <translation>Scarico del nemico</translation>
+        <translation>Risucchio del nemico</translation>
     </message>
     <message>
         <source>Enemy No Damage</source>
@@ -9973,7 +9973,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Magic Evasion</source>
-        <translation>Evasione incantesimo</translation>
+        <translation>Evasione magica</translation>
     </message>
     <message>
         <source>Magic Reflection</source>
@@ -10001,7 +10001,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Action Failure</source>
-        <translation>Fallimento azione</translation>
+        <translation>Azione fallita</translation>
     </message>
 </context>
 <context>
@@ -10032,7 +10032,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Game Over</source>
-        <translation>Fine del gioco</translation>
+        <translation>Game Over</translation>
     </message>
 </context>
 <context>
@@ -10052,11 +10052,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Show the battle screen in side-view. If unchecked, the front-view mode will be used.</source>
-        <translation>Mostrare la schermata battaglia a vista laterale. Se non selezionata, verrà utilizzata la modalità vista frontale.</translation>
+        <translation>Mostrare la schermata di battaglia a vista laterale. Se non selezionata, verrà utilizzata la modalità vista frontale.</translation>
     </message>
     <message>
         <source>Start Transparent</source>
-        <translation>Avviare trasparente</translation>
+        <translation>Inizio trasparente</translation>
     </message>
     <message>
         <source>Starts the game with the player's transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
@@ -10136,15 +10136,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvare</translation>
+        <translation>Salvataggio</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Carico</translation>
+        <translation>Caricamento</translation>
     </message>
     <message>
         <source>Battle Start</source>
-        <translation>Avvio battaglia</translation>
+        <translation>Inizio battaglia</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -10164,11 +10164,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Boss Collapse 1</source>
-        <translation>Collasso capo 1</translation>
+        <translation>Collasso Boss 1</translation>
     </message>
     <message>
         <source>Boss Collapse 2</source>
-        <translation>Collasso capo 2</translation>
+        <translation>Collasso Boss 2</translation>
     </message>
     <message>
         <source>Actor Damage</source>
@@ -10184,15 +10184,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Miss</source>
-        <translation>Mancare</translation>
+        <translation>Mancato</translation>
     </message>
     <message>
         <source>Evasion</source>
-        <translation>Evasione</translation>
+        <translation>Schivato</translation>
     </message>
     <message>
         <source>Magic Evasion</source>
-        <translation>Evasione incantesimo</translation>
+        <translation>Evasione magica</translation>
     </message>
     <message>
         <source>Magic Reflection</source>
@@ -10204,11 +10204,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Use Item</source>
-        <translation>Utilizzare elemento</translation>
+        <translation>Usa oggetto</translation>
     </message>
     <message>
         <source>Use Skill</source>
-        <translation>Utilizzare abilità</translation>
+        <translation>Uso abilità</translation>
     </message>
 </context>
 <context>
@@ -10299,7 +10299,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Ground</source>
-        <translation>Terra</translation>
+        <translation>Terreno</translation>
     </message>
     <message>
         <source>Buildings</source>
@@ -10342,7 +10342,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>State Rate</source>
-        <translation>Stabilire il tasso</translation>
+        <translation>Tasso di stato</translation>
     </message>
     <message>
         <source>State Resist</source>
@@ -10355,7 +10355,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Ex-Parameter</source>
-        <translation>Ex-parametro</translation>
+        <translation>Parametro Ex</translation>
     </message>
     <message>
         <source>Sp-Parameter</source>
