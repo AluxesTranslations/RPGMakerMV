@@ -10363,7 +10363,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Attack Element</source>
-        <translation>Elemento attacco</translation>
+        <translation>Elemento d'attacco</translation>
     </message>
     <message>
         <source>Attack State</source>
