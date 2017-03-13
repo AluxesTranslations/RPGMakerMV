@@ -8440,7 +8440,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Fades out the current BGS.</source>
-        <translation>Dissolve il corrente BGS.</translation>
+        <translation>Manda in dissolvenza il BGS corrente.</translation>
     </message>
     <message>
         <source>Plays the specified ME.</source>
@@ -8448,11 +8448,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>Riproduce l'SE specificato.</translation>
+        <translation>Riproduce il SE specificato.</translation>
     </message>
     <message>
         <source>Stop all the SE.</source>
-        <translation>Arresta tutti gli SE.</translation>
+        <translation>Arresta tutti i SE.</translation>
     </message>
     <message>
         <source>Starts a battle.</source>
@@ -8472,15 +8472,15 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Calls up the save screen.</source>
-        <translation>Richiama la schermata di memorizzazione.</translation>
+        <translation>Richiama la schermata di salvataggio.</translation>
     </message>
     <message>
         <source>Forces Game Over.</source>
-        <translation>Forza la fine del gioco.</translation>
+        <translation>Forza il Game Over.</translation>
     </message>
     <message>
         <source>Returns to the title screen.</source>
-        <translation>Torna alla schermata titolo.</translation>
+        <translation>Torna alla schermata del titolo.</translation>
     </message>
     <message>
         <source>Changes the BGM to be played during a battle.</source>
@@ -8532,7 +8532,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes whether to display the map name when changing the current map.</source>
-        <translation>Modifica se visualizzare il nome mappa durante la modifica della mappa corrente.</translation>
+        <translation>Modifica se visualizzare il nome mappa durante il cambio della mappa corrente.</translation>
     </message>
     <message>
         <source>Changes the tileset used by the current map temporarily.</source>
@@ -8552,15 +8552,15 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the HP of the enemy.</source>
-        <translation>Modifica l'HP del nemico.</translation>
+        <translation>Modifica gli HP del nemico.</translation>
     </message>
     <message>
         <source>Changes the MP of the enemy.</source>
-        <translation>Modifica l'MP del nemico.</translation>
+        <translation>Modifica gli MP del nemico.</translation>
     </message>
     <message>
         <source>Changes the TP of the enemy.</source>
-        <translation>Modifica il TP del nemico.</translation>
+        <translation>Modifica i TP del nemico.</translation>
     </message>
     <message>
         <source>Changes the state of the enemy.</source>
@@ -8761,7 +8761,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Play</source>
-        <translation>Riprodurre</translation>
+        <translation>Riproduci</translation>
     </message>
     <message>
         <source>Tests the animation.</source>
@@ -8895,7 +8895,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Span</source>
-        <translation>Spanna</translation>
+        <translation>Intervallo</translation>
     </message>
     <message>
         <source>Interval during which the event contents are allowed to run.&lt;br&gt;[Battle] Run only once in the battle.&lt;br&gt;[Turn] Run only once per turn.&lt;br&gt;[Moment] Repeat while the conditions met.</source>
@@ -8939,7 +8939,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sets the color to use as the transparency background in the editor.</source>
-        <translation>Imposta il colore da usare come sfondo trasparente nell'editor.</translation>
+        <translation>Imposta il colore di sfondo da usare come trasparente nell'editor.</translation>
     </message>
     <message>
         <source>Red</source>
@@ -9110,19 +9110,19 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Recover HP</source>
-        <translation>Recuperare HP</translation>
+        <translation>Recupera HP</translation>
     </message>
     <message>
         <source>Recover MP</source>
-        <translation>Recuperare MP</translation>
+        <translation>Recupera MP</translation>
     </message>
     <message>
         <source>Gain TP</source>
-        <translation>Guadagno TP</translation>
+        <translation>Guadagna TP</translation>
     </message>
     <message>
         <source>Add State</source>
-        <translation>Aggiungere stato</translation>
+        <translation>Aggiungi stato</translation>
     </message>
     <message>
         <source>Normal Attack</source>
@@ -9130,11 +9130,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Remove State</source>
-        <translation>Rimuovere lo stato</translation>
+        <translation>Rimuovi lo stato</translation>
     </message>
     <message>
         <source>Add Buff</source>
-        <translation>Aggiungere buff</translation>
+        <translation>Aggiungi buff</translation>
     </message>
     <message>
         <source>turns</source>
@@ -9142,15 +9142,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Add Debuff</source>
-        <translation>Aggiungere debuff</translation>
+        <translation>Aggiungi debuff</translation>
     </message>
     <message>
         <source>Remove Buff</source>
-        <translation>Rimuovere il buff</translation>
+        <translation>Rimuovi il buff</translation>
     </message>
     <message>
         <source>Remove Debuff</source>
-        <translation>Rimuovere il debuff</translation>
+        <translation>Rimuovi il debuff</translation>
     </message>
     <message>
         <source>Special Effect</source>
@@ -9158,11 +9158,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Grow</source>
-        <translation>Crescere</translation>
+        <translation>Aumenta</translation>
     </message>
     <message>
         <source>Learn Skill</source>
-        <translation>Apprendere abilità</translation>
+        <translation>Apprendi abilità</translation>
     </message>
     <message>
         <source>Common Event</source>
@@ -9237,11 +9237,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Item</source>
-        <translation>Elemento</translation>
+        <translation>Oggetto</translation>
     </message>
     <message>
         <source>Appears when the party has the specified item.</source>
-        <translation>Appare quando il gruppo ha l'elemento specificato.</translation>
+        <translation>Appare quando il gruppo è in possesso dell'oggetto specificato.</translation>
     </message>
     <message>
         <source>Actor</source>
@@ -9402,7 +9402,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>List of the skill types which require a chanting motion in side-view mode.</source>
-        <translation>Elenco dei tipi di abilità che richiedono un movimento musicale nella modalità vista laterale.</translation>
+        <translation>Lista di abilità che richiedono un animazione di tipo cantilena nella visuale laterale.</translation>
     </message>
     <message>
         <source>Skill Type</source>
