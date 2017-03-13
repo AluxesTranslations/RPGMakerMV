@@ -8424,7 +8424,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Fades out the current BGM.</source>
-        <translation>Manda in dissolvenza la BGM corrente.</translation>
+        <translation>Manda in dissolvenza il BGM corrente.</translation>
     </message>
     <message>
         <source>Saves the current BGM.</source>
