@@ -10636,7 +10636,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>G value of the color tone.</source>
-        <translation>Valore V della tonalità del colore.</translation>
+        <translation>Valore G della tonalità del colore.</translation>
     </message>
     <message>
         <source>Blue</source>
