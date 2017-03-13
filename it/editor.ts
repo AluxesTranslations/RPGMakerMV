@@ -10395,7 +10395,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Equip Weapon</source>
-        <translation>Impugnare armi</translation>
+        <translation>Equipaggia arma</translation>
     </message>
     <message>
         <source>Equip Armor</source>
