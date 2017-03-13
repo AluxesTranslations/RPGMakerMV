@@ -10613,7 +10613,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Pan</source>
-        <translation>Panoramica</translation>
+        <translation>Bilanciamento L/R</translation>
     </message>
     <message>
         <source>Pan for audio playback.</source>
