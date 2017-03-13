@@ -9402,7 +9402,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>List of the skill types which require a chanting motion in side-view mode.</source>
-        <translation>Lista di abilità che richiedono un animazione di tipo cantilena nella visuale laterale.</translation>
+        <translation>Lista di abilità che richiedono un animazione di tipo canto nella visuale laterale.</translation>
     </message>
     <message>
         <source>Skill Type</source>
