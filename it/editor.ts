@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>The selected frame is displayed in the right side.&lt;br&gt;[N] Selects the next item.&lt;br&gt;[B] Selects the previous item.</source>
-        <translation>Il fotogramma selezionato viene visualizzato nel lato destro.&lt;br&gt;[N] Consente di selezionare l&apos;elemento successivo.&lt;br&gt;[B] Consente di selezionare l&apos;elemento precedente.</translation>
+        <translation>Il fotogramma selezionato viene visualizzato nel lato destro.&lt;br&gt;[N] Consente di selezionare l'elemento successivo.&lt;br&gt;[B] Consente di selezionare l'elemento precedente.</translation>
     </message>
 </context>
 <context>
@@ -493,8 +493,8 @@
         <translation>Punto massima ferita. Rappresenta la massima quantità di danno che il personaggio può sopportare.</translation>
     </message>
     <message>
-        <source>Maximum magic point. Represents the character&apos;s maximum power for using magic skills.</source>
-        <translation>Punto massimo incantesimo. Rappresenta il massimo potere del personaggio nell&apos;utilizzo di abilità magiche.</translation>
+        <source>Maximum magic point. Represents the character's maximum power for using magic skills.</source>
+        <translation>Punto massimo incantesimo. Rappresenta il massimo potere del personaggio nell'utilizzo di abilità magiche.</translation>
     </message>
     <message>
         <source>Attack power. Affects things like the amount of damage done to opponents.</source>
@@ -514,7 +514,7 @@
     </message>
     <message>
         <source>Agility. Affects things like attack order.</source>
-        <translation>Ha effetto su cose  quali l&apos;ordine di attacco.</translation>
+        <translation>Ha effetto su cose  quali l'ordine di attacco.</translation>
     </message>
     <message>
         <source>Luck. Affects things like the chance of status ailments occurring.</source>
@@ -687,7 +687,7 @@
     </message>
     <message>
         <source>The User</source>
-        <translation>L&apos;utente</translation>
+        <translation>L'utente</translation>
     </message>
     <message>
         <source>Always</source>
@@ -1060,23 +1060,23 @@
     </message>
     <message>
         <source>User-defined 1</source>
-        <translation>Definito dall&apos;utente 1</translation>
+        <translation>Definito dall'utente 1</translation>
     </message>
     <message>
         <source>User-defined 2</source>
-        <translation>Definito dall&apos;utente 2</translation>
+        <translation>Definito dall'utente 2</translation>
     </message>
     <message>
         <source>User-defined 3</source>
-        <translation>Definito dall&apos;utente 3</translation>
+        <translation>Definito dall'utente 3</translation>
     </message>
     <message>
         <source>User-defined 4</source>
-        <translation>Definito dall&apos;utente 4</translation>
+        <translation>Definito dall'utente 4</translation>
     </message>
     <message>
         <source>User-defined 5</source>
-        <translation>Definito dall&apos;utente 5</translation>
+        <translation>Definito dall'utente 5</translation>
     </message>
     <message>
         <source>Upper Left</source>
@@ -1280,7 +1280,7 @@
     </message>
     <message>
         <source>User-defined 6</source>
-        <translation>Definito dall&apos;utente 6</translation>
+        <translation>Definito dall'utente 6</translation>
     </message>
     <message>
         <source> frames</source>
@@ -1424,7 +1424,7 @@
     </message>
     <message>
         <source>Replaced by the currency unit.</source>
-        <translation>Sostituito dall&apos;unità di valuta.</translation>
+        <translation>Sostituito dall'unità di valuta.</translation>
     </message>
     <message>
         <source>Draw the subsequent text in the nth color.</source>
@@ -1432,7 +1432,7 @@
     </message>
     <message>
         <source>Draw the nth icon.</source>
-        <translation>Disegnare l&apos;n-esima icona.</translation>
+        <translation>Disegnare l'n-esima icona.</translation>
     </message>
     <message>
         <source>Increase the text size by one step.</source>
@@ -1448,7 +1448,7 @@
     </message>
     <message>
         <source>Open the gold window.</source>
-        <translation>Aprire la finestra d&apos;oro.</translation>
+        <translation>Aprire la finestra d'oro.</translation>
     </message>
     <message>
         <source>Wait 1/4 second.</source>
@@ -1460,7 +1460,7 @@
     </message>
     <message>
         <source>Wait for button input.</source>
-        <translation>Attendere l&apos;input del pulsante.</translation>
+        <translation>Attendere l'input del pulsante.</translation>
     </message>
     <message>
         <source>Display remaining text on same line all at once.</source>
@@ -1483,7 +1483,7 @@
     </message>
     <message>
         <source>The contents of the selected item are displayed in the right side of the window.&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>I contenuti dell&apos;elemento selezionato vengono visualizzati sul lato destro della finestra.&lt;br&gt;[F5] Seleziona l&apos;elemento successivo.&lt;br&gt;[F4] Seleziona l&apos;elemento precedente.</translation>
+        <translation>I contenuti dell'elemento selezionato vengono visualizzati sul lato destro della finestra.&lt;br&gt;[F5] Seleziona l'elemento successivo.&lt;br&gt;[F4] Seleziona l'elemento precedente.</translation>
     </message>
     <message>
         <source>Change Maximum</source>
@@ -1514,7 +1514,7 @@
     </message>
     <message>
         <source>Data that determines roles of actors within the party.</source>
-        <translation>Dati che determinano i ruoli degli attori all&apos;interno del gruppo.</translation>
+        <translation>Dati che determinano i ruoli degli attori all'interno del gruppo.</translation>
     </message>
     <message>
         <source>Skills</source>
@@ -1530,7 +1530,7 @@
     </message>
     <message>
         <source>Data for non-equipment items, such as recovery and event items.</source>
-        <translation>Dati per elementi diversi dall&apos;equipaggiamento, quali il recupero e elementi relativi a eventi.</translation>
+        <translation>Dati per elementi diversi dall'equipaggiamento, quali il recupero e elementi relativi a eventi.</translation>
     </message>
     <message>
         <source>Weapons</source>
@@ -1562,7 +1562,7 @@
     </message>
     <message>
         <source>Data for enemy groups. The unit in which they appear in the game.</source>
-        <translation>Dati per gruppi nemici. L&apos;unità nella quale essi appaiono nel gioco.</translation>
+        <translation>Dati per gruppi nemici. L'unità nella quale essi appaiono nel gioco.</translation>
     </message>
     <message>
         <source>States</source>
@@ -1602,7 +1602,7 @@
     </message>
     <message>
         <source>Basic configuration of the entire game.</source>
-        <translation>Configurazione di base dell&apos;intero gioco.</translation>
+        <translation>Configurazione di base dell'intero gioco.</translation>
     </message>
     <message>
         <source>Types</source>
@@ -1633,7 +1633,7 @@
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="unfinished">Imposta le opzioni dell&apos;apertura.</translation>
+        <translation type="unfinished">Imposta le opzioni dell'apertura.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -1641,7 +1641,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="unfinished">I file non utilizzati nel gioco saranno esclusi dall&apos;apertura.</translation>
+        <translation type="unfinished">I file non utilizzati nel gioco saranno esclusi dall'apertura.</translation>
     </message>
     <message>
         <source>Zip Compression</source>
@@ -1758,7 +1758,7 @@
     </message>
     <message>
         <source>Priority of the action. Of all actions meeting the conditions, the one with the highest rating will be the standard, and the one within 2 rating points of the standard will be used. Actions 1 rating point away will be used 2/3 of the time and those 2 rating points away will be used 1/3 of the time.</source>
-        <translation>Priorità dell&apos;azione. Di tutte le azioni che soddisfano le condizioni, quella con la massima valutazione sarà lo standard e verrà utilizzata quella all&apos;interno di 2 punti di valutazione dello standard. Le azioni con 1 punto di distanza nella valutazione verranno utilizzate per i 2/3 del tempo e quello con 2 punti di distanza nella valutazione verranno utilizzate per 1/3 del tempo.</translation>
+        <translation>Priorità dell'azione. Di tutte le azioni che soddisfano le condizioni, quella con la massima valutazione sarà lo standard e verrà utilizzata quella all'interno di 2 punti di valutazione dello standard. Le azioni con 1 punto di distanza nella valutazione verranno utilizzate per i 2/3 del tempo e quello con 2 punti di distanza nella valutazione verranno utilizzate per 1/3 del tempo.</translation>
     </message>
     <message>
         <source>Conditions</source>
@@ -1774,7 +1774,7 @@
     </message>
     <message>
         <source>Possible as long as the specified action can be performed.</source>
-        <translation>Possibile a patto che l&apos;azione specificata possa essere eseguita.</translation>
+        <translation>Possibile a patto che l'azione specificata possa essere eseguita.</translation>
     </message>
     <message>
         <source>Turn</source>
@@ -1789,16 +1789,16 @@
         <translation>HP</translation>
     </message>
     <message>
-        <source>Possible when this enemy&apos;s HP is in the specified range.</source>
-        <translation>Possibile quando l&apos;HP di questo nemico si trova nel raggio specificato.</translation>
+        <source>Possible when this enemy's HP is in the specified range.</source>
+        <translation>Possibile quando l'HP di questo nemico si trova nel raggio specificato.</translation>
     </message>
     <message>
         <source>MP</source>
         <translation>MP</translation>
     </message>
     <message>
-        <source>Possible when this enemy&apos;s MP is in the specified range.</source>
-        <translation>Possibile quando l&apos;MP di questo nemico si trova nel raggio specificato.</translation>
+        <source>Possible when this enemy's MP is in the specified range.</source>
+        <translation>Possibile quando l'MP di questo nemico si trova nel raggio specificato.</translation>
     </message>
     <message>
         <source>State</source>
@@ -1813,7 +1813,7 @@
         <translation>Livello del gruppo</translation>
     </message>
     <message>
-        <source>Possible when the party members&apos; highest level is greater than or equal to the specified number.</source>
+        <source>Possible when the party members' highest level is greater than or equal to the specified number.</source>
         <translation>Possibile quando il livello più alto dei membri del gruppo è superiore o uguale al numero specificato.</translation>
     </message>
     <message>
@@ -1826,7 +1826,7 @@
     </message>
     <message>
         <source>Possible when the specified switch is ON.</source>
-        <translation>Possibile quando l&apos;interruttore specificato è acceso.</translation>
+        <translation>Possibile quando l'interruttore specificato è acceso.</translation>
     </message>
 </context>
 <context>
@@ -1950,7 +1950,7 @@
     </message>
     <message>
         <source>Flashes the animation target.</source>
-        <translation>Lampeggia l&apos;obiettivo animazione.</translation>
+        <translation>Lampeggia l'obiettivo animazione.</translation>
     </message>
     <message>
         <source>Screen</source>
@@ -1958,7 +1958,7 @@
     </message>
     <message>
         <source>Flashes the entire screen.</source>
-        <translation>Lampeggia l&apos;intera schermata.</translation>
+        <translation>Lampeggia l'intera schermata.</translation>
     </message>
     <message>
         <source>Hide Target</source>
@@ -1967,7 +1967,7 @@
     </message>
     <message>
         <source>Hides the target for a given time.</source>
-        <translation>Nasconde l&apos;obiettivo per un determinato periodo di tempo.</translation>
+        <translation>Nasconde l'obiettivo per un determinato periodo di tempo.</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -2005,7 +2005,7 @@
     </message>
     <message>
         <source>Motion type displaying when an actor attacks with this weapon.</source>
-        <translation>Tipo di movimento che visualizza quando un attore attacca con quest&apos;arma.</translation>
+        <translation>Tipo di movimento che visualizza quando un attore attacca con quest'arma.</translation>
     </message>
     <message>
         <source>Image</source>
@@ -2013,7 +2013,7 @@
     </message>
     <message>
         <source>Image for this weapon.</source>
-        <translation>Immagine per quest&apos;arma.</translation>
+        <translation>Immagine per quest'arma.</translation>
     </message>
 </context>
 <context>
@@ -2043,15 +2043,15 @@
     </message>
     <message>
         <source>Starts when the specified turn has been surpassed. Specifies the turn count with A + B * X. If A = 1 and B = 3, the condition will be met at turn 1, 4, 7, and so on. Turn 0 means that the event starts before command entry.</source>
-        <translation>Ha inizio quando il turno specificato è stato superato. Specifica il conteggio del turno con A + B * X. Se A = 1 e B = 3, la condizione verrà soddisfatta ai turni 1, 4, 7 e così via. Il turno 0 significa che l&apos;evento ha inizio prima dell&apos;immissione del comando.</translation>
+        <translation>Ha inizio quando il turno specificato è stato superato. Specifica il conteggio del turno con A + B * X. Se A = 1 e B = 3, la condizione verrà soddisfatta ai turni 1, 4, 7 e così via. Il turno 0 significa che l'evento ha inizio prima dell'immissione del comando.</translation>
     </message>
     <message>
         <source>Enemy HP</source>
         <translation>HP del nemico</translation>
     </message>
     <message>
-        <source>Starts when an enemy&apos;s HP is less than or equal to the specified percentage.&lt;br&gt;If you want to start the event just before the enemy dies, add [Immortal] state temporarily on the battle start.</source>
-        <translation>Ha inizio quanto l&apos;HP di un nemico è inferiore o uguale alla percentuale specificata.&lt;br&gt;Se si desidera iniziare l&apos;evento appena prima che il nemico muoia, aggiungere temporaneamente lo stato [Stato] all&apos;avvio della battaglia.</translation>
+        <source>Starts when an enemy's HP is less than or equal to the specified percentage.&lt;br&gt;If you want to start the event just before the enemy dies, add [Immortal] state temporarily on the battle start.</source>
+        <translation>Ha inizio quanto l'HP di un nemico è inferiore o uguale alla percentuale specificata.&lt;br&gt;Se si desidera iniziare l'evento appena prima che il nemico muoia, aggiungere temporaneamente lo stato [Stato] all'avvio della battaglia.</translation>
     </message>
     <message>
         <source>or below</source>
@@ -2059,11 +2059,11 @@
     </message>
     <message>
         <source>Actor HP</source>
-        <translation>HP dell&apos;attore</translation>
+        <translation>HP dell'attore</translation>
     </message>
     <message>
-        <source>Starts when an actor&apos;s HP is less than or equal to the specified percentage.</source>
-        <translation>Ha inizio quando l&apos;HP di un attore è inferiore o uguale alla percentuale specificata.</translation>
+        <source>Starts when an actor's HP is less than or equal to the specified percentage.</source>
+        <translation>Ha inizio quando l'HP di un attore è inferiore o uguale alla percentuale specificata.</translation>
     </message>
     <message>
         <source>Switch</source>
@@ -2071,7 +2071,7 @@
     </message>
     <message>
         <source>Starts when the specified switch is ON.</source>
-        <translation>Ha inizio quando l&apos;interruttore specificato è acceso.</translation>
+        <translation>Ha inizio quando l'interruttore specificato è acceso.</translation>
     </message>
 </context>
 <context>
@@ -2094,15 +2094,15 @@
     </message>
     <message>
         <source>Level of the actor.</source>
-        <translation>Livello dell&apos;attore.</translation>
+        <translation>Livello dell'attore.</translation>
     </message>
     <message>
         <source>Initialize</source>
         <translation>Inizializzare</translation>
     </message>
     <message>
-        <source>Initializes the actor&apos;s level and equipment.</source>
-        <translation>Inizializza il livello e l&apos;equipaggiamento dell&apos;attore.</translation>
+        <source>Initializes the actor's level and equipment.</source>
+        <translation>Inizializza il livello e l'equipaggiamento dell'attore.</translation>
     </message>
     <message>
         <source>Equipment</source>
@@ -2111,7 +2111,7 @@
     </message>
     <message>
         <source>Weapon and armor that the actor has equipped in the battle test.</source>
-        <translation>Arma e armatura che l&apos;attore ha in dotazione nella prova di battaglia.</translation>
+        <translation>Arma e armatura che l'attore ha in dotazione nella prova di battaglia.</translation>
     </message>
     <message>
         <source>Status</source>
@@ -2119,7 +2119,7 @@
     </message>
     <message>
         <source>Displays status computation based on the level and the equipment.</source>
-        <translation>Visualizza il calcolo dello stato basato sul livello e sull&apos;equipaggiamento.</translation>
+        <translation>Visualizza il calcolo dello stato basato sul livello e sull'equipaggiamento.</translation>
     </message>
 </context>
 <context>
@@ -2271,7 +2271,7 @@
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="vanished">Imposta le opzioni dell&apos;apertura.</translation>
+        <translation type="vanished">Imposta le opzioni dell'apertura.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -2279,7 +2279,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="vanished">I file non utilizzati nel gioco saranno esclusi dall&apos;apertura.</translation>
+        <translation type="vanished">I file non utilizzati nel gioco saranno esclusi dall'apertura.</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -2330,7 +2330,7 @@
     </message>
     <message>
         <source>Turns off the drop item spawning.</source>
-        <translation>Spegne la caduta dell&apos;elemento goccia.</translation>
+        <translation>Spegne la caduta dell'elemento goccia.</translation>
     </message>
     <message>
         <source>Item</source>
@@ -2338,7 +2338,7 @@
     </message>
     <message>
         <source>Sets the specified item as the drop item.</source>
-        <translation>Imposta l&apos;elemento specificato come l&apos;elemento goccia.</translation>
+        <translation>Imposta l'elemento specificato come l'elemento goccia.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -2346,7 +2346,7 @@
     </message>
     <message>
         <source>Sets the specified weapon as the drop item.</source>
-        <translation>Imposta l&apos;arma specificata come l&apos;elemento goccia.</translation>
+        <translation>Imposta l'arma specificata come l'elemento goccia.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -2354,7 +2354,7 @@
     </message>
     <message>
         <source>Sets the specified armor as the drop item.</source>
-        <translation>Imposta l&apos;armatura specificata come l&apos;elemento goccia.</translation>
+        <translation>Imposta l'armatura specificata come l'elemento goccia.</translation>
     </message>
     <message>
         <source>Probability</source>
@@ -2362,7 +2362,7 @@
     </message>
     <message>
         <source>Spawning probability of the drop item.</source>
-        <translation>Probabilità di caduta dell&apos;elemento goccia.</translation>
+        <translation>Probabilità di caduta dell'elemento goccia.</translation>
     </message>
 </context>
 <context>
@@ -2408,8 +2408,8 @@
         <translation>Aggiungere stato</translation>
     </message>
     <message>
-        <source>Adds the specified state. Specifying a value over 100% enables success at a rate higher than the target&apos;s original effectiveness.</source>
-        <translation>Aggiungere lo stato specificato. La specifica di un valore superiore al 100% consente un successo a un tasso più alto rispetto all&apos;efficacia originale dell&apos;obiettivo.</translation>
+        <source>Adds the specified state. Specifying a value over 100% enables success at a rate higher than the target's original effectiveness.</source>
+        <translation>Aggiungere lo stato specificato. La specifica di un valore superiore al 100% consente un successo a un tasso più alto rispetto all'efficacia originale dell'obiettivo.</translation>
     </message>
     <message>
         <source>Normal Attack</source>
@@ -2489,7 +2489,7 @@
     </message>
     <message>
         <source>Allows the character to learn the specified skill. For example, this can be used in creating an item such as a book that enables a spell to be used once it is read.</source>
-        <translation>Consente al personaggio di apprendere l&apos;abilità specificata. Per esempio, questa funzione può essere utilizzata nella creazione di un elemento quale un libro che consente l&apos;utilizzo di un incantesimo se viene letto.</translation>
+        <translation>Consente al personaggio di apprendere l'abilità specificata. Per esempio, questa funzione può essere utilizzata nella creazione di un elemento quale un libro che consente l'utilizzo di un incantesimo se viene letto.</translation>
     </message>
     <message>
         <source>Common Event</source>
@@ -2497,7 +2497,7 @@
     </message>
     <message>
         <source>Triggers the specified common event. Only one call specification for common events is valid.</source>
-        <translation>Attiva l&apos;evento comune specificato. Solo una specifica chiamata per eventi comuni è valida.</translation>
+        <translation>Attiva l'evento comune specificato. Solo una specifica chiamata per eventi comuni è valida.</translation>
     </message>
 </context>
 <context>
@@ -2552,7 +2552,7 @@
     </message>
     <message>
         <source>Specifies the numbers set with the map editor.</source>
-        <translation>Specifica i numeri impostati con l&apos;editore della mappa.</translation>
+        <translation>Specifica i numeri impostati con l'editore della mappa.</translation>
     </message>
     <message>
         <source>Region ID</source>
@@ -2669,7 +2669,7 @@
     </message>
     <message>
         <source>Search for the switch.</source>
-        <translation>Cercare l&apos;interruttore.</translation>
+        <translation>Cercare l'interruttore.</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -2685,7 +2685,7 @@
     </message>
     <message>
         <source>Search for the event name.</source>
-        <translation>Cercare il nome dell&apos;evento.</translation>
+        <translation>Cercare il nome dell'evento.</translation>
     </message>
     <message>
         <source>Search</source>
@@ -2764,7 +2764,7 @@
     </message>
     <message>
         <source>Value representing the rate at which to increase the necessary EXP. Affects the entire EXP curve.</source>
-        <translation>Valore che rappresenta il tasso al quale aumentare la necessaria EXP. Ha effetto sull&apos;intera curva EXP.</translation>
+        <translation>Valore che rappresenta il tasso al quale aumentare la necessaria EXP. Ha effetto sull'intera curva EXP.</translation>
     </message>
     <message>
         <source>Acceleration B</source>
@@ -2805,8 +2805,8 @@
         <translation>Elemento</translation>
     </message>
     <message>
-        <source>Uses the number of the specified item in the party&apos;s inventory.</source>
-        <translation>Utilizza il numero dell&apos;elemento specificato nell&apos;inventario del gruppo.</translation>
+        <source>Uses the number of the specified item in the party's inventory.</source>
+        <translation>Utilizza il numero dell'elemento specificato nell'inventario del gruppo.</translation>
     </message>
     <message>
         <source>(Possession Count)</source>
@@ -2817,16 +2817,16 @@
         <translation>Arma</translation>
     </message>
     <message>
-        <source>Uses the number of the specified weapon in the party&apos;s inventory without the equipped items.</source>
-        <translation>Utilizza il numero dell&apos;arma specificata nell&apos;inventario del gruppo senza elementi in dotazione.</translation>
+        <source>Uses the number of the specified weapon in the party's inventory without the equipped items.</source>
+        <translation>Utilizza il numero dell'arma specificata nell'inventario del gruppo senza elementi in dotazione.</translation>
     </message>
     <message>
         <source>Armor</source>
         <translation>Armatura</translation>
     </message>
     <message>
-        <source>Uses the number of the specified armor in the party&apos;s inventory without the equipped items.</source>
-        <translation>Utilizza il numero dell&apos;armatura specificata nell&apos;inventario del gruppo senza elementi in dotazione.</translation>
+        <source>Uses the number of the specified armor in the party's inventory without the equipped items.</source>
+        <translation>Utilizza il numero dell'armatura specificata nell'inventario del gruppo senza elementi in dotazione.</translation>
     </message>
     <message>
         <source>Actor</source>
@@ -2834,7 +2834,7 @@
     </message>
     <message>
         <source>Uses a parameter of the specified actor.</source>
-        <translation>Utilizza un paramento dell&apos;attore specificato.</translation>
+        <translation>Utilizza un paramento dell'attore specificato.</translation>
     </message>
     <message>
         <source>Enemy</source>
@@ -2850,7 +2850,7 @@
     </message>
     <message>
         <source>Uses coordinates or direction of the player or event.</source>
-        <translation>Utilizza le coordinate o la direzione del giocatore o dell&apos;evento.</translation>
+        <translation>Utilizza le coordinate o la direzione del giocatore o dell'evento.</translation>
     </message>
     <message>
         <source>Party</source>
@@ -2858,7 +2858,7 @@
     </message>
     <message>
         <source>Uses the ID of the actor at the specified position within the party.</source>
-        <translation>Utilizza l&apos;ID dell&apos;attore alla posizione specificata all&apos;interno del gruppo.</translation>
+        <translation>Utilizza l'ID dell'attore alla posizione specificata all'interno del gruppo.</translation>
     </message>
     <message>
         <source>Member #%1</source>
@@ -2921,7 +2921,7 @@
     </message>
     <message>
         <source>The objects in the selected range are displayed to the right.</source>
-        <translation>Gli oggetti nell&apos;intervallo selezionato si visualizzano a destra.</translation>
+        <translation>Gli oggetti nell'intervallo selezionato si visualizzano a destra.</translation>
     </message>
     <message>
         <source>Data List</source>
@@ -2933,7 +2933,7 @@
     </message>
     <message>
         <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>&lt;br&gt;[F5] Seleziona l&apos;elemento successivo.&lt;br&gt;[F4] Seleziona l&apos;elemento precedente.</translation>
+        <translation>&lt;br&gt;[F5] Seleziona l'elemento successivo.&lt;br&gt;[F4] Seleziona l'elemento precedente.</translation>
     </message>
     <message>
         <source>None</source>
@@ -3150,7 +3150,7 @@
     <name>Dialog_ImageSelector</name>
     <message>
         <source>Select an Image</source>
-        <translation>Selezionare un&apos;immagine</translation>
+        <translation>Selezionare un'immagine</translation>
     </message>
     <message>
         <source>Hue</source>
@@ -3158,7 +3158,7 @@
     </message>
     <message>
         <source>Adjusts the hue offset for the image.</source>
-        <translation>Regola l&apos;offset della tonalità per l&apos;immagine.</translation>
+        <translation>Regola l'offset della tonalità per l'immagine.</translation>
     </message>
 </context>
 <context>
@@ -3750,7 +3750,7 @@
     </message>
     <message>
         <source>Whether to wrap around from one side to the other.</source>
-        <translation>Se avvolgerlo da un lato all&apos;altro.</translation>
+        <translation>Se avvolgerlo da un lato all'altro.</translation>
     </message>
     <message>
         <source>No Loop</source>
@@ -3799,7 +3799,7 @@
     </message>
     <message>
         <source>Displays the specified background when a battle occurs on this map. When not specified, a background conforming to the terrain is automatically selected for world maps, and for other maps, a processed image of the map screen will be used as a background.</source>
-        <translation>Visualizza lo sfondo specificato quando una battaglia ha luogo su questa mappa. Se non specificato, viene automaticamente selezionato uno sfondo conforme al terreno per le mappe del mondo e, per altre mappe, verrà utilizzata un&apos;immagine elaborata della schermata mappa come sfondo.</translation>
+        <translation>Visualizza lo sfondo specificato quando una battaglia ha luogo su questa mappa. Se non specificato, viene automaticamente selezionato uno sfondo conforme al terreno per le mappe del mondo e, per altre mappe, verrà utilizzata un'immagine elaborata della schermata mappa come sfondo.</translation>
     </message>
     <message>
         <source>Disable Dashing</source>
@@ -3815,15 +3815,15 @@
     </message>
     <message>
         <source>Distant view image displayed in the transparent area of the map.</source>
-        <translation>Immagine vista in lontananza visualizzata nell&apos;area trasparente della mappa.</translation>
+        <translation>Immagine vista in lontananza visualizzata nell'area trasparente della mappa.</translation>
     </message>
     <message>
         <source>Show in the Editor</source>
-        <translation>Mostra nell&apos;editor</translation>
+        <translation>Mostra nell'editor</translation>
     </message>
     <message>
         <source>Displays the parallax background in the map editor. This may appear differently than in the actual game.</source>
-        <translation>Visualizza lo sfondo parallasse nell&apos;editor della mappa. Questo potrebbe apparire diverso da quello presente nel vero gioco.</translation>
+        <translation>Visualizza lo sfondo parallasse nell'editor della mappa. Questo potrebbe apparire diverso da quello presente nel vero gioco.</translation>
     </message>
 </context>
 <context>
@@ -3838,7 +3838,7 @@
     </message>
     <message>
         <source>Location to save the map image.</source>
-        <translation>Posizione per salvare l&apos;immagine mappa.</translation>
+        <translation>Posizione per salvare l'immagine mappa.</translation>
     </message>
     <message>
         <source>Choose</source>
@@ -3908,7 +3908,7 @@
     </message>
     <message>
         <source>Sets the specified item as merchandise.</source>
-        <translation>Imposta l&apos;elemento specificato come mercanzia.</translation>
+        <translation>Imposta l'elemento specificato come mercanzia.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -3916,7 +3916,7 @@
     </message>
     <message>
         <source>Sets the specified weapon as merchandise.</source>
-        <translation>Imposta l&apos;arma specificata come mercanzia.</translation>
+        <translation>Imposta l'arma specificata come mercanzia.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -3924,7 +3924,7 @@
     </message>
     <message>
         <source>Sets the specified armor as merchandise.</source>
-        <translation>Imposta l&apos;armatura specificata come mercanzia.</translation>
+        <translation>Imposta l'armatura specificata come mercanzia.</translation>
     </message>
     <message>
         <source>Price</source>
@@ -4051,7 +4051,7 @@
     </message>
     <message>
         <source>Press buttons to set parameter values randomly within a predefined range.</source>
-        <translation>Premere i pulsanti per impostare i valori del parametro in modo casuale all&apos;interno di un intervallo predefinito.</translation>
+        <translation>Premere i pulsanti per impostare i valori del parametro in modo casuale all'interno di un intervallo predefinito.</translation>
     </message>
     <message>
         <source>Level</source>
@@ -4083,7 +4083,7 @@
     </message>
     <message>
         <source>The X axis is the level number, and the Y axis shows the parameter value at each level. Click to get the parameter value.</source>
-        <translation>X è il numero di livello e l&apos;asse Y mostra il valore parametro a ciascun livello. Fare clic per ottenere il valore parametro.</translation>
+        <translation>X è il numero di livello e l'asse Y mostra il valore parametro a ciascun livello. Fare clic per ottenere il valore parametro.</translation>
     </message>
 </context>
 <context>
@@ -4279,7 +4279,7 @@
         <translation>%1\G per una notte. Si desidera restare?</translation>
     </message>
     <message>
-        <source>You don&apos;t have enough money.</source>
+        <source>You don't have enough money.</source>
         <translation>Non si dispone di abbastanza denaro.</translation>
     </message>
     <message>
@@ -4358,7 +4358,7 @@
     </message>
     <message>
         <source>Sets the specified item as the treasure.</source>
-        <translation>Imposta l&apos;elemento specificato come tesoro.</translation>
+        <translation>Imposta l'elemento specificato come tesoro.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -4366,7 +4366,7 @@
     </message>
     <message>
         <source>Sets the specified weapon as the treasure.</source>
-        <translation>Imposta l&apos;arma specificata come tesoro.</translation>
+        <translation>Imposta l'arma specificata come tesoro.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -4374,7 +4374,7 @@
     </message>
     <message>
         <source>Sets the specified armor as the treasure.</source>
-        <translation>Imposta l&apos;armatura specificata come tesoro.</translation>
+        <translation>Imposta l'armatura specificata come tesoro.</translation>
     </message>
 </context>
 <context>
@@ -4390,7 +4390,7 @@
     <message>
         <source>Preview the selected file</source>
         <translatorcomment>原文はピリオドが含まれておりませんが、全体の統一の為にピリオドを追加致しました。</translatorcomment>
-        <translation>Visualizza un&apos;anteprima del file selezionato.</translation>
+        <translation>Visualizza un'anteprima del file selezionato.</translation>
     </message>
     <message>
         <source>Import</source>
@@ -4479,7 +4479,7 @@
     </message>
     <message>
         <source>Level for learning the skill.</source>
-        <translation>Livello di apprendimento dell&apos;abilità.</translation>
+        <translation>Livello di apprendimento dell'abilità.</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -4546,7 +4546,7 @@
     </message>
     <message>
         <source>Changes the damage multiplier according to the specified element. The higher the value, the greater the weakness against the element.</source>
-        <translation>Modifica il moltiplicatore di danno secondo l&apos;elemento specificato. Maggiore è il valore, maggiore sarà la debolezza contro l&apos;elemento.</translation>
+        <translation>Modifica il moltiplicatore di danno secondo l'elemento specificato. Maggiore è il valore, maggiore sarà la debolezza contro l'elemento.</translation>
     </message>
     <message>
         <source>Debuff Rate</source>
@@ -4554,7 +4554,7 @@
     </message>
     <message>
         <source>Changes the probability at which the use of a skill or item will succeed in debuffing a parameter.</source>
-        <translation>Modifica la probabilità alla quale l&apos;utilizzo di un&apos;abilità o di un elemento avrà successo nell&apos;operazione di debuff di un parametro.</translation>
+        <translation>Modifica la probabilità alla quale l'utilizzo di un'abilità o di un elemento avrà successo nell'operazione di debuff di un parametro.</translation>
     </message>
     <message>
         <source>State Rate</source>
@@ -4562,7 +4562,7 @@
     </message>
     <message>
         <source>Changes the probability at which the use of a skill or item will succeed in applying a state.</source>
-        <translation>Modifica la probabilità alla quale l&apos;utilizzo di una abilità o di un elemento avrà successo nell&apos;applicazione di uno stato.</translation>
+        <translation>Modifica la probabilità alla quale l'utilizzo di una abilità o di un elemento avrà successo nell'applicazione di uno stato.</translation>
     </message>
     <message>
         <source>State Resist</source>
@@ -4591,7 +4591,7 @@
     </message>
     <message>
         <source>Value added to the specified ex-parameter. The default value is 0.</source>
-        <translation>Valore aggiunto all&apos;ex-parametro specificato. Il valore predefinito è 0.</translation>
+        <translation>Valore aggiunto all'ex-parametro specificato. Il valore predefinito è 0.</translation>
     </message>
     <message>
         <source>Sp-Parameter</source>
@@ -4628,15 +4628,15 @@
     </message>
     <message>
         <source>Value that is added to agility when determining attack order when a normal attack has been selected.</source>
-        <translation>Valore che viene aggiunto all&apos;agilità durante la determinazione di un ordine di attacco quando è stato selezionato un attacco normale.</translation>
+        <translation>Valore che viene aggiunto all'agilità durante la determinazione di un ordine di attacco quando è stato selezionato un attacco normale.</translation>
     </message>
     <message>
         <source>Attack Times +</source>
         <translation>Tempi di attacco +</translation>
     </message>
     <message>
-        <source>Increases the number of times a normal attack hits a target. Entering &quot;+1&quot; means two consecutive attacks.</source>
-        <translation>Aumenta il numero di volte in cui un attacco normale colpisce un obiettivo. L&apos;immissione di &quot;+1&quot; indica due attacchi consecutivi.</translation>
+        <source>Increases the number of times a normal attack hits a target. Entering "+1" means two consecutive attacks.</source>
+        <translation>Aumenta il numero di volte in cui un attacco normale colpisce un obiettivo. L'immissione di "+1" indica due attacchi consecutivi.</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -4656,7 +4656,7 @@
     </message>
     <message>
         <source>Temporarily disables the use of the specified type of skill.</source>
-        <translation>Disabilita temporaneamente l&apos;utilizzo del tipo specificato di abilità.</translation>
+        <translation>Disabilita temporaneamente l'utilizzo del tipo specificato di abilità.</translation>
     </message>
     <message>
         <source>Add Skill</source>
@@ -4672,7 +4672,7 @@
     </message>
     <message>
         <source>Temporarily disables the use of the specified skill.</source>
-        <translation>Disabilita temporaneamente l&apos;utilizzo dell&apos;abilità specificata.</translation>
+        <translation>Disabilita temporaneamente l'utilizzo dell'abilità specificata.</translation>
     </message>
     <message>
         <source>Equip</source>
@@ -4702,7 +4702,7 @@
     </message>
     <message>
         <source>Prevents the changing of equipment for the specified equipment slot. Used mainly for instances such as when you do not want the player changing the equipment of a character that has been temporarily added to the party.</source>
-        <translation>Previene la modifica dell&apos;equipaggiamento per lo specifico slot di equipaggiamento. Utilizzato principalmente per alcune circostanze, come quando non si desidera che il giocatore modifichi l&apos;equipaggiamento di un personaggio che è stato temporaneamente aggiunto al gruppo.</translation>
+        <translation>Previene la modifica dell'equipaggiamento per lo specifico slot di equipaggiamento. Utilizzato principalmente per alcune circostanze, come quando non si desidera che il giocatore modifichi l'equipaggiamento di un personaggio che è stato temporaneamente aggiunto al gruppo.</translation>
     </message>
     <message>
         <source>Seal Equip</source>
@@ -4711,7 +4711,7 @@
     </message>
     <message>
         <source>Prevents the equipping of any equipment for the specified equipment slot. For example, preventing the use of shields for a given weapon makes it a two-handed weapon, and preventing the wearing of a headgear for a given piece of armor results in full body armor.</source>
-        <translation>Previene il dotarsi di qualsiasi equipaggiamento per lo specifico slot di equipaggiamento. Ad esempio, impedendo l&apos;utilizzo di scudi per una data arma la rende un&apos;arma a due impugnature ed evitando di indossare un elmo per un dato pezzo di armatura la trasforma in una armatura per tutto il corpo.</translation>
+        <translation>Previene il dotarsi di qualsiasi equipaggiamento per lo specifico slot di equipaggiamento. Ad esempio, impedendo l'utilizzo di scudi per una data arma la rende un'arma a due impugnature ed evitando di indossare un elmo per un dato pezzo di armatura la trasforma in una armatura per tutto il corpo.</translation>
     </message>
     <message>
         <source>Slot Type</source>
@@ -4719,7 +4719,7 @@
     </message>
     <message>
         <source>Can only be set to [Dual Wield]. This enables the equipping of two weapons in exchange for not being able to equip a shield.</source>
-        <translation>Può essere impostato solo su [Dual Wield]. Questo permette la dotazione di due armi in cambio dell&apos;impossibilità di dotarsi di uno scudo.</translation>
+        <translation>Può essere impostato solo su [Dual Wield]. Questo permette la dotazione di due armi in cambio dell'impossibilità di dotarsi di uno scudo.</translation>
     </message>
     <message>
         <source>Other</source>
@@ -4747,7 +4747,7 @@
     </message>
     <message>
         <source>Valid only for enemies. Changes the effect for when they are knocked out.</source>
-        <translation>Valido solo per i nemici. Modifica l&apos;effetto per quando vengono messi fuori combattimento.</translation>
+        <translation>Valido solo per i nemici. Modifica l'effetto per quando vengono messi fuori combattimento.</translation>
     </message>
     <message>
         <source>Party Ability</source>
@@ -4756,7 +4756,7 @@
     </message>
     <message>
         <source>Valid only for actors. This is an ability that is shared by the entire party. It is enabled if at least one of the party members participating in a battle has this characteristic.</source>
-        <translation>Valido solo per gli attori. Questa è una abilità condivisa dall&apos;intero gruppo. Viene abilitata se almeno uno dei membri del gruppo che prende parte alla battaglia ha questa caratteristica.</translation>
+        <translation>Valido solo per gli attori. Questa è una abilità condivisa dall'intero gruppo. Viene abilitata se almeno uno dei membri del gruppo che prende parte alla battaglia ha questa caratteristica.</translation>
     </message>
 </context>
 <context>
@@ -4866,7 +4866,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>&lt;br&gt;[F5] Seleziona l&apos;elemento successivo.&lt;br&gt;[F4] Seleziona l&apos;elemento precedente.</translation>
+        <translation>&lt;br&gt;[F5] Seleziona l'elemento successivo.&lt;br&gt;[F4] Seleziona l'elemento precedente.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -4874,7 +4874,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Name of the switch.</source>
-        <translation>Nome dell&apos;interruttore.</translation>
+        <translation>Nome dell'interruttore.</translation>
     </message>
     <message>
         <source>Name of the variable.</source>
@@ -4914,7 +4914,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Basic actor settings.</source>
-        <translation>Impostazioni di base dell&apos;attore.</translation>
+        <translation>Impostazioni di base dell'attore.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -4922,7 +4922,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Name of the actor.</source>
-        <translation>Nome dell&apos;attore.</translation>
+        <translation>Nome dell'attore.</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -4938,7 +4938,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Class of the actor.</source>
-        <translation>Classe dell&apos;attore.</translation>
+        <translation>Classe dell'attore.</translation>
     </message>
     <message>
         <source>Initial Level</source>
@@ -4946,7 +4946,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Level at the start of the game.</source>
-        <translation>Livello all&apos;inizio del gioco.</translation>
+        <translation>Livello all'inizio del gioco.</translation>
     </message>
     <message>
         <source>Max Level</source>
@@ -4954,14 +4954,14 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Maximum level that the actor can attain.</source>
-        <translation>Livello massimo che l&apos;attore può raggiungere.</translation>
+        <translation>Livello massimo che l'attore può raggiungere.</translation>
     </message>
     <message>
         <source>Profile</source>
         <translation>Profilo</translation>
     </message>
     <message>
-        <source>Text to be displayed on the status screen. Enter information such as the character&apos;s profile.</source>
+        <source>Text to be displayed on the status screen. Enter information such as the character's profile.</source>
         <translation>Testo da visualizzare sulla schermata di stato. Immettere informazioni quali il profilo del personaggio.</translation>
     </message>
     <message>
@@ -4970,7 +4970,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Images of the actor to be displayed in the game.</source>
-        <translation>Immagini dell&apos;attore da visualizzare nel gioco.</translation>
+        <translation>Immagini dell'attore da visualizzare nel gioco.</translation>
     </message>
     <message>
         <source>Initial Equipment</source>
@@ -4978,7 +4978,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Weapon and armor that the actor has equipped at the start of the game.</source>
-        <translation>Arma e armatura di cui l&apos;attore si è dotato all&apos;inizio del gioco.</translation>
+        <translation>Arma e armatura di cui l'attore si è dotato all'inizio del gioco.</translation>
     </message>
 </context>
 <context>
@@ -4997,7 +4997,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Name of the animation.</source>
-        <translation>Nome dell&apos;animazione.</translation>
+        <translation>Nome dell'animazione.</translation>
     </message>
     <message>
         <source>Images</source>
@@ -5005,7 +5005,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Cell images used for the animation.</source>
-        <translation>Immagini cella utilizzate per l&apos;animazione.</translation>
+        <translation>Immagini cella utilizzate per l'animazione.</translation>
     </message>
     <message>
         <source>Position</source>
@@ -5013,7 +5013,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Display position of the animation.&lt;br&gt;[Head] Displayed using the top edge of the image as a base.&lt;br&gt;[Center] Displayed using the center line of the image as a base.&lt;br&gt;[Feet] Displayed using the bottom edge of the image as a base.&lt;br&gt;[Screen] Displays over the entire screen.</source>
-        <translation>Visualizza la posizione dell&apos;animazione.&lt;br&gt;[Testa] Visualizzata utilizzando il margine superiore dell&apos;immagine come base.&lt;br&gt;[Centro] Visualizzato utilizzando la linea centrale dell&apos;immagine come base.&lt;br&gt;[Piedi] Visualizzato utilizzando il margine inferiore dell&apos;immagine come base.&lt;br&gt;[Schermata] Visualizza l&apos;intero schermo.</translation>
+        <translation>Visualizza la posizione dell'animazione.&lt;br&gt;[Testa] Visualizzata utilizzando il margine superiore dell'immagine come base.&lt;br&gt;[Centro] Visualizzato utilizzando la linea centrale dell'immagine come base.&lt;br&gt;[Piedi] Visualizzato utilizzando il margine inferiore dell'immagine come base.&lt;br&gt;[Schermata] Visualizza l'intero schermo.</translation>
     </message>
     <message>
         <source>Head</source>
@@ -5037,7 +5037,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Number of frames used for the animation. One animation frame is 1/15 seconds.</source>
-        <translation>Numero di fotogrammi utilizzati per l&apos;animazione. Un fotogramma di animazione è pari a 1/15 secondi.</translation>
+        <translation>Numero di fotogrammi utilizzati per l'animazione. Un fotogramma di animazione è pari a 1/15 secondi.</translation>
     </message>
 </context>
 <context>
@@ -5048,7 +5048,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Basic armor settings.</source>
-        <translation>Impostazioni di base dell&apos;armatura.</translation>
+        <translation>Impostazioni di base dell'armatura.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5056,7 +5056,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Name of the armor.</source>
-        <translation>Nome dell&apos;armatura.</translation>
+        <translation>Nome dell'armatura.</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -5064,7 +5064,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Icon appearing to the left of the armor name in the game.</source>
-        <translation>Icona che appare alla sinistra del nome dell&apos;armatura nel gioco.</translation>
+        <translation>Icona che appare alla sinistra del nome dell'armatura nel gioco.</translation>
     </message>
     <message>
         <source>Description</source>
@@ -5072,7 +5072,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Comment displayed when the armor is selected in the game.</source>
-        <translation>Commento visualizzato quando l&apos;armatura viene selezionata nel gioco.</translation>
+        <translation>Commento visualizzato quando l'armatura viene selezionata nel gioco.</translation>
     </message>
     <message>
         <source>Armor Type</source>
@@ -5080,7 +5080,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Type of the armor. Setting [Equip Armor] in trait lists enables to equip with them.</source>
-        <translation>Tipo dell&apos;armatura. L&apos;impostazione di [Indossare armatura] nell&apos;elenco tratteggiato consente di dotarsi di esse.</translation>
+        <translation>Tipo dell'armatura. L'impostazione di [Indossare armatura] nell'elenco tratteggiato consente di dotarsi di esse.</translation>
     </message>
     <message>
         <source>Price</source>
@@ -5088,7 +5088,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Armor price. The player can sell the armor for half of this price when the price is greater than 0.</source>
-        <translation>Costo dell&apos;armatura. Il giocatore può vendere l&apos;armatura per la metà del suo prezzo quando il suo prezzo è superiore a 0.</translation>
+        <translation>Costo dell'armatura. Il giocatore può vendere l'armatura per la metà del suo prezzo quando il suo prezzo è superiore a 0.</translation>
     </message>
     <message>
         <source>Equipment Type</source>
@@ -5096,7 +5096,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Where the armor is equipped. Actors can equip different kinds of armor at the same time.</source>
-        <translation>Determina l&apos;armatura in dotazione. Gli attori possono dotarsi di diversi tipi di armatura allo stesso tempo.</translation>
+        <translation>Determina l'armatura in dotazione. Gli attori possono dotarsi di diversi tipi di armatura allo stesso tempo.</translation>
     </message>
 </context>
 <context>
@@ -5150,7 +5150,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Name of the common event.</source>
-        <translation>Nome dell&apos;evento comune.</translation>
+        <translation>Nome dell'evento comune.</translation>
     </message>
     <message>
         <source>Trigger</source>
@@ -5158,7 +5158,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Conditions to start the common event. Valid only on the map screen.&lt;br&gt;[None] Starts only when explicitly called up.&lt;br&gt;[Autorun] Starts when the specified switch is ON.&lt;br&gt;[Parallel] Runs cyclically while the specified switch is ON.</source>
-        <translation>Condizioni per l&apos;avvio dell&apos;evento comune. Valido solo sulla schermata mappa.&lt;br&gt;[Nessuno] Si avvia solo quando richiamato esplicitamente.&lt;br&gt;[Esecuzione automatica] Si avvia quando l&apos;interruttore specificato è su ON.&lt;br&gt;[Parallelo] Funziona ciclicamente mentre l&apos;interruttore specificato è su ON.</translation>
+        <translation>Condizioni per l'avvio dell'evento comune. Valido solo sulla schermata mappa.&lt;br&gt;[Nessuno] Si avvia solo quando richiamato esplicitamente.&lt;br&gt;[Esecuzione automatica] Si avvia quando l'interruttore specificato è su ON.&lt;br&gt;[Parallelo] Funziona ciclicamente mentre l'interruttore specificato è su ON.</translation>
     </message>
     <message>
         <source>None</source>
@@ -5178,7 +5178,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>When the trigger is [Autorun] or [Parallel], the contents will be run when the switch set here is ON.</source>
-        <translation>Quando l&apos;innesco è [Esecuzione automatica] o [Parallelo], i contenuti verranno avviati se l&apos;interruttore impostato qui si trova su ON.</translation>
+        <translation>Quando l'innesco è [Esecuzione automatica] o [Parallelo], i contenuti verranno avviati se l'interruttore impostato qui si trova su ON.</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -5186,7 +5186,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Event commands to be run for this event. Right-click to open the popup menu.</source>
-        <translation>Comandi dell&apos;evento da attivare per questo evento. Fare clic col tasto destro per aprire il menu a comparsa.</translation>
+        <translation>Comandi dell'evento da attivare per questo evento. Fare clic col tasto destro per aprire il menu a comparsa.</translation>
     </message>
 </context>
 <context>
@@ -5256,7 +5256,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Basic item settings.</source>
-        <translation>Impostazioni di base dell&apos;elemento.</translation>
+        <translation>Impostazioni di base dell'elemento.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5264,7 +5264,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Name of the item.</source>
-        <translation>Nome dell&apos;elemento.</translation>
+        <translation>Nome dell'elemento.</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -5272,7 +5272,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Icon appearing to the left of the item name in the game.</source>
-        <translation>Icona che appare alla sinistra del nome dell&apos;elemento nel gioco.</translation>
+        <translation>Icona che appare alla sinistra del nome dell'elemento nel gioco.</translation>
     </message>
     <message>
         <source>Description</source>
@@ -5280,7 +5280,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Comment displayed when the item is selected in the game.</source>
-        <translation>Commento visualizzato quando l&apos;elemento viene selezionato nel gioco.</translation>
+        <translation>Commento visualizzato quando l'elemento viene selezionato nel gioco.</translation>
     </message>
     <message>
         <source>Item Type</source>
@@ -5296,7 +5296,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Price of the item. The player can sell the item for half of this price when the price is greater than 0.</source>
-        <translation>Costo dell&apos;elemento. Il giocatore può vendere l&apos;elemento per la metà del suo prezzo quando il suo prezzo è superiore a 0.</translation>
+        <translation>Costo dell'elemento. Il giocatore può vendere l'elemento per la metà del suo prezzo quando il suo prezzo è superiore a 0.</translation>
     </message>
     <message>
         <source>Consumable</source>
@@ -5304,7 +5304,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Whether or not the item disappears after use.</source>
-        <translation>Determina se l&apos;elemento scompaia o meno dopo l&apos;uso.</translation>
+        <translation>Determina se l'elemento scompaia o meno dopo l'uso.</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -5322,7 +5322,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Scope of the effect.</source>
-        <translation>Scopo dell&apos;effetto.</translation>
+        <translation>Scopo dell'effetto.</translation>
     </message>
     <message>
         <source>Occasion</source>
@@ -5330,7 +5330,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Screen(s) on which the item can be used.</source>
-        <translation>Schermata(e) sulla quale l&apos;elemento può essere utilizzato.</translation>
+        <translation>Schermata(e) sulla quale l'elemento può essere utilizzato.</translation>
     </message>
 </context>
 <context>
@@ -5341,7 +5341,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Basic skill settings.</source>
-        <translation>Impostazioni di base dell&apos;abilità.</translation>
+        <translation>Impostazioni di base dell'abilità.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5349,7 +5349,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Name of the skill.</source>
-        <translation>Nome dell&apos;abilità.</translation>
+        <translation>Nome dell'abilità.</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -5357,7 +5357,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Icon appearing to the left of the skill name in the game.</source>
-        <translation>Icona che appare alla sinistra del nome dell&apos;abilità nel gioco.</translation>
+        <translation>Icona che appare alla sinistra del nome dell'abilità nel gioco.</translation>
     </message>
     <message>
         <source>Description</source>
@@ -5365,7 +5365,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Comment displayed when the skill is selected in the game.</source>
-        <translation>Commento visualizzato quando l&apos;abilità viene selezionata nel gioco.</translation>
+        <translation>Commento visualizzato quando l'abilità viene selezionata nel gioco.</translation>
     </message>
     <message>
         <source>Skill Type</source>
@@ -5381,7 +5381,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Amount of MP consumed when using the skill.</source>
-        <translation>Quantità di MP consumati durante l&apos;utilizzo dell&apos;abilità.</translation>
+        <translation>Quantità di MP consumati durante l'utilizzo dell'abilità.</translation>
     </message>
     <message>
         <source>TP Cost</source>
@@ -5389,7 +5389,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Amount of TP consumed when using the skill.</source>
-        <translation>Quantità di TP consumati durante l&apos;utilizzo dell&apos;abilità.</translation>
+        <translation>Quantità di TP consumati durante l'utilizzo dell'abilità.</translation>
     </message>
     <message>
         <source>Scope</source>
@@ -5397,7 +5397,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Scope of the effect.</source>
-        <translation>Scopo dell&apos;effetto.</translation>
+        <translation>Scopo dell'effetto.</translation>
     </message>
     <message>
         <source>Occasion</source>
@@ -5405,7 +5405,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Screen(s) on which the skill can be used.</source>
-        <translation>Schermata(e) nella quale l&apos;abilità può essere utilizzata.</translation>
+        <translation>Schermata(e) nella quale l'abilità può essere utilizzata.</translation>
     </message>
     <message>
         <source>Message</source>
@@ -5413,7 +5413,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Fixed phrase displayed as a message when using the skill in battle.</source>
-        <translation>Frase fissa visualizzata come messaggio durante l&apos;utilizzo dell&apos;abilità in battaglia.</translation>
+        <translation>Frase fissa visualizzata come messaggio durante l'utilizzo dell'abilità in battaglia.</translation>
     </message>
     <message>
         <source>(User Name)</source>
@@ -5428,24 +5428,24 @@ Please lower the file size of this project.</source>
         <translation>Compone automaticamente il messaggio.</translation>
     </message>
     <message>
-        <source>&quot;casts *!&quot;</source>
-        <translation>&quot;genera *!&quot;</translation>
+        <source>"casts *!"</source>
+        <translation>"genera *!"</translation>
     </message>
     <message>
         <source> casts %1!</source>
         <translation> genera %1!</translation>
     </message>
     <message>
-        <source>&quot;does *!&quot;</source>
-        <translation>&quot;fa *!&quot;</translation>
+        <source>"does *!"</source>
+        <translation>"fa *!"</translation>
     </message>
     <message>
         <source> does %1!</source>
         <translation> fa %1!</translation>
     </message>
     <message>
-        <source>&quot;uses *!&quot;</source>
-        <translation>&quot;utilizza *!&quot;</translation>
+        <source>"uses *!"</source>
+        <translation>"utilizza *!"</translation>
     </message>
     <message>
         <source> uses %1!</source>
@@ -5456,8 +5456,8 @@ Please lower the file size of this project.</source>
         <translation>Arma necessaria</translation>
     </message>
     <message>
-        <source>Weapon type required to use the skill. For example, this is used to prevent the selection of a &quot;Sword Skill&quot; unless a sword is equipped.</source>
-        <translation>Tipo di arma necessaria per l&apos;utilizzo dell&apos;abilità. Per esempio, questa opzione viene utilizzata per evitare la selezione di una &quot;Abilità spada&quot; a meno che non ci sia in dotazione una spada.</translation>
+        <source>Weapon type required to use the skill. For example, this is used to prevent the selection of a "Sword Skill" unless a sword is equipped.</source>
+        <translation>Tipo di arma necessaria per l'utilizzo dell'abilità. Per esempio, questa opzione viene utilizzata per evitare la selezione di una "Abilità spada" a meno che non ci sia in dotazione una spada.</translation>
     </message>
     <message>
         <source>Weapon Type 1</source>
@@ -5465,7 +5465,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>When both weapon type 1 and 2 are [None], use is unconditional. When one or both are set, use is possible if either of the weapons is equipped.</source>
-        <translation>Quando entrambi i tipi di arma 1 e 2 sono [Nessuno], l&apos;utilizzo è incondizionato. Quando una o entrambe sono impostate, l&apos;utilizzo è possibile se una delle due armi è in dotazione.</translation>
+        <translation>Quando entrambi i tipi di arma 1 e 2 sono [Nessuno], l'utilizzo è incondizionato. Quando una o entrambe sono impostate, l'utilizzo è possibile se una delle due armi è in dotazione.</translation>
     </message>
     <message>
         <source>Weapon Type 2</source>
@@ -5504,7 +5504,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Restriction on actions. When this is set to a state other than [None], command input will not be accepted, and only the action that has been set will be performed. When there are overlapping restrictions, the one at the bottom of the list takes precedence.</source>
-        <translation>Restrizione nelle azioni. Quando questa opzione è impostata su uno stato diverso da [Nessuno], l&apos;immissione del comando non sarà accettata e soltanto l&apos;azione che è stata impostata verrà eseguita. Quando vi sono restrizioni che si sovrappongono, quella in fondo all&apos;elenco ha la precedenza.</translation>
+        <translation>Restrizione nelle azioni. Quando questa opzione è impostata su uno stato diverso da [Nessuno], l'immissione del comando non sarà accettata e soltanto l'azione che è stata impostata verrà eseguita. Quando vi sono restrizioni che si sovrappongono, quella in fondo all'elenco ha la precedenza.</translation>
     </message>
     <message>
         <source>None</source>
@@ -5532,7 +5532,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Priority for displaying state icons. When multiple states have been applied, the state that has a higher value for this setting will be given display priority. When priority is the same, the one with the lower ID is given preference.</source>
-        <translation>Priorità per le icone di visualizzazione dello stato. Quando sono stati applicati diversi stati, lo stato con il valore più alto per questa impostazione avrà la priorità di visualizzazione. Quando la priorità è la stessa, viene data la preferenza a quella con l&apos;ID inferiore.</translation>
+        <translation>Priorità per le icone di visualizzazione dello stato. Quando sono stati applicati diversi stati, lo stato con il valore più alto per questa impostazione avrà la priorità di visualizzazione. Quando la priorità è la stessa, viene data la preferenza a quella con l'ID inferiore.</translation>
     </message>
     <message>
         <source>[SV] Motion</source>
@@ -5608,7 +5608,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Conditions for state removal, apart from using skills and items.</source>
-        <translation>Condizioni per la rimozione dello stato, oltre all&apos;utilizzo di abilità ed elementi.</translation>
+        <translation>Condizioni per la rimozione dello stato, oltre all'utilizzo di abilità ed elementi.</translation>
     </message>
     <message>
         <source>Remove at Battle End</source>
@@ -5649,7 +5649,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Number of turns the effect of the state lasts. Countdown processing for the number of turns is run at the end of a turn regardless of the setting.</source>
-        <translation>Numero di turni di durata dell&apos;effetto dello stato. L&apos;elaborazione di un conto alla rovescia per il numero di turni viene avviata al termine di un turno indipendentemente dall&apos;impostazione.</translation>
+        <translation>Numero di turni di durata dell'effetto dello stato. L'elaborazione di un conto alla rovescia per il numero di turni viene avviata al termine di un turno indipendentemente dall'impostazione.</translation>
     </message>
     <message>
         <source>Remove by Damage</source>
@@ -5657,7 +5657,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Removes the state at the specified probability when the target suffers some sort of damage.</source>
-        <translation>Rimuove lo stato alla probabilità specificata quando l&apos;obiettivo ha subito qualche tipo di danno.</translation>
+        <translation>Rimuove lo stato alla probabilità specificata quando l'obiettivo ha subito qualche tipo di danno.</translation>
     </message>
     <message>
         <source>Remove by Walking</source>
@@ -5701,8 +5701,8 @@ Please lower the file size of this project.</source>
         <translation>Se lo stato persiste</translation>
     </message>
     <message>
-        <source>Message to be displayed on the target&apos;s turn while the state is active.</source>
-        <translation>Messaggio da visualizzare sul turno dell&apos;obiettivo mentre lo stato è attivo.</translation>
+        <source>Message to be displayed on the target's turn while the state is active.</source>
+        <translation>Messaggio da visualizzare sul turno dell'obiettivo mentre lo stato è attivo.</translation>
     </message>
     <message>
         <source>If the state is removed</source>
@@ -5769,14 +5769,14 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Sets the character as looking upward when on this tile. This makes it look like the character is grabbing onto a ladder attached to a wall.</source>
-        <translation>Imposta il personaggio intento a guardare verso l&apos;alto quando si trova su questa tessera. Questo fa sì che sembri che il personaggio si stia arrampicando su una scala attaccata al muro.</translation>
+        <translation>Imposta il personaggio intento a guardare verso l'alto quando si trova su questa tessera. Questo fa sì che sembri che il personaggio si stia arrampicando su una scala attaccata al muro.</translation>
     </message>
     <message>
         <source>Bush</source>
         <translation>Cespuglio</translation>
     </message>
     <message>
-        <source>Sets as translucent the bottom some pixels of a character on the tile, which can make the character&apos;s feet seemingly hidden in a bush.</source>
+        <source>Sets as translucent the bottom some pixels of a character on the tile, which can make the character's feet seemingly hidden in a bush.</source>
         <translation>Imposta come traslucida la parte inferiore di alcuni pixel di un personaggio sulla tessera, cosa che può fare sembrare che i piedi del personaggio siano nascosti in un cespuglio.</translation>
     </message>
     <message>
@@ -5785,7 +5785,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Enables a tile to start an event that is not directly next to it. When a tile with the counter attribute is between the character and the event, the event will start as if the character is right next to it, even if it would not normally do so. When this attribute is given to a terrain autotile, it is considered to be a table and will be drawn by extending it 12 pixels downward.</source>
-        <translation>Abilita una tessera ad avviare un evento che non si trova direttamente accanto ad essa. Quando una tessera con un attributo contatore si trova tra il personaggio e l&apos;evento, l&apos;evento si avvierà come se il personaggio si trovasse accanto ad esso, anche se normalmente non farebbe così. Quando questo attributo viene assegnato a una tessera automatica del terreno, viene considerata come una tavola e verrà disegnata estendendola di 12 pixel verso il basso.</translation>
+        <translation>Abilita una tessera ad avviare un evento che non si trova direttamente accanto ad essa. Quando una tessera con un attributo contatore si trova tra il personaggio e l'evento, l'evento si avvierà come se il personaggio si trovasse accanto ad esso, anche se normalmente non farebbe così. Quando questo attributo viene assegnato a una tessera automatica del terreno, viene considerata come una tavola e verrà disegnata estendendola di 12 pixel verso il basso.</translation>
     </message>
     <message>
         <source>Damage Floor</source>
@@ -5828,7 +5828,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Gives a name based on the names of the enemies within the troop.</source>
-        <translation>Assegna un nome basato sui nomi dei nemici all&apos;interno della truppa.</translation>
+        <translation>Assegna un nome basato sui nomi dei nemici all'interno della truppa.</translation>
     </message>
     <message>
         <source>Change BG</source>
@@ -5903,7 +5903,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Basic weapon settings.</source>
-        <translation>Impostazioni di base dell&apos;arma.</translation>
+        <translation>Impostazioni di base dell'arma.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5911,7 +5911,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Name of the weapon.</source>
-        <translation>Nome dell&apos;arma.</translation>
+        <translation>Nome dell'arma.</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -5919,7 +5919,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Icon appearing to the left of the weapon name in the game.</source>
-        <translation>Icona che appare alla sinistra del nome dell&apos;arma nel gioco.</translation>
+        <translation>Icona che appare alla sinistra del nome dell'arma nel gioco.</translation>
     </message>
     <message>
         <source>Description</source>
@@ -5927,7 +5927,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Comment displayed when the weapon is selected in the game.</source>
-        <translation>Commento visualizzato quando l&apos;arma viene selezionata nel gioco.</translation>
+        <translation>Commento visualizzato quando l'arma viene selezionata nel gioco.</translation>
     </message>
     <message>
         <source>Weapon Type</source>
@@ -5935,7 +5935,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Type of the weapon. Setting [Equip Weapon] in trait lists enables to equip with them.</source>
-        <translation>Tipo di arma. L&apos;impostazione di [Dotarsi di armi] nell&apos;elenco tratteggiato consente di dotarsi di esse.</translation>
+        <translation>Tipo di arma. L'impostazione di [Dotarsi di armi] nell'elenco tratteggiato consente di dotarsi di esse.</translation>
     </message>
     <message>
         <source>Price</source>
@@ -5943,7 +5943,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Weapon price. The player can sell the weapon for half of this price when the price is greater than 0.</source>
-        <translation>Costo arma. Il giocatore può vendere l&apos;arma per la metà del suo prezzo quando il prezzo è superiore a 0.</translation>
+        <translation>Costo arma. Il giocatore può vendere l'arma per la metà del suo prezzo quando il prezzo è superiore a 0.</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -5951,7 +5951,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Animation displayed for the target when using this weapon in battle.</source>
-        <translation>Animazione visualizzata per l&apos;obiettivo quando viene utilizzata quest&apos;arma in battaglia.</translation>
+        <translation>Animazione visualizzata per l'obiettivo quando viene utilizzata quest'arma in battaglia.</translation>
     </message>
 </context>
 <context>
@@ -6032,7 +6032,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Enables the input of more than 4 lines and inserts multiple event commands.</source>
-        <translation>Consente l&apos;ingresso di oltre 4 linee e inserisce più comandi evento.</translation>
+        <translation>Consente l'ingresso di oltre 4 linee e inserisce più comandi evento.</translation>
     </message>
 </context>
 <context>
@@ -6100,7 +6100,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Variable containing the numeric value entered by the player. The original entry is displayed in this variable as entry begins.</source>
-        <translation>Variabile contenente il valore numerico inserito dal giocatore. L&apos;inserimento originale viene visualizzato in questa variabile all&apos;inizio dell&apos;inserimento.</translation>
+        <translation>Variabile contenente il valore numerico inserito dal giocatore. L'inserimento originale viene visualizzato in questa variabile all'inizio dell'inserimento.</translation>
     </message>
     <message>
         <source>Digits</source>
@@ -6119,7 +6119,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Variable for storing the ID of the item the player selected. Zero is stored if the player cancels the selection.</source>
-        <translation>Variabile per la memorizzazione dell&apos;ID dell&apos;elemento selezionato dal giocatore. Se il giocatore cancella la selezione viene memorizzato zero.</translation>
+        <translation>Variabile per la memorizzazione dell'ID dell'elemento selezionato dal giocatore. Se il giocatore cancella la selezione viene memorizzato zero.</translation>
     </message>
     <message>
         <source>Item Type</source>
@@ -6206,7 +6206,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Name of the label to be set.</source>
-        <translation>Nome dell&apos;etichetta da impostare.</translation>
+        <translation>Nome dell'etichetta da impostare.</translation>
     </message>
 </context>
 <context>
@@ -6217,7 +6217,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Label name of the jump destination.</source>
-        <translation>Nome dell&apos;etichetta della destinazione del salto.</translation>
+        <translation>Nome dell'etichetta della destinazione del salto.</translation>
     </message>
 </context>
 <context>
@@ -6232,7 +6232,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Selects whether to turn the switch(es) ON or OFF.</source>
-        <translation>Seleziona se girare o meno l&apos;interruttore (gli interruttori) su ON o OFF.</translation>
+        <translation>Seleziona se girare o meno l'interruttore (gli interruttori) su ON o OFF.</translation>
     </message>
     <message>
         <source>ON</source>
@@ -6240,7 +6240,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Turns the specified switch(es) ON.</source>
-        <translation>Accende l&apos;interruttore (gli interruttori) specificato(i).</translation>
+        <translation>Accende l'interruttore (gli interruttori) specificato(i).</translation>
     </message>
     <message>
         <source>OFF</source>
@@ -6248,7 +6248,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Turns the specified switch(es) OFF.</source>
-        <translation>Spegne l&apos;interruttore (gli interruttori) specificato(i).</translation>
+        <translation>Spegne l'interruttore (gli interruttori) specificato(i).</translation>
     </message>
 </context>
 <context>
@@ -6277,7 +6277,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Stores the operand to the specified variable(s).</source>
-        <translation>Memorizza l&apos;operando alla(e) variabile(i) specificata(e).</translation>
+        <translation>Memorizza l'operando alla(e) variabile(i) specificata(e).</translation>
     </message>
     <message>
         <source>Add</source>
@@ -6287,7 +6287,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Adds the operand to the specified variable(s).</source>
-        <translation>Aggiunge l&apos;operando alla(e) variabile(i) specificata(e).</translation>
+        <translation>Aggiunge l'operando alla(e) variabile(i) specificata(e).</translation>
     </message>
     <message>
         <source>Sub</source>
@@ -6296,7 +6296,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Subtracts the operand from the specified variable(s).</source>
-        <translation>Sottrae l&apos;operando dalla(e) variabile(i) specificata(e).</translation>
+        <translation>Sottrae l'operando dalla(e) variabile(i) specificata(e).</translation>
     </message>
     <message>
         <source>Mul</source>
@@ -6305,7 +6305,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Multiplies the specified variable(s) by the operand.</source>
-        <translation>Moltiplica la(e) variabile(i) specificata(e) per l&apos;operando.</translation>
+        <translation>Moltiplica la(e) variabile(i) specificata(e) per l'operando.</translation>
     </message>
     <message>
         <source>Div</source>
@@ -6314,7 +6314,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Divides the specified variable(s) by the operand.</source>
-        <translation>Divide la(e) variabile(i) specificata(e) per l&apos;operando.</translation>
+        <translation>Divide la(e) variabile(i) specificata(e) per l'operando.</translation>
     </message>
     <message>
         <source>Mod</source>
@@ -6323,7 +6323,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Divides the specified variable(s) by the operand and stores the remainder(s).</source>
-        <translation>Divide la(e) variabile(i) specificata(e) per l&apos;operando e memorizza il resto.</translation>
+        <translation>Divide la(e) variabile(i) specificata(e) per l'operando e memorizza il resto.</translation>
     </message>
     <message>
         <source>Operand</source>
@@ -6348,7 +6348,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Selects whether to turn the self switch ON or OFF.</source>
-        <translation>Seleziona se girare o meno l&apos;auto inter. su ON o OFF.</translation>
+        <translation>Seleziona se girare o meno l'auto inter. su ON o OFF.</translation>
     </message>
     <message>
         <source>ON</source>
@@ -6356,7 +6356,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Turns the specified self switch ON.</source>
-        <translation>Accende l&apos;auto inter. specificato.</translation>
+        <translation>Accende l'auto inter. specificato.</translation>
     </message>
     <message>
         <source>OFF</source>
@@ -6364,7 +6364,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Turns the specified self switch OFF.</source>
-        <translation>Spegne l&apos;auto inter. specificato.</translation>
+        <translation>Spegne l'auto inter. specificato.</translation>
     </message>
 </context>
 <context>
@@ -6454,7 +6454,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Selects whether to add or remove the actor.</source>
-        <translation>Seleziona se aggiungere o rimuovere l&apos;attore.</translation>
+        <translation>Seleziona se aggiungere o rimuovere l'attore.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -6463,7 +6463,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Adds the actor to the party.</source>
-        <translation>Aggiunge l&apos;attore al gruppo.</translation>
+        <translation>Aggiunge l'attore al gruppo.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -6472,7 +6472,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Removes the actor from the party.</source>
-        <translation>Rimuovere l&apos;attore dal gruppo.</translation>
+        <translation>Rimuovere l'attore dal gruppo.</translation>
     </message>
     <message>
         <source>Initialize</source>
@@ -6752,7 +6752,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation>Attende il termine dell&apos;effetto.</translation>
+        <translation>Attende il termine dell'effetto.</translation>
     </message>
 </context>
 <context>
@@ -6779,7 +6779,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation>Attende il termine dell&apos;effetto.</translation>
+        <translation>Attende il termine dell'effetto.</translation>
     </message>
 </context>
 <context>
@@ -6806,7 +6806,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays only the actor at the head of the party on the map.</source>
-        <translation>Visualizza solo l&apos;attore alla testa del gruppo sulla mappa.</translation>
+        <translation>Visualizza solo l'attore alla testa del gruppo sulla mappa.</translation>
     </message>
 </context>
 <context>
@@ -6891,7 +6891,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Rotation setting of the picture.</source>
-        <translation>Impostazione di rotazione dell&apos;immagine.</translation>
+        <translation>Impostazione di rotazione dell'immagine.</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -6899,7 +6899,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Value by which to increase/decrease the angle. Positive values mean counterclockwise rotation.</source>
-        <translation>Valore per il quale aumentare/diminuire l&apos;angolo. Valori positivi indicano una rotazione in senso antiorario.</translation>
+        <translation>Valore per il quale aumentare/diminuire l'angolo. Valori positivi indicano una rotazione in senso antiorario.</translation>
     </message>
 </context>
 <context>
@@ -6932,7 +6932,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Settings for the weather effect to be displayed.</source>
-        <translation>Impostazioni per l&apos;effetto meteo da visualizzare.</translation>
+        <translation>Impostazioni per l'effetto meteo da visualizzare.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -7118,7 +7118,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Maximum number of characters for name input.</source>
-        <translation>Numero massimo di caratteri per l&apos;inserimento del nome.</translation>
+        <translation>Numero massimo di caratteri per l'inserimento del nome.</translation>
     </message>
 </context>
 <context>
@@ -7134,7 +7134,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Adds the state to the actor.</source>
-        <translation>Aggiunge lo stato all&apos;attore.</translation>
+        <translation>Aggiunge lo stato all'attore.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -7143,7 +7143,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Removes the state from the actor.</source>
-        <translation>Rimuove lo stato dall&apos;attore.</translation>
+        <translation>Rimuove lo stato dall'attore.</translation>
     </message>
     <message>
         <source>State</source>
@@ -7169,7 +7169,7 @@ Please lower the file size of this project.</source>
     <name>EventCommand318</name>
     <message>
         <source>Selects whether to learn or forget the skill.</source>
-        <translation>Seleziona se apprendere o dimenticare l&apos;abilità.</translation>
+        <translation>Seleziona se apprendere o dimenticare l'abilità.</translation>
     </message>
     <message>
         <source>Learn</source>
@@ -7177,7 +7177,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Adds the skill to the actor.</source>
-        <translation>Aggiunge l&apos;abilità all&apos;attore.</translation>
+        <translation>Aggiunge l'abilità all'attore.</translation>
     </message>
     <message>
         <source>Forget</source>
@@ -7185,7 +7185,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Removes the skill from the actor.</source>
-        <translation>Rimuove l&apos;abilità dall&apos;attore.</translation>
+        <translation>Rimuove l'abilità dall'attore.</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -7204,7 +7204,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Actor to change the equipment.</source>
-        <translation>Attore al quale cambiare l&apos;equipaggiamento.</translation>
+        <translation>Attore al quale cambiare l'equipaggiamento.</translation>
     </message>
     <message>
         <source>Equipment Type</source>
@@ -7220,7 +7220,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Item to be newly equipped. The party must have the specified item.</source>
-        <translation>Elemento di cui dotarsi prontamente. Il gruppo deve avere l&apos;elemento specificato.</translation>
+        <translation>Elemento di cui dotarsi prontamente. Il gruppo deve avere l'elemento specificato.</translation>
     </message>
 </context>
 <context>
@@ -7239,7 +7239,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>New name of the actor.</source>
-        <translation>Nuovo nome dell&apos;attore.</translation>
+        <translation>Nuovo nome dell'attore.</translation>
     </message>
 </context>
 <context>
@@ -7258,11 +7258,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>New class of the actor.</source>
-        <translation>Nuova classe dell&apos;attore.</translation>
+        <translation>Nuova classe dell'attore.</translation>
     </message>
     <message>
         <source>Save the current level of the actor.</source>
-        <translation>Salva il livello corrente dell&apos;attore.</translation>
+        <translation>Salva il livello corrente dell'attore.</translation>
     </message>
     <message>
         <source>Save Level</source>
@@ -7285,7 +7285,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Images of the actor to be displayed in the game.</source>
-        <translation>Immagini dell&apos;attore da visualizzare nel gioco.</translation>
+        <translation>Immagini dell'attore da visualizzare nel gioco.</translation>
     </message>
 </context>
 <context>
@@ -7296,7 +7296,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Vehicle to change the image.</source>
-        <translation>Veicolo per cambiare l&apos;immagine.</translation>
+        <translation>Veicolo per cambiare l'immagine.</translation>
     </message>
     <message>
         <source>Image</source>
@@ -7323,7 +7323,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>New nickname of the actor.</source>
-        <translation>Nuovo pseudonimo dell&apos;attore.</translation>
+        <translation>Nuovo pseudonimo dell'attore.</translation>
     </message>
 </context>
 <context>
@@ -7342,7 +7342,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>New profile of the actor.</source>
-        <translation>Nuovo profilo dell&apos;attore.</translation>
+        <translation>Nuovo profilo dell'attore.</translation>
     </message>
 </context>
 <context>
@@ -7431,15 +7431,15 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Battle character to be forced the action.</source>
-        <translation>Personaggio della battaglia di cui forzare l&apos;azione.</translation>
+        <translation>Personaggio della battaglia di cui forzare l'azione.</translation>
     </message>
     <message>
         <source>Forces the action of the specified enemy.</source>
-        <translation>Forza l&apos;azione del nemico specificato.</translation>
+        <translation>Forza l'azione del nemico specificato.</translation>
     </message>
     <message>
         <source>Forces the action of the specified actor.</source>
-        <translation>Forza l&apos;azione dell&apos;attore specificato.</translation>
+        <translation>Forza l'azione dell'attore specificato.</translation>
     </message>
     <message>
         <source>Action</source>
@@ -7447,7 +7447,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Contents of the forced action.</source>
-        <translation>Contenuti dell&apos;azione forzata.</translation>
+        <translation>Contenuti dell'azione forzata.</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -7463,7 +7463,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Target of the action when the selection is required.</source>
-        <translation>Obiettivo dell&apos;azione quando è necessaria la selezione.</translation>
+        <translation>Obiettivo dell'azione quando è necessaria la selezione.</translation>
     </message>
 </context>
 <context>
@@ -8192,11 +8192,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Selects an item possessed by the party and stores its item ID in a variable.</source>
-        <translation>Seleziona un elemento posseduto dal gruppo e memorizza l&apos;ID del suo elemento in una variabile.</translation>
+        <translation>Seleziona un oggetto posseduto dal gruppo e memorizza l'ID dell'oggetto in una variabile.</translation>
     </message>
     <message>
         <source>Displays text that scrolls from the bottom of the screen to the top.</source>
-        <translation>Visualizza il testo che scorre dal basso della schermata verso l&apos;alto.</translation>
+        <translation>Visualizza il testo che scorre dal basso della schermata verso l'alto.</translation>
     </message>
     <message>
         <source>Turns a switch ON/OFF.</source>
@@ -8208,7 +8208,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Turns a self switch ON/OFF. Used only on the map screen.</source>
-        <translation>Commuta l&apos;interruttore automatico su ON/OFF. Utilizzato solo nella schermata mappa.</translation>
+        <translation>Commuta l'interruttore automatico su ON/OFF. Utilizzato solo nella schermata mappa.</translation>
     </message>
     <message>
         <source>Starts or stops the timer.</source>
@@ -8232,55 +8232,55 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Calls up a common event. When the called event is complete, moves onto the next command.</source>
-        <translation>Richiama un evento comune. Quando l&apos;evento chiamato è completato, si sposta al comando successivo.</translation>
+        <translation>Richiama un evento comune. Quando l'evento chiamato è completato, si sposta al comando successivo.</translation>
     </message>
     <message>
         <source>Sets the label name for jump.</source>
-        <translation>Imposta il nome dell&apos;etichetta per il salto.</translation>
+        <translation>Imposta il nome dell'etichetta per il salto.</translation>
     </message>
     <message>
         <source>Moves to the specified label name. Only valid within this event list.</source>
-        <translation>Sposta il nome dell&apos;etichetta specificata. Valido solo all&apos;interno del presente elenco di eventi.</translation>
+        <translation>Sposta il nome dell'etichetta specificata. Valido solo all'interno del presente elenco di eventi.</translation>
     </message>
     <message>
         <source>Sets the comments displayed in the list. Has no effect in the game.</source>
-        <translation>Imposta i commenti visualizzati nell&apos;elenco. Non ha alcun effetto nel gioco.</translation>
+        <translation>Imposta i commenti visualizzati nell'elenco. Non ha alcun effetto nel gioco.</translation>
     </message>
     <message>
-        <source>Changes the amount of money in the party&apos;s inventory.</source>
-        <translation>Modifica la quantità di denaro nell&apos;inventario del gruppo.</translation>
+        <source>Changes the amount of money in the party's inventory.</source>
+        <translation>Modifica la quantità di denaro nell'inventario del gruppo.</translation>
     </message>
     <message>
-        <source>Changes the item in the party&apos;s inventory.</source>
-        <translation>Modifica l&apos;elemento nell&apos;inventario del gruppo.</translation>
+        <source>Changes the item in the party's inventory.</source>
+        <translation>Modifica l'oggetto nell'inventario del gruppo.</translation>
     </message>
     <message>
-        <source>Changes the weapon in the party&apos;s inventory.</source>
-        <translation>Modifica l&apos;arma nell&apos;inventario del gruppo.</translation>
+        <source>Changes the weapon in the party's inventory.</source>
+        <translation>Modifica l'arma nell'inventario del gruppo.</translation>
     </message>
     <message>
-        <source>Changes the armor in the party&apos;s inventory.</source>
-        <translation>Modifica l&apos;armatura nell&apos;inventario del gruppo.</translation>
+        <source>Changes the armor in the party's inventory.</source>
+        <translation>Modifica l'armatura nell'inventario del gruppo.</translation>
     </message>
     <message>
         <source>Changes the actor in the party.</source>
-        <translation>Modifica l&apos;attore nel gruppo.</translation>
+        <translation>Modifica l'attore nel gruppo.</translation>
     </message>
     <message>
         <source>Changes the HP of the actor.</source>
-        <translation>Modifica l&apos;HP dell&apos;attore.</translation>
+        <translation>Modifica gli HP dell'attore.</translation>
     </message>
     <message>
         <source>Changes the MP of the actor.</source>
-        <translation>Modifica l&apos;MP dell&apos;attore.</translation>
+        <translation>Modifica gli MP dell'attore.</translation>
     </message>
     <message>
         <source>Changes the TP of the actor.</source>
-        <translation>Modifica il TP dell&apos;attore.</translation>
+        <translation>Modifica i TP dell'attore.</translation>
     </message>
     <message>
         <source>Changes the state of the actor.</source>
-        <translation>Modifica lo stato dell&apos;attore.</translation>
+        <translation>Modifica lo stato dell'attore.</translation>
     </message>
     <message>
         <source>Clears all states and fully recovers HP and MP.</source>
@@ -8288,39 +8288,39 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the EXP of the actor.</source>
-        <translation>Modifica la EXP dell&apos;attore.</translation>
+        <translation>Modifica l'EXP dell'attore.</translation>
     </message>
     <message>
         <source>Changes the level of the actor.</source>
-        <translation>Modifica il livello dell&apos;attore.</translation>
+        <translation>Modifica il livello dell'attore.</translation>
     </message>
     <message>
         <source>Changes the parameter of the actor.</source>
-        <translation>Modifica il parametro dell&apos;attore.</translation>
+        <translation>Modifica il parametro dell'attore.</translation>
     </message>
     <message>
         <source>Changes the skill of the actor.</source>
-        <translation>Modifica l&apos;abilità dell&apos;attore.</translation>
+        <translation>Modifica l'abilità dell'attore.</translation>
     </message>
     <message>
         <source>Changes the equipment of the actor.</source>
-        <translation>Modifica l&apos;equipaggiamento dell&apos;attore.</translation>
+        <translation>Modifica l'equipaggiamento dell'attore.</translation>
     </message>
     <message>
         <source>Changes the name of the actor.</source>
-        <translation>Modifica il nome dell&apos;attore.</translation>
+        <translation>Modifica il nome dell'attore.</translation>
     </message>
     <message>
         <source>Changes the class of the actor.</source>
-        <translation>Modifica la classe dell&apos;attore.</translation>
+        <translation>Modifica la classe dell'attore.</translation>
     </message>
     <message>
         <source>Changes the nickname of the actor.</source>
-        <translation>Modifica lo pseudonimo dell&apos;attore.</translation>
+        <translation>Modifica lo pseudonimo dell'attore.</translation>
     </message>
     <message>
         <source>Changes the profile of the actor.</source>
-        <translation>Modifica il profilo dell&apos;attore.</translation>
+        <translation>Modifica il profilo dell'attore.</translation>
     </message>
     <message>
         <source>Changes the current location of the player. Used only on the map screen.</source>
@@ -8332,15 +8332,15 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the current location of the specified event. Cannot move the event to a different map.</source>
-        <translation>Modifica la posizione corrente dell&apos;evento specificato. Impossibile spostare l&apos;evento in una mappa diversa.</translation>
+        <translation>Modifica la posizione corrente dell'evento specificato. Impossibile spostare l'evento in una mappa diversa.</translation>
     </message>
     <message>
-        <source>Scrolls the map without changing the player&apos;s location. Used only on the map screen.</source>
+        <source>Scrolls the map without changing the player's location. Used only on the map screen.</source>
         <translation>Fa scorrere la mappa senza modificare la posizione del giocatore. Utilizzato solo nella schermata mappa.</translation>
     </message>
     <message>
         <source>Forces the player or event to move. If a route already exists, it will be overwritten.</source>
-        <translation>Forza il giocatore o l&apos;evento a spostarsi. Se esiste già un itinerario, verrà sovrascritto.</translation>
+        <translation>Forza il giocatore o l'evento a spostarsi. Se esiste già un itinerario, verrà sovrascritto.</translation>
     </message>
     <message>
         <source>Puts the player on a vehicle. If the player is already on a vehicle, puts him on the ground.</source>
@@ -8360,35 +8360,35 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays the specified animation to the character on the map.</source>
-        <translation>Visualizza l&apos;animazione specificata al personaggio sulla mappa.</translation>
+        <translation>Visualizza l'animazione specificata al personaggio sulla mappa.</translation>
     </message>
     <message>
-        <source>Displays the specified balloon icon above the character&apos;s head.</source>
-        <translation>Visualizza l&apos;icona fumetto specificata sopra la testa del personaggio.</translation>
+        <source>Displays the specified balloon icon above the character's head.</source>
+        <translation>Visualizza l'icona fumetto specificata sopra la testa del personaggio.</translation>
     </message>
     <message>
         <source>Temporarily removes the current event on the map. If the player moves off of the map and returns, the event will reappear.</source>
-        <translation>Rimuove temporaneamente l&apos;evento corrente sulla mappa. Se il giocatore esce dalla mappa e vi ritorna, l&apos;evento riapparirà.</translation>
+        <translation>Rimuove temporaneamente l'evento corrente sulla mappa. Se il giocatore esce dalla mappa e vi ritorna, l'evento riapparirà.</translation>
     </message>
     <message>
         <source>Fades out the entire screen.</source>
-        <translation>Dissolve l&apos;intero schermo.</translation>
+        <translation>Dissolve l'intero schermo.</translation>
     </message>
     <message>
         <source>Fades in the entire screen.</source>
-        <translation>Assolve l&apos;intero schermo.</translation>
+        <translation>Assolve l'intero schermo.</translation>
     </message>
     <message>
         <source>Changes the color tone of the entire screen. Also affects the battle screen.</source>
-        <translation>Modifica il tono colore dell&apos;intero schermo. Influisce anche sulla schermata della battaglia.</translation>
+        <translation>Modifica il tono del colore dell'intero schermo. Influisce anche sulla schermata della battaglia.</translation>
     </message>
     <message>
         <source>Temporarily fill the entire screen with a color, then gradually revert to the original color.</source>
-        <translation>Riempire temporaneamente l&apos;intero schermo con un colore, quindi riportarlo gradualmente al colore originale.</translation>
+        <translation>Riempire temporaneamente l'intero schermo con un colore, quindi riportarlo gradualmente al colore originale.</translation>
     </message>
     <message>
         <source>Shakes the entire screen from side to side.</source>
-        <translation>Scuote l&apos;intero schermo da parte a parte.</translation>
+        <translation>Scuote l'intero schermo da parte a parte.</translation>
     </message>
     <message>
         <source>Waits for a certain period of time.</source>
@@ -8396,27 +8396,27 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays the specified picture on top of the screen.</source>
-        <translation>Visualizza l&apos;immagine specificata sulla parte superiore dello schermo.</translation>
+        <translation>Visualizza l'immagine specificata sulla parte superiore dello schermo.</translation>
     </message>
     <message>
         <source>Changes the properties of the picture.</source>
-        <translation>Modifica le proprietà dell&apos;immagine.</translation>
+        <translation>Modifica le proprietà dell'immagine.</translation>
     </message>
     <message>
         <source>Changes the rotation speed of the picture.</source>
-        <translation>Modifica la velocità di rotazione dell&apos;immagine.</translation>
+        <translation>Modifica la velocità di rotazione dell'immagine.</translation>
     </message>
     <message>
         <source>Changes the color tone of the picture.</source>
-        <translation>Modifica il tono colore dell&apos;immagine.</translation>
+        <translation>Modifica la tonalità del colore dell'immagine.</translation>
     </message>
     <message>
         <source>Removes the picture.</source>
-        <translation>Rimuove l&apos;immagine.</translation>
+        <translation>Rimuove l'immagine.</translation>
     </message>
     <message>
         <source>Changes the weather effect such as rain and snow.</source>
-        <translation>Modifica l&apos;effetto meteo, quale pioggia o neve.</translation>
+        <translation>Modifica l'effetto meteo, quale pioggia o neve.</translation>
     </message>
     <message>
         <source>Plays the specified BGM.</source>
@@ -8424,7 +8424,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Fades out the current BGM.</source>
-        <translation>Dissolve il corrente BGM.</translation>
+        <translation>Manda in dissolvenza la BGM corrente.</translation>
     </message>
     <message>
         <source>Saves the current BGM.</source>
@@ -8444,11 +8444,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Plays the specified ME.</source>
-        <translation>Riproduce l&apos;ME specificato.</translation>
+        <translation>Riproduce l'ME specificato.</translation>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>Riproduce l&apos;SE specificato.</translation>
+        <translation>Riproduce l'SE specificato.</translation>
     </message>
     <message>
         <source>Stop all the SE.</source>
@@ -8488,7 +8488,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the ME to be played at winning a battle.</source>
-        <translation>Modifica l&apos;ME da riprodurre quando si vince una battaglia.</translation>
+        <translation>Modifica l'ME da riprodurre quando si vince una battaglia.</translation>
     </message>
     <message>
         <source>Enables or disables the saving of game data.</source>
@@ -8512,7 +8512,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the ME to be played at losing a battle.</source>
-        <translation>Modifica l&apos;ME da riprodurre quando si perde una battaglia.</translation>
+        <translation>Modifica l'ME da riprodurre quando si perde una battaglia.</translation>
     </message>
     <message>
         <source>Changes the BGM to be played while riding in a vehicle.</source>
@@ -8520,15 +8520,15 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the image of the actor.</source>
-        <translation>Modifica l&apos;immagine dell&apos;attore.</translation>
+        <translation>Modifica l'immagine dell'attore.</translation>
     </message>
     <message>
         <source>Changes the image of the specified vehicle.</source>
-        <translation>Modifica l&apos;immagine del veicolo specificato.</translation>
+        <translation>Modifica l'immagine del veicolo specificato.</translation>
     </message>
     <message>
         <source>Plays the specified movie. Event processing is stopped until the movie ends.</source>
-        <translation>Riproduce il filmato specificato. L&apos;elaborazione dell&apos;evento viene arrestata fino al termine del filmato.</translation>
+        <translation>Riproduce il filmato specificato. L'elaborazione dell'evento viene arrestata fino al termine del filmato.</translation>
     </message>
     <message>
         <source>Changes whether to display the map name when changing the current map.</source>
@@ -8552,11 +8552,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the HP of the enemy.</source>
-        <translation>Modifica l&apos;HP del nemico.</translation>
+        <translation>Modifica l'HP del nemico.</translation>
     </message>
     <message>
         <source>Changes the MP of the enemy.</source>
-        <translation>Modifica l&apos;MP del nemico.</translation>
+        <translation>Modifica l'MP del nemico.</translation>
     </message>
     <message>
         <source>Changes the TP of the enemy.</source>
@@ -8572,7 +8572,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Makes the enemy who has the [Appear Halfway] option to appear.</source>
-        <translation>Fa apparire il nemico che ha l&apos;opzione [Appaiono a metà corsa].</translation>
+        <translation>Fa apparire il nemico che ha l'opzione [Appaiono a metà corsa].</translation>
     </message>
     <message>
         <source>Transforms the enemy. HP and MP will not be changed.</source>
@@ -8580,11 +8580,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays the specified animation on the battle screen.</source>
-        <translation>Visualizza l&apos;animazione specificata sulla schermata della battaglia.</translation>
+        <translation>Visualizza l'animazione specificata sulla schermata della battaglia.</translation>
     </message>
     <message>
         <source>Forces the specified action.</source>
-        <translation>Forza l&apos;azione specificata.</translation>
+        <translation>Forza l'azione specificata.</translation>
     </message>
     <message>
         <source>Exits the battle.</source>
@@ -8725,7 +8725,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Displays the contents of the selected frame. Double-click on the empty area to place a new cell. Drag a cell to move it. Right-click to open the popup menu.</source>
-        <translation>Visualizza i contenuti del fotogramma selezionato. Fare doppio clic sull&apos;area vuota per posizionare una nuova cella. Trascinare una cella per spostarla. Fare clic col tasto destro per aprire il menu a comparsa.</translation>
+        <translation>Visualizza i contenuti del fotogramma selezionato. Fare doppio clic sull'area vuota per posizionare una nuova cella. Trascinare una cella per spostarla. Fare clic col tasto destro per aprire il menu a comparsa.</translation>
     </message>
     <message>
         <source>Change Target</source>
@@ -8733,7 +8733,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Changes the image currently displayed for editing.</source>
-        <translation>Modifica l&apos;immagine correntemente visualizzata per la modifica.</translation>
+        <translation>Modifica l'immagine correntemente visualizzata per la modifica.</translation>
     </message>
     <message>
         <source>Tween</source>
@@ -8765,7 +8765,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Tests the animation.</source>
-        <translation>Prova l&apos;animazione.</translation>
+        <translation>Prova l'animazione.</translation>
     </message>
     <message>
         <source>Pattern Palette</source>
@@ -8891,7 +8891,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Conditions to start the event. The contents will be run only when all the set conditions have been met. If there are multiple event pages meeting conditions, the contents will be run in order from lower to higher numbered page.</source>
-        <translation>Condizioni per l&apos;avvio dell&apos;evento. I contenuti saranno avviati solo quando sono state soddisfatte tutte le condizioni impostate. Se sono presenti più pagine di evento che soddisfano le condizioni, i contenuti saranno avviati nell&apos;ordine dalla pagina col numero più basso a quella col numero più alto.</translation>
+        <translation>Condizioni per l'avvio dell'evento. I contenuti saranno avviati solo quando sono state soddisfatte tutte le condizioni impostate. Se sono presenti più pagine di evento che soddisfano le condizioni, i contenuti saranno avviati nell'ordine dalla pagina col numero più basso a quella col numero più alto.</translation>
     </message>
     <message>
         <source>Span</source>
@@ -8899,7 +8899,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Interval during which the event contents are allowed to run.&lt;br&gt;[Battle] Run only once in the battle.&lt;br&gt;[Turn] Run only once per turn.&lt;br&gt;[Moment] Repeat while the conditions met.</source>
-        <translation>Intervallo durante il quale i contenuti dell&apos;evento sono autorizzati ad avviarsi.
+        <translation>Intervallo durante il quale i contenuti dell'evento sono autorizzati ad avviarsi.
 [Battaglia] Avviare solo una volta nella battaglia.[Turno] Avviare solo una volta per turno.[Momento] Ripetere mentre sono soddisfatte le condizioni.</translation>
     </message>
     <message>
@@ -8924,10 +8924,10 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor HP</source>
-        <translation>HP dell&apos;attore</translation>
+        <translation>HP dell'attore</translation>
     </message>
     <message>
-        <source>Don&apos;t Run</source>
+        <source>Don't Run</source>
         <translation>Non avviare</translation>
     </message>
 </context>
@@ -8939,7 +8939,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sets the color to use as the transparency background in the editor.</source>
-        <translation>Imposta il colore da usare come sfondo trasparente nell&apos;editor.</translation>
+        <translation>Imposta il colore da usare come sfondo trasparente nell'editor.</translation>
     </message>
     <message>
         <source>Red</source>
@@ -8971,7 +8971,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shows how the transparent color looks like.</source>
-        <translation>Mostra un&apos;anteprima del colore trasparente.</translation>
+        <translation>Mostra un'anteprima del colore trasparente.</translation>
     </message>
 </context>
 <context>
@@ -8982,7 +8982,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Amount of damage or recovery applied to the target.</source>
-        <translation>Ammontare del danno o del recupero applicato all&apos;obiettivo.</translation>
+        <translation>Ammontare del danno o del recupero applicato all'obiettivo.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -9025,8 +9025,8 @@ Please complete the post with follow this link.</source>
         <translation>Elemento</translation>
     </message>
     <message>
-        <source>Element of the damage. Final damage varies depending on the target&apos;s resistance to the element in question.</source>
-        <translation>Elemento del danno. Il danno finale varia a seconda della resistenza dell&apos;obiettivo all&apos;elemento in questione.</translation>
+        <source>Element of the damage. Final damage varies depending on the target's resistance to the element in question.</source>
+        <translation>Elemento del danno. Il danno finale varia a seconda della resistenza dell'obiettivo all'elemento in questione.</translation>
     </message>
     <message>
         <source>Normal Attack</source>
@@ -9037,8 +9037,8 @@ Please complete the post with follow this link.</source>
         <translation>Formula</translation>
     </message>
     <message>
-        <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, &quot;a.atk&quot; stands for user&apos;s attack power.</source>
-        <translation>Formula per il calcolo del danno di base. L&apos;utente viene indicato con a e l&apos;obiettivo con b, quindi uno dei due è seguito da un punto per abilitare la referenza degli stati mostrati da qui in poi. Ad esempio, &quot;a.atk&quot; sta per potenza di attacco dell&apos;utente.</translation>
+        <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, "a.atk" stands for user's attack power.</source>
+        <translation>Formula per il calcolo del danno di base. L'utente viene indicato con a e l'obiettivo con b, quindi uno dei due è seguito da un punto per abilitare la referenza degli stati mostrati da qui in poi. Ad esempio, "a.atk" sta per potenza di attacco dell'utente.</translation>
     </message>
     <message>
         <source>Variance</source>
@@ -9053,8 +9053,8 @@ Please complete the post with follow this link.</source>
         <translation>Colpi critici</translation>
     </message>
     <message>
-        <source>Whether to enable critical hits. When enabled, critical hits will be determined based on the user&apos;s critical rate and the target&apos;s critical evasion rate.</source>
-        <translation>Determina se abilitare i colpi critici. Se abilitati, i colpi critici saranno determinati in base al tasso critico dell&apos;utente e al tasso di evasione critica dell&apos;obiettivo.</translation>
+        <source>Whether to enable critical hits. When enabled, critical hits will be determined based on the user's critical rate and the target's critical evasion rate.</source>
+        <translation>Determina se abilitare i colpi critici. Se abilitati, i colpi critici saranno determinati in base al tasso critico dell'utente e al tasso di evasione critica dell'obiettivo.</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -9075,7 +9075,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Duration of the effect in frames.</source>
-        <translation>Durata dell&apos;effetto in fotogrammi.</translation>
+        <translation>Durata dell'effetto in fotogrammi.</translation>
     </message>
     <message>
         <source>frames (1/60 sec)</source>
@@ -9087,7 +9087,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation>Attende il termine dell&apos;effetto.</translation>
+        <translation>Attende il termine dell'effetto.</translation>
     </message>
 </context>
 <context>
@@ -9208,7 +9208,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Specifies conditions for which the event appears on the map. If no conditions are specified, the event appears unconditionally. Higher numbered page has a higher priority.</source>
-        <translation>Specifica le condizioni per le quali l&apos;evento appare sulla mappa. Se non viene specificata alcuna condizione, l&apos;evento appare incondizionatamente. La pagina con il numero più alto ha una priorità maggiore.</translation>
+        <translation>Specifica le condizioni per le quali l'evento appare sulla mappa. Se non viene specificata alcuna condizione, l'evento appare incondizionatamente. La pagina con il numero più alto ha una priorità maggiore.</translation>
     </message>
     <message>
         <source>Switch</source>
@@ -9216,7 +9216,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Appears when the specified switch is ON.</source>
-        <translation>Appare quando l&apos;interruttore specificato è acceso.</translation>
+        <translation>Appare quando l'interruttore specificato è acceso.</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -9233,7 +9233,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Appears when the specified self switch is ON.</source>
-        <translation>Appare quando l&apos;interruttore automatico specificato è acceso.</translation>
+        <translation>Appare quando l'interruttore automatico specificato è acceso.</translation>
     </message>
     <message>
         <source>Item</source>
@@ -9241,7 +9241,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Appears when the party has the specified item.</source>
-        <translation>Appare quando il gruppo ha l&apos;elemento specificato.</translation>
+        <translation>Appare quando il gruppo ha l'elemento specificato.</translation>
     </message>
     <message>
         <source>Actor</source>
@@ -9249,7 +9249,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Appears when the specified actor is in the party.</source>
-        <translation>Appare quando l&apos;attore specificato si trova nel gruppo.</translation>
+        <translation>Appare quando l'attore specificato si trova nel gruppo.</translation>
     </message>
 </context>
 <context>
@@ -9260,15 +9260,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Settings related to action invocation.</source>
-        <translation>Impostazioni relative all&apos;invocazione dell&apos;azione.</translation>
+        <translation>Impostazioni relative all'invocazione dell'azione.</translation>
     </message>
     <message>
         <source>Speed</source>
         <translation>Velocità</translation>
     </message>
     <message>
-        <source>Value that is added to the character&apos;s agility when determining action order. This allows you to create actions that are powerful but take a long time to perform.</source>
-        <translation>Valore che viene aggiunto all&apos;agilità del personaggio quando si determina un ordine di azione. Ciò consente di creare azioni che sono potenti ma impiegano parecchio tempo per essere eseguite.</translation>
+        <source>Value that is added to the character's agility when determining action order. This allows you to create actions that are powerful but take a long time to perform.</source>
+        <translation>Valore che viene aggiunto all'agilità del personaggio quando si determina un ordine di azione. Ciò consente di creare azioni che sono potenti ma impiegano parecchio tempo per essere eseguite.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -9276,7 +9276,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Probability that the use of the action succeeds.</source>
-        <translation>Probabilità che l&apos;uso dell&apos;azione abbia successo.</translation>
+        <translation>Probabilità che l'uso dell'azione abbia successo.</translation>
     </message>
     <message>
         <source>Repeat</source>
@@ -9284,7 +9284,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Number of times the effect is applied to the target.</source>
-        <translation>Numero di volte in cui l&apos;effetto viene applicato all&apos;obiettivo.</translation>
+        <translation>Numero di volte in cui l'effetto viene applicato all'obiettivo.</translation>
     </message>
     <message>
         <source>TP Gain</source>
@@ -9292,15 +9292,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Amount of TP the user gains per hit.</source>
-        <translation>Quantità di TP guadagnata dall&apos;utente per colpo.</translation>
+        <translation>Quantità di TP guadagnata dall'utente per colpo.</translation>
     </message>
     <message>
         <source>Hit Type</source>
         <translation>Tipo di colpo</translation>
     </message>
     <message>
-        <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user&apos;s hit rate and target&apos;s evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target&apos;s magic evasion rate.</source>
-        <translation>Metodo di determinazione di un colpo. &lt;br&gt;[Colpo sicuro] Tratta l&apos;uso di successo di un&apos;azione come un colpo.&lt;br&gt;[Attacco fisico] Determina i colpi in base al tasso di colpo dell&apos;utente e al tasso di evasione dell&apos;obbiettivo.&lt;br&gt;[Attacco magico] Determina i colpi in base al tasso di evasione magica.</translation>
+        <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user's hit rate and target's evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target's magic evasion rate.</source>
+        <translation>Metodo di determinazione di un colpo. &lt;br&gt;[Colpo sicuro] Tratta l'uso di successo di un'azione come un colpo.&lt;br&gt;[Attacco fisico] Determina i colpi in base al tasso di colpo dell'utente e al tasso di evasione dell'obbiettivo.&lt;br&gt;[Attacco magico] Determina i colpi in base al tasso di evasione magica.</translation>
     </message>
     <message>
         <source>Certain Hit</source>
@@ -9320,7 +9320,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Animation displayed for the target when using the action in battle.</source>
-        <translation>Animazione visualizzata per l&apos;obiettivo quando viene utilizzata l&apos;azione in battaglia.</translation>
+        <translation>Animazione visualizzata per l'obiettivo quando viene utilizzata l'azione in battaglia.</translation>
     </message>
     <message>
         <source>Normal Attack</source>
@@ -9359,7 +9359,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Variable containing the ID of the map.</source>
-        <translation>Variabile contenente l&apos;ID della mappa.</translation>
+        <translation>Variabile contenente l'ID della mappa.</translation>
     </message>
     <message>
         <source>X</source>
@@ -9383,7 +9383,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Swaps the event locations.</source>
-        <translation>Scambia le posizioni dell&apos;evento.</translation>
+        <translation>Scambia le posizioni dell'evento.</translation>
     </message>
     <message>
         <source>Another Event</source>
@@ -9417,7 +9417,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turns the Map Editor grid display on/off.</source>
-        <translation>Abilita o disabilita la visualizzazione della griglia dell&apos;editor della mappa.</translation>
+        <translation>Abilita o disabilita la visualizzazione della griglia dell'editor della mappa.</translation>
     </message>
     <message>
         <source>Show</source>
@@ -9574,7 +9574,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Adds the operand.</source>
-        <translation>Aggiunge l&apos;operando.</translation>
+        <translation>Aggiunge l'operando.</translation>
     </message>
     <message>
         <source>Decrease</source>
@@ -9582,7 +9582,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Subtracts the operand.</source>
-        <translation>Sottrae l&apos;operando.</translation>
+        <translation>Sottrae l'operando.</translation>
     </message>
 </context>
 <context>
@@ -9592,8 +9592,8 @@ Please complete the post with follow this link.</source>
         <translation>Modifiche parametro</translation>
     </message>
     <message>
-        <source>Set how much the actor&apos;s parameters will increase by equipping this item.</source>
-        <translation>Impostare quanti parametri dell&apos;attore aumenteranno dotandosi di questo elemento.</translation>
+        <source>Set how much the actor's parameters will increase by equipping this item.</source>
+        <translation>Impostare quanti parametri dell'attore aumenteranno dotandosi di questo elemento.</translation>
     </message>
 </context>
 <context>
@@ -9608,7 +9608,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Control number of the picture. The larger number, the higher priority.</source>
-        <translation>Numero di controllo dell&apos;immagine. Maggiore il numero, più alta la priorità.</translation>
+        <translation>Numero di controllo dell'immagine. Maggiore il numero, più alta la priorità.</translation>
     </message>
     <message>
         <source>Image</source>
@@ -9627,7 +9627,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Settings related to the mixing of the screen and the image.</source>
-        <translation>Impostazioni relative alla miscelazione dello schermo e dell&apos;immagine.</translation>
+        <translation>Impostazioni relative alla miscelazione dello schermo e dell'immagine.</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -9635,7 +9635,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Opacity level of the picture.</source>
-        <translation>Livello di opacità dell&apos;immagine.</translation>
+        <translation>Livello di opacità dell'immagine.</translation>
     </message>
     <message>
         <source>Blend Mode</source>
@@ -9643,7 +9643,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Blend mode used when the picture is drawn.</source>
-        <translation>Modalità di fusione utilizzata quando viene disegnata un&apos;immagine.</translation>
+        <translation>Modalità di fusione utilizzata quando viene disegnata un'immagine.</translation>
     </message>
 </context>
 <context>
@@ -9654,7 +9654,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Display position of the picture.</source>
-        <translation>Posizione di visualizzazione dell&apos;immagine.</translation>
+        <translation>Posizione di visualizzazione dell'immagine.</translation>
     </message>
     <message>
         <source>Origin</source>
@@ -9662,7 +9662,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Origin point of the picture.</source>
-        <translation>Punto di origine dell&apos;immagine.</translation>
+        <translation>Punto di origine dell'immagine.</translation>
     </message>
     <message>
         <source>Direct designation</source>
@@ -9678,7 +9678,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>X coordinate of the picture.</source>
-        <translation>Coordinata X dell&apos;immagine.</translation>
+        <translation>Coordinata X dell'immagine.</translation>
     </message>
     <message>
         <source>Y</source>
@@ -9686,7 +9686,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Y coordinate of the picture.</source>
-        <translation>Coordinata Y dell&apos;immagine.</translation>
+        <translation>Coordinata Y dell'immagine.</translation>
     </message>
     <message>
         <source>Designation with variables</source>
@@ -9698,11 +9698,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Variable containing the X coordinate of the picture.</source>
-        <translation>Variabile contenente la coordinata X dell&apos;immagine.</translation>
+        <translation>Variabile contenente la coordinata X dell'immagine.</translation>
     </message>
     <message>
         <source>Variable containing the Y coordinate of the picture.</source>
-        <translation>Variabile contenente la coordinata Y dell&apos;immagine.</translation>
+        <translation>Variabile contenente la coordinata Y dell'immagine.</translation>
     </message>
 </context>
 <context>
@@ -9713,7 +9713,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Scale of the picture.</source>
-        <translation>Scala dell&apos;immagine.</translation>
+        <translation>Scala dell'immagine.</translation>
     </message>
     <message>
         <source>Width</source>
@@ -9763,7 +9763,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Party members at the start of the game.</source>
-        <translation>Membri del gruppo all&apos;avvio del gioco.</translation>
+        <translation>Membri del gruppo all'avvio del gioco.</translation>
     </message>
     <message>
         <source>Actor</source>
@@ -9909,35 +9909,35 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Critical to Actor</source>
-        <translation>Critico per l&apos;attore</translation>
+        <translation>Critico per l'attore</translation>
     </message>
     <message>
         <source>Actor Damage</source>
-        <translation>Danno dell&apos;attore</translation>
+        <translation>Danno dell'attore</translation>
     </message>
     <message>
         <source>Actor Recovery</source>
-        <translation>Recupero dell&apos;attore</translation>
+        <translation>Recupero dell'attore</translation>
     </message>
     <message>
         <source>Actor Gain</source>
-        <translation>Guadagno dell&apos;attore</translation>
+        <translation>Guadagno dell'attore</translation>
     </message>
     <message>
         <source>Actor Loss</source>
-        <translation>Perdita dell&apos;attore</translation>
+        <translation>Perdita dell'attore</translation>
     </message>
     <message>
         <source>Actor Drain</source>
-        <translation>Scarico dell&apos;attore</translation>
+        <translation>Scarico dell'attore</translation>
     </message>
     <message>
         <source>Actor No Damage</source>
-        <translation>Nessun danno dell&apos;attore</translation>
+        <translation>Nessun danno dell'attore</translation>
     </message>
     <message>
         <source>Actor No Hit</source>
-        <translation>Nessun colpo dell&apos;attore</translation>
+        <translation>Nessun colpo dell'attore</translation>
     </message>
     <message>
         <source>Enemy Damage</source>
@@ -10043,7 +10043,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Options that affect the entire game.</source>
-        <translation>Opzioni che influenzano l&apos;intero gioco.</translation>
+        <translation>Opzioni che influenzano l'intero gioco.</translation>
     </message>
     <message>
         <source>Use Side-view Battle</source>
@@ -10059,8 +10059,8 @@ Please complete the post with follow this link.</source>
         <translation>Avviare trasparente</translation>
     </message>
     <message>
-        <source>Starts the game with the player&apos;s transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
-        <translation>Avvia il gioco con l&apos;impostazione di trasparenza del giocatore impostata su ON. Questa può essere spenta tramite il comando evento [Modificare trasparenza].</translation>
+        <source>Starts the game with the player's transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
+        <translation>Avvia il gioco con l'impostazione di trasparenza del giocatore impostata su ON. Questa può essere spenta tramite il comando evento [Modificare trasparenza].</translation>
     </message>
     <message>
         <source>Show Player Followers</source>
@@ -10076,7 +10076,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Allows HP to drop to 0 by slip damage, such as poison. If unchecked, stops at 1 HP.</source>
-        <translation>Consente all&apos;HP di diminuire fino a 0 a causa di danno da slittamento, tipo veleno. Senza segno di spunta, si arresta a 1 HP.</translation>
+        <translation>Consente all'HP di diminuire fino a 0 a causa di danno da slittamento, tipo veleno. Senza segno di spunta, si arresta a 1 HP.</translation>
     </message>
     <message>
         <source>Knockout by Floor Damage</source>
@@ -10084,14 +10084,14 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Allows HP to drop to 0 by damage caused by map terrain. If unchecked, stops at 1 HP.</source>
-        <translation>Consente all&apos;HP di diminuire fino a 0 a causa di danno causato dal terreno della mappa. Senza segno di spunta, si arresta a 1 HP.</translation>
+        <translation>Consente all'HP di diminuire fino a 0 a causa di danno causato dal terreno della mappa. Senza segno di spunta, si arresta a 1 HP.</translation>
     </message>
     <message>
         <source>Display TP in Battle</source>
         <translation>Visualizzare TP in battaglia</translation>
     </message>
     <message>
-        <source>Displays the TP of each party member in the status window during battles. Uncheck this option if you don&apos;t use TP system.</source>
+        <source>Displays the TP of each party member in the status window during battles. Uncheck this option if you don't use TP system.</source>
         <translation>Visualizza il TP di ciascun membro del gruppo nella finestra di stato durante le battaglie. Non marcare questa opzione se non si utilizza il sistema TP.</translation>
     </message>
     <message>
@@ -10172,7 +10172,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor Damage</source>
-        <translation>Danno dell&apos;attore</translation>
+        <translation>Danno dell'attore</translation>
     </message>
     <message>
         <source>Actor Collapse</source>
@@ -10223,7 +10223,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Location of the %1 at the start of the game.</source>
-        <translation>Posizione del %1 all&apos;avvio del gioco.</translation>
+        <translation>Posizione del %1 all'avvio del gioco.</translation>
     </message>
 </context>
 <context>
@@ -10253,7 +10253,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Directly specifies the actor to be targeted.</source>
-        <translation>Specifica direttamente l&apos;attore che deve essere mirato.</translation>
+        <translation>Specifica direttamente l'attore che deve essere mirato.</translation>
     </message>
     <message>
         <source>Entire Party</source>
@@ -10463,7 +10463,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Same as Random Encounter</source>
-        <translation>Come per l&apos;incontro casuale</translation>
+        <translation>Come per l'incontro casuale</translation>
     </message>
     <message>
         <source>Randomly selects a troop from among those set for random encounters by map settings.</source>
@@ -10478,7 +10478,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Changes how the editor looks like.</source>
-        <translation>Cambia l&apos;aspetto dell&apos;editor.</translation>
+        <translation>Cambia l'aspetto dell'editor.</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -10486,7 +10486,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Customizes the look and feel of the editor.</source>
-        <translation>Personalizza l&apos;aspetto e la percezione dell&apos;editor.</translation>
+        <translation>Personalizza l'aspetto e la percezione dell'editor.</translation>
     </message>
     <message>
         <source>Object Selector</source>
@@ -10494,7 +10494,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Chooses an object selector for selecting in-game objects in the editor like Items, Weapons, Armors and so on.</source>
-        <translation>Sceglie un selettore di oggetti per selezionare oggetti in-game dall&apos;editor, come Elementi, Armi e Armature.</translation>
+        <translation>Sceglie un selettore di oggetti per selezionare oggetti in-game dall'editor, come Elementi, Armi e Armature.</translation>
     </message>
     <message>
         <source>Optimized for less than 100 objects.</source>
@@ -10695,7 +10695,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Name of the event.</source>
-        <translation>Nome dell&apos;evento.</translation>
+        <translation>Nome dell'evento.</translation>
     </message>
 </context>
 <context>
@@ -10706,7 +10706,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Settings for autonomous movement. The event moves automatically by this settings if not controlled by other events.</source>
-        <translation>Impostazioni per movimento autonomo. L&apos;evento si sposta automaticamente in base a queste impostazioni se non viene controllato da altri eventi.</translation>
+        <translation>Impostazioni per movimento autonomo. L'evento si sposta automaticamente in base a queste impostazioni se non viene controllato da altri eventi.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -10757,7 +10757,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Options for character animation, passage, etc.</source>
-        <translation>Opzioni per l&apos;animazione del personaggio, il passaggio, ecc.</translation>
+        <translation>Opzioni per l'animazione del personaggio, il passaggio, ecc.</translation>
     </message>
     <message>
         <source>Walking</source>
@@ -10766,7 +10766,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turns on the animation when the character is moving.</source>
-        <translation>Attiva l&apos;animazione quando il personaggio è in movimento.</translation>
+        <translation>Attiva l'animazione quando il personaggio è in movimento.</translation>
     </message>
     <message>
         <source>Stepping</source>
@@ -10775,7 +10775,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turns on the animation when the character is not moving.</source>
-        <translation>Attiva l&apos;animazione quando il personaggio non è in movimento.</translation>
+        <translation>Attiva l'animazione quando il personaggio non è in movimento.</translation>
     </message>
     <message>
         <source>Direction Fix</source>
@@ -10799,7 +10799,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Display priority of the event. However, when the image is a tile and the priority is [Below characters], the tileset settings will be used.</source>
-        <translation>Visualizzare la priorità dell&apos;evento. Tuttavia, quando l&apos;immagine è una tessera e la priorità è [Below characters], verranno utilizzate le impostazioni del set di tessere.</translation>
+        <translation>Visualizzare la priorità dell'evento. Tuttavia, quando l'immagine è una tessera e la priorità è [Below characters], verranno utilizzate le impostazioni del set di tessere.</translation>
     </message>
     <message>
         <source>Below characters</source>
@@ -10819,7 +10819,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Condition to start the event.&lt;br&gt;[Action Button] Starts when the player presses the button.&lt;br&gt;[Player Touch] In addition to the above, starts when the player touches the event.&lt;br&gt;[Event Touch] In addition to the above, starts when the event touches the player.&lt;br&gt;[Autorun] Starts when the event appears.&lt;br&gt;[Parallel] Runs cyclically while the event is present.</source>
-        <translation>Condizione per avviare l&apos;evento.&lt;br&gt;[Pulsante azione] Si avvia quando il giocatore preme il pulsante.&lt;br&gt;[Tocco giocatore] Oltre a quanto sopra, si avvia quando il giocatore tocca l&apos;evento.&lt;br&gt;[Tocco evento] Oltre a quanto sopra, si avvia quanto l&apos;evento tocca il giocatore.&lt;br&gt;[Esecuzione automatica] Si avvia quando appare l&apos;evento.&lt;br&gt;[Parallelo] Funziona ciclicamente quando è presente l&apos;evento.</translation>
+        <translation>Condizione per avviare l'evento.&lt;br&gt;[Pulsante azione] Si avvia quando il giocatore preme il pulsante.&lt;br&gt;[Tocco giocatore] Oltre a quanto sopra, si avvia quando il giocatore tocca l'evento.&lt;br&gt;[Tocco evento] Oltre a quanto sopra, si avvia quanto l'evento tocca il giocatore.&lt;br&gt;[Esecuzione automatica] Si avvia quando appare l'evento.&lt;br&gt;[Parallelo] Funziona ciclicamente quando è presente l'evento.</translation>
     </message>
     <message>
         <source>Action Button</source>
@@ -10847,7 +10847,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Event commands to be run for this event. Right-click to open the popup menu.</source>
-        <translation>Comandi dell&apos;evento da attivare per questo evento. Fare clic col tasto destro per aprire il menu a comparsa.</translation>
+        <translation>Comandi dell'evento da attivare per questo evento. Fare clic col tasto destro per aprire il menu a comparsa.</translation>
     </message>
 </context>
 <context>
@@ -10945,7 +10945,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Character to be assigned the movement route.</source>
-        <translation>Personaggio da assegnare all&apos;itinerario.</translation>
+        <translation>Personaggio da assegnare all'itinerario.</translation>
     </message>
     <message>
         <source>Command List</source>
@@ -10961,7 +10961,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Options for the movement route behavior.</source>
-        <translation>Opzioni per il comportamento dell&apos;itinerario.</translation>
+        <translation>Opzioni per il comportamento dell'itinerario.</translation>
     </message>
     <message>
         <source>Repeat Movements</source>
@@ -10969,7 +10969,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>After running all the commands, returns to the top of the list.</source>
-        <translation>Dopo aver avviato tutti i comandi, torna in cima all&apos;elenco.</translation>
+        <translation>Dopo aver avviato tutti i comandi, torna in cima all'elenco.</translation>
     </message>
     <message>
         <source>Skip If Cannot Move</source>
@@ -11219,7 +11219,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Changes the event settings.</source>
-        <translation>Modifica le impostazioni dell&apos;evento.</translation>
+        <translation>Modifica le impostazioni dell'evento.</translation>
     </message>
     <message>
         <source>New</source>
@@ -11268,7 +11268,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Reverses the last action.</source>
-        <translation>Inverte l&apos;ultima azione.</translation>
+        <translation>Inverte l'ultima azione.</translation>
     </message>
     <message>
         <source>Map</source>
@@ -11284,7 +11284,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Switches to the event editing mode.</source>
-        <translation>Passa alla modalità di modifica dell&apos;evento.</translation>
+        <translation>Passa alla modalità di modifica dell'evento.</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -11308,7 +11308,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Draws an ellipse.</source>
-        <translation>Disegna un&apos;ellisse.</translation>
+        <translation>Disegna un'ellisse.</translation>
     </message>
     <message>
         <source>Flood Fill</source>
@@ -11316,7 +11316,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Fills the enclosed area.</source>
-        <translation>Riempie l&apos;area chiusa.</translation>
+        <translation>Riempie l'area chiusa.</translation>
     </message>
     <message>
         <source>Shadow Pen</source>
@@ -11420,7 +11420,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Exits the application.</source>
-        <translation>Esce dall&apos;applicazione.</translation>
+        <translation>Esce dall'applicazione.</translation>
     </message>
     <message>
         <source>Generate Dungeon</source>
@@ -11452,7 +11452,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change editor settings.</source>
-        <translation>Cambiare le impostazioni dell&apos;editor.</translation>
+        <translation>Cambiare le impostazioni dell'editor.</translation>
     </message>
     <message>
         <source>Steam Management</source>
@@ -11505,7 +11505,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Index number of the selected icon.</source>
-        <translation>Numero di indice dell&apos;icona selezionata.</translation>
+        <translation>Numero di indice dell'icona selezionata.</translation>
     </message>
 </context>
 <context>
@@ -11688,7 +11688,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>Spostare verso l&apos;alto</translation>
+        <translation>Spostare verso l'alto</translation>
     </message>
     <message>
         <source>Move Lower Left</source>
@@ -11748,7 +11748,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turn Up</source>
-        <translation>Ruotare verso l&apos;alto</translation>
+        <translation>Ruotare verso l'alto</translation>
     </message>
     <message>
         <source>Turn 90° Right</source>
@@ -11959,7 +11959,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Faces up.</source>
-        <translation>Rivolto verso l&apos;alto.</translation>
+        <translation>Rivolto verso l'alto.</translation>
     </message>
     <message>
         <source>Faces 90 degrees to the right.</source>
@@ -11979,7 +11979,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Faces up, down, left, or right.</source>
-        <translation>Rivolto verso l&apos;alto, il basso, a sinistra o a destra.</translation>
+        <translation>Rivolto verso l'alto, il basso, a sinistra o a destra.</translation>
     </message>
     <message>
         <source>Faces toward the current location of the player.</source>
@@ -11991,11 +11991,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turns the specified switch ON.</source>
-        <translation>Accende l&apos;interruttore specificato.</translation>
+        <translation>Accende l'interruttore specificato.</translation>
     </message>
     <message>
         <source>Turns the specified switch OFF.</source>
-        <translation>Spegne l&apos;interruttore specificato.</translation>
+        <translation>Spegne l'interruttore specificato.</translation>
     </message>
     <message>
         <source>Changes the speed.</source>
@@ -12007,19 +12007,19 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turns on the walking animation when the character is moving.</source>
-        <translation>Attiva l&apos;animazione a piedi quando il personaggio è in movimento.</translation>
+        <translation>Attiva l'animazione a piedi quando il personaggio è in movimento.</translation>
     </message>
     <message>
         <source>Turns off the walking animation when the character is moving.</source>
-        <translation>Disattiva l&apos;animazione a piedi quando il personaggio è in movimento.</translation>
+        <translation>Disattiva l'animazione a piedi quando il personaggio è in movimento.</translation>
     </message>
     <message>
         <source>Turns on the stepping animation when the character has stopped.</source>
-        <translation>Attiva l&apos;animazione passo-passo quando il personaggio si arresta.</translation>
+        <translation>Attiva l'animazione passo-passo quando il personaggio si arresta.</translation>
     </message>
     <message>
         <source>Turns off the stepping animation when the character has stopped.</source>
-        <translation>Disattiva l&apos;animazione passo-passo quando il personaggio si arresta.</translation>
+        <translation>Disattiva l'animazione passo-passo quando il personaggio si arresta.</translation>
     </message>
     <message>
         <source>Makes it impossible to change the direction of the character.</source>
@@ -12047,11 +12047,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Changes the image of the character.</source>
-        <translation>Modifica l&apos;immagine del personaggio.</translation>
+        <translation>Modifica l'immagine del personaggio.</translation>
     </message>
     <message>
         <source>Changes the opacity of the character.</source>
-        <translation>Modifica l&apos;opacità del personaggio.</translation>
+        <translation>Modifica l'opacità del personaggio.</translation>
     </message>
     <message>
         <source>Changes the blend mode of the character.</source>
@@ -12059,7 +12059,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>Riproduce l&apos;SE specificato.</translation>
+        <translation>Riproduce l'SE specificato.</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
@@ -12759,7 +12759,7 @@ Please complete the post with follow this link.</source>
         <translation>File</translation>
     </message>
     <message>
-        <source>%1&apos;s Party</source>
+        <source>%1's Party</source>
         <translation>Gruppo del %1</translation>
     </message>
     <message>
@@ -12896,15 +12896,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1 evaded the attack!</source>
-        <translation>%1 ha evitato l&apos;attacco!</translation>
+        <translation>%1 ha evitato l'attacco!</translation>
     </message>
     <message>
         <source>%1 nullified the magic!</source>
-        <translation>%1 ha reso nullo l&apos;incantesimo!</translation>
+        <translation>%1 ha reso nullo l'incantesimo!</translation>
     </message>
     <message>
         <source>%1 reflected the magic!</source>
-        <translation>%1 ha riflesso l&apos;incantesimo!</translation>
+        <translation>%1 ha riflesso l'incantesimo!</translation>
     </message>
     <message>
         <source>%1 counterattacked!</source>
@@ -12915,20 +12915,20 @@ Please complete the post with follow this link.</source>
         <translation>%1 ha protetto %2!</translation>
     </message>
     <message>
-        <source>%1&apos;s %2 went up!</source>
+        <source>%1's %2 went up!</source>
         <translation>%2 di %1 è salito!</translation>
     </message>
     <message>
-        <source>%1&apos;s %2 went down!</source>
+        <source>%1's %2 went down!</source>
         <translation>%2 di %1 è sceso!</translation>
     </message>
     <message>
-        <source>%1&apos;s %2 returned to normal!</source>
+        <source>%1's %2 returned to normal!</source>
         <translation>%2 di %1 è tornato alla normalità!</translation>
     </message>
     <message>
         <source>There was no effect on %1!</source>
-        <translation>Non c&apos;è stato alcun effetto su %1!</translation>
+        <translation>Non c'è stato alcun effetto su %1!</translation>
     </message>
     <message>
         <source>Physical</source>
@@ -13453,7 +13453,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Index number of the selected icon.</source>
-        <translation>Numero di indice dell&apos;icona selezionata.</translation>
+        <translation>Numero di indice dell'icona selezionata.</translation>
     </message>
 </context>
 <context>
@@ -13587,15 +13587,15 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Unable to update Steam Workshop Item, you are banned from the community.</source>
-        <translation>Impossibile aggiornare l&apos;Elemento Steam Workshop. Sarai bandito dalla comunità.</translation>
+        <translation>Impossibile aggiornare l'Elemento Steam Workshop. Sarai bandito dalla comunità.</translation>
     </message>
     <message>
         <source>A Timeout occurred when sharing or updating your Workshop Item.</source>
-        <translation>Si è verificato un Timeout durante la condivisione o l&apos;aggiornamento del proprio Elemento Workshop.</translation>
+        <translation>Si è verificato un Timeout durante la condivisione o l'aggiornamento del proprio Elemento Workshop.</translation>
     </message>
     <message>
         <source>Unabled to create Workshop Item, you are not logged onto steam!</source>
-        <translation>Impossibile creare l&apos;Elemento Workshop. Non ti sei registrato a Steam!</translation>
+        <translation>Impossibile creare l'Elemento Workshop. Non ti sei registrato a Steam!</translation>
     </message>
     <message>
         <source>You still need to accept the Steamwork Shop Agreement in order for this Workshop Item to not appear only private.</source>
@@ -13611,7 +13611,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>An unknown error occurred when attempting to update the Workshop Item.</source>
-        <translation>Si è verificato un errore sconosciuto durante il tentativo di aggiornamento dell&apos;Elemento Workshop.</translation>
+        <translation>Si è verificato un errore sconosciuto durante il tentativo di aggiornamento dell'Elemento Workshop.</translation>
     </message>
     <message>
         <source>Subscribed</source>
@@ -13688,7 +13688,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>You need to agree to the Steam Workshop User Agreement.</source>
-        <translation>È necessario accettare il Contratto per l&apos;utente di Steam Workshop.</translation>
+        <translation>È necessario accettare il Contratto per l'utente di Steam Workshop.</translation>
     </message>
     <message>
         <source>Progress</source>
@@ -13756,39 +13756,39 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>You must input a valid Project Name for the Workshop Item.</source>
-        <translation>È necessario inserire un Nome progetto valido per l&apos;Elemento Workshop.</translation>
+        <translation>È necessario inserire un Nome progetto valido per l'Elemento Workshop.</translation>
     </message>
     <message>
         <source>You must input a valid Project Description for the Workshop Item.</source>
-        <translation>È necessario inserire una Descrizione progetto valida per l&apos;Elemento Workshop.</translation>
+        <translation>È necessario inserire una Descrizione progetto valida per l'Elemento Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image for the Workshop Item.</source>
-        <translation>È necessario selezionare un&apos;Immagine miniatura valida per l&apos;Elemento Workshop.</translation>
+        <translation>È necessario selezionare un'Immagine miniatura valida per l'Elemento Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image other than the default for the Workshop Item.</source>
-        <translation>È necessario selezionare un&apos;Immagine miniatura diversa da quella predefinita per l&apos;Elemento Workshop.</translation>
+        <translation>È necessario selezionare un'Immagine miniatura diversa da quella predefinita per l'Elemento Workshop.</translation>
     </message>
     <message>
         <source>The Thumbnail Image must be less than 1mb.</source>
-        <translation>L&apos;Immagine miniatura deve essere inferiore a 1 mb.</translation>
+        <translation>L'Immagine miniatura deve essere inferiore a 1 mb.</translation>
     </message>
     <message>
         <source>You must select a valid Item Type for the Workshop Item.</source>
-        <translation>È necessario selezionare un Tipo di elemento valido per l&apos;Elemento Workshop.</translation>
+        <translation>È necessario selezionare un Tipo di elemento valido per l'Elemento Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Genre/Resource Type for the Workshop Item.</source>
-        <translation>È necessario selezionare un Genere/Tipo di risorsa valido per l&apos;Elemento Workshop.</translation>
+        <translation>È necessario selezionare un Genere/Tipo di risorsa valido per l'Elemento Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Genre/Resource Flavor for the Workshop Item.</source>
-        <translation>È necessario selezionare un Genere/Varietà di risorse valido per l&apos;Elemento Workshop.</translation>
+        <translation>È necessario selezionare un Genere/Varietà di risorse valido per l'Elemento Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Visibility Level for the Workshop Item.</source>
-        <translation>È necessario selezionare un Livello di visibilità valido per l&apos;Elemento Workshop.</translation>
+        <translation>È necessario selezionare un Livello di visibilità valido per l'Elemento Workshop.</translation>
     </message>
     <message>
         <source>Steam API Available: Yes</source>
@@ -13816,7 +13816,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Failed to obtain owned Workshop Items data.</source>
-        <translation>Impossibile ottenere i dati dell&apos;Elemento Workshop in possesso.</translation>
+        <translation>Impossibile ottenere i dati dell'Elemento Workshop in possesso.</translation>
     </message>
     <message>
         <source>Creating</source>
@@ -13839,7 +13839,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on the state of the specified switch.</source>
-        <translation>In base allo stato dell&apos;interruttore specificato.</translation>
+        <translation>In base allo stato dell'interruttore specificato.</translation>
     </message>
     <message>
         <source>is</source>
@@ -13872,7 +13872,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on the state of the specified self switch. Vaild only in the map event.</source>
-        <translation>In base allo stato dell&apos;auto interruttore specificato. Valido solo nell&apos;evento mappa.</translation>
+        <translation>In base allo stato dell'auto interruttore specificato. Valido solo nell'evento mappa.</translation>
     </message>
     <message>
         <source>Timer</source>
@@ -13899,7 +13899,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on the specified actor.</source>
-        <translation>In base all&apos;attore specificato.</translation>
+        <translation>In base all'attore specificato.</translation>
     </message>
     <message>
         <source>In the party</source>
@@ -13907,7 +13907,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the specified actor is in the party.</source>
-        <translation>In base al fatto che l&apos;attore specificato si trovi o meno nel gruppo.</translation>
+        <translation>In base al fatto che l'attore specificato si trovi o meno nel gruppo.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -13915,7 +13915,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on the name of the specified actor.</source>
-        <translation>In base al nome dell&apos;attore specificato.</translation>
+        <translation>In base al nome dell'attore specificato.</translation>
     </message>
     <message>
         <source>Class</source>
@@ -13923,7 +13923,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on the class of the specified actor.</source>
-        <translation>In base alla classe dell&apos;attore specificato.</translation>
+        <translation>In base alla classe dell'attore specificato.</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -13931,7 +13931,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the specified actor can use a particular skill.</source>
-        <translation>In base al fatto che l&apos;attore specificato sia in grado o meno di utilizzare una particolare abilità.</translation>
+        <translation>In base al fatto che l'attore specificato sia in grado o meno di utilizzare una particolare abilità.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -13939,7 +13939,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular weapon equipped.</source>
-        <translation>In base al fatto che l&apos;attore specificato abbia o meno in dotazione una particolare arma.</translation>
+        <translation>In base al fatto che l'attore specificato abbia o meno in dotazione una particolare arma.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -13947,7 +13947,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular armor equipped.</source>
-        <translation>In base al fatto che l&apos;attore specificato abbia o meno in dotazione una particolare armatura.</translation>
+        <translation>In base al fatto che l'attore specificato abbia o meno in dotazione una particolare armatura.</translation>
     </message>
     <message>
         <source>State</source>
@@ -13955,7 +13955,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular state.</source>
-        <translation>In base al fatto che l&apos;attore specificato abbia o meno uno stato particolare.</translation>
+        <translation>In base al fatto che l'attore specificato abbia o meno uno stato particolare.</translation>
     </message>
 </context>
 <context>
@@ -13990,7 +13990,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on the direction the player or event is facing.</source>
-        <translation>In base alla direzione verso la quale il giocatore o l&apos;evento è rivolto.</translation>
+        <translation>In base alla direzione verso la quale il giocatore o l'evento è rivolto.</translation>
     </message>
     <message>
         <source>is facing</source>
@@ -14016,7 +14016,7 @@ HP reaches 0.</source>
         <translation>Oro</translation>
     </message>
     <message>
-        <source>Based on the party&apos;s money.</source>
+        <source>Based on the party's money.</source>
         <translation>In base al denaro del gruppo.</translation>
     </message>
     <message>
@@ -14033,7 +14033,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the party has a particular weapon.</source>
-        <translation>In base al fatto che il gruppo abbia o meno un&apos;arma particolare.</translation>
+        <translation>In base al fatto che il gruppo abbia o meno un'arma particolare.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -14041,7 +14041,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the party has a particular armor.</source>
-        <translation>In base al fatto che il gruppo abbia o meno un&apos;armatura particolare.</translation>
+        <translation>In base al fatto che il gruppo abbia o meno un'armatura particolare.</translation>
     </message>
     <message>
         <source>Button</source>
@@ -14108,7 +14108,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Screen to display at game startup.</source>
-        <translation>Schermata da visualizzare all&apos;avvio del gioco.</translation>
+        <translation>Schermata da visualizzare all'avvio del gioco.</translation>
     </message>
     <message>
         <source>Images</source>
@@ -14206,7 +14206,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Name of the element.</source>
-        <translation>Nome dell&apos;elemento.</translation>
+        <translation>Nome dell'elemento.</translation>
     </message>
     <message>
         <source>Changes the number of elements.</source>
@@ -14266,7 +14266,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Data for representing equipment types such as body armor and head armor.</source>
-        <translation>Dati per la rappresentazione dei tipi di equipaggiamento quali l&apos;armatura per il corpo e l&apos;armatura per la testa.</translation>
+        <translation>Dati per la rappresentazione dei tipi di equipaggiamento quali l'armatura per il corpo e l'armatura per la testa.</translation>
     </message>
     <message>
         <source>Name of the equipment type.</source>
