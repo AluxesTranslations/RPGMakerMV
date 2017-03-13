@@ -8428,7 +8428,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Saves the current BGM.</source>
-        <translation>Salva il corrente BGM.</translation>
+        <translation>Salva la BGM corrente.</translation>
     </message>
     <message>
         <source>Replays the saved BGM.</source>
