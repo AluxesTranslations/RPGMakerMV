@@ -11156,7 +11156,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Save Project</source>
-        <translation>Salva progetto</translation>
+        <translation>Salva Progetto</translation>
     </message>
     <message>
         <source>Saves the current project.</source>
