@@ -12398,23 +12398,23 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Fire One 1</source>
-        <translation>Fuoco su uno 1</translation>
+        <translation>Sparo su uno 1</translation>
     </message>
     <message>
         <source>Fire One 2</source>
-        <translation>Fuoco su uno 2</translation>
+        <translation>Sparo su uno 2</translation>
     </message>
     <message>
         <source>Fire All 1</source>
-        <translation>Fuoco su tutti 1</translation>
+        <translation>Sparo su tutti 1</translation>
     </message>
     <message>
         <source>Fire All 2</source>
-        <translation>Fuoco su tutti 2</translation>
+        <translation>Sparo su tutti 2</translation>
     </message>
     <message>
         <source>Fire All 3</source>
-        <translation>Fuoco su tutti 3</translation>
+        <translation>Sparo su tutti 3</translation>
     </message>
     <message>
         <source>Ice One 1</source>
