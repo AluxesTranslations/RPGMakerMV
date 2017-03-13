@@ -10416,7 +10416,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Action Times +</source>
-        <translation>Tempi di azione +</translation>
+        <translation>Aumenta azioni +</translation>
     </message>
     <message>
         <source>Special Flag</source>
@@ -12418,43 +12418,43 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Ice One 1</source>
-        <translation>Ghiacciare uno 1</translation>
+        <translation>Ghiaccio a uno 1</translation>
     </message>
     <message>
         <source>Ice One 2</source>
-        <translation>Ghiacciare uno 2</translation>
+        <translation>Ghiaccio a uno 2</translation>
     </message>
     <message>
         <source>Ice All 1</source>
-        <translation>Ghiacciare tutti 1</translation>
+        <translation>Ghiaccio su tutti 1</translation>
     </message>
     <message>
         <source>Ice All 2</source>
-        <translation>Ghiacciare tutti 2</translation>
+        <translation>Ghiaccio su tutti 2</translation>
     </message>
     <message>
         <source>Ice All 3</source>
-        <translation>Ghiacciare tutti 3</translation>
+        <translation>Ghiaccio su tutti 3</translation>
     </message>
     <message>
         <source>Thunder One 1</source>
-        <translation>Tuonare su uno 1</translation>
+        <translation>Tuono su uno 1</translation>
     </message>
     <message>
         <source>Thunder One 2</source>
-        <translation>Tuonare su uno 2</translation>
+        <translation>Tuono su uno 2</translation>
     </message>
     <message>
         <source>Thunder All 1</source>
-        <translation>Tuonare su tutti 1</translation>
+        <translation>Tuono su tutti 1</translation>
     </message>
     <message>
         <source>Thunder All 2</source>
-        <translation>Tuonare su tutti 2</translation>
+        <translation>Tuono su tutti 2</translation>
     </message>
     <message>
         <source>Thunder All 3</source>
-        <translation>Tuonare su tutti 3</translation>
+        <translation>Tuono su tutti 3</translation>
     </message>
     <message>
         <source>Water One 1</source>
@@ -12478,103 +12478,103 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Earth One 1</source>
-        <translation>Terra per uno 1</translation>
+        <translation>Terra su uno 1</translation>
     </message>
     <message>
         <source>Earth One 2</source>
-        <translation>Terra per uno 2</translation>
+        <translation>Terra su uno 2</translation>
     </message>
     <message>
         <source>Earth All 1</source>
-        <translation>Terra per tutti 1</translation>
+        <translation>Terra su tutti 1</translation>
     </message>
     <message>
         <source>Earth All 2</source>
-        <translation>Terra per tutti 2</translation>
+        <translation>Terra su tutti 2</translation>
     </message>
     <message>
         <source>Earth All 3</source>
-        <translation>Terra per tutti 3</translation>
+        <translation>Terra su tutti 3</translation>
     </message>
     <message>
         <source>Wind One 1</source>
-        <translation>Vento per uno 1</translation>
+        <translation>Vento su uno 1</translation>
     </message>
     <message>
         <source>Wind One 2</source>
-        <translation>Vento per uno 2</translation>
+        <translation>Vento su uno 2</translation>
     </message>
     <message>
         <source>Wind All 1</source>
-        <translation>Vento per tutti 1</translation>
+        <translation>Vento su tutti 1</translation>
     </message>
     <message>
         <source>Wind All 2</source>
-        <translation>Vento per tutti 2</translation>
+        <translation>Vento su tutti 2</translation>
     </message>
     <message>
         <source>Wind All 3</source>
-        <translation>Vento per tutti 3</translation>
+        <translation>Vento su tutti 3</translation>
     </message>
     <message>
         <source>Light One 1</source>
-        <translation>Luce per uno 1</translation>
+        <translation>Luce su uno 1</translation>
     </message>
     <message>
         <source>Light One 2</source>
-        <translation>Luce per uno 2</translation>
+        <translation>Luce su uno 2</translation>
     </message>
     <message>
         <source>Light All 1</source>
-        <translation>Luce per tutti 1</translation>
+        <translation>Luce su tutti 1</translation>
     </message>
     <message>
         <source>Light All 2</source>
-        <translation>Luce per tutti 2</translation>
+        <translation>Luce su tutti 2</translation>
     </message>
     <message>
         <source>Light All 3</source>
-        <translation>Luce per tutti 3</translation>
+        <translation>Luce su tutti 3</translation>
     </message>
     <message>
         <source>Darkness One 1</source>
-        <translation>Buio per uno 1</translation>
+        <translation>Buio su uno 1</translation>
     </message>
     <message>
         <source>Darkness One 2</source>
-        <translation>Buio per uno 2</translation>
+        <translation>Buio su uno 2</translation>
     </message>
     <message>
         <source>Darkness All 1</source>
-        <translation>Buio per tutti 1</translation>
+        <translation>Buio su tutti 1</translation>
     </message>
     <message>
         <source>Darkness All 2</source>
-        <translation>Buio per tutti 2</translation>
+        <translation>Buio su tutti 2</translation>
     </message>
     <message>
         <source>Darkness All 3</source>
-        <translation>Buio per tutti 3</translation>
+        <translation>Buio su tutti 3</translation>
     </message>
     <message>
         <source>Neutral One 1</source>
-        <translation>Neutro per uno 1</translation>
+        <translation>Neutro su uno 1</translation>
     </message>
     <message>
         <source>Neutral One 2</source>
-        <translation>Neutro per uno 2</translation>
+        <translation>Neutro su uno 2</translation>
     </message>
     <message>
         <source>Neutral All 1</source>
-        <translation>Neutro per tutti 1</translation>
+        <translation>Neutro su tutti 1</translation>
     </message>
     <message>
         <source>Neutral All 2</source>
-        <translation>Neutro per tutti 2</translation>
+        <translation>Neutro su tutti 2</translation>
     </message>
     <message>
         <source>Neutral All 3</source>
-        <translation>Neutro per tutti 3</translation>
+        <translation>Neutro su tutti 3</translation>
     </message>
     <message>
         <source>Shoot Normal</source>
@@ -12586,7 +12586,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shoot All</source>
-        <translation>Sparare a tutti</translation>
+        <translation>Sparo a tutti</translation>
     </message>
     <message>
         <source>Shoot Special</source>
@@ -12602,11 +12602,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Light Pillar 1</source>
-        <translation>Pilastro della luce 1</translation>
+        <translation>Pilastro di luce 1</translation>
     </message>
     <message>
         <source>Light Pillar 2</source>
-        <translation>Pilastro della luce 2</translation>
+        <translation>Pilastro di luce 2</translation>
     </message>
     <message>
         <source>Ball of Light</source>
