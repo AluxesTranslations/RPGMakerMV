@@ -10644,7 +10644,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>B value of the color tone.</source>
-        <translation>Valore B del tono colore.</translation>
+        <translation>Valore B della tonalità del colore.</translation>
     </message>
     <message>
         <source>Gray</source>
@@ -10660,11 +10660,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shows how the color tone will be applied.</source>
-        <translation>Mostra come il tono colore verrà applicato.</translation>
+        <translation>Mostra come verrà applicata la tonalità del colore.</translation>
     </message>
     <message>
         <source>Calls a predefined color tone.</source>
-        <translation>Richiama un tono di colore predefinito.</translation>
+        <translation>Richiama una tonalità di colore predefinito.</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10715,7 +10715,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Type of autonomous movement.&lt;br&gt;[Fixed] Do not move from the position in which it was placed.&lt;br&gt;[Random] Moves passable tiles around freely.&lt;br&gt;[Approach] Moves toward the current location of the player.&lt;br&gt;[Custom] Moves along the specified route.</source>
-        <translation>Tipo di movimento autonomo.&lt;br&gt;[Fisso] Non spostare dalla posizione in cui era stato sistemato.&lt;br&gt;[Casuale] Sposta tutto intorno liberamente le tessere spostabili.&lt;br&gt;[Avvicinamento] Sposta verso la posizione corrente del giocatore.&lt;br&gt;[Custom] Sposta lungo il percorso specificato.</translation>
+        <translation>Tipo di movimento autonomo.&lt;br&gt;[Fisso] Non si sposta dalla posizione in cui era stato sistemato.&lt;br&gt;[Casuale] Si muove per le caselle in modo libero.&lt;br&gt;[Avvicinamento] Si sposta verso la posizione corrente del giocatore.&lt;br&gt;[Custom] Si sposta lungo il percorso specificato.</translation>
     </message>
     <message>
         <source>Fixed</source>
@@ -10739,7 +10739,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Opens the route setting window when the movement type is [Custom].</source>
-        <translation>Apre la finestra di impostazione del percorso quando il tipo di movimento è [Custom].</translation>
+        <translation>Apre la finestra di impostazione del percorso quando il tipo di movimento è [Personalizzato].</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -10749,7 +10749,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Freq</source>
         <comment>Movement Frequency</comment>
-        <translation>Freq</translation>
+        <translation>Frequenza</translation>
     </message>
     <message>
         <source>Options</source>
@@ -11069,7 +11069,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>About %1</source>
-        <translation>Su %1</translation>
+        <translation>Riguardo %1</translation>
     </message>
 </context>
 <context>
@@ -11156,7 +11156,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Save Project</source>
-        <translation>Salvare progetto</translation>
+        <translation>Salva progetto</translation>
     </message>
     <message>
         <source>Saves the current project.</source>
