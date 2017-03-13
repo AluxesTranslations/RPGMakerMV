@@ -9893,7 +9893,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Level Up</source>
-        <translation>Sale di livello</translation>
+        <translation>Sali di livello</translation>
     </message>
     <message>
         <source>Obtain Skill</source>
