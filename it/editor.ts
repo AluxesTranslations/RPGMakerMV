@@ -9897,7 +9897,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Obtain Skill</source>
-        <translation>Ottene abilità</translation>
+        <translation>Ottieni abilità</translation>
     </message>
     <message>
         <source>Use Item</source>
