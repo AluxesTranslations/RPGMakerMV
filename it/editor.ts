@@ -9801,7 +9801,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Always Dash</source>
-        <translation>Corsa automatica</translation>
+        <translation>Corsa Automatica</translation>
     </message>
     <message>
         <source>Command Remember</source>
