@@ -9458,7 +9458,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Item</source>
-        <translation>Elemento</translation>
+        <translation>Oggetto</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -9479,7 +9479,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvare</translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <source>Show [%1] command in the menu screen.</source>
@@ -9562,7 +9562,7 @@ Please complete the post with follow this link.</source>
     <name>Group_Operation</name>
     <message>
         <source>Operation</source>
-        <translation>Azionamento</translation>
+        <translation>Operazione</translation>
     </message>
     <message>
         <source>Selects whether to increase or decrease.</source>
@@ -9570,7 +9570,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Increase</source>
-        <translation>Aumentare</translation>
+        <translation>Aumenta</translation>
     </message>
     <message>
         <source>Adds the operand.</source>
@@ -9593,7 +9593,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Set how much the actor's parameters will increase by equipping this item.</source>
-        <translation>Impostare quanti parametri dell'attore aumenteranno dotandosi di questo elemento.</translation>
+        <translation>Imposta quanti parametri dell'attore aumenteranno dotandosi di questo elemento.</translation>
     </message>
 </context>
 <context>
@@ -9717,7 +9717,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>Ampiezza</translation>
+        <translation>Larghezza</translation>
     </message>
     <message>
         <source>Horizontal scale.</source>
@@ -9759,7 +9759,7 @@ Please complete the post with follow this link.</source>
     <name>Group_StartingParty</name>
     <message>
         <source>Starting Party</source>
-        <translation>Gruppo di avvio</translation>
+        <translation>Gruppo di partenza</translation>
     </message>
     <message>
         <source>Party members at the start of the game.</source>
@@ -9801,7 +9801,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Always Dash</source>
-        <translation>Sempre trattino</translation>
+        <translation>Corsa automatica</translation>
     </message>
     <message>
         <source>Command Remember</source>
