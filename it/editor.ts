@@ -11388,7 +11388,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Starts a playtest of the current game.</source>
-        <translation>Avvia un playtest del gioco corrente.</translation>
+        <translation>Avvia una prova del gioco corrente.</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -11408,7 +11408,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>About</source>
-        <translation>Info su</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Displays the version number and copyrights.</source>
@@ -11625,7 +11625,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation>Immagine da visualizzare sulla schermata mappa.</translation>
+        <translation>Immagine da visualizzare sulla schermata della mappa.</translation>
     </message>
 </context>
 <context>
@@ -11875,7 +11875,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Play SE</source>
-        <translation>Giocare SE</translation>
+        <translation>Riproduci SE</translation>
     </message>
     <message>
         <source>Script</source>
@@ -12059,7 +12059,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>Riproduce l'SE specificato.</translation>
+        <translation>Riproduce il SE specificato.</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
@@ -12158,43 +12158,43 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Slash Physical</source>
-        <translation>Barra fisica</translation>
+        <translation>Taglio fisico</translation>
     </message>
     <message>
         <source>Slash Effect</source>
-        <translation>Barra effetto</translation>
+        <translation>Taglio effetto</translation>
     </message>
     <message>
         <source>Slash Fire</source>
-        <translation>Barra fuoco</translation>
+        <translation>Taglio fuoco</translation>
     </message>
     <message>
         <source>Slash Ice</source>
-        <translation>Barra ghiaccio</translation>
+        <translation>Taglio ghiaccio</translation>
     </message>
     <message>
         <source>Slash Thunder</source>
-        <translation>Barra tuono</translation>
+        <translation>Taglio tuono</translation>
     </message>
     <message>
         <source>Pierce Physical</source>
-        <translation>Foro fisico</translation>
+        <translation>Perforazione fisica</translation>
     </message>
     <message>
         <source>Pierce Effect</source>
-        <translation>Foro effetto</translation>
+        <translation>Perforazione effetto</translation>
     </message>
     <message>
         <source>Pierce Fire</source>
-        <translation>Foro fuoco</translation>
+        <translation>Perforazione fuoco</translation>
     </message>
     <message>
         <source>Pierce Ice</source>
-        <translation>Foro ghiaccio</translation>
+        <translation>Perforazione ghiaccio</translation>
     </message>
     <message>
         <source>Pierce Thunder</source>
-        <translation>Foro tuono</translation>
+        <translation>Perforazione tuono</translation>
     </message>
     <message>
         <source>Claw Physical</source>
@@ -12226,23 +12226,23 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Slash Special 1</source>
-        <translation>Barra speciale 1</translation>
+        <translation>Taglio speciale 1</translation>
     </message>
     <message>
         <source>Slash Special 2</source>
-        <translation>Barra speciale 2</translation>
+        <translation>Taglio speciale 2</translation>
     </message>
     <message>
         <source>Slash Special 3</source>
-        <translation>Barra speciale 3</translation>
+        <translation>Taglio speciale 3</translation>
     </message>
     <message>
         <source>Pierce Special 1</source>
-        <translation>Foro speciale 1</translation>
+        <translation>Perforazione speciale 1</translation>
     </message>
     <message>
         <source>Pierce Special 2</source>
-        <translation>Foro speciale 2</translation>
+        <translation>Perforazione speciale 2</translation>
     </message>
     <message>
         <source>Claw Special</source>
@@ -12254,15 +12254,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>General Special 1</source>
-        <translation>Generale speciale 1</translation>
+        <translation>Speciale generico 1</translation>
     </message>
     <message>
         <source>General Special 2</source>
-        <translation>Generale speciale 2</translation>
+        <translation>Speciale generico 2</translation>
     </message>
     <message>
         <source>Breath</source>
-        <translation>Respiro</translation>
+        <translation>Soffio</translation>
     </message>
     <message>
         <source>Pollen</source>
@@ -12286,11 +12286,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sweep</source>
-        <translation>Spazzare</translation>
+        <translation>Spazzata</translation>
     </message>
     <message>
         <source>Bodyslam</source>
-        <translation>Sollevamento e ricaduta del corpo</translation>
+        <translation>Bodyslam</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -12298,83 +12298,83 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Heal One 1</source>
-        <translation>Guarire uno 1</translation>
+        <translation>Guarigione uno 1</translation>
     </message>
     <message>
         <source>Heal One 2</source>
-        <translation>Guarire uno 2</translation>
+        <translation>Guarigione uno 2</translation>
     </message>
     <message>
         <source>Heal All 1</source>
-        <translation>Guarire tutti 1</translation>
+        <translation>Guarigione tutti 1</translation>
     </message>
     <message>
         <source>Heal All 2</source>
-        <translation>Guarire tutti 2</translation>
+        <translation>Guarigione tutti 2</translation>
     </message>
     <message>
         <source>Cure One 1</source>
-        <translation>Curare uno 1</translation>
+        <translation>Cura uno 1</translation>
     </message>
     <message>
         <source>Cure One 2</source>
-        <translation>Curare uno 2</translation>
+        <translation>Cura uno 2</translation>
     </message>
     <message>
         <source>Cure All 1</source>
-        <translation>Curare tutti 1</translation>
+        <translation>Cura tutti 1</translation>
     </message>
     <message>
         <source>Cure All 2</source>
-        <translation>Curare tutti 2</translation>
+        <translation>Cura tutti 2</translation>
     </message>
     <message>
         <source>Revive 1</source>
-        <translation>Resuscitare 1</translation>
+        <translation>Resurrezione 1</translation>
     </message>
     <message>
         <source>Revive 2</source>
-        <translation>Resuscitare 2</translation>
+        <translation>Resurrezione 2</translation>
     </message>
     <message>
         <source>Powerup 1</source>
-        <translation>Accensione 1</translation>
+        <translation>Potenziamento 1</translation>
     </message>
     <message>
         <source>Powerup 2</source>
-        <translation>Accensione 2</translation>
+        <translation>Potenziamento 2</translation>
     </message>
     <message>
         <source>Powerup 3</source>
-        <translation>Accensione 3</translation>
+        <translation>Potenziamento 3</translation>
     </message>
     <message>
         <source>Powerdown 1</source>
-        <translation>Spegnimento 1</translation>
+        <translation>Depotenziamento 1</translation>
     </message>
     <message>
         <source>Powerdown 2</source>
-        <translation>Spegnimento 2</translation>
+        <translation>Depotenziamento 2</translation>
     </message>
     <message>
         <source>Powerdown 3</source>
-        <translation>Spegnimento 3</translation>
+        <translation>Depotenziamento 3</translation>
     </message>
     <message>
         <source>Bind</source>
-        <translation>Legare</translation>
+        <translation>Rovi avvolgenti</translation>
     </message>
     <message>
         <source>Absorb</source>
-        <translation>Assorbire</translation>
+        <translation>Assimilazione</translation>
     </message>
     <message>
         <source>Poison</source>
-        <translation>Avvelenare</translation>
+        <translation>Veleno</translation>
     </message>
     <message>
         <source>Blind</source>
-        <translation>Accecare</translation>
+        <translation>Cecità</translation>
     </message>
     <message>
         <source>Silence</source>
@@ -12382,7 +12382,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sleep</source>
-        <translation>Dormire</translation>
+        <translation>Sonno</translation>
     </message>
     <message>
         <source>Confusion</source>
@@ -12390,7 +12390,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Paralyze</source>
-        <translation>Paralizzare</translation>
+        <translation>Paralisi</translation>
     </message>
     <message>
         <source>Death</source>
@@ -12398,23 +12398,23 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Fire One 1</source>
-        <translation>Sparare a uno 1</translation>
+        <translation>Fuoco su uno 1</translation>
     </message>
     <message>
         <source>Fire One 2</source>
-        <translation>Sparare a uno 2</translation>
+        <translation>Fuoco su uno 2</translation>
     </message>
     <message>
         <source>Fire All 1</source>
-        <translation>Sparare a tutti 1</translation>
+        <translation>Fuoco su tutti 1</translation>
     </message>
     <message>
         <source>Fire All 2</source>
-        <translation>Sparare a tutti 2</translation>
+        <translation>Fuoco su tutti 2</translation>
     </message>
     <message>
         <source>Fire All 3</source>
-        <translation>Sparare a tutti 3</translation>
+        <translation>Fuoco su tutti 3</translation>
     </message>
     <message>
         <source>Ice One 1</source>
