@@ -10420,7 +10420,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Special Flag</source>
-        <translation>Bandiera speciale</translation>
+        <translation>Flag speciale</translation>
     </message>
     <message>
         <source>Collapse Effect</source>
@@ -10428,7 +10428,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Party Ability</source>
-        <translation>Capacità di gruppo</translation>
+        <translation>Abilità di gruppo</translation>
     </message>
     <message>
         <source>Undefined</source>
@@ -10443,7 +10443,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Troop to fight the party.</source>
-        <translation>Truppa per combattere il gruppo.</translation>
+        <translation>Truppa da combattere il gruppo.</translation>
     </message>
     <message>
         <source>Direct designation</source>
@@ -10463,7 +10463,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Same as Random Encounter</source>
-        <translation>Come per l'incontro casuale</translation>
+        <translation>Come incontro casuale</translation>
     </message>
     <message>
         <source>Randomly selects a troop from among those set for random encounters by map settings.</source>
@@ -10581,7 +10581,7 @@ Please complete the post with follow this link.</source>
     <name>Layout_AudioSelector</name>
     <message>
         <source>Play</source>
-        <translation>Riprodurre</translation>
+        <translation>Riproduci</translation>
     </message>
     <message>
         <source>Plays the selected file.</source>
@@ -10628,7 +10628,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>R value of the color tone.</source>
-        <translation>Valore R del tono colore.</translation>
+        <translation>Valore R della tonalità del colore.</translation>
     </message>
     <message>
         <source>Green</source>
@@ -10636,7 +10636,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>G value of the color tone.</source>
-        <translation>Valore V del tono colore.</translation>
+        <translation>Valore V della tonalità del colore.</translation>
     </message>
     <message>
         <source>Blue</source>
