@@ -9829,7 +9829,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>EXP Total</source>
-        <translation>Totale EXP</translation>
+        <translation>EXP Totale</translation>
     </message>
     <message>
         <source>EXP Next</source>
@@ -9837,11 +9837,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Save Message</source>
-        <translation>Salvare messaggio</translation>
+        <translation>Salva messaggio</translation>
     </message>
     <message>
         <source>Load Message</source>
-        <translation>Caricare messaggio</translation>
+        <translation>Carica messaggio</translation>
     </message>
     <message>
         <source>File</source>
@@ -9853,7 +9853,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Emerge</source>
-        <translation>Emergere</translation>
+        <translation>Emerge</translation>
     </message>
     <message>
         <source>Preemptive</source>
@@ -9869,7 +9869,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Escape Failure</source>
-        <translation>Fallimento fuga</translation>
+        <translation>Fuga fallita</translation>
     </message>
     <message>
         <source>Victory</source>
@@ -9881,19 +9881,19 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Obtain EXP</source>
-        <translation>Ottenere EXP</translation>
+        <translation>EXP ottenuta</translation>
     </message>
     <message>
         <source>Obtain Gold</source>
-        <translation>Ottenere oro</translation>
+        <translation>Oro ottenuto</translation>
     </message>
     <message>
         <source>Obtain Item</source>
-        <translation>Ottenere elemento</translation>
+        <translation>Oggetti ottenuti</translation>
     </message>
     <message>
         <source>Level Up</source>
-        <translation>Livello su</translation>
+        <translation>Sale di livello</translation>
     </message>
     <message>
         <source>Obtain Skill</source>
