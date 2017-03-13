@@ -10387,7 +10387,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Add Skill</source>
-        <translation>Aggiungere abilità</translation>
+        <translation>Aggiungi abilità</translation>
     </message>
     <message>
         <source>Seal Skill</source>
@@ -10395,7 +10395,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Equip Weapon</source>
-        <translation>Dotarsi di armi</translation>
+        <translation>Impugnare armi</translation>
     </message>
     <message>
         <source>Equip Armor</source>
