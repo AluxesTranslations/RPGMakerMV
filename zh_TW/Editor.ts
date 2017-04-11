@@ -1,248 +1,248 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr_FR" sourcelanguage="en_US">
+<TS version="2.1" language="zh_TW" sourcelanguage="en_US">
 <context>
     <name>AnimationFrameList</name>
     <message>
         <source>Frame List</source>
-        <translation>Liste de Trames</translation>
+        <translation>框列表</translation>
     </message>
     <message>
         <source>The selected frame is displayed in the right side.&lt;br&gt;[N] Selects the next item.&lt;br&gt;[B] Selects the previous item.</source>
-        <translation>La trame sélectionnée est affichée sur le côté droit.&lt;br&gt;[N] Sélectionne l&apos;objet suivant.&lt;br&gt;[B] Sélectionne l&apos;objet précédent.</translation>
+        <translation>所選框顯示於右邊。&lt;br&gt;[N] 選擇下一個項目。&lt;br&gt;[B] 選擇前一個項目。</translation>
     </message>
 </context>
 <context>
     <name>AnimationScreen</name>
     <message>
         <source>To Upper</source>
-        <translation>à supérieur</translation>
+        <translation>向上</translation>
     </message>
     <message>
         <source>To Lower</source>
-        <translation>à inférieur</translation>
+        <translation>向下</translation>
     </message>
 </context>
 <context>
     <name>CharacterGenerator</name>
     <message>
         <source>Parts List</source>
-        <translation>Liste de Pièces</translation>
+        <translation>部位列表</translation>
     </message>
     <message>
         <source>Selects a kind of parts.</source>
-        <translation>Sélectionne un type de pièces.</translation>
+        <translation>選擇一種部位。</translation>
     </message>
     <message>
         <source>Randomize</source>
-        <translation>Aléatoire</translation>
+        <translation>隨機</translation>
     </message>
     <message>
         <source>Sets all the parts at random.</source>
-        <translation>Règle toutes les pièces dans un ordre aléatoire.</translation>
+        <translation>隨機選擇所有部位。</translation>
     </message>
     <message>
         <source>Face Image</source>
-        <translation>Image du Visage</translation>
+        <translation>頭像圖像</translation>
     </message>
     <message>
         <source>Opens the export window for face images.</source>
-        <translation>Ouvre la fenêtre d’exportation pour les images du visage.</translation>
+        <translation>開啟頭像圖像的匯出視窗。</translation>
     </message>
     <message>
         <source>Walk Character</source>
-        <translation>Personnages Marche</translation>
+        <translation>移動中角色</translation>
     </message>
     <message>
         <source>Opens the export window for walk characters.</source>
-        <translation>Ouvre la fenêtre d’exportation pour les personnages de marche.</translation>
+        <translation>開啟移動中角色的匯出視窗。</translation>
     </message>
     <message>
         <source>Damage Character</source>
-        <translation>Personnages Dommages</translation>
+        <translation>受傷害角色</translation>
     </message>
     <message>
         <source>Opens the export window for damage characters.</source>
-        <translation>Ouvre la fenêtre d’exportation pour les personnages de dommages.</translation>
+        <translation>開啟受傷害角色的匯出視窗。</translation>
     </message>
     <message>
         <source>Battler</source>
-        <translation>Combattant</translation>
+        <translation>參戰角色</translation>
     </message>
     <message>
         <source>Opens the export window for side-view battlers.</source>
-        <translation>Ouvre la fenêtre d’exportation pour les combattants en vue de côté.</translation>
+        <translation>開啟側視參戰角色的匯出視窗。</translation>
     </message>
     <message>
         <source>Save Settings</source>
-        <translation>Enregistrer les Réglages</translation>
+        <translation>保存設定</translation>
     </message>
     <message>
         <source>Saves the current settings.</source>
-        <translation>Enregistre les réglages actuels.</translation>
+        <translation>保存目前設定。</translation>
     </message>
     <message>
         <source>Load Settings</source>
-        <translation>Charger les Réglages</translation>
+        <translation>讀取設定</translation>
     </message>
     <message>
         <source>Loads the saved settings.</source>
-        <translation>Charge les réglages enregistrés.</translation>
+        <translation>讀取保存設定。</translation>
     </message>
     <message>
         <source>Variation</source>
-        <translation>Variation</translation>
+        <translation>變化</translation>
     </message>
     <message>
         <source>Selects a variation.</source>
-        <translation>Sélectionne une variation.</translation>
+        <translation>選擇變化。</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Couleur</translation>
+        <translation>顏色</translation>
     </message>
     <message>
         <source>Selects a color.</source>
-        <translation>Sélectionne une couleur.</translation>
+        <translation>選擇顏色。</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Aperçu</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>Previews the generated images.</source>
-        <translation>Affiche l’aperçu des images générées.</translation>
+        <translation>預覽產生的圖像。</translation>
     </message>
 </context>
 <context>
     <name>CharacterGeneratorData</name>
     <message>
         <source>Face</source>
-        <translation>Visage</translation>
+        <translation>頭像</translation>
     </message>
     <message>
         <source>Front Hair</source>
-        <translation>Cheveux Avant</translation>
+        <translation>前面的頭髮</translation>
     </message>
     <message>
         <source>Rear Hair</source>
-        <translation>Cheveux Arrière</translation>
+        <translation>後面的頭髮</translation>
     </message>
     <message>
         <source>Beard</source>
-        <translation>Barbe</translation>
+        <translation>鬍子</translation>
     </message>
     <message>
         <source>Ears</source>
-        <translation>Oreilles</translation>
+        <translation>耳朵</translation>
     </message>
     <message>
         <source>Eyes</source>
-        <translation>Yeux</translation>
+        <translation>眼睛</translation>
     </message>
     <message>
         <source>Eyebrows</source>
-        <translation>Sourcils</translation>
+        <translation>眉毛</translation>
     </message>
     <message>
         <source>Nose</source>
-        <translation>Nez</translation>
+        <translation>鼻子</translation>
     </message>
     <message>
         <source>Mouth</source>
-        <translation>Bouche</translation>
+        <translation>嘴巴</translation>
     </message>
     <message>
         <source>Facial Mark</source>
-        <translation>Marque sur le Visage</translation>
+        <translation>面部特徵</translation>
     </message>
     <message>
         <source>Beast Ears</source>
-        <translation>Oreilles de Bête</translation>
+        <translation>獸耳</translation>
     </message>
     <message>
         <source>Tail</source>
-        <translation>Queue</translation>
+        <translation>尾巴</translation>
     </message>
     <message>
         <source>Wing</source>
-        <translation>Ailes</translation>
+        <translation>翅膀</translation>
     </message>
     <message>
         <source>Clothing</source>
-        <translation>Vêtement</translation>
+        <translation>服裝</translation>
     </message>
     <message>
         <source>Cloak</source>
-        <translation>Manteau</translation>
+        <translation>斗篷</translation>
     </message>
     <message>
         <source>Accessory 1</source>
-        <translation>Accessoire 1</translation>
+        <translation>配件 1</translation>
     </message>
     <message>
         <source>Accessory 2</source>
-        <translation>Accessoire 2</translation>
+        <translation>配件 2</translation>
     </message>
     <message>
         <source>Glasses</source>
-        <translation>Lunettes</translation>
+        <translation>眼鏡</translation>
     </message>
     <message>
         <source>Skin Color</source>
-        <translation>Couleur de la Peau</translation>
+        <translation>膚色</translation>
     </message>
     <message>
         <source>Hair Color</source>
-        <translation>Couleur des Cheveux</translation>
+        <translation>髮色</translation>
     </message>
     <message>
         <source>Sub Color</source>
-        <translation>Couleur Secondaire</translation>
+        <translation>配色</translation>
     </message>
     <message>
         <source>Eye Color</source>
-        <translation>Couleur des Yeux</translation>
+        <translation>眼睛顏色</translation>
     </message>
     <message>
         <source>Facial Mark Color</source>
-        <translation>Couleur de la Marque sur le Visage</translation>
+        <translation>面部特徵顏色</translation>
     </message>
     <message>
         <source>Beast Ears Color</source>
-        <translation>Couleur des Oreilles de Bête</translation>
+        <translation>獸耳顏色</translation>
     </message>
     <message>
         <source>Tail Color</source>
-        <translation>Couleur de la Queue</translation>
+        <translation>尾巴顏色</translation>
     </message>
     <message>
         <source>Wing Color</source>
-        <translation>Couleur des ailes</translation>
+        <translation>翅膀顏色</translation>
     </message>
     <message>
         <source>Main Color</source>
-        <translation>Couleur Principale</translation>
+        <translation>主要顏色</translation>
     </message>
     <message>
         <source>Sub Color 1</source>
-        <translation>Couleur Secondaire 1</translation>
+        <translation>配色 1</translation>
     </message>
     <message>
         <source>Sub Color 2</source>
-        <translation>Couleur Secondaire 2</translation>
+        <translation>配色 2</translation>
     </message>
     <message>
         <source>Sub Color 3</source>
-        <translation>Couleur Secondaire 3</translation>
+        <translation>配色 3</translation>
     </message>
     <message>
         <source>Hair Clip Color</source>
-        <translation>Couleur du Clip à Cheveux</translation>
+        <translation>髮夾顏色</translation>
     </message>
     <message>
         <source>Mesh Color</source>
-        <translation>Couleur du Maillage</translation>
+        <translation>網狀色</translation>
     </message>
 </context>
 <context>
@@ -253,106 +253,106 @@
     </message>
     <message>
         <source>Project</source>
-        <translation>Projet</translation>
+        <translation>項目</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>Remarque</translation>
+        <translation>注釋</translation>
     </message>
     <message>
         <source>Text area where you can freely add notes.</source>
-        <translation>Zone de texte où vous pouvez librement ajouter des notes.</translation>
+        <translation>可自由添加注釋的文字區域。</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Image to be displayed as the event.</source>
-        <translation>Image à afficher comme l&apos;évènement.</translation>
+        <translation>顯示劇情的圖像。</translation>
     </message>
     <message>
         <source>Include Equipment</source>
-        <translation>Inclure l&apos;équipement</translation>
+        <translation>包括裝備</translation>
     </message>
     <message>
         <source>Items that are equipped by party members will also be affected.</source>
-        <translation>Les objets qui sont équipés par les membres du groupe seront aussi affectés.</translation>
+        <translation>由隊伍成員裝備的道具也將受影響。</translation>
     </message>
     <message>
         <source>Items that are equipped by party members will also be treated as their possession.</source>
-        <translation>Les objets qui sont équipés par les membres du groupe seront aussi considérés comme leurs possessions.</translation>
+        <translation>由隊伍成員裝備的道具也將做為他們的所有物。</translation>
     </message>
     <message>
         <source>Allow Knockout</source>
-        <translation>Permettre d&apos;assommer</translation>
+        <translation>允許 KO</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0. If unchecked, stops at 1 HP.</source>
-        <translation>Permet aux HP de tomber à 0. Si ce n&apos;est pas coché, cela s&apos;arrête à 1 HP.</translation>
+        <translation>允許HP降到0。若未勾選，則HP將停在1。</translation>
     </message>
     <message>
         <source>Show Level Up</source>
-        <translation>Indiquer le Chgt. de Niveau</translation>
+        <translation>顯示升級</translation>
     </message>
     <message>
         <source>Displays a message upon leveling up.</source>
-        <translation>Affiche un message au moment du passage au niveau supérieur.</translation>
+        <translation>升級時顯示訊息。</translation>
     </message>
     <message>
         <source>Loop Horizontally</source>
-        <translation>Boucle horizontalement</translation>
+        <translation>橫向迴圈</translation>
     </message>
     <message>
         <source>Loop Vertically</source>
-        <translation>Boucle verticalement</translation>
+        <translation>縱向迴圈</translation>
     </message>
     <message>
         <source>Face</source>
         <comment>Face Image</comment>
-        <translation>Visage</translation>
+        <translation>頭像</translation>
     </message>
     <message>
         <source>Image to be displayed on the menu screen.</source>
-        <translation>Image à afficher sur l&apos;écran de menu.</translation>
+        <translation>顯示在選單畫面的圖像。</translation>
     </message>
     <message>
         <source>Character</source>
         <comment>Character Image</comment>
-        <translation>Personnage</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation>Image à afficher sur l&apos;écran de la carte.</translation>
+        <translation>顯示在地圖畫面的圖像。</translation>
     </message>
     <message>
         <source>[SV] Battler</source>
         <comment>[SV] Battler Image</comment>
-        <translation>[SV] Combattant </translation>
+        <translation>參戰角色</translation>
     </message>
     <message>
         <source>Image to be displayed in battle when in side-view mode.</source>
-        <translation>Image à afficher pendant la bataille en mode vue latérale.</translation>
+        <translation>側視模式時顯示的戰鬥中景象。</translation>
     </message>
     <message>
         <source>Player</source>
-        <translation>Joueur</translation>
+        <translation>玩家</translation>
     </message>
     <message>
         <source>Boat</source>
-        <translation>Bateau</translation>
+        <translation>船艇</translation>
     </message>
     <message>
         <source>Ship</source>
-        <translation>Navire</translation>
+        <translation>艦船</translation>
     </message>
     <message>
         <source>Airship</source>
-        <translation>Dirigeable</translation>
+        <translation>飛空艇</translation>
     </message>
     <message>
         <source>This Event</source>
-        <translation>Cet Évènement</translation>
+        <translation>該劇情</translation>
     </message>
     <message>
         <source>HP</source>
@@ -368,382 +368,379 @@
     </message>
     <message>
         <source>Level</source>
-        <translation>Niveau</translation>
+        <translation>等級</translation>
     </message>
     <message>
         <source>EXP</source>
-        <translation>EXP</translation>
+        <translation>經驗值 (EXP)</translation>
     </message>
     <message>
         <source>Max HP</source>
-        <translation>HP Max</translation>
+        <translation>最大 HP</translation>
     </message>
     <message>
         <source>Max MP</source>
-        <translation>MP Max</translation>
+        <translation>最大 MP</translation>
     </message>
     <message>
         <source>Attack</source>
-        <translation>Attaque</translation>
+        <translation>攻擊</translation>
     </message>
     <message>
         <source>Defense</source>
-        <translation>Défense</translation>
+        <translation>防禦</translation>
     </message>
     <message>
         <source>M.Attack</source>
-        <translatorcomment>省略のピリオドを追加させて頂きました。</translatorcomment>
-        <translation>Attaque M.</translation>
+        <translation>魔法攻擊</translation>
     </message>
     <message>
         <source>M.Defense</source>
-        <translatorcomment>省略のピリオドを追加させて頂きました。</translatorcomment>
-        <translation>Défense M.</translation>
+        <translation>魔法防禦</translation>
     </message>
     <message>
         <source>Agility</source>
-        <translation>Agilité</translation>
+        <translation>敏捷度</translation>
     </message>
     <message>
         <source>Luck</source>
-        <translation>Chance</translation>
+        <translation>運氣</translation>
     </message>
     <message>
         <source>Hit Rate</source>
-        <translation>Taux de Toucher</translation>
+        <translation>命中率</translation>
     </message>
     <message>
         <source>Evasion Rate</source>
-        <translation>Taux d&apos;Évasion</translation>
+        <translation>迴避率</translation>
     </message>
     <message>
         <source>Critical Rate</source>
-        <translation>Taux de Critiques</translation>
+        <translation>爆擊率</translation>
     </message>
     <message>
         <source>Critical Evasion</source>
-        <translation>Évasion Critique</translation>
+        <translation>爆擊迴避</translation>
     </message>
     <message>
         <source>Magic Evasion</source>
-        <translation>Évasion Magique</translation>
+        <translation>魔法迴避</translation>
     </message>
     <message>
         <source>Magic Reflection</source>
-        <translation>Réflexion Magique</translation>
+        <translation>魔法反射</translation>
     </message>
     <message>
         <source>Counter Attack</source>
-        <translation>Contre Attaque</translation>
+        <translation>反擊</translation>
     </message>
     <message>
         <source>HP Regeneration</source>
-        <translation>Régénération HP</translation>
+        <translation>HP 再生</translation>
     </message>
     <message>
         <source>MP Regeneration</source>
-        <translation>Régénération MP</translation>
+        <translation>MP 再生</translation>
     </message>
     <message>
         <source>TP Regeneration</source>
-        <translation>Régénération TP</translation>
+        <translation>TP 再生</translation>
     </message>
     <message>
         <source>Target Rate</source>
-        <translation>Taux Cible</translation>
+        <translation>目標率</translation>
     </message>
     <message>
         <source>Guard Effect</source>
-        <translation>Effet de Garde</translation>
+        <translation>防護效果</translation>
     </message>
     <message>
         <source>Recovery Effect</source>
-        <translation>Effet de Récupération</translation>
+        <translation>恢復效果</translation>
     </message>
     <message>
         <source>Pharmacology</source>
-        <translation>Pharmacologie</translation>
+        <translation>藥物</translation>
     </message>
     <message>
         <source>MP Cost Rate</source>
-        <translation>Taux de Coût MP</translation>
+        <translation>MP 消耗率</translation>
     </message>
     <message>
         <source>TP Charge Rate</source>
-        <translation>Taux de Charge TP</translation>
+        <translation>TP 回復率</translation>
     </message>
     <message>
         <source>Physical Damage</source>
-        <translation>Dommages Physiques</translation>
+        <translation>物理傷害</translation>
     </message>
     <message>
         <source>Magical Damage</source>
-        <translation>Dommages Magiques</translation>
+        <translation>魔法傷害</translation>
     </message>
     <message>
         <source>Floor Damage</source>
-        <translation>Dommages de Sol</translation>
+        <translation>地面傷害</translation>
     </message>
     <message>
         <source>Experience</source>
-        <translation>Expérience</translation>
+        <translation>經驗值</translation>
     </message>
     <message>
         <source>Maximum hit point. Represents the maximum amount of damage that the character can withstand.</source>
-        <translation>Points de vie maximum. Représente la quantité maximale de dommages que le personnage peut endurer.</translation>
+        <translation>HP最大值。代表人物能夠承受的最大傷害值。</translation>
     </message>
     <message>
         <source>Maximum magic point. Represents the character&apos;s maximum power for using magic skills.</source>
-        <translation>Points de magie maximum. Représente la puissance maximale du personnage pour l&apos;utilisation des compétences magiques.</translation>
+        <translation>MP最大值。代表人物使用能夠魔法技能的最大能量。</translation>
     </message>
     <message>
         <source>Attack power. Affects things like the amount of damage done to opponents.</source>
-        <translation>Puissance d&apos;attaque. Affecte les choses comme le montant des dommages infligés aux adversaires.</translation>
+        <translation>攻擊力。影響對對手造成的物理傷害量。</translation>
     </message>
     <message>
         <source>Defense power. Affects things like the amount of damage taken from opponents.</source>
-        <translation>Puissance de défense. Affecte les choses comme le montant des dommages infligés par les adversaires.</translation>
+        <translation>防禦力。影響對手所造成的物理傷害量。</translation>
     </message>
     <message>
         <source>Magic attack power. Affects things like the power of the magic the character uses.</source>
-        <translation>Puissance d&apos;attaque magique. Affecte les choses comme la puissance de la magie que le personnage utilise.</translation>
+        <translation>魔法攻擊力。影響角色使用的魔法傷害量。</translation>
     </message>
     <message>
         <source>Magic defense power. Affects things like the power of magic attacks from opponents.</source>
-        <translation>Puissance de défense magique. Affecte les choses comme la puissance des attaques magiques des adversaires.</translation>
+        <translation>魔法防禦力。影響對手所造成的魔法傷害量。</translation>
     </message>
     <message>
         <source>Agility. Affects things like attack order.</source>
-        <translation>Agilité. Affecte les choses comme l&apos;ordre d&apos;attaque.</translation>
+        <translation>敏捷度。影響攻擊順序。</translation>
     </message>
     <message>
         <source>Luck. Affects things like the chance of status ailments occurring.</source>
-        <translation>Chance. Affecte les choses comme la chance qu&apos;une altération d&apos;état survienne.</translation>
+        <translation>運氣。影響對負面狀態發生的機率。</translation>
     </message>
     <message>
         <source>Fight</source>
         <comment>command</comment>
-        <translation>Combattre</translation>
+        <translation>戰鬥</translation>
     </message>
     <message>
         <source>Escape</source>
         <comment>command</comment>
-        <translation>Fuire</translation>
+        <translation>逃跑</translation>
     </message>
     <message>
         <source>Attack</source>
         <comment>command</comment>
-        <translation>Attaque</translation>
+        <translation>攻擊</translation>
     </message>
     <message>
         <source>Guard</source>
         <comment>command</comment>
-        <translation>Garde</translation>
+        <translation>防禦</translation>
     </message>
     <message>
         <source>Item</source>
         <comment>command</comment>
-        <translation>Objet</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Skill</source>
         <comment>command</comment>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Equip</source>
         <comment>command</comment>
-        <translation>Équiper</translation>
+        <translation>裝備</translation>
     </message>
     <message>
         <source>Status</source>
         <comment>command</comment>
-        <translation>Statut</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Formation</source>
         <comment>command</comment>
-        <translation>Formation</translation>
+        <translation>隊形</translation>
     </message>
     <message>
         <source>Options</source>
         <comment>command</comment>
-        <translation>Options</translation>
+        <translation>選項</translation>
     </message>
     <message>
         <source>Save</source>
         <comment>command</comment>
-        <translation>Sauvegarder</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Game End</source>
         <comment>command</comment>
-        <translation>Fin du Jeu</translation>
+        <translation>遊戲結束</translation>
     </message>
     <message>
         <source>Weapon</source>
         <comment>command</comment>
-        <translation>Arme</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Armor</source>
         <comment>command</comment>
-        <translation>Armure</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Key Item</source>
         <comment>command</comment>
-        <translation>Objet Clé</translation>
+        <translation>關鍵道具</translation>
     </message>
     <message>
         <source>Equip</source>
         <comment>command: change equip</comment>
-        <translation>Équiper</translation>
+        <translation>裝備</translation>
     </message>
     <message>
         <source>Optimize</source>
         <comment>command: best equip</comment>
-        <translation>Optimiser</translation>
+        <translation>優化</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>command: remove all</comment>
-        <translation>Effacer</translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Buy</source>
         <comment>command</comment>
-        <translation>Acheter</translation>
+        <translation>購買</translation>
     </message>
     <message>
         <source>Sell</source>
         <comment>command</comment>
-        <translation>Vendre</translation>
+        <translation>出售</translation>
     </message>
     <message>
         <source>New Game</source>
         <comment>command</comment>
-        <translation>Nouvelle Partie</translation>
+        <translation>新遊戲</translation>
     </message>
     <message>
         <source>Continue</source>
         <comment>command</comment>
-        <translation>Continuer</translation>
+        <translation>繼續</translation>
     </message>
     <message>
         <source>To Title</source>
         <comment>command</comment>
-        <translation>Vers l&apos;Écran Titre</translation>
+        <translation>回到標題</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>command</comment>
-        <translation>Annuler</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>1 Enemy</source>
-        <translation>1 Ennemi</translation>
+        <translation>1 個敵人</translation>
     </message>
     <message>
         <source>All Enemies</source>
-        <translation>Tous les Ennemis</translation>
+        <translation>所有敵人</translation>
     </message>
     <message>
         <source>1 Random Enemy</source>
-        <translation>1 Ennemi Aléatoire</translation>
+        <translation>隨機 1 個敵人</translation>
     </message>
     <message>
         <source>2 Random Enemies</source>
-        <translation>2 Ennemis Aléatoires</translation>
+        <translation>隨機 2 個敵人</translation>
     </message>
     <message>
         <source>3 Random Enemies</source>
-        <translation>3 Ennemis Aléatoires</translation>
+        <translation>隨機 3 個敵人</translation>
     </message>
     <message>
         <source>4 Random Enemies</source>
-        <translation>4 Ennemis Aléatoires</translation>
+        <translation>隨機 4 個敵人</translation>
     </message>
     <message>
         <source>1 Ally</source>
-        <translation>1 Allié</translation>
+        <translation>1 個盟友</translation>
     </message>
     <message>
         <source>All Allies</source>
-        <translation>Tous les Alliés</translation>
+        <translation>所有盟友</translation>
     </message>
     <message>
         <source>1 Ally (Dead)</source>
-        <translation>1 Allié (Mort)</translation>
+        <translation>1 個盟友（死亡）</translation>
     </message>
     <message>
         <source>All Allies (Dead)</source>
-        <translation>Tous les Alliés (Morts)</translation>
+        <translation>所有盟友（死亡）</translation>
     </message>
     <message>
         <source>The User</source>
-        <translation>L&apos;utilisateur</translation>
+        <translation>使用者</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Toujours</translation>
+        <translation>總是</translation>
     </message>
     <message>
         <source>Battle Screen</source>
-        <translation>Écran de Combat</translation>
+        <translation>戰鬥畫面</translation>
     </message>
     <message>
         <source>Menu Screen</source>
-        <translation>Écran de Menu</translation>
+        <translation>選單畫面</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Jamais</translation>
+        <translation>從不</translation>
     </message>
     <message>
         <source>Regular Item</source>
-        <translation>Objet Normal</translation>
+        <translation>常規道具</translation>
     </message>
     <message>
         <source>Key Item</source>
-        <translation>Objet Clé</translation>
+        <translation>關鍵道具</translation>
     </message>
     <message>
         <source>Hidden Item A</source>
-        <translation>Objet Caché A</translation>
+        <translation>隱藏道具 A</translation>
     </message>
     <message>
         <source>Hidden Item B</source>
-        <translation>Objet Caché B</translation>
+        <translation>隱藏道具 B</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normal</translation>
+        <translation>標準</translation>
     </message>
     <message>
         <source>Dual Wield</source>
-        <translation>Ambidextrie</translation>
+        <translation>雙武器</translation>
     </message>
     <message>
         <source>Auto Battle</source>
-        <translation>Combat Auto</translation>
+        <translation>自動戰鬥</translation>
     </message>
     <message>
         <source>Guard</source>
-        <translation>Garde</translation>
+        <translation>防禦</translation>
     </message>
     <message>
         <source>Substitute</source>
-        <translation>Remplacer</translation>
+        <translation>交替</translation>
     </message>
     <message>
         <source>Preserve TP</source>
-        <translation>Conserver TP</translation>
+        <translation>保留 TP</translation>
     </message>
     <message>
         <source>Boss</source>
@@ -751,43 +748,43 @@
     </message>
     <message>
         <source>Instant</source>
-        <translation>Instant</translation>
+        <translation>即時</translation>
     </message>
     <message>
         <source>No Disappear</source>
-        <translation>Pas Disparaître</translation>
+        <translation>無消失</translation>
     </message>
     <message>
         <source>Encounter Half</source>
-        <translation>Rencontre la Moitié</translation>
+        <translation>遭遇減半</translation>
     </message>
     <message>
         <source>Encounter None</source>
-        <translation>Rencontre Personne</translation>
+        <translation>無遭遇</translation>
     </message>
     <message>
         <source>Cancel Surprise</source>
-        <translation>Annuler Surprise</translation>
+        <translation>取消突襲</translation>
     </message>
     <message>
         <source>Raise Preemptive</source>
-        <translation>Relever Préemptive</translation>
+        <translation>提升先發制人</translation>
     </message>
     <message>
         <source>Gold Double</source>
-        <translation>Or Double</translation>
+        <translation>金幣雙倍</translation>
     </message>
     <message>
         <source>Drop Item Double</source>
-        <translation>Butin Double</translation>
+        <translation>掉落道具雙倍</translation>
     </message>
     <message>
         <source>Escape</source>
-        <translation>Fuire</translation>
+        <translation>逃跑</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Motif</translation>
+        <translation>模式</translation>
     </message>
     <message>
         <source>X</source>
@@ -799,140 +796,140 @@
     </message>
     <message>
         <source>Scale</source>
-        <translation>Échelle</translation>
+        <translation>比例</translation>
     </message>
     <message>
         <source>Rotation</source>
-        <translation>Rotation</translation>
+        <translation>旋轉</translation>
     </message>
     <message>
         <source>Mirror</source>
-        <translation>Miroir</translation>
+        <translation>鏡像</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Opacité</translation>
+        <translation>不透明度</translation>
     </message>
     <message>
         <source>Blend</source>
         <comment>Blend Mode</comment>
-        <translation>Mélange</translation>
+        <translation>融合</translation>
     </message>
     <message>
         <source>Pattern number assigned to the cell.</source>
-        <translation>Numéro de motif attribué à la cellule.</translation>
+        <translation>分配給動畫格的模式編號。</translation>
     </message>
     <message>
         <source>X coordinate of the cell.</source>
-        <translation>Coordonnée X de la cellule.</translation>
+        <translation>動畫格 X 座標。</translation>
     </message>
     <message>
         <source>Y coordinate of the cell.</source>
-        <translation>Coordonnée Y de la cellule.</translation>
+        <translation>動畫格 Y 座標。</translation>
     </message>
     <message>
         <source>Scale of the cell.</source>
-        <translation>Échelle de la cellule.</translation>
+        <translation>動畫格比例。</translation>
     </message>
     <message>
         <source>Angle of rotation in degrees.</source>
-        <translation>Angle de rotation en degrés.</translation>
+        <translation>旋轉角度。</translation>
     </message>
     <message>
         <source>Whether to draw the cell flipped horizontally.</source>
-        <translation>Si vous souhaitez dessiner la cellule basculée horizontalement.</translation>
+        <translation>是否將動畫格圖示為橫向翻轉。</translation>
     </message>
     <message>
         <source>Opacity level of the cell.</source>
-        <translation>Niveau d&apos;opacité de la cellule.</translation>
+        <translation>動畫格不透明度程度。</translation>
     </message>
     <message>
         <source>Blend mode used when the cell is drawn.</source>
-        <translation>Mode mélange utilisé quand la cellule est dessinée.</translation>
+        <translation>畫動畫格時使用的融合模式。</translation>
     </message>
     <message>
         <source>Normal</source>
         <comment>Normal blending</comment>
-        <translation>Normal</translation>
+        <translation>標準</translation>
     </message>
     <message>
         <source>Additive</source>
         <comment>Additive blending</comment>
-        <translation>Additif</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation>Fenêtre</translation>
+        <translation>視窗</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>Sombre</translation>
+        <translation>調光變暗</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation>Transparent</translation>
+        <translation>透明</translation>
     </message>
     <message>
         <source>Top</source>
         <comment>Vertical</comment>
-        <translation>Haut</translation>
+        <translation>頂部</translation>
     </message>
     <message>
         <source>Middle</source>
         <comment>Vertical</comment>
-        <translation>Milieu</translation>
+        <translation>中間</translation>
     </message>
     <message>
         <source>Bottom</source>
         <comment>Vertical</comment>
-        <translation>Bas</translation>
+        <translation>底部</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>Horizontal</comment>
-        <translation>Gauche</translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>Middle</source>
         <comment>Horizontal</comment>
-        <translation>Milieu</translation>
+        <translation>中間</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>Horizontal</comment>
-        <translation>Droite</translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>Choice #1</source>
-        <translation>Choix n°1</translation>
+        <translation>選擇 #1</translation>
     </message>
     <message>
         <source>Choice #2</source>
-        <translation>Choix n°2</translation>
+        <translation>選擇 #2</translation>
     </message>
     <message>
         <source>Choice #3</source>
-        <translation>Choix n°3</translation>
+        <translation>選擇 #3</translation>
     </message>
     <message>
         <source>Choice #4</source>
-        <translation>Choix n°4</translation>
+        <translation>選擇 #4</translation>
     </message>
     <message>
         <source>Choice #5</source>
-        <translation>Choix n°5</translation>
+        <translation>選擇 #5</translation>
     </message>
     <message>
         <source>Choice #6</source>
-        <translation>Choix n°6</translation>
+        <translation>選擇 #6</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation>Branche</translation>
+        <translation>分支</translation>
     </message>
     <message>
         <source>Disallow</source>
-        <translation>Rejeter</translation>
+        <translation>不允許</translation>
     </message>
     <message>
         <source>ON</source>
@@ -944,115 +941,115 @@
     </message>
     <message>
         <source>Map X</source>
-        <translation>Carte X</translation>
+        <translation>地圖 X</translation>
     </message>
     <message>
         <source>Map Y</source>
-        <translation>Carte Y</translation>
+        <translation>地圖 Y</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Direction</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Screen X</source>
-        <translation>Écran X</translation>
+        <translation>畫面 X</translation>
     </message>
     <message>
         <source>Screen Y</source>
-        <translation>Écran Y</translation>
+        <translation>畫面 Y</translation>
     </message>
     <message>
         <source>Map ID</source>
-        <translation>ID Carte</translation>
+        <translation>地圖 ID</translation>
     </message>
     <message>
         <source>Party Members</source>
         <comment>Number of Party Members</comment>
-        <translation>Membres du Groupe</translation>
+        <translation>隊伍成員</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation>Or</translation>
+        <translation>金幣</translation>
     </message>
     <message>
         <source>Steps</source>
-        <translation>Pas</translation>
+        <translation>步數</translation>
     </message>
     <message>
         <source>Play Time</source>
-        <translation>Temps de Jeu</translation>
+        <translation>遊戲時間</translation>
     </message>
     <message>
         <source>Timer</source>
-        <translation>Minuteur</translation>
+        <translation>計時器</translation>
     </message>
     <message>
         <source>Save Count</source>
-        <translation>Compteur de Sauvegardes</translation>
+        <translation>保存次數</translation>
     </message>
     <message>
         <source>Battle Count</source>
-        <translation>Compteur de Combats</translation>
+        <translation>戰鬥次數</translation>
     </message>
     <message>
         <source>Win Count</source>
-        <translation>Compteur de Victoires</translation>
+        <translation>勝利次數</translation>
     </message>
     <message>
         <source>Escape Count</source>
-        <translation>Compteur de Fuites</translation>
+        <translation>逃跑次數</translation>
     </message>
     <message>
         <source>Black</source>
         <comment>Fade to Black</comment>
-        <translation>Noir</translation>
+        <translation>黑色</translation>
     </message>
     <message>
         <source>White</source>
         <comment>Fade to White</comment>
-        <translation>Blanc</translation>
+        <translation>白色</translation>
     </message>
     <message>
         <source>None</source>
         <comment>No Fade</comment>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>Exclamation</source>
-        <translation>Exclamation</translation>
+        <translation>驚嘆號</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation>Question</translation>
+        <translation>問號</translation>
     </message>
     <message>
         <source>Music Note</source>
-        <translation>Note de Musique</translation>
+        <translation>樂符</translation>
     </message>
     <message>
         <source>Heart</source>
-        <translation>Cœur</translation>
+        <translation>心形</translation>
     </message>
     <message>
         <source>Anger</source>
-        <translation>Colère</translation>
+        <translation>憤怒</translation>
     </message>
     <message>
         <source>Sweat</source>
-        <translation>Transpiration</translation>
+        <translation>流汗</translation>
     </message>
     <message>
         <source>Cobweb</source>
-        <translation>Toile d&apos;Araignée</translation>
+        <translation>蛛網</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation>Silence</translation>
+        <translation>無言</translation>
     </message>
     <message>
         <source>Light Bulb</source>
-        <translation>Ampoule</translation>
+        <translation>燈泡</translation>
     </message>
     <message>
         <source>Zzz</source>
@@ -1060,59 +1057,59 @@
     </message>
     <message>
         <source>User-defined 1</source>
-        <translation>Défini par l&apos;Utilisateur 1</translation>
+        <translation>用戶定義 1</translation>
     </message>
     <message>
         <source>User-defined 2</source>
-        <translation>Défini par l&apos;Utilisateur 2</translation>
+        <translation>用戶定義 2</translation>
     </message>
     <message>
         <source>User-defined 3</source>
-        <translation>Défini par l&apos;Utilisateur 3</translation>
+        <translation>用戶定義 3</translation>
     </message>
     <message>
         <source>User-defined 4</source>
-        <translation>Défini par l&apos;Utilisateur 4</translation>
+        <translation>用戶定義 4</translation>
     </message>
     <message>
         <source>User-defined 5</source>
-        <translation>Défini par l&apos;Utilisateur 5</translation>
+        <translation>用戶定義 5</translation>
     </message>
     <message>
         <source>Upper Left</source>
-        <translation>En haut à gauche</translation>
+        <translation>左上</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Centre</translation>
+        <translation>中央</translation>
     </message>
     <message>
         <source>Terrain Tag</source>
-        <translation>Étiquette de Terrain</translation>
+        <translation>地形標記</translation>
     </message>
     <message>
         <source>Event ID</source>
-        <translation>ID de l&apos;Évènement</translation>
+        <translation>劇情 ID</translation>
     </message>
     <message>
         <source>Tile ID (Layer 1)</source>
-        <translation>ID de tile (Couche 1)</translation>
+        <translation>圖塊 ID（第 1 層）</translation>
     </message>
     <message>
         <source>Tile ID (Layer 2)</source>
-        <translation>ID de tile (Couche 2)</translation>
+        <translation>圖塊 ID（第 2 層）</translation>
     </message>
     <message>
         <source>Tile ID (Layer 3)</source>
-        <translation>ID de tile (Couche 3)</translation>
+        <translation>圖塊 ID（第 3 層）</translation>
     </message>
     <message>
         <source>Tile ID (Layer 4)</source>
-        <translation>ID de tile (Couche 4)</translation>
+        <translation>圖塊 ID（第 4 層）</translation>
     </message>
     <message>
         <source>Region ID</source>
-        <translation>ID de Région</translation>
+        <translation>地區 ID</translation>
     </message>
     <message>
         <source>=</source>
@@ -1140,35 +1137,35 @@
     </message>
     <message>
         <source>Down</source>
-        <translation>Vers le Bas</translation>
+        <translation>下</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vers la Gauche</translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Vers la Droite</translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Vers le Haut</translation>
+        <translation>上</translation>
     </message>
     <message>
         <source>Retain</source>
-        <translation>Retenir</translation>
+        <translation>保留</translation>
     </message>
     <message>
         <source>Rain</source>
-        <translation>Pluie</translation>
+        <translation>雨</translation>
     </message>
     <message>
         <source>Storm</source>
-        <translation>Tempête</translation>
+        <translation>風暴</translation>
     </message>
     <message>
         <source>Snow</source>
-        <translation>Neige</translation>
+        <translation>雪</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1178,472 +1175,470 @@
     <message>
         <source>Cancel</source>
         <comment>Button</comment>
-        <translation>Annuler</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Shift</source>
         <comment>Button</comment>
-        <translation>Shift</translation>
+        <translation>移動 (Shift)</translation>
     </message>
     <message>
         <source>Down</source>
         <comment>Button</comment>
-        <translation>Bas</translation>
+        <translation>下</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>Button</comment>
-        <translation>Gauche</translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>Button</comment>
-        <translation>Droite</translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>Up</source>
         <comment>Button</comment>
-        <translation>Haut</translation>
+        <translation>上</translation>
     </message>
     <message>
         <source>Pageup</source>
         <comment>Button</comment>
-        <translation>Page précédente</translation>
+        <translation>上頁</translation>
     </message>
     <message>
         <source>Pagedown</source>
         <comment>Button</comment>
-        <translation>Page suivante</translation>
+        <translation>下頁</translation>
     </message>
     <message>
         <source>Thrust</source>
         <comment>Bare hands, glove and spear</comment>
-        <translation>Poussée</translation>
+        <translation>突刺</translation>
     </message>
     <message>
         <source>Swing</source>
         <comment>Short-range Weapon</comment>
-        <translation>Balancier</translation>
+        <translation>揮舞</translation>
     </message>
     <message>
         <source>Missile</source>
         <comment>Long-range Weapon</comment>
-        <translation>Missile</translation>
+        <translation>導彈</translation>
     </message>
     <message>
         <source>Dagger</source>
-        <translation>Dague</translation>
+        <translation>匕首</translation>
     </message>
     <message>
         <source>Sword</source>
-        <translation>Épée</translation>
+        <translation>劍</translation>
     </message>
     <message>
         <source>Flail</source>
-        <translation>Fléau</translation>
+        <translation>連枷</translation>
     </message>
     <message>
         <source>Axe</source>
-        <translation>Hache</translation>
+        <translation>斧</translation>
     </message>
     <message>
         <source>Whip</source>
-        <translation>Fouet</translation>
+        <translation>鞭</translation>
     </message>
     <message>
         <source>Cane</source>
-        <translation>Canne</translation>
+        <translation>杖</translation>
     </message>
     <message>
         <source>Bow</source>
-        <translation>Arc</translation>
+        <translation>弓</translation>
     </message>
     <message>
         <source>Crossbow</source>
-        <translation>Arbalète</translation>
+        <translation>弩</translation>
     </message>
     <message>
         <source>Gun</source>
-        <translation>Pistolet</translation>
+        <translation>槍</translation>
     </message>
     <message>
         <source>Claw</source>
-        <translation>Griffe</translation>
+        <translation>爪</translation>
     </message>
     <message>
         <source>Glove</source>
-        <translation>Gant</translation>
+        <translation>手套</translation>
     </message>
     <message>
         <source>Spear</source>
-        <translation>Lance</translation>
+        <translation>矛</translation>
     </message>
     <message>
         <source>User-defined 6</source>
-        <translation>Défini par l&apos;Utilisateur 6</translation>
+        <translation>用戶定義 6</translation>
     </message>
     <message>
         <source> frames</source>
-        <translation> trames</translation>
+        <translation>框</translation>
     </message>
     <message>
         <source> frame</source>
-        <translation> trame</translation>
+        <translation>框</translation>
     </message>
     <message>
         <source> seconds</source>
-        <translation>secondes</translation>
+        <translation>秒</translation>
     </message>
     <message>
         <source> second</source>
-        <translation>seconde</translation>
+        <translation>秒</translation>
     </message>
     <message>
         <source>Last Target</source>
-        <translation>Dernière Cible</translation>
+        <translation>上一目標</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation>Aléatoire</translation>
+        <translation>隨機</translation>
     </message>
     <message>
         <source>Index </source>
-        <translation>Index</translation>
+        <translation>索引</translation>
     </message>
     <message>
         <source>Mace</source>
-        <translation>Masse</translation>
+        <translation>釘頭槌</translation>
     </message>
     <message>
         <source>Rod</source>
-        <translation>Bâton</translation>
+        <translation>棒</translation>
     </message>
     <message>
         <source>Club</source>
-        <translation>Club</translation>
+        <translation>棍</translation>
     </message>
     <message>
         <source>Combat Chain</source>
-        <translation>Chaîne de Combat</translation>
+        <translation>格鬥鏈條</translation>
     </message>
     <message>
         <source>Futuristic Sword</source>
-        <translation>Épée SF</translation>
+        <translation>未來之劍</translation>
     </message>
     <message>
         <source>Iron pipe</source>
-        <translation>Tuyau en fer</translation>
+        <translation>鐵管</translation>
     </message>
     <message>
         <source>Slingshot</source>
-        <translation>Lance-pierres</translation>
+        <translation>彈弓</translation>
     </message>
     <message>
         <source>Shotgun</source>
-        <translation>Fusil à pompe</translation>
+        <translation>獵槍</translation>
     </message>
     <message>
         <source>Rifle</source>
-        <translation>Fusil</translation>
+        <translation>來福槍</translation>
     </message>
     <message>
         <source>Chainsaw</source>
-        <translation>Tronçonneuse</translation>
+        <translation>電鋸</translation>
     </message>
     <message>
         <source>Railgun</source>
-        <translation>Railgun</translation>
+        <translation>電磁炮</translation>
     </message>
     <message>
         <source>Stun Rod</source>
-        <translation>Matraque Électrique</translation>
+        <translation>電擊棒</translation>
     </message>
     <message>
         <source>Multiply</source>
         <comment>Multiply blending</comment>
-        <translation>Multiplier</translation>
+        <translation>乘</translation>
     </message>
     <message>
         <source>Screen</source>
         <comment>Screen blending</comment>
-        <translation>Écran</translation>
+        <translation>畫面</translation>
     </message>
     <message>
         <source>Default</source>
         <comment>Theme</comment>
-        <translation>Par défaut</translation>
+        <translation>默認</translation>
     </message>
     <message>
         <source>Dark</source>
         <comment>Theme</comment>
-        <translation>Sombre</translation>
+        <translation>黑色</translation>
     </message>
     <message>
         <source>High Contrast White</source>
         <comment>Theme</comment>
-        <translation>Contraste élevé blanc</translation>
+        <translation>高反差白</translation>
     </message>
     <message>
         <source>High Contrast Black</source>
         <comment>Theme</comment>
-        <translation>Contraste élevé noir</translation>
+        <translation>高反差黑</translation>
     </message>
     <message>
         <source>Dropdown</source>
         <comment>Object Selector</comment>
-        <translation>Menu déroulant</translation>
+        <translation>下拉式</translation>
     </message>
     <message>
         <source>Extended</source>
         <comment>Object Selector</comment>
-        <translation>Étendu</translation>
+        <translation>擴展</translation>
     </message>
     <message>
         <source>Smart</source>
         <comment>Object Selector</comment>
-        <translation>Automatique</translation>
+        <translation>自動</translation>
     </message>
 </context>
 <context>
     <name>ControlCharactersHint</name>
     <message>
         <source>Control characters</source>
-        <translation>Caractère de Contrôle</translation>
+        <translation>控制字元</translation>
     </message>
     <message>
         <source>Replaced by the value of the nth variable.</source>
-        <translation>Remplacé par la valeur de la énième variable.</translation>
+        <translation>由 nth 變更值替換。</translation>
     </message>
     <message>
         <source>Replaced by the name of the nth actor.</source>
-        <translation>Remplacé par le nom du énième acteur.</translation>
+        <translation>由 nth 角色名稱替換。</translation>
     </message>
     <message>
         <source>Replaced by the name of the nth party member.</source>
-        <translation>Rempl. par le nom du énième membre du groupe.</translation>
+        <translation>由 nth 隊伍成員名稱替換。</translation>
     </message>
     <message>
         <source>Replaced by the currency unit.</source>
-        <translation>Remplacé par l&apos;unité de la devise.</translation>
+        <translation>由貨幣單位替換。</translation>
     </message>
     <message>
         <source>Draw the subsequent text in the nth color.</source>
-        <translation>Dessine le texte suivant dans la énième couleur.</translation>
+        <translation>以 nth 顏色描繪隨附文字。</translation>
     </message>
     <message>
         <source>Draw the nth icon.</source>
-        <translation>Dessine l&apos;énième icône.</translation>
+        <translation>繪製 nth 圖示。</translation>
     </message>
     <message>
         <source>Increase the text size by one step.</source>
-        <translation>Augmente la taille du texte d&apos;un cran.</translation>
+        <translation>一格增加文字大小。</translation>
     </message>
     <message>
         <source>Decrease the text size by one step.</source>
-        <translation>Diminue la taille du texte d&apos;un cran.</translation>
+        <translation>一格減少文字大小。</translation>
     </message>
     <message>
         <source>Replaced with the backslash character.</source>
-        <translation>Remplacé par le caractère antislash.</translation>
+        <translation>由反斜線字元替換。</translation>
     </message>
     <message>
         <source>Open the gold window.</source>
-        <translation>Ouvre la fenêtre Or.</translation>
+        <translation>開啟金幣視窗。</translation>
     </message>
     <message>
         <source>Wait 1/4 second.</source>
-        <translation>Attendre 1/4 de seconde.</translation>
+        <translation>等待 1/4 秒。</translation>
     </message>
     <message>
         <source>Wait 1 second.</source>
-        <translation>Attendre 1 seconde.</translation>
+        <translation>等待 1 秒。</translation>
     </message>
     <message>
         <source>Wait for button input.</source>
-        <translation>Attendre l&apos;entrée du bouton.</translation>
+        <translation>等待按鈕輸入。</translation>
     </message>
     <message>
         <source>Display remaining text on same line all at once.</source>
-        <translation>Aff. texte restant sur même ligne en même temps.</translation>
+        <translation>一次顯示同一行全部剩餘文字。</translation>
     </message>
     <message>
         <source>Cancel the effect that displays text all at once.</source>
-        <translation>Annule l&apos;effet qui aff. le texte en même temps.</translation>
+        <translation>一次取消所有文字顯示效果。</translation>
     </message>
     <message>
         <source>Do not wait for input after displaying text.</source>
-        <translation>Ne pas attendre d&apos;entrée après l&apos;aff. du texte.</translation>
+        <translation>顯示文字後不等待輸入。</translation>
     </message>
 </context>
 <context>
     <name>DataSelector</name>
     <message>
         <source>Data List</source>
-        <translation>Liste des Données</translation>
+        <translation>數據列表</translation>
     </message>
     <message>
         <source>The contents of the selected item are displayed in the right side of the window.&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>Le contenu de l&apos;objet sélectionné est affiché sur le côté droit de la fenêtre.&lt;br&gt;[F5] Sélectionne l&apos;objet suivant.&lt;br&gt;[F4] Sélectionne l&apos;objet précédent.</translation>
+        <translation>所選項目的內容顯示於視窗右邊。&lt;br&gt;[F5] 選擇下一個項目。&lt;br&gt;[F4] 選擇前一個項目。</translation>
     </message>
     <message>
         <source>Change Maximum</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Changement Max.</translation>
+        <translation>更改最大值</translation>
     </message>
     <message>
         <source>Changes the number of data entries.</source>
-        <translation>Change le nombre d&apos;entrées de données.</translation>
+        <translation>更改資料登錄數。</translation>
     </message>
 </context>
 <context>
     <name>DatabaseMain</name>
     <message>
         <source>Database</source>
-        <translation>Base de Données</translation>
+        <translation>資料庫</translation>
     </message>
     <message>
         <source>Actors</source>
-        <translation>Acteurs</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Data for player-controlled party members.</source>
-        <translation>Données pour les membres du groupe contrôlés par des joueurs.</translation>
+        <translation>玩家控制的隊伍成員的資料。</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation>Classes</translation>
+        <translation>類別</translation>
     </message>
     <message>
         <source>Data that determines roles of actors within the party.</source>
-        <translation>Données qui déterminent les rôles des acteurs dans le groupe.</translation>
+        <translation>決定角色在該隊伍中的角色資料。</translation>
     </message>
     <message>
         <source>Skills</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Data for actions that produce special effects by consuming MP or TP.</source>
-        <translation>Données pour les actions qui produisent des effets spéciaux en consommant des MP ou TP.</translation>
+        <translation>透過消耗 MP 或 TP 產生特殊效果的動作的資料。</translation>
     </message>
     <message>
         <source>Items</source>
-        <translation>Objets</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Data for non-equipment items, such as recovery and event items.</source>
-        <translation>Données pour les objets non-équipement, comme la récupération et les objets d&apos;évènement.</translation>
+        <translation>非裝備道具的資料，如恢復和劇情道具。</translation>
     </message>
     <message>
         <source>Weapons</source>
-        <translation>Armes</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Data for weapon items that increase attack power mainly.</source>
-        <translation>Données pour les objets arme qui augmentent principalement la puissance d&apos;attaque.</translation>
+        <translation>主要增加攻擊力的武器道具的資料。</translation>
     </message>
     <message>
         <source>Armors</source>
-        <translation>Armures</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Data for armor items that increase defense power mainly.</source>
-        <translation>Données pour les objets armure qui augmentent principalement la puissance de défense.</translation>
+        <translation>主要增加防禦力的盔甲道具的資料。</translation>
     </message>
     <message>
         <source>Enemies</source>
-        <translation>Ennemis</translation>
+        <translation>敵人</translation>
     </message>
     <message>
         <source>Data for enemies fought in battles.</source>
-        <translation>Données pour les ennemis combattus.</translation>
+        <translation>在戰鬥中戰鬥的敵人的資料。</translation>
     </message>
     <message>
         <source>Troops</source>
-        <translation>Troupes</translation>
+        <translation>軍隊</translation>
     </message>
     <message>
         <source>Data for enemy groups. The unit in which they appear in the game.</source>
-        <translation>Données pour les groupes d&apos;ennemis. L&apos;unité dans laquelle ils apparaissent dans le jeu.</translation>
+        <translation>敵人群組資料。出現在遊戲中的單位。</translation>
     </message>
     <message>
         <source>States</source>
-        <translation>États</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Data influencing character status in various ways.</source>
-        <translation>Données influençant le statut du personnage de diverses façons.</translation>
+        <translation>影響人物狀態的各種資料。</translation>
     </message>
     <message>
         <source>Animations</source>
-        <translation>Animations</translation>
+        <translation>動畫</translation>
     </message>
     <message>
         <source>Data used for various visual effects.</source>
-        <translation>Données utilisées pour des effets visuels divers.</translation>
+        <translation>用於各種視覺效果的資料。</translation>
     </message>
     <message>
         <source>Tilesets</source>
-        <translation>Tilesets</translation>
+        <translation>圖塊設置</translation>
     </message>
     <message>
         <source>Data defining the behavior of tilesets for maps.</source>
-        <translation>Données définissant le comportement des tilesets pour les cartes.</translation>
+        <translation>定義地圖圖塊設置行為的資料。</translation>
     </message>
     <message>
         <source>Common Events</source>
-        <translation>Év. Communs</translation>
+        <translation>一般劇情</translation>
     </message>
     <message>
         <source>Data for commonly used events.</source>
-        <translation>Données pour les évènements communément utilisés.</translation>
+        <translation>使用於一般劇情的資料。</translation>
     </message>
     <message>
         <source>System</source>
-        <translation>Système</translation>
+        <translation>系統</translation>
     </message>
     <message>
         <source>Basic configuration of the entire game.</source>
-        <translation>Configuration basique de l&apos;ensemble du jeu.</translation>
+        <translation>整個遊戲的基本配置。</translation>
     </message>
     <message>
         <source>Types</source>
-        <translation>Types</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Names of elements, skill types, weapon types, armor types, and equipment types.</source>
-        <translation>Noms des éléments, types de compétence, types d&apos;arme, types d&apos;armure, et types d&apos;équipement.</translation>
+        <translation>元素、技能類型、武器類型、盔甲類型和裝備類型名稱。</translation>
     </message>
     <message>
         <source>Terms</source>
-        <translation>Termes</translation>
+        <translation>術語</translation>
     </message>
     <message>
         <source>Text data such as command and parameter names.</source>
-        <translation>Les données de texte comme les noms de commandes et de paramètres.</translation>
+        <translation>文字資料，如命令和參數名稱等。</translation>
     </message>
     <message>
         <source>Discard changes to the database?</source>
-        <translation>Annuler les modifications de la base de données?</translation>
+        <translation>確定要放棄資料庫的修改？</translation>
     </message>
 </context>
 <context>
     <name>DeploymentOption</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation type="unfinished">選項</translation>
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="unfinished">Pour définir les options de déploiement.</translation>
+        <translation type="unfinished">設置部署選項。</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
-        <translation type="unfinished">Exclure fichiers inutilisés</translation>
+        <translation type="unfinished">排除未使用的文件</translation>
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="unfinished">Les fichiers non utilisés dans le jeu seront exclus du déploiement.</translation>
+        <translation type="unfinished">遊戲中未使用的文件，將被排除至部署。</translation>
     </message>
     <message>
         <source>Zip Compression</source>
@@ -1655,35 +1650,35 @@
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Chiffrement</translation>
+        <translation type="unfinished">加密</translation>
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="unfinished">Définissez les options de chiffrement.</translation>
+        <translation type="unfinished">設定加密選單。</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="unfinished">Fichiers image</translation>
+        <translation type="unfinished">圖片檔</translation>
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="unfinished">Chiffrez un fichier image inclus dans le package.</translation>
+        <translation type="unfinished">對內含在封包裡的圖片檔進行加密。</translation>
     </message>
     <message>
         <source>Audio files</source>
-        <translation type="unfinished">Fichiers audio</translation>
+        <translation type="unfinished">音效檔</translation>
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="unfinished">Chiffrez un fichier audio inclus dans le package.</translation>
+        <translation type="unfinished">對內含在封包裡的音效檔進行加密。</translation>
     </message>
     <message>
         <source>Encryption key</source>
-        <translation type="unfinished">Clé de chiffrement</translation>
+        <translation type="unfinished">加密金鑰</translation>
     </message>
     <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="unfinished">Veuillez saisir la clé de chiffrement.</translation>
+        <translation type="unfinished">請輸入加密金鑰。</translation>
     </message>
 </context>
 <context>
@@ -1695,97 +1690,96 @@
     </message>
     <message>
         <source>Saves all changes and closes this window.</source>
-        <translation>Sauvegarde tous les changements et ferme cette fenêtre.</translation>
+        <translation>保存所有變更並關閉此視窗。</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
-        <translation>Annuler</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Closes this window without saving any changes.</source>
-        <translation>Ferme cette fenêtre sans sauvegarder les modifications.</translation>
+        <translation>關閉此視窗，不保存變更。</translation>
     </message>
     <message>
         <source>Apply</source>
         <comment>Dialog Button</comment>
-        <translation>Appliquer</translation>
+        <translation>應用</translation>
     </message>
     <message>
         <source>Saves all changes without closing this window.</source>
-        <translation>Sauvegarde tous les changements sans fermer cette fenêtre.</translation>
+        <translation>保存所有變更，不關閉此視窗。</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>Dialog Button</comment>
-        <translation>Fermer</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <source>Closes this window.</source>
-        <translation>Ferme cette fenêtre.</translation>
+        <translation>關閉此視窗。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_About</name>
     <message>
         <source>About %1</source>
-        <translation>À propos de %1</translation>
+        <translation>關於 %1</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Action</name>
     <message>
         <source>Action</source>
-        <translation>Action</translation>
+        <translation>行動</translation>
     </message>
     <message>
         <source>Skill and Rating</source>
-        <translation>Compétence et Classement</translation>
+        <translation>技能和評分</translation>
     </message>
     <message>
         <source>Basic action settings.</source>
-        <translation>Réglages basiques d&apos;actions.</translation>
+        <translation>基本動作設定。</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Skill that will be used as the action.</source>
-        <translation>Compétence qui sera utilisée en tant qu&apos;action.</translation>
+        <translation>將用於行動的技能。</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Classement</translation>
+        <translation>評分</translation>
     </message>
     <message>
         <source>Priority of the action. Of all actions meeting the conditions, the one with the highest rating will be the standard, and the one within 2 rating points of the standard will be used. Actions 1 rating point away will be used 2/3 of the time and those 2 rating points away will be used 1/3 of the time.</source>
-        <translation>Priorité de l&apos;action. De toutes les actions répondant aux conditions, celle avec le classement le plus haut sera le standard, et celle dans les deux points de classement du standard sera utilisée. Les actions à 1 point de classement seront utilisées 2/3 du temps et celles à 2 points de classement seront utilisées 1/3 du temps.</translation>
+        <translation>行動優先順序。滿足條件的所有行動中，評分最高的行動將作為標準，距標準 2 個評分點內的行動將被使用。距標準 1 個評分點的行動將用於 2/3 的時間，距標準 2 個評分點的行動將用於 1/3 的時間。</translation>
     </message>
     <message>
         <source>Conditions</source>
-        <translation>Conditions</translation>
+        <translation>條件</translation>
     </message>
     <message>
         <source>Conditions for possible actions.</source>
-        <translation>Conditions pour les actions possibles.</translation>
+        <translation>行動可能的條件。</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Toujours</translation>
+        <translation>總是</translation>
     </message>
     <message>
         <source>Possible as long as the specified action can be performed.</source>
-        <translation>Possible tant que l&apos;action spécifiée peut être effectuée.</translation>
+        <translation>只要指定行動可執行即可能。</translation>
     </message>
     <message>
         <source>Turn</source>
-        <translation>Tour</translation>
+        <translation>回合</translation>
     </message>
     <message>
         <source>Possible when the specified turn has been surpassed. Specifies the turn count with A + B * X. If A = 1 and B = 3, the condition will be met at turn 1, 4, 7, and so on. Turn 0 has no meaning here.</source>
-        <translation>Possible quand le tour spécifié a été dépassé. Spécifie le compte des tours avec A + B * X. Si A = 1 et B = 3, la condition sera rencontrée aux tours 1, 4, 7, etc. Tour 0 ne signifie rien ici.</translation>
+        <translation>有可能當指定回合已超過時。使用公式 A + B * X 指定回合計算。若 A = 1 且 B = 3，該條件將在回合 1、4、7 滿足，等等。回合 0 在此無意義。</translation>
     </message>
     <message>
         <source>HP</source>
@@ -1793,7 +1787,7 @@
     </message>
     <message>
         <source>Possible when this enemy&apos;s HP is in the specified range.</source>
-        <translation>Possible quand les HP de cet ennemi sont dans le champ spécifié.</translation>
+        <translation>當敵人 HP 處於指定範圍時即有可能。</translation>
     </message>
     <message>
         <source>MP</source>
@@ -1801,96 +1795,96 @@
     </message>
     <message>
         <source>Possible when this enemy&apos;s MP is in the specified range.</source>
-        <translation>Possible quand les MP de cet ennemi sont dans le champ spécifié.</translation>
+        <translation>當敵人 MP 處於指定範圍時即有可能。</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Possible when the specified state has been added to this enemy.</source>
-        <translation>Possible quand l&apos;état spécifié a été ajouté à cet ennemi.</translation>
+        <translation>當指定狀態附加至該敵人時即有可能。</translation>
     </message>
     <message>
         <source>Party Level</source>
-        <translation>Niveau Groupe</translation>
+        <translation>隊伍等級</translation>
     </message>
     <message>
         <source>Possible when the party members&apos; highest level is greater than or equal to the specified number.</source>
-        <translation>Possible quand le niveau le plus élevé des membres du groupe est supérieur ou égal au nombre spécifié.</translation>
+        <translation>當隊伍成員的最高等級大於或等於指定數字時即有可能。</translation>
     </message>
     <message>
         <source>or above</source>
-        <translation>ou plus</translation>
+        <translation>或以上</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation>Interrupteur</translation>
+        <translation>開關</translation>
     </message>
     <message>
         <source>Possible when the specified switch is ON.</source>
-        <translation>Possible quand l&apos;interrupteur spécifié est sur ON.</translation>
+        <translation>當指定開關為 ON 時即有可能。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AnimationBatch</name>
     <message>
         <source>Batch</source>
-        <translation>Lot</translation>
+        <translation>批量</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Données</translation>
+        <translation>數據</translation>
     </message>
     <message>
         <source>Data types to change.</source>
-        <translation>Types de données à changer.</translation>
+        <translation>要更改的數據類型。</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>mirror</comment>
-        <translation>Oui</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>No</source>
         <comment>mirror</comment>
-        <translation>Non</translation>
+        <translation>No</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AnimationCell</name>
     <message>
         <source>Cell Properties</source>
-        <translation>Propriétés de Cellules</translation>
+        <translation>動畫格屬性</translation>
     </message>
     <message>
         <source>Various settings for the cell.</source>
-        <translation>Réglages divers pour la cellule.</translation>
+        <translation>動畫格的各種設定。</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>mirror</comment>
-        <translation>Oui</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>No</source>
         <comment>mirror</comment>
-        <translation>Non</translation>
+        <translation>No</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AnimationShift</name>
     <message>
         <source>Shift</source>
-        <translation>Décalage</translation>
+        <translation>移動 (Shift)</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>Correction</translation>
+        <translation>偏移</translation>
     </message>
     <message>
         <source>Distance to shift.</source>
-        <translation>Distance à déplacer.</translation>
+        <translation>要移動的距離。</translation>
     </message>
     <message>
         <source>X</source>
@@ -1898,7 +1892,7 @@
     </message>
     <message>
         <source>Value to be added to X coordinates.</source>
-        <translation>Valeur à ajouter aux coordonnées X.</translation>
+        <translation>要添加到 X 座標的值。</translation>
     </message>
     <message>
         <source>Y</source>
@@ -1906,22 +1900,22 @@
     </message>
     <message>
         <source>Value to be added to Y coordinates.</source>
-        <translation>Valeur à ajouter aux coordonnées Y.</translation>
+        <translation>要添加到 Y 座標的值。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AnimationTimings</name>
     <message>
         <source>SE and Flash Timing</source>
-        <translation>SE et Timing du Flash</translation>
+        <translation>SE 和閃光定時</translation>
     </message>
     <message>
         <source>Frame</source>
-        <translation>Trame</translation>
+        <translation>框</translation>
     </message>
     <message>
         <source>Frame number to associate this data.</source>
-        <translation>Numéro de la trame à associer à ces données.</translation>
+        <translation>要與該資料關聯的框數。</translation>
     </message>
     <message>
         <source>SE</source>
@@ -1929,350 +1923,354 @@
     </message>
     <message>
         <source>Sound effect to play at the specified frame.</source>
-        <translation>Effet sonore à jouer à la trame spécifiée.</translation>
+        <translation>要在指定框播放的音效。</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Flash</translation>
+        <translation>閃光</translation>
     </message>
     <message>
         <source>Flash effect to play at the specified frame.</source>
-        <translation>Effet flash à jouer à la trame spécifiée.</translation>
+        <translation>要在指定框播放的閃光效果。</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>No flash effect.</source>
-        <translation>Pas d&apos;effet flash.</translation>
+        <translation>無閃光效果。</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation>Cible</translation>
+        <translation>目標</translation>
     </message>
     <message>
         <source>Flashes the animation target.</source>
-        <translation>L&apos;animation cible clignote.</translation>
+        <translatorcomment>単語修正</translatorcomment>
+        <translation>對動畫目標設定閃光。</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation>Écran</translation>
+        <translation>畫面</translation>
     </message>
     <message>
         <source>Flashes the entire screen.</source>
-        <translation>La totalité de l&apos;écran clignote.</translation>
+        <translation>對整個畫面設定閃光。</translation>
     </message>
     <message>
         <source>Hide Target</source>
-        <translation>Masquer Cible</translation>
+        <translation>隱藏目標</translation>
     </message>
     <message>
         <source>Hides the target for a given time.</source>
-        <translation>Cache la cible pendant une période définie.</translation>
+        <translation>使目標在限定時間內被隱藏。</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation>Durée</translation>
+        <translation>持續時間</translation>
     </message>
     <message>
         <source>Duration of the flash in 1/15 seconds.</source>
-        <translation>Durée du flash en 1/15 secondes.</translation>
+        <translation>閃光以 1/15 秒單位的持續時間。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AnimationTween</name>
     <message>
         <source>Tween</source>
-        <translation>Interpolation</translation>
+        <translation>補間</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Données</translation>
+        <translation>資料</translation>
     </message>
     <message>
         <source>Data types to tween.</source>
-        <translation>Types de données à interpoler.</translation>
+        <translation>要補間的資料類型。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AppendTools</name>
     <message>
         <source>RPG Maker MV Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Discard changes to RPG Maker MV tools?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Additional Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List of tools that have already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>RPG Maker MV工具</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>路徑</translation>
     </message>
     <message>
-        <source>Delete</source>
-        <translation type="unfinished">Effacer</translation>
-    </message>
-    <message>
-        <source>Delete additional tools.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Found Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List of tools that have been found.</source>
-        <translation type="unfinished"></translation>
+        <source>Remove</source>
+        <translation type="obsolete">移除</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Ajouter</translation>
+        <translation>添加</translation>
+    </message>
+    <message>
+        <source>Discard changes to RPG Maker MV tools?</source>
+        <translation>確定要放棄RPG Maker MV工具的修改?</translation>
+    </message>
+    <message>
+        <source>Additional Tools</source>
+        <translation>附加工具</translation>
+    </message>
+    <message>
+        <source>List of tools that have already been added.</source>
+        <translation>已添加了工具列。</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>刪除</translation>
+    </message>
+    <message>
+        <source>Delete additional tools.</source>
+        <translation>刪除附加工具。</translation>
+    </message>
+    <message>
+        <source>Found Tools</source>
+        <translation>找到工具</translation>
+    </message>
+    <message>
+        <source>List of tools that have been found.</source>
+        <translation>已找到工具列。</translation>
     </message>
     <message>
         <source>Add a tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>添加一項工具。</translation>
     </message>
     <message>
         <source>Select Path</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇路徑</translation>
     </message>
     <message>
         <source>Select a folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇資料夾。</translation>
     </message>
     <message>
         <source>Select Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇資料夾</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AttackMotion</name>
     <message>
         <source>Attack Motion</source>
-        <translation>Mouvement d&apos;Attaque</translation>
+        <translation>攻擊動作</translation>
     </message>
     <message>
         <source>Motion</source>
-        <translation>Mouvement</translation>
+        <translation>動作</translation>
     </message>
     <message>
         <source>Motion type displaying when an actor attacks with this weapon.</source>
-        <translation>Type de mouvement s&apos;affichant quand un acteur attaque avec cette arme.</translation>
+        <translation>當角色使用該武器攻擊時顯示的動作類型。</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Image for this weapon.</source>
-        <translation>Image pour cette arme.</translation>
+        <translation>該武器的圖像。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AudioSelector</name>
     <message>
         <source>Select an Audio</source>
-        <translation>Sélectionner Audio</translation>
+        <translation>選擇音頻</translation>
     </message>
 </context>
 <context>
     <name>Dialog_BattleConditions</name>
     <message>
         <source>Conditions</source>
-        <translation>Conditions</translation>
+        <translation>條件</translation>
     </message>
     <message>
         <source>Turn End</source>
-        <translation>Fin du Tour</translation>
+        <translation>回合結束</translation>
     </message>
     <message>
         <source>Starts when all of the actions of enemies and actors have finished.</source>
-        <translation>Commence quand toutes les actions des ennemis et des acteurs sont finies.</translation>
+        <translation>當敵人和角色的所有動作皆完成時開始。</translation>
     </message>
     <message>
         <source>Turn</source>
-        <translation>Tour</translation>
+        <translation>回合</translation>
     </message>
     <message>
         <source>Starts when the specified turn has been surpassed. Specifies the turn count with A + B * X. If A = 1 and B = 3, the condition will be met at turn 1, 4, 7, and so on. Turn 0 means that the event starts before command entry.</source>
-        <translation>Commence quand le tour spécifié a été dépassé. Spécifie le compte des tours avec A + B * X. Si A = 1 et B = 3, la condition sera rencontrée aux tours 1, 4, 7, etc. Tour 0 signifie que l&apos;évènement commence avant l&apos;entrée de la commande.</translation>
+        <translation>當超過指定回合時開始。使用公式 A + B * X 指定回合計算。若 A = 1 且 B = 3，該條件將在回合 1、4、7 滿足，等等。回合 0 表示該劇情在命令輸入前開始。</translation>
     </message>
     <message>
         <source>Enemy HP</source>
-        <translation>HP Ennemi</translation>
+        <translation>敵人 HP</translation>
     </message>
     <message>
         <source>Starts when an enemy&apos;s HP is less than or equal to the specified percentage.&lt;br&gt;If you want to start the event just before the enemy dies, add [Immortal] state temporarily on the battle start.</source>
-        <translation>Commence quand l&apos;HP d&apos;un ennemi est inférieur ou égal au pourcentage spécifié.&lt;br&gt;Si vous voulez commencer l&apos;évènement juste avant que l&apos;ennemi meure, ajoutez temporairement l&apos;état [Immortel] au commencement du combat.</translation>
+        <translation>當敵人 HP 少於或等於指定百分比時開始。&lt;br&gt;若想要在敵人快要死亡前開始該劇情，在戰鬥開始時臨時添加 [不死] 狀態。</translation>
     </message>
     <message>
         <source>or below</source>
-        <translation>ou en dessous</translation>
+        <translation>或以下</translation>
     </message>
     <message>
         <source>Actor HP</source>
-        <translation>HP Acteur</translation>
+        <translation>角色 HP</translation>
     </message>
     <message>
         <source>Starts when an actor&apos;s HP is less than or equal to the specified percentage.</source>
-        <translation>Commence quand les HP d&apos;un acteur sont inférieurs ou égaux au pourcentage spécifié.</translation>
+        <translation>當角色 HP 少於或等於指定百分比時開始。</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation>Interrupteur</translation>
+        <translation>開關</translation>
     </message>
     <message>
         <source>Starts when the specified switch is ON.</source>
-        <translation>Commence quand l&apos;interrupteur spécifié est sur ON.</translation>
+        <translation>當指定開關為 ON 時開始。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_BattleTest</name>
     <message>
         <source>Battle Test</source>
-        <translation>Test de Combat</translation>
+        <translation>戰鬥測試</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to use in the battle test.</source>
-        <translation>Acteur à utiliser dans le test de combat.</translation>
+        <translation>要在戰鬥測試中使用的角色。</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation>Niveau</translation>
+        <translation>等級</translation>
     </message>
     <message>
         <source>Level of the actor.</source>
-        <translation>Niveau de l&apos;acteur.</translation>
+        <translation>角色等級。</translation>
     </message>
     <message>
         <source>Initialize</source>
-        <translation>Initialiser</translation>
+        <translation>初始化</translation>
     </message>
     <message>
         <source>Initializes the actor&apos;s level and equipment.</source>
-        <translation>Initialise le niveau de l&apos;acteur et l&apos;équipement.</translation>
+        <translation>初始化角色等級和裝備。</translation>
     </message>
     <message>
         <source>Equipment</source>
-        <translation>Équipement</translation>
+        <translation>裝備</translation>
     </message>
     <message>
         <source>Weapon and armor that the actor has equipped in the battle test.</source>
-        <translation>Arme et armure que l&apos;acteur a équipés dans le test de combat.</translation>
+        <translation>戰鬥測試中角色裝備的武器和盔甲。</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Statut</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Displays status computation based on the level and the equipment.</source>
-        <translation>Affiche l&apos;état de calcul basé sur le niveau et l&apos;équipement.</translation>
+        <translation>基於等級和裝備顯示狀態計算。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ChangeMaximum</name>
     <message>
         <source>Change Maximum</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Changement Max.</translation>
+        <translation>更改最大值</translation>
     </message>
     <message>
         <source>Maximum</source>
-        <translation>Maximum</translation>
+        <translation>最大值</translation>
     </message>
     <message>
         <source>Number of new data entries. When decreasing the number, any existing entries above that number will be deleted.</source>
-        <translation>Nombre de nouvelles entrées de données. Quand le nombre diminue, toutes les entrées existantes au-dessus de ce nombre seront supprimées.</translation>
+        <translation>新數據登錄數。當減少該數字，超過該數字的任何現有登錄將被刪除。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_CharacterGenerator</name>
     <message>
         <source>Character Generator</source>
-        <translation>Générateur de Personnages</translation>
+        <translation>人物產生器</translation>
     </message>
     <message>
         <source>Male</source>
-        <translation>Mâle</translation>
+        <translation>男</translation>
     </message>
     <message>
         <source>Female</source>
-        <translation>Femelle</translation>
+        <translation>女</translation>
     </message>
     <message>
         <source>Save settings</source>
-        <translation>Enregistrer les réglages</translation>
+        <translation>保存設定</translation>
     </message>
     <message>
         <source>Load settings</source>
-        <translation>Charger les réglages</translation>
+        <translation>讀取設定</translation>
     </message>
     <message>
         <source>Face Image</source>
-        <translation>Images du Visage</translation>
+        <translation>頭像圖像</translation>
     </message>
     <message>
         <source>Walk Character</source>
-        <translation>Personnage Marche</translation>
+        <translation>行走性人物</translation>
     </message>
     <message>
         <source>Battler</source>
-        <translation>Combattant</translation>
+        <translation>參戰角色</translation>
     </message>
     <message>
         <source>Damage Character</source>
-        <translation>Personnage Dommages</translation>
+        <translation>傷害性人物</translation>
     </message>
     <message>
         <source>Kid</source>
-        <translation>Enfant</translation>
+        <translation>孩子</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Copying</name>
     <message>
         <source>New Project</source>
-        <translation>Nouveau projet</translation>
+        <translation>新項目</translation>
     </message>
     <message>
         <source>Copying files...</source>
-        <translation>Copie de fichiers...</translation>
+        <translation>正在複製檔案...</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Deployment</name>
     <message>
         <source>Deployment</source>
-        <translation>Déploiement</translation>
+        <translation>部署</translation>
     </message>
     <message>
         <source>Platform</source>
-        <translation>Plateforme</translation>
+        <translation>平臺</translation>
     </message>
     <message>
         <source>Target platform of the distribution package.</source>
-        <translation>Plateforme cible du package de distribution.</translation>
+        <translation>發行套件的目標平臺。</translation>
     </message>
     <message>
         <source>Windows</source>
@@ -2280,7 +2278,7 @@
     </message>
     <message>
         <source>Creates a package for Windows.</source>
-        <translation>Crée un package pour Windows.</translation>
+        <translation>創建 Windows 套件。</translation>
     </message>
     <message>
         <source>Mac OS X</source>
@@ -2288,35 +2286,35 @@
     </message>
     <message>
         <source>Creates a package for Mac OS X.</source>
-        <translation>Crée un package pour Mac OS X.</translation>
+        <translation>創建 Mac OS X 套件。</translation>
     </message>
     <message>
         <source>Output Location</source>
-        <translation>Emplacement de Sortie</translation>
+        <translation>匯出位置</translation>
     </message>
     <message>
         <source>Location to create the package folder.</source>
-        <translation>Emplacement pour créer le dossier du package.</translation>
+        <translation>要創建套件資料夾的位置。</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation>Choisir</translation>
+        <translation>選擇</translation>
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation>Choisi l&apos;emplacement.</translation>
+        <translation>選擇位置。</translation>
     </message>
     <message>
         <source>Choose Directory</source>
-        <translation>Choisir le Répertoire</translation>
+        <translation>選擇目錄</translation>
     </message>
     <message>
         <source>Location is empty.</source>
-        <translation>L&apos;emplacement est vide.</translation>
+        <translation>位置為空。</translation>
     </message>
     <message>
         <source>Path name is too long.</source>
-        <translation>Le nom du chemin d&apos;accès est trop long.</translation>
+        <translation>路徑名稱過長。</translation>
     </message>
     <message>
         <source>Android / iOS</source>
@@ -2324,63 +2322,63 @@
     </message>
     <message>
         <source>Creates a package for Android and iOS.</source>
-        <translation>Crée un package pour Android et iOS.</translation>
+        <translation>創建Android/iOS 封包。</translation>
     </message>
     <message>
         <source>Web browsers</source>
-        <translation>Navigateurs Web</translation>
+        <translation>網頁瀏覽器</translation>
     </message>
     <message>
         <source>Creates a package for web browsers.</source>
-        <translation>Crée un package pour navigateurs Web.</translation>
+        <translation>創建網頁瀏覽器套件。</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Options</translation>
+        <translation type="vanished">選項</translation>
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="vanished">Pour définir les options de déploiement.</translation>
+        <translation type="vanished">設置部署選項。</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
-        <translation type="vanished">Exclure fichiers inutilisés</translation>
+        <translation type="vanished">排除未使用的文件</translation>
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="vanished">Les fichiers non utilisés dans le jeu seront exclus du déploiement.</translation>
+        <translation type="vanished">遊戲中未使用的文件，將被排除至部署。</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="vanished">Chiffrement</translation>
+        <translation type="vanished">加密</translation>
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="vanished">Définissez les options de chiffrement.</translation>
+        <translation type="vanished">設定加密選單。</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="vanished">Fichiers image</translation>
+        <translation type="vanished">圖片檔</translation>
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="vanished">Chiffrez un fichier image inclus dans le package.</translation>
+        <translation type="vanished">對內含在封包裡的圖片檔進行加密。</translation>
     </message>
     <message>
         <source>Audio files</source>
-        <translation type="vanished">Fichiers audio</translation>
+        <translation type="vanished">音效檔</translation>
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="vanished">Chiffrez un fichier audio inclus dans le package.</translation>
+        <translation type="vanished">對內含在封包裡的音效檔進行加密。</translation>
     </message>
     <message>
         <source>Encryption key</source>
-        <translation type="vanished">Clé de chiffrement</translation>
+        <translation type="vanished">加密金鑰</translation>
     </message>
     <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="vanished">Veuillez saisir la clé de chiffrement.</translation>
+        <translation type="vanished">請輸入加密金鑰。</translation>
     </message>
     <message>
         <source>Linux</source>
@@ -2395,640 +2393,638 @@
     <name>Dialog_DropItem</name>
     <message>
         <source>Drop Item</source>
-        <translation>Butin</translation>
+        <translation>掉落道具</translation>
     </message>
     <message>
         <source>Kind of the drop item.</source>
-        <translation>Type de butin.</translation>
+        <translation>掉落道具種類。</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>Turns off the drop item spawning.</source>
-        <translation>Désactive l&apos;apparition de butin.</translation>
+        <translation>關閉掉落道具的產生。</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation>Objet</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Sets the specified item as the drop item.</source>
-        <translation>Établi l&apos;objet spécifié comme butin.</translation>
+        <translation>設定指定道具為掉落道具。</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation>Arme</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Sets the specified weapon as the drop item.</source>
-        <translation>Établi l&apos;arme spécifiée comme butin.</translation>
+        <translation>設定指定武器為掉落道具。</translation>
     </message>
     <message>
         <source>Armor</source>
-        <translation>Armure</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Sets the specified armor as the drop item.</source>
-        <translation>Établi l&apos;armure spécifiée comme butin.</translation>
+        <translation>設定指定盔甲為掉落道具。</translation>
     </message>
     <message>
         <source>Probability</source>
-        <translation>Probabilité</translation>
+        <translation>機率</translation>
     </message>
     <message>
         <source>Spawning probability of the drop item.</source>
-        <translation>Probabilité d&apos;apparition de butin.</translation>
+        <translation>掉落道具產生的機率。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Effects</name>
     <message>
         <source>Effects</source>
-        <translation>Effets</translation>
+        <translation>效果</translation>
     </message>
     <message>
         <source>Recover</source>
-        <translation>Récupération</translation>
+        <translation>恢復</translation>
     </message>
     <message>
         <source>Recover HP</source>
-        <translation>Récupération HP</translation>
+        <translation>恢復 HP</translation>
     </message>
     <message>
         <source>Restores HP. Specify either a percentage of max HP or a set value, or both. In the case of items, the multiplier of the [Pharmacology] sp-parameter is applied.</source>
-        <translation>Restaure les HP. Spécifie un pourcentage maximum de HP ou une valeur, ou les deux. Dans le cas des objets, le multiplicateur du sp-paramètre [Pharmacologie] est appliqué.</translation>
+        <translation>還原 HP。指定最大 HP 百分比或設定值或二者。對於道具，應用 [藥物] sp-參數乘數。</translation>
     </message>
     <message>
         <source>Recover MP</source>
-        <translation>Récupération MP</translation>
+        <translation>恢復 MP</translation>
     </message>
     <message>
         <source>Restores MP. Specify either a percentage of max MP or a set value, or both. In the case of items, the multiplier of the [Pharmacology] sp-parameter is applied.</source>
-        <translation>Restaure des MP. Spécifie un pourcentage maximum de MP ou une valeur, ou les deux. Dans le cas des objets, le multiplicateur du sp-paramètre [Pharmacologie] est appliqué.</translation>
+        <translation>還原 MP。指定最大 MP 百分比或設定值或二者。對於道具，應用 [藥物] sp-參數乘數。</translation>
     </message>
     <message>
         <source>Gain TP</source>
-        <translation>Gain TP</translation>
+        <translation>獲得 TP</translation>
     </message>
     <message>
         <source>Increases the TP by the amount specified.</source>
-        <translation>Augmente les TP par la valeur spécifiée.</translation>
+        <translation>按指定數量增加 TP。</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Add State</source>
-        <translation>Ajouter État</translation>
+        <translation>添加狀態</translation>
     </message>
     <message>
         <source>Adds the specified state. Specifying a value over 100% enables success at a rate higher than the target&apos;s original effectiveness.</source>
-        <translation>Ajoute l&apos;état spécifié. Spécifier une valeur au-dessus de 100 % permet le succès à un taux supérieur que l&apos;efficacité d&apos;origine de la cible.</translation>
+        <translation>添加指定狀態。指定值大於 100%，能夠成功地高於目標的原始效率比率。</translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation>Attaque Normale</translation>
+        <translation>標準攻擊</translation>
     </message>
     <message>
         <source>Remove State</source>
-        <translation>Retirer État</translation>
+        <translation>消除狀態</translation>
     </message>
     <message>
         <source>Removes the specified state.</source>
-        <translation>Retire l&apos;état spécifié.</translation>
+        <translation>消除指定狀態。</translation>
     </message>
     <message>
         <source>Param</source>
-        <translatorcomment>省略のピリオドを追加させて頂きました。</translatorcomment>
-        <translation>Param.</translation>
+        <translation>參數</translation>
     </message>
     <message>
         <source>Add Buff</source>
-        <translation>Ajouter Buff</translation>
+        <translation>添加增益效果</translation>
     </message>
     <message>
         <source>Raises the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and an increase of up to two levels is possible. To raise a parameter two or more levels at one time, you can apply this effect multiple times.</source>
-        <translation>Augmente le niveau de fluctuation du paramètre spécifié de un. Pour chaque niveau, il y a une fluctuation de 25 % dans la valeur originale, et une augmentation jusqu&apos;à deux niveaux de plus est possible. Pour augmenter un paramètre de deux niveaux ou plus en une seule fois, vous pouvez appliquer cet effet plusieurs fois.</translation>
+        <translation>提升指定參數的波動水平一級。對於每級，原始值中有 25% 的波動，可增加多達兩級。要一次提升一個參數兩級或多級，可多次應用這一效果。</translation>
     </message>
     <message>
         <source>turns</source>
-        <translation>tours</translation>
+        <translation>場景段</translation>
     </message>
     <message>
         <source>Add Debuff</source>
-        <translation>Ajouter Debuff</translation>
+        <translation>添加減益效果</translation>
     </message>
     <message>
         <source>Lowers the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and a decrease of up to two levels is possible. To lower a parameter two or more levels at one time, you can apply this effect multiple times.</source>
-        <translation>Diminue le niveau de fluctuation du paramètre spécifié de un. Pour chaque niveau, il y a une fluctuation de 25 %  dans la valeur originale, et une diminution jusqu&apos;à deux niveaux de moins est possible. Pour diminuer un paramètre de deux niveaux ou plus en une seule fois, vous pouvez appliquer cet effet plusieurs fois.</translation>
+        <translation>降低指定參數的波動水平一級。對於每級，原始值中有 25% 的波動，可降低多達兩級。要一次降低一個參數兩級或多級，可多次應用這一效果。</translation>
     </message>
     <message>
         <source>Remove Buff</source>
-        <translation>Retirer Buff</translation>
+        <translation>刪除增益效果</translation>
     </message>
     <message>
         <source>Returns the specified parameter to its original fluctuation level if it has been buffed.</source>
-        <translation>Retourne le paramètre spécifié à son niveau de fluctuation d&apos;origine si il a été amélioré.</translation>
+        <translation>若指定參數已有增益效果，將其恢復至原始波動水平。</translation>
     </message>
     <message>
         <source>Remove Debuff</source>
-        <translation>Retirer le Debuff</translation>
+        <translation>删除減益</translation>
     </message>
     <message>
         <source>Returns the specified parameter to its original fluctuation level if it has been debuffed.</source>
-        <translation>Retourne le paramètre spécifié à son niveau de fluctuation d&apos;origine si il a été altéré.</translation>
+        <translation>若指定參數已被減益效果，將其恢復至原始波動水平。</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Autre</translation>
+        <translation>其他</translation>
     </message>
     <message>
         <source>Special Effect</source>
-        <translation>Effet Spécial</translation>
+        <translation>特殊效果</translation>
     </message>
     <message>
         <source>Can only be set for the [Escape] command. Allows the target to escape from a battle. No EXP will be earned.</source>
-        <translation>Peut seulement être mis en place pour la commande [Fuire]. Permet à la cible d&apos;échapper à un combat. Aucun EXP ne sera acquis.</translation>
+        <translation>僅可為 [逃跑] 命令設定。允許目標逃離戰鬥。將不可獲得 EXP。</translation>
     </message>
     <message>
         <source>Grow</source>
-        <translation>Grandir</translation>
+        <translation>增長</translation>
     </message>
     <message>
         <source>Permanently raises the specified parameter. For example, this can be used in creating an item such as fruit that gives a power-up when eaten.</source>
-        <translation>Augmente de façon permanente le paramètre spécifié. Par exemple, cela peut être utilisé pour la création d&apos;un objet comme un fruit qui donne une augmentation de la puissance lorsqu&apos;il est mangé.</translation>
+        <translation>永久提升指定參數。例如，可用於創建一個道具，如水果，吃後增加力量。</translation>
     </message>
     <message>
         <source>Learn Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Apprendre Comp.</translation>
+        <translation>學習技能</translation>
     </message>
     <message>
         <source>Allows the character to learn the specified skill. For example, this can be used in creating an item such as a book that enables a spell to be used once it is read.</source>
-        <translation>Permet au personnage d&apos;apprendre la compétence spécifiée. Par exemple, cela peut être utilisé pour la création d&apos;un objet comme un livre qui permet à un sort d&apos;être utilisé une fois qu&apos;il est lu.</translation>
+        <translation>允許人物學習指定技能。例如，可用於創建一個道具，如書籍，閱讀後可使用咒語。</translation>
     </message>
     <message>
         <source>Common Event</source>
-        <translation>Évmt Commun</translation>
+        <translation>一般劇情</translation>
     </message>
     <message>
         <source>Triggers the specified common event. Only one call specification for common events is valid.</source>
-        <translation>Déclenche l&apos;évènement commun spécifié. Seule une spécification d&apos;appel unique pour les évènements communs est valide.</translation>
+        <translation>觸發指定一般劇情。對於一般劇情僅一種規範有效。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Encounter</name>
     <message>
         <source>Encounter</source>
-        <translation>Rencontre</translation>
+        <translation>衝突</translation>
     </message>
     <message>
         <source>Troop and Weight</source>
-        <translation>Troupe et Poids</translation>
+        <translation>軍隊和權重</translation>
     </message>
     <message>
         <source>Basic encounter settings.</source>
-        <translation>Réglages basiques des rencontres.</translation>
+        <translation>基本遭遇設定。</translation>
     </message>
     <message>
         <source>Troop</source>
-        <translation>Troupe</translation>
+        <translation>軍隊</translation>
     </message>
     <message>
         <source>Troop to be encountered.</source>
-        <translation>Troupe à rencontrer.</translation>
+        <translation>遭遇衝突的軍隊。</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Poids</translation>
+        <translation>權重</translation>
     </message>
     <message>
         <source>Value that affects the frequency at which the troop is encountered.</source>
-        <translation>Valeur qui affecte la fréquence à laquelle la troupe est rencontrée.</translation>
+        <translation>影響軍隊遭遇衝突頻率的值。</translation>
     </message>
     <message>
         <source>Range</source>
-        <translation>Plage</translation>
+        <translation>範圍</translation>
     </message>
     <message>
         <source>Range in which the troop is encountered.</source>
-        <translation>Plage dans laquelle la troupe est rencontrée.</translation>
+        <translation>遭遇衝突軍隊的範圍。</translation>
     </message>
     <message>
         <source>Entire Map</source>
-        <translation>Carte Entière</translation>
+        <translation>整個地圖</translation>
     </message>
     <message>
         <source>No limit on the encounter range.</source>
-        <translation>Pas de limite sur la plage de rencontre.</translation>
+        <translation>衝突範圍無限制。</translation>
     </message>
     <message>
         <source>Specify by Region ID</source>
-        <translation>Spécifier par ID de Région</translation>
+        <translation>按地區 ID 指定</translation>
     </message>
     <message>
         <source>Specifies the numbers set with the map editor.</source>
-        <translation>Spécifie les numéros mis en place avec l&apos;éditeur de carte.</translation>
+        <translation>指定地圖編輯器設定的編號。</translation>
     </message>
     <message>
         <source>Region ID</source>
-        <translation>ID de Région</translation>
+        <translation>地區 ID</translation>
     </message>
     <message>
         <source>Valid when a non-zero value is entered.</source>
-        <translation>Valide lorsqu&apos;une valeur autre que zéro est entrée.</translation>
+        <translation>輸入非零值時有效。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_EquipmentItem</name>
     <message>
         <source>Weapon</source>
-        <translation>Arme</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Armor</source>
-        <translation>Armure</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Item for this type of equipment.</source>
-        <translation>Objet pour ce type d&apos;équipement.</translation>
+        <translation>該類型裝備的道具。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_EventCommandSelect</name>
     <message>
         <source>Event Commands</source>
-        <translation>Commandes d&apos;Évènement</translation>
+        <translation>劇情命令</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Message</translation>
+        <translation>訊息</translation>
     </message>
     <message>
         <source>Game Progression</source>
-        <translation>Progression du Jeu</translation>
+        <translation>遊戲進度</translation>
     </message>
     <message>
         <source>Flow Control</source>
-        <translation>Contrôle de Progression</translation>
+        <translation>流程控制</translation>
     </message>
     <message>
         <source>Party</source>
-        <translation>Groupe</translation>
+        <translation>隊伍</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Movement</source>
-        <translation>Mouvement</translation>
+        <translation>移動</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Personnage</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Image</translation>
+        <translation>圖片</translation>
     </message>
     <message>
         <source>Timing</source>
-        <translation>Timing</translation>
+        <translation>定時</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation>Écran</translation>
+        <translation>畫面</translation>
     </message>
     <message>
         <source>Audio &amp; Video</source>
-        <translation>Audio &amp; Vidéo</translation>
+        <translation>音頻和視頻</translation>
     </message>
     <message>
         <source>Scene Control</source>
-        <translation>Contrôle de Scène</translation>
+        <translation>場景控制</translation>
     </message>
     <message>
         <source>System Settings</source>
-        <translation>Paramètres Système</translation>
+        <translation>系統設定</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation>Carte</translation>
+        <translation>地圖</translation>
     </message>
     <message>
         <source>Battle</source>
-        <translation>Combat</translation>
+        <translation>戰鬥</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Avancé</translation>
+        <translation>高級</translation>
     </message>
 </context>
 <context>
     <name>Dialog_EventSearcher</name>
     <message>
         <source>Event Searcher</source>
-        <translation>Chercheur d&apos;Évènement</translation>
+        <translation>劇情搜尋器</translation>
     </message>
     <message>
         <source>Search for</source>
-        <translation>Rechercher</translation>
+        <translation>搜尋</translation>
     </message>
     <message>
         <source>Specifies what to search for.</source>
-        <translation>Indique ce que vous recherchez.</translation>
+        <translation>指定搜尋內容。</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation>Interrupteur</translation>
+        <translation>開關</translation>
     </message>
     <message>
         <source>Search for the switch.</source>
-        <translation>Rechercher l&apos;interrupteur.</translation>
+        <translation>搜尋開關。</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>變數</translation>
     </message>
     <message>
         <source>Search for the variable.</source>
-        <translation>Rechercher la variable.</translation>
+        <translation>搜尋變數。</translation>
     </message>
     <message>
         <source>Event Name</source>
-        <translation>Nom de l&apos;Évmt</translation>
+        <translation>劇情名稱</translation>
     </message>
     <message>
         <source>Search for the event name.</source>
-        <translation>Recherche du nom de l&apos;évènement.</translation>
+        <translation>搜尋劇情名稱。</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Recherche</translation>
+        <translation>搜尋</translation>
     </message>
     <message>
         <source>Executes the search.</source>
-        <translation>Exécute la recherche.</translation>
+        <translation>執行搜尋。</translation>
     </message>
     <message>
         <source>Search Results</source>
-        <translation>Résultats de la recherche</translation>
+        <translation>搜尋結果</translation>
     </message>
     <message>
         <source>List for the search results.</source>
-        <translation>Liste des résultats de la recherche.</translation>
+        <translation>列出搜尋結果。</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation>Carte</translation>
+        <translation>地圖</translation>
     </message>
     <message>
         <source>Event</source>
-        <translation>Évènement</translation>
+        <translation>劇情</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>Page</translation>
+        <translation>頁面</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Position</translation>
+        <translation>位置</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ExpCurve</name>
     <message>
         <source>EXP Curve</source>
-        <translation>Courbe d&apos;EXP</translation>
+        <translation>EXP 曲線</translation>
     </message>
     <message>
         <source>To Next Level</source>
-        <translation>Jusqu&apos;au Niveau Suivant</translation>
+        <translation>至下一個等級</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation>Total</translation>
+        <translation>總計</translation>
     </message>
     <message>
         <source>EXP Table</source>
-        <translation>Tableau d&apos;EXP</translation>
+        <translation>EXP 表</translation>
     </message>
     <message>
         <source>List of EXP necessary for each level. Automatically calculated based on a combination of four parameters.</source>
-        <translation>Liste de l&apos;EXP nécessaire pour chaque niveau. Calculé automatiquement basé sur une combinaison de quatre paramètres.</translation>
+        <translation>每等級必要 EXP 列表。基於四個參數組合自動計算。</translation>
     </message>
     <message>
         <source>Base Value</source>
-        <translation>Valeur de base</translation>
+        <translation>基本值</translation>
     </message>
     <message>
         <source>Base value for calculating necessary EXP.</source>
-        <translation>Valeur de base pour calculer l&apos;EXP nécessaire.</translation>
+        <translation>計算必要 EXP 的基本值。</translation>
     </message>
     <message>
         <source>Extra Value</source>
-        <translation>Valeur supplémentaire</translation>
+        <translation>額外值</translation>
     </message>
     <message>
         <source>Simple extra value added to the EXP necessary for each level.</source>
-        <translation>Simple valeur supplémentaire ajoutée à l&apos;EXP nécessaire pour chaque niveau.</translation>
+        <translation>增加到每個等級必要 EXP 的簡單額外值。</translation>
     </message>
     <message>
         <source>Acceleration A</source>
-        <translation>Accélération A</translation>
+        <translation>加速 A</translation>
     </message>
     <message>
         <source>Value representing the rate at which to increase the necessary EXP. Affects the entire EXP curve.</source>
-        <translation>Valeur représentant le taux avec lequel augmenter l&apos;EXP nécessaire. Affecte la courbe d&apos;EXP toute entière.</translation>
+        <translation>代表增加必要 EXP 的速率的值。影響整個 EXP 曲線。</translation>
     </message>
     <message>
         <source>Acceleration B</source>
-        <translation>Accélération B</translation>
+        <translation>加速 B</translation>
     </message>
     <message>
         <source>Value representing the degree at which to exponentially increase the necessary EXP. Mainly affects the high-level range.</source>
-        <translation>Valeur représentant le degré avec lequel augmenter exponentiellement l&apos;EXP nécessaire. Affecte principalement la plage de haut niveau.</translation>
+        <translation>代表指數級增加必要 EXP 的程度的值。主要影響高等級範圍。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_FrameMaximum</name>
     <message>
         <source>Max Frames</source>
-        <translation>Trames Max</translation>
+        <translation>最大框數</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Nombre</translation>
+        <translation>數目</translation>
     </message>
     <message>
         <source>Number of new frames. When decreasing the number, any existing frames above that number will be deleted.</source>
-        <translation>Nombre de nouvelles trames. Quand le nombre diminue, toutes les trames existantes au-dessus de ce nombre seront supprimées.</translation>
+        <translation>新框數目。當減少該數字，超過該數字的任何現有框將被刪除。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GameData</name>
     <message>
         <source>Game Data</source>
-        <translation>Données Jeu</translation>
+        <translation>遊戲數據</translation>
     </message>
     <message>
         <source>Type of game data.</source>
-        <translation>Type de données du jeu.</translation>
+        <translation>遊戲數據類型。</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation>Objet</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Uses the number of the specified item in the party&apos;s inventory.</source>
-        <translation>Utilise le numéro de l&apos;objet spécifié dans l&apos;inventaire du groupe.</translation>
+        <translation>使用隊伍庫存中指定道具的編號。</translation>
     </message>
     <message>
         <source>(Possession Count)</source>
-        <translation>(Compte des Possessions)</translation>
+        <translation>（佔有計算）</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation>Arme</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Uses the number of the specified weapon in the party&apos;s inventory without the equipped items.</source>
-        <translation>Utilise le numéro de l&apos;arme spécifiée dans l&apos;inventaire du groupe sans les objets équipés.</translation>
+        <translation>使用隊伍庫存中指定武器編號，無裝備道具。</translation>
     </message>
     <message>
         <source>Armor</source>
-        <translation>Armure</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Uses the number of the specified armor in the party&apos;s inventory without the equipped items.</source>
-        <translation>Utilise le numéro de l&apos;armure spécifiée dans l&apos;inventaire du groupe sans les objets équipés.</translation>
+        <translation>使用隊伍庫存中指定盔甲編號，無裝備道具。</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Uses a parameter of the specified actor.</source>
-        <translation>Utilise un paramètre de l&apos;acteur spécifié.</translation>
+        <translation>使用指定角色的參數。</translation>
     </message>
     <message>
         <source>Enemy</source>
-        <translation>Ennemi</translation>
+        <translation>敵人</translation>
     </message>
     <message>
         <source>Uses a parameter of the specified enemy.</source>
-        <translation>Utilise un paramètre de l&apos;ennemi spécifié.</translation>
+        <translation>使用指定敵人的參數。</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Personnage</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Uses coordinates or direction of the player or event.</source>
-        <translation>Utilise les coordonnées ou la direction du joueur ou de l&apos;évènement.</translation>
+        <translation>使用玩家或劇情的座標或方向。</translation>
     </message>
     <message>
         <source>Party</source>
-        <translation>Groupe</translation>
+        <translation>隊伍</translation>
     </message>
     <message>
         <source>Uses the ID of the actor at the specified position within the party.</source>
-        <translation>Utilise l&apos;ID de l&apos;acteur à l&apos;emplacement spécifié dans le groupe.</translation>
+        <translation>使用隊伍內指定位置的角色的 ID。</translation>
     </message>
     <message>
         <source>Member #%1</source>
-        <translation>Membre #%1</translation>
+        <translation>成員 #%1</translation>
     </message>
     <message>
         <source>(Actor ID)</source>
-        <translation>(ID de l&apos;Acteur)</translation>
+        <translation>（角色 ID）</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Autre</translation>
+        <translation>其他</translation>
     </message>
     <message>
         <source>Uses miscellaneous data.</source>
-        <translation>Utilise des données diverses.</translation>
+        <translation>使用其他數據。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GameObjectSelector</name>
     <message>
         <source>Object Selection</source>
-        <translation>Sélection d&apos;objets</translation>
+        <translation>物件選擇</translation>
     </message>
     <message>
         <source>Items</source>
-        <translation>Objets</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Actors</source>
-        <translation>Acteurs</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Weapons</source>
-        <translation>Armes</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Armors</source>
-        <translation>Armures</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Skills</source>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation>Classes</translation>
+        <translation>類別</translation>
     </message>
     <message>
         <source>Animations</source>
-        <translation>Animations</translation>
+        <translation>動畫</translation>
     </message>
     <message>
         <source>States</source>
-        <translation>États</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Group List</source>
-        <translation>Liste de Groupes</translation>
+        <translation>群組列表</translation>
     </message>
     <message>
         <source>The objects in the selected range are displayed to the right.</source>
-        <translation>Les objets de la plage sélectionnée s&apos;affichent sur la droite.</translation>
+        <translation>所選擇範圍的物件將會顯示在右側。</translation>
     </message>
     <message>
         <source>Data List</source>
-        <translation>Liste de Données</translation>
+        <translation>數據列表</translation>
     </message>
     <message>
         <source>List for selecting objects.</source>
-        <translation>Liste pour sélection d&apos;objets.</translation>
+        <translation>物件選擇列表。</translation>
     </message>
     <message>
         <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>&lt;br&gt;[F5] Sélectionne l&apos;objet suivant.&lt;br&gt;[F4] Sélectionne l&apos;objet précédent.</translation>
+        <translation>&lt;br&gt;[F5] 選擇下一個項目。&lt;br&gt;[F4] 選擇前一個項目。</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>Tilesets</source>
-        <translation>Tilesets</translation>
+        <translation>圖塊設置</translation>
     </message>
     <message>
         <source>Troops</source>
-        <translation>Troupes</translation>
+        <translation>軍隊</translation>
     </message>
     <message>
         <source>Enemies</source>
-        <translation>Ennemis</translation>
+        <translation>敵人</translation>
     </message>
 </context>
 <context>
@@ -3074,7 +3070,7 @@
     <message>
         <source>Clear</source>
         <comment>Clear Game ID Button</comment>
-        <translation type="unfinished">Effacer</translation>
+        <translation type="unfinished">清除</translation>
     </message>
     <message>
         <source>Clear the Game ID.</source>
@@ -3126,863 +3122,862 @@
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished">Infos</translation>
+        <translation type="unfinished">資訊</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GenerateCurve</name>
     <message>
         <source>Generate Curve</source>
-        <translation>Générer Courbe</translation>
+        <translation>生成曲線</translation>
     </message>
     <message>
         <source>Endpoint Values</source>
-        <translation>Valeurs des Points Finaux</translation>
+        <translation>端點值</translation>
     </message>
     <message>
         <source>Parameter values of the endpoints.</source>
-        <translation>Paramètre les valeurs des points finaux.</translation>
+        <translation>端點的參數值。</translation>
     </message>
     <message>
         <source>Level 1</source>
-        <translation>Niveau 1</translation>
+        <translation>等級 1</translation>
     </message>
     <message>
         <source>Parameter value for the level 1.</source>
-        <translation>Paramètre la valeur pour le niveau 1.</translation>
+        <translation>等級 1 的參數值。</translation>
     </message>
     <message>
         <source>Level 99</source>
-        <translation>Niveau 99</translation>
+        <translation>等級 99</translation>
     </message>
     <message>
         <source>Parameter value for the level 99.</source>
-        <translation>Paramètre la valeur pour le niveau 99.</translation>
+        <translation>等級 99 的參數值。</translation>
     </message>
     <message>
         <source>Growth Type</source>
-        <translation>Type de Croissance</translation>
+        <translation>增長類型</translation>
     </message>
     <message>
         <source>Curve of the parameter graph. The closer to [Fast], the lower the value added on level up. The closer to [Slow], the higher the value added on level up.</source>
-        <translation>Courbe du graphique de paramètre. Plus [Rapide] est proche, moins la valeur ajoutée sur l&apos;augmentation de niveau est haute. Plus [Lent] est proche, plus la valeur ajoutée sur l&apos;augmentation de niveau est haute.</translation>
+        <translation>參數圖曲線。越接近 [快]，升級時增加的值越低。越接近 [慢]，升級時增加的值越高。</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation>Rapide</translation>
+        <translation>快</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normal</translation>
+        <translation>標準</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation>Lent</translation>
+        <translation>慢</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GenerateDungeon</name>
     <message>
         <source>Generate Dungeon</source>
-        <translation>Générer Donjon</translation>
+        <translation>產生地下城</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Rooms</source>
-        <translation>Pièces</translation>
+        <translation>房間</translation>
     </message>
     <message>
         <source>Generates a dungeon consisting of rooms and passages.</source>
-        <translation>Génère un donjon qui se compose de pièces et de passages.</translation>
+        <translation>產生地下城房間和通到。</translation>
     </message>
     <message>
         <source>Maze</source>
-        <translation>Labyrinthe</translation>
+        <translation>迷宮</translation>
     </message>
     <message>
         <source>Generates a maze-like dungeon which has no rooms.</source>
-        <translation>Génère un Donjon façon labyrinthe qui n’a pas de pièce.</translation>
+        <translation>產生沒有房間如迷宮般的地下城。</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation>選項</translation>
     </message>
     <message>
         <source>Add Margins</source>
-        <translation>Ajouter Marges</translation>
+        <translation>增加邊緣</translation>
     </message>
     <message>
         <source>Adds margins around the dungeon.</source>
-        <translation>Ajoute des marges autour du Donjon.</translation>
+        <translation>增加地下城周圍的邊緣。</translation>
     </message>
     <message>
         <source>Wide passages</source>
-        <translation>Passages larges</translation>
+        <translation>寬廣的通道</translation>
     </message>
     <message>
         <source>Increases the width of passages.</source>
-        <translation>Augmente la largeur des passages.</translation>
+        <translation>增加通道寬度。</translation>
     </message>
     <message>
         <source>Wall</source>
-        <translation>Mur</translation>
+        <translation>牆壁</translation>
     </message>
     <message>
         <source>Floor</source>
-        <translation>Sol</translation>
+        <translation>地板</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ImageSave</name>
     <message>
         <source>Import</source>
-        <translation>Importer</translation>
+        <translation>匯入</translation>
     </message>
     <message>
         <source>Loads a base image from a file.</source>
-        <translation>Charge une image de base à partir d&apos;un fichier.</translation>
+        <translation>從文件中讀取基本圖像。</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>Exporter</translation>
+        <translation>匯出</translation>
     </message>
     <message>
         <source>Saves the image to a file.</source>
-        <translation>Enregistre l’image dans un fichier.</translation>
+        <translation>保存圖像至文件。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ImageSelector</name>
     <message>
         <source>Select an Image</source>
-        <translation>Sélectionner une Image</translation>
+        <translation>選擇圖像</translation>
     </message>
     <message>
         <source>Hue</source>
-        <translation>Teinte</translation>
+        <translation>色調</translation>
     </message>
     <message>
         <source>Adjusts the hue offset for the image.</source>
-        <translation>Ajuste le décalage de teinte pour l&apos;image.</translation>
+        <translation>調節圖像色調偏移。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Location</name>
     <message>
         <source>Location</source>
-        <translation>Emplacement</translation>
+        <translation>位置</translation>
     </message>
 </context>
 <context>
     <name>Dialog_MagicSkill</name>
     <message>
         <source>Magic Skill</source>
-        <translation>Compétence Magique</translation>
+        <translation>魔法技能</translation>
     </message>
     <message>
         <source>Skill Type</source>
-        <translation>Type de Compétence</translation>
+        <translation>技能類型</translation>
     </message>
     <message>
         <source>Type of the skill.</source>
-        <translation>Type de la compétence.</translation>
+        <translation>技能的類型。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_MapLoader</name>
     <message>
         <source>Sample Maps</source>
-        <translation>Échantillons de Cartes </translation>
+        <translation>樣本地圖</translation>
     </message>
     <message>
         <source>World 1</source>
         <comment>Fantasy</comment>
-        <translation>Monde 1</translation>
+        <translation>世界 1</translation>
     </message>
     <message>
         <source>World 2</source>
         <comment>Fantasy</comment>
-        <translation>Monde 2</translation>
+        <translation>世界 2</translation>
     </message>
     <message>
         <source>World 3</source>
         <comment>Fantasy</comment>
-        <translation>Monde 3</translation>
+        <translation>世界 3</translation>
     </message>
     <message>
         <source>World 4</source>
         <comment>Fantasy</comment>
-        <translation>Monde 4</translation>
+        <translation>世界 4</translation>
     </message>
     <message>
         <source>World 5</source>
         <comment>Fantasy</comment>
-        <translation>Monde 5</translation>
+        <translation>世界 5</translation>
     </message>
     <message>
         <source>Normal Town</source>
         <comment>Fantasy</comment>
-        <translation>Ville Normale</translation>
+        <translation>普通城鎮</translation>
     </message>
     <message>
         <source>Forest Town</source>
         <comment>Fantasy</comment>
-        <translation>Ville Forestière</translation>
+        <translation>森林城鎮</translation>
     </message>
     <message>
         <source>Abandoned Town</source>
         <comment>Fantasy</comment>
-        <translation>Ville Abandonnée</translation>
+        <translation>被遺棄的城鎮</translation>
     </message>
     <message>
         <source>Snow Town</source>
         <comment>Fantasy</comment>
-        <translation>Ville Enneigée</translation>
+        <translation>雪城</translation>
     </message>
     <message>
         <source>Floating Temple</source>
         <comment>Fantasy</comment>
-        <translation>Temple Flottant</translation>
+        <translation>飄浮的寺廟</translation>
     </message>
     <message>
         <source>Mining City</source>
         <comment>Fantasy</comment>
-        <translation>Ville Minière</translation>
+        <translation>礦業城市</translation>
     </message>
     <message>
         <source>Market</source>
         <comment>Fantasy</comment>
-        <translation>Marché</translation>
+        <translation>市集</translation>
     </message>
     <message>
         <source>Fishing Village</source>
         <comment>Fantasy</comment>
-        <translation>Village de Pêche</translation>
+        <translation>漁村</translation>
     </message>
     <message>
         <source>Oasis</source>
         <comment>Fantasy</comment>
-        <translation>Oasis</translation>
+        <translation>綠洲</translation>
     </message>
     <message>
         <source>Slum</source>
         <comment>Fantasy</comment>
-        <translation>Taudis</translation>
+        <translation>貧民窟</translation>
     </message>
     <message>
         <source>Mountain Village</source>
         <comment>Fantasy</comment>
-        <translation>Village Montagnard</translation>
+        <translation>山村</translation>
     </message>
     <message>
         <source>Nomad Camp</source>
         <comment>Fantasy</comment>
-        <translation>Camps de Nomades</translation>
+        <translation>遊牧營帳</translation>
     </message>
     <message>
         <source>Castle</source>
         <comment>Fantasy</comment>
-        <translation>Château</translation>
+        <translation>城堡</translation>
     </message>
     <message>
         <source>Snow Castle</source>
         <comment>Fantasy</comment>
-        <translation>Château Enneigé</translation>
+        <translation>雪城堡</translation>
     </message>
     <message>
         <source>Demon Castle</source>
         <comment>Fantasy</comment>
-        <translation>Château Démoniaque</translation>
+        <translation>惡魔城堡</translation>
     </message>
     <message>
         <source>Fortress</source>
         <comment>Fantasy</comment>
-        <translation>Forteresse</translation>
+        <translation>堡壘</translation>
     </message>
     <message>
         <source>Snow Fortress</source>
         <comment>Fantasy</comment>
-        <translation>Forteresse Enneigée</translation>
+        <translation>雪堡壘</translation>
     </message>
     <message>
         <source>Forest</source>
         <comment>Fantasy</comment>
-        <translation>Forêt</translation>
+        <translation>森林</translation>
     </message>
     <message>
         <source>Ruins</source>
         <comment>Fantasy</comment>
-        <translation>Ruines</translation>
+        <translation>遺址</translation>
     </message>
     <message>
         <source>Deserted Meadow</source>
         <comment>Fantasy</comment>
-        <translation>Prairie déserte</translation>
+        <translation>荒蕪的草原</translation>
     </message>
     <message>
         <source>Deserted Desert</source>
         <comment>Fantasy</comment>
-        <translation>Désert Désertique</translation>
+        <translation>荒蕪的沙漠</translation>
     </message>
     <message>
         <source>Forest of Decay</source>
         <comment>Fantasy</comment>
-        <translation>Forêt de Décrépitude</translation>
+        <translation>枯死的森林</translation>
     </message>
     <message>
         <source>Lost Forest</source>
         <comment>Fantasy</comment>
-        <translation>Forêt Perdue</translation>
+        <translation>失落的森林</translation>
     </message>
     <message>
         <source>Swamp</source>
         <comment>Fantasy</comment>
-        <translation>Marécage</translation>
+        <translation>沼澤</translation>
     </message>
     <message>
         <source>Seacoast</source>
         <comment>Fantasy</comment>
-        <translation>Côte</translation>
+        <translation>海岸</translation>
     </message>
     <message>
         <source>Waterfall Forest</source>
         <comment>Fantasy</comment>
-        <translation>Forêt de la Chute d&apos;Eau</translation>
+        <translation>瀑布森林</translation>
     </message>
     <message>
         <source>House 1</source>
         <comment>Fantasy</comment>
-        <translation>Maison 1</translation>
+        <translation>房子 1</translation>
     </message>
     <message>
         <source>House 2</source>
         <comment>Fantasy</comment>
-        <translation>Maison 2</translation>
+        <translation>房子 2</translation>
     </message>
     <message>
         <source>Mansion</source>
         <comment>Fantasy</comment>
-        <translation>Manoir</translation>
+        <translation>大廈</translation>
     </message>
     <message>
         <source>Village House 1F</source>
         <comment>Fantasy</comment>
-        <translation>Maison de Village 1F</translation>
+        <translation>別墅 1F</translation>
     </message>
     <message>
         <source>Village House 2F</source>
         <comment>Fantasy</comment>
-        <translation>Maison de Village 2F</translation>
+        <translation>別墅 2F</translation>
     </message>
     <message>
         <source>Abandoned House</source>
         <comment>Fantasy</comment>
-        <translation>Maison Abandonnée</translation>
+        <translation>廢棄的房子</translation>
     </message>
     <message>
         <source>Weapon Shop</source>
         <comment>Fantasy</comment>
-        <translation>Magasin d&apos;Armes</translation>
+        <translation>武器商店</translation>
     </message>
     <message>
         <source>Armor Shop</source>
         <comment>Fantasy</comment>
-        <translation>Magasin d’Armures</translation>
+        <translation>盔甲商店</translation>
     </message>
     <message>
         <source>Item Shop</source>
         <comment>Fantasy</comment>
-        <translation>Magasin d&apos;Objets</translation>
+        <translation>道具商店</translation>
     </message>
     <message>
         <source>Inn 1F</source>
         <comment>Fantasy</comment>
-        <translation>Auberge 1F</translation>
+        <translation>旅館 1F</translation>
     </message>
     <message>
         <source>Inn 2F</source>
         <comment>Fantasy</comment>
-        <translation>Auberge 2F</translation>
+        <translation>旅館 2F</translation>
     </message>
     <message>
         <source>Castle 1F</source>
         <comment>Fantasy</comment>
-        <translation>Château 1F</translation>
+        <translation>城堡 1F</translation>
     </message>
     <message>
         <source>Castle 2F</source>
         <comment>Fantasy</comment>
-        <translation>Château 2F</translation>
+        <translation>城堡 2F</translation>
     </message>
     <message>
         <source>Castle 3F</source>
         <comment>Fantasy</comment>
-        <translation>Château 3F</translation>
+        <translation>城堡 3F</translation>
     </message>
     <message>
         <source>Demon Castle 1F</source>
         <comment>Fantasy</comment>
-        <translation>Château Démoniaque 1F</translation>
+        <translation>惡魔城堡 1F</translation>
     </message>
     <message>
         <source>Demon Castle 2</source>
         <comment>Fantasy</comment>
-        <translation>Château Démoniaque 2</translation>
+        <translation>惡魔城堡 2F</translation>
     </message>
     <message>
         <source>Demon Castle 3</source>
         <comment>Fantasy</comment>
-        <translation>Château Démoniaque 3</translation>
+        <translation>惡魔城堡 3F</translation>
     </message>
     <message>
         <source>Hall of Transference</source>
         <comment>Fantasy</comment>
-        <translation>Salle de Transfert</translation>
+        <translation>轉移大廳</translation>
     </message>
     <message>
         <source>Tower 1F</source>
         <comment>Fantasy</comment>
-        <translation>Tour 1F</translation>
+        <translation>塔樓 1F</translation>
     </message>
     <message>
         <source>Stone Cave</source>
         <comment>Fantasy</comment>
-        <translation>Caverne de Pierre</translation>
+        <translation>石窟</translation>
     </message>
     <message>
         <source>Ice Cave</source>
         <comment>Fantasy</comment>
-        <translation>Caverne de Glace</translation>
+        <translation>冰窟</translation>
     </message>
     <message>
         <source>Cursed Cave</source>
         <comment>Fantasy</comment>
-        <translation>Caverne maudite</translation>
+        <translation>被詛咒的洞窟</translation>
     </message>
     <message>
         <source>Lava Cave</source>
         <comment>Fantasy</comment>
-        <translation>Caverne de Lave</translation>
+        <translation>熔岩窟</translation>
     </message>
     <message>
         <source>Small Town</source>
         <comment>Cyberpunk</comment>
-        <translation>Petite Ville</translation>
+        <translation>小城鎮</translation>
     </message>
     <message>
         <source>Big City</source>
         <comment>Cyberpunk</comment>
-        <translation>Grande Ville</translation>
+        <translation>大城市</translation>
     </message>
     <message>
         <source>Trading City</source>
         <comment>Cyberpunk</comment>
-        <translation>Ville de Négoce</translation>
+        <translation>貿易城市</translation>
     </message>
     <message>
         <source>Slum</source>
         <comment>Cyberpunk</comment>
-        <translation>Taudis</translation>
+        <translation>貧民窟</translation>
     </message>
     <message>
         <source>Underground Town</source>
         <comment>Cyberpunk</comment>
-        <translation>Ville Souterraine</translation>
+        <translation>地下城鎮</translation>
     </message>
     <message>
         <source>Floating City</source>
         <comment>Cyberpunk</comment>
-        <translation>Ville Flottante</translation>
+        <translation>漂浮城市</translation>
     </message>
     <message>
         <source>Shop District</source>
         <comment>Cyberpunk</comment>
-        <translation>Quartier Commerçant</translation>
+        <translation>商店區</translation>
     </message>
     <message>
         <source>Downtown</source>
         <comment>Cyberpunk</comment>
-        <translation>Centre</translation>
+        <translation>市區</translation>
     </message>
     <message>
         <source>Factory</source>
         <comment>Cyberpunk</comment>
-        <translation>Usine</translation>
+        <translation>工廠</translation>
     </message>
     <message>
         <source>Power Plant</source>
         <comment>Cyberpunk</comment>
-        <translation>Centrale Électrique</translation>
+        <translation>發電廠</translation>
     </message>
     <message>
         <source>Military Base</source>
         <comment>Cyberpunk</comment>
-        <translation>Base Militaire</translation>
+        <translation>軍事基地</translation>
     </message>
     <message>
         <source>Business District</source>
         <comment>Cyberpunk</comment>
-        <translation>Quartier d&apos;Affaires</translation>
+        <translation>商業區</translation>
     </message>
     <message>
         <source>School</source>
         <comment>Cyberpunk</comment>
-        <translation>École</translation>
+        <translation>學校</translation>
     </message>
     <message>
         <source>Transport Base</source>
         <comment>Cyberpunk</comment>
-        <translation>Base de Transport</translation>
+        <translation>交通運輸基地</translation>
     </message>
     <message>
         <source>Labratory Facility</source>
         <comment>Cyberpunk</comment>
-        <translation>Laboratoire</translation>
+        <translation>實驗室設備</translation>
     </message>
     <message>
         <source>Harbor</source>
         <comment>Cyberpunk</comment>
-        <translation>Port</translation>
+        <translation>港口</translation>
     </message>
     <message>
         <source>Abandoned School</source>
         <comment>Cyberpunk</comment>
-        <translation>École Abandonnée</translation>
+        <translation>廢棄學校</translation>
     </message>
     <message>
         <source>Past Battlefield</source>
         <comment>Cyberpunk</comment>
-        <translation>Ancien Champ de Bataille</translation>
+        <translation>過去的戰場</translation>
     </message>
     <message>
         <source>Market</source>
         <comment>Cyberpunk</comment>
-        <translation>Marché</translation>
+        <translation>市集</translation>
     </message>
     <message>
         <source>Ancient Ruins</source>
         <comment>Cyberpunk</comment>
-        <translation>Ruines Anciennes</translation>
+        <translation>古代遺跡</translation>
     </message>
     <message>
         <source>Transport Route</source>
         <comment>Cyberpunk</comment>
-        <translation>Route de Transport</translation>
+        <translation>交通運輸路線</translation>
     </message>
     <message>
         <source>Suburbs</source>
         <comment>Cyberpunk</comment>
-        <translation>Banlieues</translation>
+        <translation>郊區</translation>
     </message>
     <message>
         <source>Park</source>
         <comment>Cyberpunk</comment>
-        <translation>Parc</translation>
+        <translation>停車</translation>
     </message>
     <message>
         <source>Hospital</source>
         <comment>Cyberpunk</comment>
-        <translation>Hôpital</translation>
+        <translation>醫院</translation>
     </message>
     <message>
         <source>House 1</source>
         <comment>Cyberpunk</comment>
-        <translation>Maison 1</translation>
+        <translation>醫院 1</translation>
     </message>
     <message>
         <source>House 2</source>
         <comment>Cyberpunk</comment>
-        <translation>Maison 2</translation>
+        <translation>醫院 2</translation>
     </message>
     <message>
         <source>Big House 1F</source>
         <comment>Cyberpunk</comment>
-        <translation>Grande Maison 1F</translation>
+        <translation>大房子 1F</translation>
     </message>
     <message>
         <source>Big House 2F</source>
         <comment>Cyberpunk</comment>
-        <translation>Grande Maison 2F</translation>
+        <translation>大房子 2F</translation>
     </message>
     <message>
         <source>Weapon Shop</source>
         <comment>Cyberpunk</comment>
-        <translation>Magasin d&apos;Armes</translation>
+        <translation>武器商店</translation>
     </message>
     <message>
         <source>Armor Shop</source>
         <comment>Cyberpunk</comment>
-        <translation>Magasin d’Armures</translation>
+        <translation>盔甲商店</translation>
     </message>
     <message>
         <source>Item Shop</source>
         <comment>Cyberpunk</comment>
-        <translation>Magasin d&apos;Objets</translation>
+        <translation>道具商店</translation>
     </message>
     <message>
         <source>Hotel 1F</source>
         <comment>Cyberpunk</comment>
-        <translation>Hôtel 1F</translation>
+        <translation>旅社 1F</translation>
     </message>
     <message>
         <source>Hotel 2F</source>
         <comment>Cyberpunk</comment>
-        <translation>Hôtel 2F</translation>
+        <translation>旅社 2F</translation>
     </message>
     <message>
         <source>Office 1F</source>
         <comment>Cyberpunk</comment>
-        <translation>Bureau 1F</translation>
+        <translation>辦公室 1F</translation>
     </message>
     <message>
         <source>Office 2F</source>
         <comment>Cyberpunk</comment>
-        <translation>Bureau 2F</translation>
+        <translation>辦公室 2F</translation>
     </message>
     <message>
         <source>School Hall</source>
         <comment>Cyberpunk</comment>
-        <translation>Salle d&apos;École</translation>
+        <translation>學校大廳</translation>
     </message>
     <message>
         <source>School Classroom</source>
         <comment>Cyberpunk</comment>
-        <translation>Salle de Classe</translation>
+        <translation>學校教室</translation>
     </message>
     <message>
         <source>Run-down House</source>
         <comment>Cyberpunk</comment>
-        <translation>Maison Délabrée</translation>
+        <translation>破舊的房子</translation>
     </message>
     <message>
         <source>Sewer</source>
         <comment>Cyberpunk</comment>
-        <translation>Égout</translation>
+        <translation>下水道</translation>
     </message>
     <message>
         <source>Computer Room</source>
         <comment>Cyberpunk</comment>
-        <translation>Salle Informatique</translation>
+        <translation>電腦機房</translation>
     </message>
     <message>
         <source>Garage</source>
         <comment>Cyberpunk</comment>
-        <translation>Garage</translation>
+        <translation>車庫</translation>
     </message>
     <message>
         <source>Lab Room</source>
         <comment>Cyberpunk</comment>
-        <translation>Salle Laboratoire</translation>
+        <translation>實驗室</translation>
     </message>
     <message>
         <source>Space Station</source>
         <comment>Cyberpunk</comment>
-        <translation>Station Spatiale</translation>
+        <translation>空間站</translation>
     </message>
     <message>
         <source>Base Interior</source>
         <comment>Cyberpunk</comment>
-        <translation>Intérieur de Base</translation>
+        <translation>基本內部</translation>
     </message>
     <message>
         <source>Sewer Cave</source>
         <comment>Cyberpunk</comment>
-        <translation>Cave Égout</translation>
+        <translation>下水道涵洞</translation>
     </message>
     <message>
         <source>Casino</source>
         <comment>Cyberpunk</comment>
-        <translation>Casino</translation>
+        <translation>賭場</translation>
     </message>
 </context>
 <context>
     <name>Dialog_MapProperties</name>
     <message>
         <source>Map Properties</source>
-        <translation>Propriétés de la Carte</translation>
+        <translation>地圖屬性</translation>
     </message>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic map settings.</source>
-        <translation>Réglages basiques de la carte.</translation>
+        <translation>基本地圖設定。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the map.</source>
-        <translation>Nom de la carte.</translation>
+        <translation>地圖名稱。</translation>
     </message>
     <message>
         <source>Display Name</source>
-        <translation>Afficher Nom</translation>
+        <translation>顯示名稱</translation>
     </message>
     <message>
         <source>Name displayed on the upper left part of the screen when moving to the map. Not displayed if left blank.</source>
-        <translation>Nom affiché sur la partie supérieure gauche de l&apos;écran lorsque vous vous déplacez sur la carte. Ne s&apos;affiche pas si ce champ est laissé vide.</translation>
+        <translation>移動到地圖時顯示在螢幕左上部的名稱。若留空則不顯示。</translation>
     </message>
     <message>
         <source>Tileset</source>
-        <translation>Tileset</translation>
+        <translation>圖塊設置</translation>
     </message>
     <message>
         <source>Tileset used for the map.</source>
-        <translation>Tileset utilisé pour la carte.</translation>
+        <translation>用於地圖的圖塊設置。</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Largeur</translation>
+        <translation>寬</translation>
     </message>
     <message>
         <source>Horizontal size of the map.</source>
-        <translation>Taille horizontale de la carte.</translation>
+        <translation>地圖橫向尺寸。</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Hauteur</translation>
+        <translation>高</translation>
     </message>
     <message>
         <source>Vertical size of the map.</source>
-        <translation>Taille verticale de la carte.</translation>
+        <translation>地圖縱向尺寸。</translation>
     </message>
     <message>
         <source>Scroll Type</source>
-        <translation>Type de Rouleau</translation>
+        <translation>滾動類型</translation>
     </message>
     <message>
         <source>Whether to wrap around from one side to the other.</source>
-        <translation>S&apos;il faut enrouler d&apos;un côté à l&apos;autre.</translation>
+        <translation>是否從一邊環繞到另一邊。</translation>
     </message>
     <message>
         <source>No Loop</source>
-        <translation>Pas de Boucle</translation>
+        <translation>無迴圈</translation>
     </message>
     <message>
         <source>Loop Vertically</source>
-        <translation>Boucle verticalement</translation>
+        <translation>縱向迴圈</translation>
     </message>
     <message>
         <source>Loop Horizontally</source>
-        <translation>Boucle horizontalement</translation>
+        <translation>橫向迴圈</translation>
     </message>
     <message>
         <source>Loop Both</source>
-        <translation>Boucle Les Deux</translation>
+        <translation>橫向和縱向迴圈</translation>
     </message>
     <message>
         <source>Enc. Steps</source>
         <comment>Encounter Steps</comment>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Pas Renc.</translation>
+        <translation>封閉步數</translation>
     </message>
     <message>
         <source>Average number of steps between random encounters.</source>
-        <translation>Nombre moyen de pas entre les rencontres aléatoires.</translation>
+        <translation>隨機衝突之間的平均步數。</translation>
     </message>
     <message>
         <source>Autoplay BGM</source>
-        <translation>Lecture automatique BGM</translation>
+        <translation>自動播放背景音樂</translation>
     </message>
     <message>
         <source>Makes the BGM change automatically when moving to the map.</source>
-        <translation>Fait changer automatiquement le BGM lors du déplacement sur la carte.</translation>
+        <translation>移動到地圖時使背景音樂自動改變。</translation>
     </message>
     <message>
         <source>Autoplay BGS</source>
-        <translation>Lecture automatique BGS</translation>
+        <translation>自動播放背景故事</translation>
     </message>
     <message>
         <source>Makes the BGS change automatically when moving to the map.</source>
-        <translation>Fait changer automatiquement le BGS lors du déplacement sur la carte.</translation>
+        <translation>移動到地圖時使背景故事自動改變。</translation>
     </message>
     <message>
         <source>Specify Battleback</source>
-        <translation>Spécifier Lutte</translation>
+        <translation>指定戰鬥背景</translation>
     </message>
     <message>
         <source>Displays the specified background when a battle occurs on this map. When not specified, a background conforming to the terrain is automatically selected for world maps, and for other maps, a processed image of the map screen will be used as a background.</source>
-        <translation>Affiche l&apos;arrière-plan spécifié lorsqu&apos;un combat se produit sur cette carte. Lorsqu&apos;il n&apos;est pas spécifié, un arrière-plan conforme au terrain est automatiquement sélectionné pour les cartes du monde, et pour les autres cartes, une image traitée de l&apos;écran de carte sera utilisée comme arrière-plan.</translation>
+        <translation>當在該地圖發生戰鬥時顯示指定背景。若未指定，背景與地形符合會被自動選為世界地圖，對於其他地圖，處理過的地圖圖像將用作背景。</translation>
     </message>
     <message>
         <source>Disable Dashing</source>
-        <translation>Désactiver la Course</translation>
+        <translation>禁用衝刺</translation>
     </message>
     <message>
         <source>Makes it impossible to perform a dash on the map.</source>
-        <translation>Rend impossible de courir sur la carte.</translation>
+        <translation>不能在地圖上衝刺。</translation>
     </message>
     <message>
         <source>Parallax Background</source>
-        <translation>Arrière-plan Parallaxe</translation>
+        <translation>視差背景</translation>
     </message>
     <message>
         <source>Distant view image displayed in the transparent area of the map.</source>
-        <translation>Vue d&apos;image distante affichée dans la zone transparente de la carte.</translation>
+        <translation>顯示在地圖透明區域的遠景圖像。</translation>
     </message>
     <message>
         <source>Show in the Editor</source>
-        <translation>Afficher dans l&apos;Éditeur</translation>
+        <translation>在編輯器中顯示</translation>
     </message>
     <message>
         <source>Displays the parallax background in the map editor. This may appear differently than in the actual game.</source>
-        <translation>Affiche l&apos;arrière-plan parallaxe dans l&apos;éditeur de carte. Cela peut apparaître différemment que dans le jeu réel.</translation>
+        <translation>在地圖編輯器中顯示視差背景。這可能看起來與實際遊戲中不同。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_MapSaveAsImage</name>
     <message>
         <source>Save as Image</source>
-        <translation>Sauvegarder comme Image</translation>
+        <translation>保存為圖像</translation>
     </message>
     <message>
         <source>Output Location</source>
-        <translation>Emplacement de Sortie</translation>
+        <translation>匯出位置</translation>
     </message>
     <message>
         <source>Location to save the map image.</source>
-        <translation>Emplacement où sauvegarder l&apos;image de la carte.</translation>
+        <translation>要保存地圖圖像的位置。</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation>Choisir</translation>
+        <translation>選擇</translation>
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation>Choisi l&apos;emplacement.</translation>
+        <translation>選擇位置。</translation>
     </message>
     <message>
         <source>Choose Directory</source>
-        <translation>Choisir le Répertoire</translation>
+        <translation>選擇目錄</translation>
     </message>
     <message>
         <source>Location is empty.</source>
-        <translation>L&apos;emplacement est vide.</translation>
+        <translation>位置為空。</translation>
     </message>
     <message>
         <source>Path name is too long.</source>
-        <translation>Le nom du chemin d&apos;accès est trop long.</translation>
+        <translation>路徑名稱過長。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_MapShift</name>
     <message>
         <source>Shift</source>
-        <translation>Décalage</translation>
+        <translation>移動 (Shift)</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>Correction</translation>
+        <translation>偏移</translation>
     </message>
     <message>
         <source>Distance to shift.</source>
-        <translation>Distance à déplacer.</translation>
+        <translation>要移動的距離。</translation>
     </message>
     <message>
         <source>X</source>
@@ -3990,7 +3985,7 @@
     </message>
     <message>
         <source>Number of tiles to be shifted horizontally.</source>
-        <translation>Nombre de tiles à déplacer horizontalement.</translation>
+        <translation>要橫向移動的圖塊數。</translation>
     </message>
     <message>
         <source>Y</source>
@@ -3998,150 +3993,150 @@
     </message>
     <message>
         <source>Number of tiles to be shifted vertically.</source>
-        <translation>Nombre de tiles à déplacer verticalement.</translation>
+        <translation>要縱向移動的圖塊數。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Merchandise</name>
     <message>
         <source>Merchandise</source>
-        <translation>Marchandises</translation>
+        <translation>商品</translation>
     </message>
     <message>
         <source>Item that can be purchased at the shop.</source>
-        <translation>Objet qui peut être acheté dans le magasin.</translation>
+        <translation>可在商店購買的道具。</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation>Objet</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Sets the specified item as merchandise.</source>
-        <translation>Établi l&apos;objet spécifié comme marchandise.</translation>
+        <translation>設置指定道具為商品。</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation>Arme</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Sets the specified weapon as merchandise.</source>
-        <translation>Établi l&apos;arme spécifiée comme marchandise.</translation>
+        <translation>設置指定武器為商品。</translation>
     </message>
     <message>
         <source>Armor</source>
-        <translation>Armure</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Sets the specified armor as merchandise.</source>
-        <translation>Établi l&apos;armure spécifiée comme marchandise.</translation>
+        <translation>設置指定盔甲為商品。</translation>
     </message>
     <message>
         <source>Price</source>
-        <translation>Prix</translation>
+        <translation>價格</translation>
     </message>
     <message>
         <source>Price of merchandise.</source>
-        <translation>Prix des marchandises.</translation>
+        <translation>商品價格。</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation>Standard</translation>
+        <translation>標準</translation>
     </message>
     <message>
         <source>Uses the price in the database.</source>
-        <translation>Utilise le prix dans la base de données.</translation>
+        <translation>使用資料庫中的價格。</translation>
     </message>
     <message>
         <source>Specify</source>
-        <translation>Spécifier</translation>
+        <translation>指定</translation>
     </message>
     <message>
         <source>Uses the specific price.</source>
-        <translation>Utilise le prix spécifique.</translation>
+        <translation>使用特定價格。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_MovementRoute</name>
     <message>
         <source>Movement Route</source>
-        <translation>Trajectoire de Mouvement</translation>
+        <translation>移動路線</translation>
     </message>
 </context>
 <context>
     <name>Dialog_NewProject</name>
     <message>
         <source>New Project</source>
-        <translation>Nouveau projet</translation>
+        <translation>新項目</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the project folder.</source>
-        <translation>Nom du dossier du projet.</translation>
+        <translation>項目資料夾名稱。</translation>
     </message>
     <message>
         <source>Game Title</source>
-        <translation>Titre du Jeu</translation>
+        <translation>遊戲名稱</translation>
     </message>
     <message>
         <source>Title of the game.</source>
-        <translation>Titre du jeu.</translation>
+        <translation>遊戲的名稱。</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Emplacement</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Location to create the project folder.</source>
-        <translation>Emplacement où créer le dossier du projet.</translation>
+        <translation>要創建項目檔夾的位置。</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation>Choisir</translation>
+        <translation>選擇</translation>
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation>Choisi l&apos;emplacement.</translation>
+        <translation>選擇位置。</translation>
     </message>
     <message>
         <source>Choose Directory</source>
-        <translation>Choisir le Répertoire</translation>
+        <translation>選擇目錄</translation>
     </message>
     <message>
         <source>Name is empty.</source>
-        <translation>Le nom est vide.</translation>
+        <translation>名稱為空。</translation>
     </message>
     <message>
         <source>Location is empty.</source>
-        <translation>L&apos;emplacement est vide.</translation>
+        <translation>位置為空。</translation>
     </message>
     <message>
         <source>Path name is too long.</source>
-        <translation>Le nom du chemin d&apos;accès est trop long.</translation>
+        <translation>路徑名稱過長。</translation>
     </message>
     <message>
         <source>The project already exists.</source>
-        <translation>Le projet existe déjà.</translation>
+        <translation>項目已存在。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Options</name>
     <message>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation>選項</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Packaging</name>
     <message>
         <source>Deployment</source>
-        <translation>Déploiement</translation>
+        <translation>部署</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
-        <translation>Créer un package de distribution...</translation>
+        <translation>正在創建發行套件...</translation>
     </message>
     <message>
         <source>File compression</source>
@@ -4152,61 +4147,61 @@
     <name>Dialog_ParameterCurves</name>
     <message>
         <source>Parameter Curves</source>
-        <translation>Courbes de Paramètres </translation>
+        <translation>參數曲線</translation>
     </message>
     <message>
         <source>Quick Setting</source>
-        <translation>Réglage Rapide</translation>
+        <translation>快速設置</translation>
     </message>
     <message>
         <source>Press buttons to set parameter values randomly within a predefined range.</source>
-        <translation>Appuyer sur les touches pour régler les valeurs des paramètres aléatoirement à l&apos;intérieur d&apos;une plage prédéfinie.</translation>
+        <translation>預定範圍內，按下按鈕設定隨機參數值。</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation>Niveau</translation>
+        <translation>等級</translation>
     </message>
     <message>
         <source>Specifies a level for manual parameter changing.</source>
-        <translation>Spécifie un niveau pour le changement de paramètre manuel.</translation>
+        <translation>指定要進行手動參數更改的等級。</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Valeur</translation>
+        <translation>值</translation>
     </message>
     <message>
         <source>Changes the parameter value for the specified level.</source>
-        <translation>Change la valeur du paramètre pour le niveau spécifié.</translation>
+        <translation>更改指定等級的參數值。</translation>
     </message>
     <message>
         <source>Generate Curve</source>
-        <translation>Générer Courbe</translation>
+        <translation>生成曲線</translation>
     </message>
     <message>
         <source>Specifies values for level 1 and 99 and the remaining values will be filled in automatically.</source>
-        <translation>Spécifie les valeurs pour les niveaux 1 et 99 et les valeurs restantes seront complétées automatiquement.</translation>
+        <translation>指定等級 1 和 99 的值，剩餘值將自動填入。</translation>
     </message>
     <message>
         <source>Parameter graph</source>
-        <translation>Graphique de Paramètre</translation>
+        <translation>參數圖形</translation>
     </message>
     <message>
         <source>The X axis is the level number, and the Y axis shows the parameter value at each level. Click to get the parameter value.</source>
-        <translation>L&apos;axe X est le numéro de niveau, et l&apos;axe Y montre la valeur de paramètre à chaque niveau. Cliquer pour obtenir la valeur du paramètre.</translation>
+        <translation>X 軸為等級數，Y 軸顯示各等級的參數值。點擊獲得參數值。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_PluginHelp</name>
     <message>
         <source>Help</source>
-        <translation>Aide</translation>
+        <translation>幫助</translation>
     </message>
 </context>
 <context>
     <name>Dialog_PluginHelpEverywhere</name>
     <message>
         <source>Plugin Help</source>
-        <translation>Aide du Module</translation>
+        <translation>插件幫助</translation>
     </message>
     <message>
         <source>ON</source>
@@ -4221,27 +4216,27 @@
     <name>Dialog_PluginManager</name>
     <message>
         <source>Plugin Manager</source>
-        <translation>Gestionnaire de Modules</translation>
+        <translation>插件管理器</translation>
     </message>
     <message>
         <source>Plugin List</source>
-        <translation>Liste de Modules</translation>
+        <translation>插件列表</translation>
     </message>
     <message>
         <source>Components that extend the standard game system.</source>
-        <translation>Composants qui étendent le système de jeu standard.</translation>
+        <translation>擴展標準遊戲系統的組件。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Statut</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>ON</source>
@@ -4253,69 +4248,69 @@
     </message>
     <message>
         <source>Turn ON</source>
-        <translation>Activer</translation>
+        <translation>開啟</translation>
     </message>
     <message>
         <source>Turn OFF</source>
-        <translation>Désactiver</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <source>Discard changes to the plugins?</source>
-        <translation>Annuler les modifications des modules?</translation>
+        <translation>確定要放棄插件的修改？</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Actualiser</translation>
+        <translation>更新</translation>
     </message>
 </context>
 <context>
     <name>Dialog_PluginParameter</name>
     <message>
         <source>Parameter</source>
-        <translation>Paramètre</translation>
+        <translation>參數</translation>
     </message>
     <message>
         <source>Value for the parameter.</source>
-        <translation>Valeur du paramètre.</translation>
+        <translation>參數的值。</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>Description of the parameter.</source>
-        <translation>Description du paramètre.</translation>
+        <translation>參數描述。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_PluginSettings</name>
     <message>
         <source>Plugin</source>
-        <translation>Module</translation>
+        <translation>插件</translation>
     </message>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic plugin settings.</source>
-        <translation>Réglages basiques module .</translation>
+        <translation>基本插件設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the plugin script.</source>
-        <translation>Nom du script du module.</translation>
+        <translation>插件腳本名稱。</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Statut</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>ON/OFF status of the plugin.</source>
-        <translation>ON/OFF état du module.</translation>
+        <translation>插件 ON/OFF 狀態。</translation>
     </message>
     <message>
         <source>ON</source>
@@ -4327,209 +4322,209 @@
     </message>
     <message>
         <source>Help</source>
-        <translation>Aide</translation>
+        <translation>幫助</translation>
     </message>
     <message>
         <source>Displays the help text of the plugin.</source>
-        <translation>Affiche le texte d&apos;aide du module.</translation>
+        <translation>顯示插件幫助文字。</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>Description of the plugin.</source>
-        <translation>Description du module.</translation>
+        <translation>插件描述。</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation>Auteur</translation>
+        <translation>作者</translation>
     </message>
     <message>
         <source>Author of the plugin.</source>
-        <translation>Auteur du module.</translation>
+        <translation>插件作者。</translation>
     </message>
     <message>
         <source>Parameters</source>
-        <translation>Paramètres</translation>
+        <translation>參數</translation>
     </message>
     <message>
         <source>Parameters to be passed to the plugin.</source>
-        <translation>Paramètres à passer dans le module.</translation>
+        <translation>要傳到插件的參數。</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation>Valeur</translation>
+        <translation>值</translation>
     </message>
 </context>
 <context>
     <name>Dialog_QuickDoor</name>
     <message>
         <source>Door</source>
-        <translation>Porte</translation>
+        <translation>門</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Emplacement</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Setting for where the character should be moved.</source>
-        <translation>Réglage de l&apos;emplacement où le personnage devrait être déplacé.</translation>
+        <translation>設置人物應移動到的位置。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_QuickInn</name>
     <message>
         <source>Inn</source>
-        <translation>Auberge</translation>
+        <translation>旅館</translation>
     </message>
     <message>
         <source>%1\G for one night. Would you like to stay?</source>
-        <translation>%1\G pour une nuit. Souhaitez-vous rester?</translation>
+        <translation>一晚%1\G。要入住嗎？</translation>
     </message>
     <message>
         <source>You don&apos;t have enough money.</source>
-        <translation>Vous n&apos;avez pas assez d&apos;argent.</translation>
+        <translation>你的錢不夠。</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Oui</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Non</translation>
+        <translation>No</translation>
     </message>
     <message>
         <source>Price</source>
-        <translation>Prix</translation>
+        <translation>價格</translation>
     </message>
     <message>
         <source>The amount of money required to stay at the inn.</source>
-        <translation>Le montant d&apos;argent nécessaire pour rester à l&apos;auberge.</translation>
+        <translation>入住旅館所需金額。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_QuickTransfer</name>
     <message>
         <source>Transfer</source>
-        <translation>Transfert</translation>
+        <translation>轉移</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Emplacement</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Setting for where the character should be moved.</source>
-        <translation>Réglage de l&apos;emplacement où le personnage devrait être déplacé.</translation>
+        <translation>設置人物應移動到的位置。</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Direction</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Direction of the character after moving.</source>
-        <translation>Direction du personnage après déplacement.</translation>
+        <translation>移動後人物的方向。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_QuickTreasure</name>
     <message>
         <source>Treasure</source>
-        <translation>Trésor</translation>
+        <translation>財寶</translation>
     </message>
     <message>
         <source>%1\G were found!</source>
-        <translation>%1\G ont été trouvé(e)s!</translation>
+        <translation>找到%1\G！</translation>
     </message>
     <message>
         <source>%1 was found!</source>
-        <translation>%1 a été trouvé(e)!</translation>
+        <translation>找到%1！</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation>Contenu</translation>
+        <translation>內容</translation>
     </message>
     <message>
         <source>Content of the treasure chest.</source>
-        <translation>Contenu du coffre au trésor.</translation>
+        <translation>藏寶箱的內容。</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation>Or</translation>
+        <translation>金幣</translation>
     </message>
     <message>
         <source>Sets the specified amount of gold as the treasure.</source>
-        <translation>Définit le montant spécifié d&apos;or comme trésor.</translation>
+        <translation>設置指定金幣量為財寶。</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation>Objet</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Sets the specified item as the treasure.</source>
-        <translation>Établi l&apos;objet spécifié comme trésor.</translation>
+        <translation>設置指定道具為財寶。</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation>Arme</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Sets the specified weapon as the treasure.</source>
-        <translation>Établi l&apos;arme spécifiée comme trésor.</translation>
+        <translation>設置指定武器為財寶。</translation>
     </message>
     <message>
         <source>Armor</source>
-        <translation>Armure</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Sets the specified armor as the treasure.</source>
-        <translation>Établi l&apos;armure spécifiée comme trésor.</translation>
+        <translation>設置指定盔甲為財寶。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ResourceManager</name>
     <message>
         <source>Resource Manager</source>
-        <translation>Gestionnaire de ressources</translation>
+        <translation>資源管理器</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Aperçu</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>Preview the selected file</source>
         <translatorcomment>原文はピリオドが含まれておりませんが、全体の統一の為にピリオドを追加致しました。</translatorcomment>
-        <translation>Affiche l&apos;aperçu du fichier sélectionné.</translation>
+        <translation>預覽所選文件。</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Importer</translation>
+        <translation>匯入</translation>
     </message>
     <message>
         <source>Import a file into the selected folder.</source>
-        <translation type="vanished">Importe un fichier dans le dossier sélectionné.</translation>
+        <translation type="vanished">將文件匯入選擇的資料夾。</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>Exporter</translation>
+        <translation>匯出</translation>
     </message>
     <message>
         <source>Export the selected file</source>
         <translatorcomment>原文はピリオドが含まれておりませんが、全体の統一の為にピリオドを追加致しました。</translatorcomment>
-        <translation>Exporte le fichier sélectionné.</translation>
+        <translation>匯出所選文件。</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <source>Delete the selected file</source>
         <translatorcomment>原文はピリオドが含まれておりませんが、全体の統一の為にピリオドを追加致しました。</translatorcomment>
-        <translation>Efface le fichier sélectionné.</translation>
+        <translation>刪除所選文件。</translation>
     </message>
     <message>
         <source>File to export to</source>
-        <translation>Fichier à exporter vers</translation>
+        <translation>將文件匯出至</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -4537,336 +4532,329 @@
     </message>
     <message>
         <source>File to import</source>
-        <translation type="vanished">Fichier à importer</translation>
+        <translation type="vanished">匯入的文件</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>Dialog Button</comment>
-        <translation>Fermer</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <source>Closes this window.</source>
-        <translation>Ferme cette fenêtre.</translation>
+        <translation>關閉此視窗。</translation>
     </message>
     <message>
         <source>Import files into the selected folder.</source>
-        <translation>Importer des fichiers dans le dossier sélectionné.</translation>
+        <translation>將文件匯入選擇的資料夾。</translation>
     </message>
     <message>
         <source>File(s) to import</source>
-        <translation>Fichier(s) à importer</translation>
+        <translation>匯入的文件</translation>
     </message>
     <message>
         <source>DLC...</source>
-        <translation>DLC...</translation>
+        <translation>DLC…</translation>
     </message>
     <message>
         <source>Opens the DLC folder, for steam installations.</source>
-        <translation>Ouvre le dossier de contenu téléchargeable (DLC) pour les installations Steam.</translation>
+        <translation>開啟DLC檔案夾以安裝Steam。 </translation>
     </message>
 </context>
 <context>
     <name>Dialog_ResourcePreview</name>
     <message>
         <source>Resource Preview</source>
-        <translation>Aperçu de la ressource</translation>
+        <translation>預覽資源</translation>
     </message>
 </context>
 <context>
     <name>Dialog_SkillsToLearn</name>
     <message>
         <source>Skills to Learn</source>
-        <translation>Compétences à Apprendre</translation>
+        <translation>要學習的技能</translation>
     </message>
     <message>
         <source>Skills mastered at level-up for actors in this class.</source>
-        <translation>Compétences maîtrisées à l&apos;augmentation de niveau par les acteurs dans cette classe.</translation>
+        <translation>該類別角色升級時掌握的技能。</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation>Niveau</translation>
+        <translation>等級</translation>
     </message>
     <message>
         <source>Level for learning the skill.</source>
-        <translation>Niveau pour apprendre la compétence.</translation>
+        <translation>學習該技能的等級。</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Skill to learn.</source>
-        <translation>Compétence à apprendre.</translation>
+        <translation>要學習的技能。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_SoundTest</name>
     <message>
         <source>Sound Test</source>
-        <translation>Test de Son</translation>
+        <translation>聲音測試</translation>
     </message>
 </context>
 <context>
     <name>Dialog_StartingParty</name>
     <message>
         <source>Starting Party</source>
-        <translation>Groupe de Départ</translation>
+        <translation>起始隊伍</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor in the starting party.</source>
-        <translation>Acteur dans le groupe de départ.</translation>
+        <translation>隊伍的角色。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_SystemMessage</name>
     <message>
         <source>Text</source>
-        <translation>Texte</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Text data for this type of message.</source>
-        <translation>Données de texte pour ce type de message.</translation>
+        <translation>該訊息類型的文字數據。</translation>
     </message>
 </context>
 <context>
     <name>Dialog_TextPreview</name>
     <message>
         <source>Preview</source>
-        <translation>Aperçu</translation>
+        <translation>預覽</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Traits</name>
     <message>
         <source>Traits</source>
-        <translation>Traits</translation>
+        <translation>特性</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation>Taux</translation>
+        <translation>比率</translation>
     </message>
     <message>
         <source>Element Rate</source>
-        <translation>Taux d&apos;Éléments</translation>
+        <translation>元素率</translation>
     </message>
     <message>
         <source>Changes the damage multiplier according to the specified element. The higher the value, the greater the weakness against the element.</source>
-        <translation>Change le multiplicateur de dommages selon l&apos;élément spécifié. Plus la valeur est élevée, plus la faiblesse contre l&apos;élément est importante.</translation>
+        <translation>根據指定元素更改傷害倍率。值越高，面臨該元素的弱點越大。</translation>
     </message>
     <message>
         <source>Debuff Rate</source>
-        <translation>Taux de Debuff</translation>
+        <translation>減益率</translation>
     </message>
     <message>
         <source>Changes the probability at which the use of a skill or item will succeed in debuffing a parameter.</source>
-        <translation>Change la probabilité à laquelle l&apos;utilisation d&apos;une compétence ou d&apos;un objet réussira à altérer l&apos;état d&apos;un paramètre.</translation>
+        <translation>更改技能或道具使用將成功減益效果參數的機率。</translation>
     </message>
     <message>
         <source>State Rate</source>
-        <translation>Taux d&apos;État</translation>
+        <translation>狀態率</translation>
     </message>
     <message>
         <source>Changes the probability at which the use of a skill or item will succeed in applying a state.</source>
-        <translation>Change la probabilité à laquelle l&apos;utilisation d&apos;une compétence ou d&apos;un objet réussira à appliquer un état.</translation>
+        <translation>更改技能或道具使用成功應用狀態的機率。</translation>
     </message>
     <message>
         <source>State Resist</source>
-        <translation>Résistance d&apos;État</translation>
+        <translation>狀態拒絕</translation>
     </message>
     <message>
         <source>Completely negates a state. If knockouts are negated, characters will not be knocked out even when their HP falls to 0.</source>
-        <translation>Annule complètement un état. Si les coups qui assomment sont annulés, les personnages ne seront plus assommés même si leur HP tombe à 0.</translation>
+        <translation>完全否定狀態。若否定 KO，人物即使 HP 降為 0 也將不被 KO。</translation>
     </message>
     <message>
         <source>Param</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Param.</translation>
+        <translation>參數</translation>
     </message>
     <message>
         <source>Parameter</source>
-        <translation>Paramètre</translation>
+        <translation>參數</translation>
     </message>
     <message>
         <source>Rate of change for the specified parameter.</source>
-        <translation>Taux de changement du paramètre spécifié.</translation>
+        <translation>指定參數的變化率。</translation>
     </message>
     <message>
         <source>Ex-Parameter</source>
-        <translation>Ex-Paramètre</translation>
+        <translation>Ex-參數</translation>
     </message>
     <message>
         <source>Value added to the specified ex-parameter. The default value is 0.</source>
-        <translation>Valeur ajoutée à l&apos;ex-paramètre spécifié. La valeur par défaut est 0.</translation>
+        <translation>要添加到指定 ex-參數的值。默認值為 0。</translation>
     </message>
     <message>
         <source>Sp-Parameter</source>
-        <translation>Sp-Paramètre</translation>
+        <translation>Sp-參數</translation>
     </message>
     <message>
         <source>Rate of change for the specified sp-parameter. The default value is 100%.</source>
-        <translation>Taux de changement du sp-paramètre spécifié. La valeur par défaut est 100%.</translation>
+        <translation>指定 sp-參數的變化率。默認值為 100%。</translation>
     </message>
     <message>
         <source>Attack</source>
-        <translation>Attaque</translation>
+        <translation>攻擊</translation>
     </message>
     <message>
         <source>Attack Element</source>
-        <translation>Élément d&apos;Attaque</translation>
+        <translation>攻擊元素</translation>
     </message>
     <message>
         <source>Normal attack element.</source>
-        <translation>Élément d&apos;attaque normale.</translation>
+        <translation>標準攻擊元素。</translation>
     </message>
     <message>
         <source>Attack State</source>
-        <translation>État d&apos;Attaque</translation>
+        <translation>攻擊狀態</translation>
     </message>
     <message>
         <source>State applied as an additional effect of a normal attack.</source>
-        <translation>État appliqué comme effet additionnel d&apos;une attaque normale.</translation>
+        <translation>應用為標準攻擊的附加效果的狀態。</translation>
     </message>
     <message>
         <source>Attack Speed</source>
-        <translation>Vitesse d&apos;Attaque</translation>
+        <translation>攻擊速度</translation>
     </message>
     <message>
         <source>Value that is added to agility when determining attack order when a normal attack has been selected.</source>
-        <translation>Valeur qui est ajoutée à l&apos;agilité au moment de déterminer l&apos;ordre d&apos;attaque quand une attaque normale a été sélectionnée.</translation>
+        <translation>當選擇了標準攻擊時，決定攻擊命令時添加到敏捷度的值。</translation>
     </message>
     <message>
         <source>Attack Times +</source>
-        <translation>Temps d&apos;Attaque +</translation>
+        <translation>攻擊次數 +</translation>
     </message>
     <message>
         <source>Increases the number of times a normal attack hits a target. Entering &quot;+1&quot; means two consecutive attacks.</source>
-        <translation>Augmente le nombre de fois où une attaque normal frappe une cible. Entrer &quot;+1&quot; signifie deux attaques consécutives.</translation>
+        <translation>增加標準攻擊打擊目標的次數。輸入 &quot;+1&quot; 表示兩個連續攻擊。</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Add Skill Type</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Ajout. Type Comp.</translation>
+        <translation>添加技能類型</translation>
     </message>
     <message>
         <source>Allows the specified skill type to be selected as a command.</source>
-        <translation>Permet au type de compétence spécifié d&apos;être sélectionné comme une commande.</translation>
+        <translation>允許選擇指定技能類型為命令。</translation>
     </message>
     <message>
         <source>Seal Skill Type</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Sceller Type Comp.</translation>
+        <translation>封存技能類型</translation>
     </message>
     <message>
         <source>Temporarily disables the use of the specified type of skill.</source>
-        <translation>Désactive temporairement l&apos;utilisation du type de compétence spécifié.</translation>
+        <translation>暫時禁用指定技能類型。</translation>
     </message>
     <message>
         <source>Add Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Ajouter Comp.</translation>
+        <translation>添加技能</translation>
     </message>
     <message>
         <source>Sets the specified skills as being learned.</source>
-        <translation>Définit les compétences spécifiées comme étant apprises.</translation>
+        <translation>設置指定技能為要學習的技能。</translation>
     </message>
     <message>
         <source>Seal Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Sceller Comp.</translation>
+        <translation>封存技能</translation>
     </message>
     <message>
         <source>Temporarily disables the use of the specified skill.</source>
-        <translation>Désactive temporairement l&apos;utilisation de la compétence spécifiée.</translation>
+        <translation>暫時禁用指定技能。</translation>
     </message>
     <message>
         <source>Equip</source>
-        <translation>Équiper</translation>
+        <translation>裝備</translation>
     </message>
     <message>
         <source>Equip Weapon</source>
-        <translation>Équiper Arme</translation>
+        <translation>裝備武器</translation>
     </message>
     <message>
         <source>Enables the equipping of the specified type of weapon.</source>
-        <translation>Permet l&apos;équipement du type d&apos;arme spécifié.</translation>
+        <translation>啟用裝備指定武器類型。</translation>
     </message>
     <message>
         <source>Equip Armor</source>
-        <translation>Équiper Armure</translation>
+        <translation>裝備盔甲</translation>
     </message>
     <message>
         <source>Enables the equipping of the specified type of armor.</source>
-        <translation>Permet l&apos;équipement du type d&apos;armure spécifié.</translation>
+        <translation>啟用裝備指定盔甲類型。</translation>
     </message>
     <message>
         <source>Lock Equip</source>
-        <translation>Verrouiller Équiper</translation>
+        <translation>鎖定裝備</translation>
     </message>
     <message>
         <source>Prevents the changing of equipment for the specified equipment slot. Used mainly for instances such as when you do not want the player changing the equipment of a character that has been temporarily added to the party.</source>
-        <translation>Empêche le changement de l&apos;équipement pour l&apos;emplacement d&apos;équipement spécifié. Utilisé principalement pour des cas comme quand vous ne voulez pas que le joueur change l&apos;équipement d&apos;un personnage qui a été temporairement ajouté au groupe.</translation>
+        <translation>阻止指定裝備槽的裝備更換。主要用於諸如不想讓玩家更換臨時添加到隊伍的人物的裝備的情況。</translation>
     </message>
     <message>
         <source>Seal Equip</source>
-        <translation>Sceller Équiper</translation>
+        <translation>封存裝備</translation>
     </message>
     <message>
         <source>Prevents the equipping of any equipment for the specified equipment slot. For example, preventing the use of shields for a given weapon makes it a two-handed weapon, and preventing the wearing of a headgear for a given piece of armor results in full body armor.</source>
-        <translation>Empêche l&apos;équipement de tout équipement pour l&apos;emplacement d&apos;équipement spécifié. Par exemple, empêcher l&apos;utilisation de boucliers pour une arme donnée en fait une arme à deux mains, et empêcher le port d&apos;un casque pour une pièce d&apos;armure donnée résulte en une armure intégrale.</translation>
+        <translation>阻止指定裝備槽的任何裝備。例如，阻止對給定武器配合盾的使用變為雙持武器，以及阻止配合給定盔甲穿戴頭戴道具形成全身盔甲。</translation>
     </message>
     <message>
         <source>Slot Type</source>
-        <translation>Type Emplacement</translation>
+        <translation>裝備槽類型</translation>
     </message>
     <message>
         <source>Can only be set to [Dual Wield]. This enables the equipping of two weapons in exchange for not being able to equip a shield.</source>
-        <translation>Peut seulement être réglé sur [Ambidextrie]. Cela permet l&apos;équipement de deux armes en échange de ne pas pouvoir équiper un bouclier.</translation>
+        <translation>僅可設置為 [雙武器]。這可允許裝備兩件武器，代價是不可裝備盾。</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Autre</translation>
+        <translation>其他</translation>
     </message>
     <message>
         <source>Action Times +</source>
-        <translation>Temps d&apos;Action +</translation>
+        <translation>動作次數 +</translation>
     </message>
     <message>
         <source>Increases the number of times actions can be taken in battle by the specified probability. For example, entering 50% twice results in a character that has a 50% chance of acting twice and a 25% chance of acting three times.</source>
-        <translation>Augmente le nombre de fois où les actions peuvent être prises pendant le combat par la probabilité spécifiée. Par exemple, entrer 50 % deux fois résulte en un personnage qui a 50 % de chance d&apos;agir deux fois et 25 % de change d&apos;agir trois fois.</translation>
+        <translation>按指定機率增加戰鬥中可採取的動作次數。例如，輸入 50% 兩次會使人物有 50% 動作兩次的可能性，以及 25% 動作三次的可能性。</translation>
     </message>
     <message>
         <source>Special Flag</source>
-        <translation>Drapeau Spécial</translation>
+        <translation>特殊標記</translation>
     </message>
     <message>
         <source>Special states.&lt;br&gt;[Auto Battle] Character acts independently without accepting commands in battle. &lt;br&gt;[Guard] Reduces damage taken at a set rate. &lt;br&gt;[Substitute] Character suffers attack in place of allies with less HP.&lt;br&gt;[Preserve TP] Accumulated TP are retained for the next battle.</source>
-        <translation>États spéciaux.&lt;br&gt;[Combat Auto] Le personnage agit indépendamment sans accepter les commandes pendant le combat. &lt;br&gt;[Garde] Réduit les dommages encaissés à un taux réglé. &lt;br&gt;[Remplacer] Le personnage souffre des attaques à la place des alliés ayant moins de HP.&lt;br&gt;[Conserver TP] Les TP accumulés sont conservés pour le prochain combat.</translation>
+        <translation>特殊狀態。&lt;br&gt;[自動戰鬥] 人物在戰鬥中獨立動作，不接受命令。&lt;br&gt;[防禦] 以設定比率減少遭受的傷害。&lt;br&gt;[代替] 人物代替 HP 較少的盟友遭受攻擊。&lt;br&gt;[代替] 人物代替 HP 較少的盟友遭受攻擊。&lt;br&gt;[保留 TP] 累積 TP 保留用於下一個戰鬥。</translation>
     </message>
     <message>
         <source>Collapse Effect</source>
-        <translation>Eff. effondrement</translation>
+        <translation>崩塌效應</translation>
     </message>
     <message>
         <source>Valid only for enemies. Changes the effect for when they are knocked out.</source>
-        <translation>Valide uniquement pour les ennemis. Change l&apos;effet lorsqu&apos;ils sont assommés.</translation>
+        <translation>僅對敵人有效。改變敵人被 KO 時的效果。</translation>
     </message>
     <message>
         <source>Party Ability</source>
-        <translation>Capacité Groupe</translation>
+        <translation>隊伍能力</translation>
     </message>
     <message>
         <source>Valid only for actors. This is an ability that is shared by the entire party. It is enabled if at least one of the party members participating in a battle has this characteristic.</source>
-        <translation>Valide uniquement pour les acteurs. C&apos;est une capacité qui est partagée par l&apos;ensemble du groupe. Elle est activée si au moins un membre du groupe participant à un combat a cette caractéristique.</translation>
+        <translation>僅對角色有效。這是整個隊伍共用的能力。若參與戰鬥的隊伍成員中有至少一名有此特性時，即啟用。</translation>
     </message>
 </context>
 <context>
@@ -4886,11 +4874,11 @@
     <message>
         <source>Close</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Fermer</translation>
+        <translation type="unfinished">關閉</translation>
     </message>
     <message>
         <source>Closes this window.</source>
-        <translation type="unfinished">Ferme cette fenêtre.</translation>
+        <translation type="unfinished">關閉此視窗。</translation>
     </message>
 </context>
 <context>
@@ -4901,7 +4889,7 @@
     </message>
     <message>
         <source>Creating a distribution package...</source>
-        <translation type="unfinished">Créer un package de distribution...</translation>
+        <translation type="unfinished">正在創建發行套件...</translation>
     </message>
     <message>
         <source>File compression</source>
@@ -4929,7 +4917,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Creating a distribution package...</source>
-        <translation type="unfinished">Créer un package de distribution...</translation>
+        <translation type="unfinished">正在創建發行套件...</translation>
     </message>
     <message>
         <source>File compression</source>
@@ -4944,76 +4932,75 @@ Please lower the file size of this project.</source>
     <name>Dialog_VariableSelector</name>
     <message>
         <source>Switch Selector</source>
-        <translation>Sélecteur Interrupteur</translation>
+        <translation>開關選擇器</translation>
     </message>
     <message>
         <source>Variable Selector</source>
-        <translation>Sélecteur Variable</translation>
+        <translation>變數選擇器</translation>
     </message>
     <message>
         <source>Switches</source>
-        <translation>Interrupteurs</translation>
+        <translation>開關</translation>
     </message>
     <message>
         <source>Variables</source>
-        <translation>Variables</translation>
+        <translation>變數</translation>
     </message>
     <message>
         <source>Data to be stored ON/OFF values throughout the game.</source>
-        <translation>Données à stocker des valeurs ON/OFF tout au long du jeu.</translation>
+        <translation>整個遊戲中將存取的 ON/OFF 值資料。</translation>
     </message>
     <message>
         <source>Data to be stored integer values throughout the game.</source>
-        <translation>Données à stocker des valeurs en nombre entier tout au long du jeu.</translation>
+        <translation>整個遊戲中將存取的整數值資料。</translation>
     </message>
     <message>
         <source>Group List</source>
-        <translation>Liste de Groupes</translation>
+        <translation>群組列表</translation>
     </message>
     <message>
         <source>The switches in the selected range are displayed on the right.</source>
-        <translation>Les interrupteurs dans la plage sélectionnée sont affichés sur la droite.</translation>
+        <translation>所選範圍內的開關顯示在右邊。</translation>
     </message>
     <message>
         <source>The variables in the selected range are displayed on the right.</source>
-        <translation>Les variables dans la plage sélectionnée sont affichées sur la droite.</translation>
+        <translation>所選範圍內的變數顯示在右邊。</translation>
     </message>
     <message>
         <source>Change Maximum</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Changement Max.</translation>
+        <translation>更改最大值</translation>
     </message>
     <message>
         <source>Changes the number of data entries.</source>
-        <translation>Change le nombre d&apos;entrées de données.</translation>
+        <translation>更改數據登錄數。</translation>
     </message>
     <message>
         <source>Data List</source>
-        <translation>Liste des données</translation>
+        <translation>數據列表</translation>
     </message>
     <message>
         <source>List for selecting switches.</source>
-        <translation>Liste pour sélectionner les interrupteurs.</translation>
+        <translation>選擇開關列表。</translation>
     </message>
     <message>
         <source>List for selecting variables.</source>
-        <translation>Liste pour sélectionner les variables.</translation>
+        <translation>選擇變數列表。</translation>
     </message>
     <message>
         <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>&lt;br&gt;[F5] Sélectionne l&apos;objet suivant.&lt;br&gt;[F4] Sélectionne l&apos;objet précédent.</translation>
+        <translation>&lt;br&gt;[F5] 選擇下一個項目。&lt;br&gt;[F4] 選擇前一個項目。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the switch.</source>
-        <translation>Nom de l&apos;interrupteur.</translation>
+        <translation>開關名稱。</translation>
     </message>
     <message>
         <source>Name of the variable.</source>
-        <translation>Nom de la variable.</translation>
+        <translation>變數名稱。</translation>
     </message>
 </context>
 <context>
@@ -5038,1089 +5025,1087 @@ Please lower the file size of this project.</source>
     <name>Dialog_WindowColor</name>
     <message>
         <source>Window Color</source>
-        <translation>Couleur Fenêtre</translation>
+        <translation>視窗顏色</translation>
     </message>
     <message>
         <source>Specifies how to change the window color.</source>
-        <translation>Indique comment changer la couleur de la fenêtre.</translation>
+        <translation>指定改變視窗顏色的方式。</translation>
     </message>
 </context>
 <context>
     <name>Edit_Actors</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic actor settings.</source>
-        <translation>Réglages basiques d&apos;acteur.</translation>
+        <translation>基本角色設定。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the actor.</source>
-        <translation>Nom de l&apos;acteur.</translation>
+        <translation>角色名稱。</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Surnom</translation>
+        <translation>暱稱</translation>
     </message>
     <message>
         <source>Nickname displayed on the status screen. Can be left empty.</source>
-        <translation>Surnom affiché sur l&apos;écran d&apos;état. Peut être laissé vide.</translation>
+        <translation>顯示於狀態畫面的暱稱。可為空。</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation>Classe</translation>
+        <translation>類別</translation>
     </message>
     <message>
         <source>Class of the actor.</source>
-        <translation>Classe de l&apos;acteur.</translation>
+        <translation>角色類別。</translation>
     </message>
     <message>
         <source>Initial Level</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Niveau Init. </translation>
+        <translation>初始等級</translation>
     </message>
     <message>
         <source>Level at the start of the game.</source>
-        <translation>Niveau au commencement du jeu.</translation>
+        <translation>遊戲開始時的等級。</translation>
     </message>
     <message>
         <source>Max Level</source>
-        <translation>Niveau Max</translation>
+        <translation>最大等級</translation>
     </message>
     <message>
         <source>Maximum level that the actor can attain.</source>
-        <translation>Niveau maximum que l&apos;acteur peut atteindre.</translation>
+        <translation>角色可獲得的最大等級。</translation>
     </message>
     <message>
         <source>Profile</source>
-        <translation>Profil</translation>
+        <translation>簡介</translation>
     </message>
     <message>
         <source>Text to be displayed on the status screen. Enter information such as the character&apos;s profile.</source>
-        <translation>Texte à afficher sur l&apos;écran d&apos;état. Saisissez les informations telles que le profil du personnage.</translation>
+        <translation>顯示在狀態畫面的文字。輸入諸如人物簡介等資訊。</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Images</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Images of the actor to be displayed in the game.</source>
-        <translation>Images de l&apos;acteur à afficher dans le jeu.</translation>
+        <translation>在遊戲中顯示的角色圖像。</translation>
     </message>
     <message>
         <source>Initial Equipment</source>
-        <translation>Équipement Initial</translation>
+        <translation>初始裝備</translation>
     </message>
     <message>
         <source>Weapon and armor that the actor has equipped at the start of the game.</source>
-        <translation>Arme et armure que l&apos;acteur a équipés au commencement du jeu.</translation>
+        <translation>遊戲開始時角色裝備的武器和盔甲。</translation>
     </message>
 </context>
 <context>
     <name>Edit_Animations</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic animation settings.</source>
-        <translation>Réglages basiques d&apos;animation.</translation>
+        <translation>基本動畫設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the animation.</source>
-        <translation>Nom de l&apos;animation.</translation>
+        <translation>動畫名稱。</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Images</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Cell images used for the animation.</source>
-        <translation>Images de cellules utilisées pour l&apos;animation.</translation>
+        <translation>用於動畫的動畫格圖像。</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Position</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Display position of the animation.&lt;br&gt;[Head] Displayed using the top edge of the image as a base.&lt;br&gt;[Center] Displayed using the center line of the image as a base.&lt;br&gt;[Feet] Displayed using the bottom edge of the image as a base.&lt;br&gt;[Screen] Displays over the entire screen.</source>
-        <translation>Affiche la position de l&apos;animation.&lt;br&gt;[Tête] Affichée en utilisant le bord supérieur de l&apos;image comme base.&lt;br&gt;[Centre] Affichée en utilisant la ligne centrale de l&apos;image comme base.&lt;br&gt;[Pieds] Affichée en utilisant le bord inférieur de l&apos;image comme base.&lt;br&gt;[Écran] Affiche sur tout l&apos;écran.</translation>
+        <translation>動畫顯示位置。&lt;br&gt;[頭部] 使用圖像頂緣為基線顯示。&lt;br&gt;[中央] 使用圖像中線為基線顯示。&lt;br&gt;[底部] 使用圖像底緣為基線顯示。&lt;br&gt;[畫面] 顯示於整個螢幕上方。</translation>
     </message>
     <message>
         <source>Head</source>
-        <translation>Tête</translation>
+        <translation>頭部</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Centre</translation>
+        <translation>中央</translation>
     </message>
     <message>
         <source>Feet</source>
-        <translation>Pieds</translation>
+        <translation>底部</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation>Écran</translation>
+        <translation>畫面</translation>
     </message>
     <message>
         <source>Max Frames</source>
-        <translation>Trames max</translation>
+        <translation>最大框數</translation>
     </message>
     <message>
         <source>Number of frames used for the animation. One animation frame is 1/15 seconds.</source>
-        <translation>Nombre de trames utilisées pour l&apos;animation. Une trame d&apos;animation dure 1/15 de secondes.</translation>
+        <translation>動畫最大框數。一個動畫框是 1/15 秒。</translation>
     </message>
 </context>
 <context>
     <name>Edit_Armors</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic armor settings.</source>
-        <translation>Réglages basiques d&apos;armure.</translation>
+        <translation>基本盔甲設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the armor.</source>
-        <translation>Nom de l&apos;armure.</translation>
+        <translation>盔甲名稱。</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icône</translation>
+        <translation>圖示</translation>
     </message>
     <message>
         <source>Icon appearing to the left of the armor name in the game.</source>
-        <translation>Icône apparaissant à gauche du nom de l&apos;armure dans le jeu.</translation>
+        <translation>出現在遊戲中的盔甲名稱左邊的圖示。</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>Comment displayed when the armor is selected in the game.</source>
-        <translation>Commentaire affiché quand l&apos;armure est sélectionnée dans le jeu.</translation>
+        <translation>當遊戲中選擇了該盔甲時顯示的說明。</translation>
     </message>
     <message>
         <source>Armor Type</source>
-        <translation>Type d&apos;Armure</translation>
+        <translation>盔甲類型</translation>
     </message>
     <message>
         <source>Type of the armor. Setting [Equip Armor] in trait lists enables to equip with them.</source>
-        <translation>Type de l&apos;Armure. Régler [Équiper Armure] dans la liste des traits permet de s&apos;équiper avec.</translation>
+        <translation>盔甲的類型。在特性列表中設置 [裝備盔甲] 以裝備盔甲。</translation>
     </message>
     <message>
         <source>Price</source>
-        <translation>Prix</translation>
+        <translation>價格</translation>
     </message>
     <message>
         <source>Armor price. The player can sell the armor for half of this price when the price is greater than 0.</source>
-        <translation>Prix de l&apos;armure. Le joueur peut vendre l&apos;armure pour la moitié de ce prix quand le prix est supérieur à 0.</translation>
+        <translation>盔甲價格。當價格大於 0 時，玩家可以該價格的一半出售盔甲。</translation>
     </message>
     <message>
         <source>Equipment Type</source>
-        <translation>Type d&apos;Équipement</translation>
+        <translation>裝備類型</translation>
     </message>
     <message>
         <source>Where the armor is equipped. Actors can equip different kinds of armor at the same time.</source>
-        <translation>Où l&apos;armure est équipée. Les acteurs peuvent équiper différentes sortes d&apos;armures en même temps.</translation>
+        <translation>盔甲裝備處。角色可同時裝備不同種類盔甲。</translation>
     </message>
 </context>
 <context>
     <name>Edit_Classes</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic class settings.</source>
-        <translation>Réglages basiques de classe.</translation>
+        <translation>基本類別設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the class.</source>
-        <translation>Nom de la classe.</translation>
+        <translation>類別名稱。</translation>
     </message>
     <message>
         <source>EXP Curve</source>
-        <translation>Courbe d&apos;EXP</translation>
+        <translation>EXP 曲線</translation>
     </message>
     <message>
         <source>Values for determining the amount of EXP for each level.</source>
-        <translation>Valeurs pour déterminer le montant d&apos;EXP pour chaque niveau.</translation>
+        <translation>決定每個等級 EXP 值的值。</translation>
     </message>
     <message>
         <source>Parameter Curves</source>
-        <translation>Courbes de Paramètres</translation>
+        <translation>參數曲線</translation>
     </message>
     <message>
         <source>Graph of parameters by level.</source>
-        <translation>Graphique de paramètres par niveau.</translation>
+        <translation>按等級的參數圖形。</translation>
     </message>
 </context>
 <context>
     <name>Edit_CommonEvents</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic common event settings.</source>
-        <translation>Réglages basiques d&apos;évènements communs.</translation>
+        <translation>基本一般劇情設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the common event.</source>
-        <translation>Nom de l&apos;évènement commun.</translation>
+        <translation>一般劇情名稱。</translation>
     </message>
     <message>
         <source>Trigger</source>
-        <translation>Déclencher</translation>
+        <translation>觸發器</translation>
     </message>
     <message>
         <source>Conditions to start the common event. Valid only on the map screen.&lt;br&gt;[None] Starts only when explicitly called up.&lt;br&gt;[Autorun] Starts when the specified switch is ON.&lt;br&gt;[Parallel] Runs cyclically while the specified switch is ON.</source>
-        <translation>Conditions pour démarrer l&apos;évènement commun. Valide seulement sur l&apos;écran de la carte.&lt;br&gt;[Aucun] Commence seulement quand appelé explicitement.&lt;br&gt;[Exécution Automatique] Commence quand l&apos;interrupteur spécifié est sur ON.&lt;br&gt;[Parallèle] Fonctionne cycliquement pendant que l&apos;interrupteur spécifié est sur ON.</translation>
+        <translation>開始一般劇情的條件。僅在地圖畫面有效。&lt;br&gt;[無] 僅當明確召集開始時。&lt;br&gt;[自動運行] 當指定開關為 ON 時開始。&lt;br&gt;[並行] 當指定開關為 ON 時迴圈運行。</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>Autorun</source>
-        <translation>Exécution Automatique</translation>
+        <translation>自動運行</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>Parallèle</translation>
+        <translation>並行</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation>Interrupteur</translation>
+        <translation>開關</translation>
     </message>
     <message>
         <source>When the trigger is [Autorun] or [Parallel], the contents will be run when the switch set here is ON.</source>
-        <translation>Lorsque le déclenchement est [Exécution automatique] ou [Parallèle], le contenu est exécuté lorsque l&apos;interrupteur est réglé sur ON.</translation>
+        <translation>當觸發器為 [自動運行] 或 [並行]，則當此處設置的開關為 ON 時內容將運行。</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Contenu</translation>
+        <translation>內容</translation>
     </message>
     <message>
         <source>Event commands to be run for this event. Right-click to open the popup menu.</source>
-        <translation>Commandes d&apos;évènement à exécuter pour cet évènement. Cliquez avec le bouton droit pour ouvrir le menu contextuel.</translation>
+        <translation>為該劇情運行的劇情命令。點擊右鍵開啟彈出選單。</translation>
     </message>
 </context>
 <context>
     <name>Edit_Enemies</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic enemy settings.</source>
-        <translation>Réglages basiques d&apos;ennemi.</translation>
+        <translation>基本敵人設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the enemy.</source>
-        <translation>Nom de l&apos;ennemi.</translation>
+        <translation>敵人名稱。</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Image of the enemy to be displayed in battle.</source>
-        <translation>Image de l&apos;ennemi à afficher pendant le combat.</translation>
+        <translation>在遊戲中顯示的敵人圖像。</translation>
     </message>
     <message>
         <source>Rewards</source>
-        <translation>Récompenses</translation>
+        <translation>獎勵</translation>
     </message>
     <message>
         <source>EXP and Gold earned for defeating this enemy.</source>
-        <translation>EXP et Or acquis pour avoir vaincu l&apos;ennemi.</translation>
+        <translation>擊敗該敵人獲得的經驗值和金幣。</translation>
     </message>
     <message>
         <source>EXP</source>
-        <translation>EXP</translation>
+        <translation>經驗值 (EXP)</translation>
     </message>
     <message>
         <source>EXP earned by the party by winning a battle.</source>
-        <translation>EXP acquis par le groupe en gagnant le combat.</translation>
+        <translation>戰鬥獲勝時隊伍獲得的經驗值。</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation>Or</translation>
+        <translation>金幣</translation>
     </message>
     <message>
         <source>Gold earned by the party by winning a battle.</source>
-        <translation>Or acquis par le groupe en gagnant le combat.</translation>
+        <translation>戰鬥獲勝時隊伍獲得的金幣。</translation>
     </message>
     <message>
         <source>Drop Items</source>
-        <translation>Butin</translation>
+        <translation>掉落道具</translation>
     </message>
     <message>
         <source>Items and equipment earned by the party by winning a battle.</source>
-        <translation>Objets et équipement acquis par le groupe en gagnant le combat.</translation>
+        <translation>戰鬥獲勝時隊伍獲得的道具和裝備。</translation>
     </message>
 </context>
 <context>
     <name>Edit_Items</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic item settings.</source>
-        <translation>Réglages basiques d&apos;objet.</translation>
+        <translation>基本道具設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the item.</source>
-        <translation>Nom de l&apos;objet.</translation>
+        <translation>道具名稱。</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icône</translation>
+        <translation>圖示</translation>
     </message>
     <message>
         <source>Icon appearing to the left of the item name in the game.</source>
-        <translation>Icône apparaissant à gauche du nom de l&apos;objet dans le jeu.</translation>
+        <translation>出現在遊戲中的道具名稱左邊的圖示。</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>Comment displayed when the item is selected in the game.</source>
-        <translation>Commentaire affiché quand l&apos;objet est sélectionné dans le jeu.</translation>
+        <translation>當遊戲中選擇了該道具時顯示的說明。</translation>
     </message>
     <message>
         <source>Item Type</source>
-        <translation>Type d&apos;Objet</translation>
+        <translation>道具類型</translation>
     </message>
     <message>
         <source>Type of the item. Key items are typically related to story progression.</source>
-        <translation>Type de l&apos;objet. Les objets clés sont typiquement liés à la progression de l&apos;histoire.</translation>
+        <translation>道具的類型。關鍵道具通常與故事進度相關。</translation>
     </message>
     <message>
         <source>Price</source>
-        <translation>Prix</translation>
+        <translation>價格</translation>
     </message>
     <message>
         <source>Price of the item. The player can sell the item for half of this price when the price is greater than 0.</source>
-        <translation>Prix de l&apos;objet. Le joueur peut vendre l&apos;objet pour la moitié de ce prix quand le prix est supérieur à 0.</translation>
+        <translation>道具的價格。當價格大於 0 時，玩家可以該價格的一半出售道具。</translation>
     </message>
     <message>
         <source>Consumable</source>
-        <translation>Consommable</translation>
+        <translation>可消耗</translation>
     </message>
     <message>
         <source>Whether or not the item disappears after use.</source>
-        <translation>Si l&apos;objet disparaît ou non après utilisation.</translation>
+        <translation>道具使用後是否消失。</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>consumable</comment>
-        <translation>Oui</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>No</source>
         <comment>consumable</comment>
-        <translation>Non</translation>
+        <translation>No</translation>
     </message>
     <message>
         <source>Scope</source>
-        <translation>Champ d&apos;application</translation>
+        <translation>範圍</translation>
     </message>
     <message>
         <source>Scope of the effect.</source>
-        <translation>Champ d&apos;application de l&apos;effet.</translation>
+        <translation>效果的範圍。</translation>
     </message>
     <message>
         <source>Occasion</source>
-        <translation>Occasion </translation>
+        <translation>場合</translation>
     </message>
     <message>
         <source>Screen(s) on which the item can be used.</source>
-        <translation>Écran(s) sur le(s)quel(s) l&apos;objet peut être utilisé.</translation>
+        <translation>可使用該道具的畫面。</translation>
     </message>
 </context>
 <context>
     <name>Edit_Skills</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic skill settings.</source>
-        <translation>Réglages basiques de compétence.</translation>
+        <translation>基本技能設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the skill.</source>
-        <translation>Nom de la compétence.</translation>
+        <translation>技能的名稱。</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icône</translation>
+        <translation>圖示</translation>
     </message>
     <message>
         <source>Icon appearing to the left of the skill name in the game.</source>
-        <translation>Icône apparaissant à gauche du nom de la compétence dans le jeu.</translation>
+        <translation>出現在遊戲中的技能名稱左邊的圖示。</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>Comment displayed when the skill is selected in the game.</source>
-        <translation>Commentaire affiché quand la compétence est sélectionnée dans le jeu.</translation>
+        <translation>當遊戲中選擇了該技能時顯示的說明。</translation>
     </message>
     <message>
         <source>Skill Type</source>
-        <translation>Type de Compétence</translation>
+        <translation>技能類型</translation>
     </message>
     <message>
         <source>Type of the skill. Skills are made available by setting [Add Skill Type] in traits.</source>
-        <translation>Type de la compétence. Les compétences sont rendues disponibles en réglant [Ajouter Type de Compétence] dans les traits.</translation>
+        <translation>技能的類型。通過在特性中設置 [添加技能類型] 而可用的技能。</translation>
     </message>
     <message>
         <source>MP Cost</source>
-        <translation>Coût MP</translation>
+        <translation>MP 費用</translation>
     </message>
     <message>
         <source>Amount of MP consumed when using the skill.</source>
-        <translation>Montant de MP consommés lors de l&apos;utilisation de la compétence.</translation>
+        <translation>使用該技能時消耗的 MP 量。</translation>
     </message>
     <message>
         <source>TP Cost</source>
-        <translation>Coût TP</translation>
+        <translation>TP 費用</translation>
     </message>
     <message>
         <source>Amount of TP consumed when using the skill.</source>
-        <translation>Montant de TP consommés lors de l&apos;utilisation de la compétence.</translation>
+        <translation>使用該技能時消耗的 TP 量。</translation>
     </message>
     <message>
         <source>Scope</source>
-        <translation>Champ d&apos;application</translation>
+        <translation>範圍</translation>
     </message>
     <message>
         <source>Scope of the effect.</source>
-        <translation>Champ d&apos;application de l&apos;effet.</translation>
+        <translation>效果的範圍。</translation>
     </message>
     <message>
         <source>Occasion</source>
-        <translation>Occasion</translation>
+        <translation>場合</translation>
     </message>
     <message>
         <source>Screen(s) on which the skill can be used.</source>
-        <translation>Écran(s) sur le(s)quel(s) la compétence peut être utilisée.</translation>
+        <translation>可使用該技能的畫面。</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Message</translation>
+        <translation>訊息</translation>
     </message>
     <message>
         <source>Fixed phrase displayed as a message when using the skill in battle.</source>
-        <translation>Expression figée affichée sous la forme d&apos;un message lors de l&apos;utilisation de la compétence en combat.</translation>
+        <translation>當在戰鬥中使用技能時顯示的固定短語訊息。</translation>
     </message>
     <message>
         <source>(User Name)</source>
-        <translation>(Nom Utilisateur)</translation>
+        <translation>（用戶名）</translation>
     </message>
     <message>
         <source>Generate Message</source>
-        <translation>Générer Message</translation>
+        <translation>產生訊息</translation>
     </message>
     <message>
         <source>Automatically makes the message.</source>
-        <translation>Crée automatiquement le message.</translation>
+        <translation>自動產生訊息。</translation>
     </message>
     <message>
         <source>&quot;casts *!&quot;</source>
-        <translation>&quot;jette *!&quot;</translation>
+        <translation>&quot;丟棄 *!&quot;</translation>
     </message>
     <message>
         <source> casts %1!</source>
-        <translation> jette %1!</translation>
+        <translation>丟棄 %1！</translation>
     </message>
     <message>
         <source>&quot;does *!&quot;</source>
-        <translation>&quot;fait *!&quot;</translation>
+        <translation>&quot;實行 *!&quot;</translation>
     </message>
     <message>
         <source> does %1!</source>
-        <translation> fait %1!</translation>
+        <translation>實行 %1！</translation>
     </message>
     <message>
         <source>&quot;uses *!&quot;</source>
-        <translation>&quot;utilise *!&quot;</translation>
+        <translation>&quot;使用 *!&quot;</translation>
     </message>
     <message>
         <source> uses %1!</source>
-        <translation> utilise %1!</translation>
+        <translation>使用 %1！</translation>
     </message>
     <message>
         <source>Required Weapon</source>
-        <translation>Arme Requise</translation>
+        <translation>需要的武器</translation>
     </message>
     <message>
         <source>Weapon type required to use the skill. For example, this is used to prevent the selection of a &quot;Sword Skill&quot; unless a sword is equipped.</source>
-        <translation>Type d&apos;arme requis pour utiliser la compétence. Par exemple, cela est utilisé pour éviter la sélection d&apos;une &quot;Compétence épée&quot; à moins qu&apos;une épée soit équipée.</translation>
+        <translation>使用該技能所需的武器類型。例如，用於未裝備劍時阻止選擇“劍技能”。</translation>
     </message>
     <message>
         <source>Weapon Type 1</source>
-        <translation>Arme Type 1</translation>
+        <translation>武器類型 1</translation>
     </message>
     <message>
         <source>When both weapon type 1 and 2 are [None], use is unconditional. When one or both are set, use is possible if either of the weapons is equipped.</source>
-        <translation>Lorsque les types d&apos;arme 1 et 2 sont [Aucun], l&apos;utilisation est inconditionnelle. Lorsque l&apos;un ou les deux sont réglés, l&apos;utilisation est possible si l&apos;une des armes est équipée.</translation>
+        <translation>當武器類型 1 和 2 均為 [無]時，使用無條件。當其中之一或二者均設置時，若裝備了二者武器之一，即可使用。</translation>
     </message>
     <message>
         <source>Weapon Type 2</source>
-        <translation>Arme Type 2</translation>
+        <translation>武器類型 2</translation>
     </message>
 </context>
 <context>
     <name>Edit_States</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic state settings.</source>
-        <translation>Réglages basiques d&apos;état.</translation>
+        <translation>基本狀態設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the state.</source>
-        <translation>Nom de l&apos;état.</translation>
+        <translation>狀態名稱。</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icône</translation>
+        <translation>圖示</translation>
     </message>
     <message>
         <source>Image for icons displayed in the game.</source>
-        <translation>Images pour les icônes affichées dans le jeu.</translation>
+        <translation>遊戲中顯示的圖示圖像。</translation>
     </message>
     <message>
         <source>Restriction</source>
-        <translation>Restriction</translation>
+        <translation>限制</translation>
     </message>
     <message>
         <source>Restriction on actions. When this is set to a state other than [None], command input will not be accepted, and only the action that has been set will be performed. When there are overlapping restrictions, the one at the bottom of the list takes precedence.</source>
-        <translation>Restrictions sur les actions. Lorsque cela est réglé sur un état autre que [Rien], l&apos;entrée de la commande ne sera pas acceptée, et seule l&apos;action qui a été réglée sera effectuée. Lorsqu&apos;il y a des restrictions qui se chevauchent, celui en bas de la liste a la priorité.</translation>
+        <translation>圖示限制。當其設為除 [無] 以外的狀態時，將不接受命令輸入，僅設置的動作將執行。存在重疊限制時，在列表底部的限制優先。</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>Attack an enemy</source>
-        <translation>Attaquer un ennemi</translation>
+        <translation>攻擊敵人</translation>
     </message>
     <message>
         <source>Attack anyone</source>
-        <translation>Attaquer n&apos;importe qui</translation>
+        <translation>攻擊任何人</translation>
     </message>
     <message>
         <source>Attack an ally</source>
-        <translation>Attaquer un allié</translation>
+        <translation>攻擊盟友</translation>
     </message>
     <message>
         <source>Cannot move</source>
-        <translation>Ne peut pas bouger</translation>
+        <translation>不能移動</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation>Priorité</translation>
+        <translation>優先順序</translation>
     </message>
     <message>
         <source>Priority for displaying state icons. When multiple states have been applied, the state that has a higher value for this setting will be given display priority. When priority is the same, the one with the lower ID is given preference.</source>
-        <translation>Priorité pour afficher les icônes d&apos;état. Lorsque plusieurs états ont été appliqués, l&apos;état qui a une plus grande valeur pour ce paramètre s&apos;affiche en priorité. Lorsque la priorité est la même, celui avec l&apos;ID la plus faible a la priorité.</translation>
+        <translation>狀態圖示顯示優先順序。當應用多個狀態時，該設置有較高值的狀態將給予顯示優先。優先順序相同時，較低 ID 的狀態將給予優先。</translation>
     </message>
     <message>
         <source>[SV] Motion</source>
-        <translation>[SV] Mouvement</translation>
+        <translation>[SV] 動作</translation>
     </message>
     <message>
         <source>Motion type displaying while the state is active in side-view mode.</source>
-        <translation>Type de mouvement s&apos;affichant pendant que l&apos;état est actif en mode vue de côté.</translation>
+        <translation>當狀態活動於側視模式中時，動作類型顯示。</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normal</translation>
+        <translation>標準</translation>
     </message>
     <message>
         <source>Abnormal</source>
-        <translation>Anormal</translation>
+        <translation>異常</translation>
     </message>
     <message>
         <source>Sleep</source>
-        <translation>Sommeil</translation>
+        <translation>睡眠</translation>
     </message>
     <message>
         <source>Dead</source>
-        <translation>Mort</translation>
+        <translation>死亡</translation>
     </message>
     <message>
         <source>[SV] Overlay</source>
-        <translation>[SV] Superposition</translation>
+        <translation>[SV] 疊加</translation>
     </message>
     <message>
         <source>Overlay image displaying while the state is active in side-view mode.</source>
-        <translation>Superposition d&apos;image s&apos;affichant pendant que l&apos;état est actif en mode vue de côté.</translation>
+        <translation>當狀態活動於側視模式中時，疊加圖像顯示。</translation>
     </message>
     <message>
         <source>Poison</source>
-        <translation>Poison</translation>
+        <translation>中毒</translation>
     </message>
     <message>
         <source>Blind</source>
-        <translation>Aveugle</translation>
+        <translation>失明</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation>Silence</translation>
+        <translation>失言</translation>
     </message>
     <message>
         <source>Rage</source>
-        <translation>Rage</translation>
+        <translation>憤怒</translation>
     </message>
     <message>
         <source>Confusion</source>
-        <translation>Confusion</translation>
+        <translation>混亂</translation>
     </message>
     <message>
         <source>Fascination</source>
-        <translation>Fascination</translation>
+        <translation>魅惑</translation>
     </message>
     <message>
         <source>Paralyze</source>
-        <translation>Paralyser</translation>
+        <translation>麻痺</translation>
     </message>
     <message>
         <source>Curse</source>
-        <translation>Malédiction</translation>
+        <translation>詛咒</translation>
     </message>
     <message>
         <source>Fear</source>
-        <translation>Peur</translation>
+        <translation>恐懼</translation>
     </message>
     <message>
         <source>Removal Conditions</source>
-        <translation>Conditions de Retrait</translation>
+        <translation>消除條件</translation>
     </message>
     <message>
         <source>Conditions for state removal, apart from using skills and items.</source>
-        <translation>Conditions de retrait d&apos;état, à l&apos;exception de l&apos;utilisation des compétences et des objets.</translation>
+        <translation>除使用技能和道具外，使狀態消除的條件。</translation>
     </message>
     <message>
         <source>Remove at Battle End</source>
-        <translation>Retrait après Combat</translation>
+        <translation>在戰鬥結束時消除</translation>
     </message>
     <message>
         <source>Specifies that the state is valid only in battle.</source>
-        <translation>Indique que l&apos;état est valide seulement pendant le combat.</translation>
+        <translation>指定狀態僅在戰鬥中有效。</translation>
     </message>
     <message>
         <source>Remove by Restriction</source>
-        <translation>Retrait par Restriction</translation>
+        <translation>通過限制消除</translation>
     </message>
     <message>
         <source>Will be replaced by a new state with a different action restriction.</source>
-        <translation>Sera remplacé par un nouvel état avec une restriction d&apos;action différente.</translation>
+        <translation>將被具有不同動作限制的新狀態代替。</translation>
     </message>
     <message>
         <source>Auto-removal Timing</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Timing Retrait Auto.</translation>
+        <translation>自動消除定時</translation>
     </message>
     <message>
         <source>Removal timing for the state that is effective for a set number of turns.</source>
-        <translation>Timing du retrait pour l&apos;état qui est effectif pour un nombre de tour réglé.</translation>
+        <translation>對設定數量的場景段有效的狀態消除定時。</translation>
     </message>
     <message>
         <source>Action End</source>
-        <translation>Fin d&apos;Action</translation>
+        <translation>動作結束</translation>
     </message>
     <message>
         <source>Turn End</source>
-        <translation>Fin du Tour</translation>
+        <translation>場景段結束</translation>
     </message>
     <message>
         <source>Duration in Turns</source>
-        <translation>Durée en Tours</translation>
+        <translation>在場景段中的持續時間</translation>
     </message>
     <message>
         <source>Number of turns the effect of the state lasts. Countdown processing for the number of turns is run at the end of a turn regardless of the setting.</source>
-        <translation>Nombre de tours durant lesquels l&apos;effet de l&apos;état perdure. Le traitement de compte à rebours pour le nombre de tours est lancé à la fin d&apos;un tour quel que soit le réglage.</translation>
+        <translation>狀態效果持續的場景段數。無論設置為何，在一個場景段結束時，場景段數倒計時處理運行。</translation>
     </message>
     <message>
         <source>Remove by Damage</source>
-        <translation>Retrait par Dégâts</translation>
+        <translation>按傷害消除</translation>
     </message>
     <message>
         <source>Removes the state at the specified probability when the target suffers some sort of damage.</source>
-        <translation>Supprime l&apos;état à la probabilité spécifiée quand la cible souffre d&apos;une forme de dommages.</translation>
+        <translation>當目標遭受某種傷害時按指定機率消除。</translation>
     </message>
     <message>
         <source>Remove by Walking</source>
-        <translation>Retrait par Marche</translation>
+        <translation>按行走消除</translation>
     </message>
     <message>
         <source>Removes the state after walking the specified number of steps on the map screen.</source>
-        <translation>Supprime l&apos;état après avoir marché le nombre de pas spécifié sur l&apos;écran de la carte.</translation>
+        <translation>在地圖畫面行走指定步數後消除狀態。</translation>
     </message>
     <message>
         <source>steps</source>
         <comment>suffix</comment>
-        <translation>pas</translation>
+        <translation>步數</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation>Messages</translation>
+        <translation>訊息</translation>
     </message>
     <message>
         <source>Messages to be displayed in battle. Not displayed if left blank.</source>
-        <translation>Messages à afficher pendant le combat. Ne s&apos;affiche pas si ce champ est laissé vide.</translation>
+        <translation>戰鬥中顯示的訊息。若留空則不顯示。</translation>
     </message>
     <message>
         <source>If an actor is inflicted with the state</source>
-        <translation>Si un acteur est affligé par l&apos;état</translation>
+        <translation>若對角色施加狀態</translation>
     </message>
     <message>
         <source>Message to be displayed when the state is applied to an actor.</source>
-        <translation>Message à afficher lorsque l&apos;état est appliqué à un acteur.</translation>
+        <translation>當狀態應用於角色時顯示訊息。</translation>
     </message>
     <message>
         <source>If an enemy is inflicted with the state</source>
-        <translation>Si un ennemi est affligé par l&apos;état</translation>
+        <translation>若對敵人施加狀態</translation>
     </message>
     <message>
         <source>Message to be displayed when the state is applied to an enemy.</source>
-        <translation>Message à afficher lorsque l&apos;état est appliqué à un ennemi.</translation>
+        <translation>當狀態應用於敵人時顯示訊息。</translation>
     </message>
     <message>
         <source>If the state persists</source>
-        <translation>Si l&apos;état persiste</translation>
+        <translation>若狀態持續</translation>
     </message>
     <message>
         <source>Message to be displayed on the target&apos;s turn while the state is active.</source>
-        <translation>Message à afficher sur le tour de la cible pendant que l&apos;état est actif.</translation>
+        <translation>當狀態活動時在目標的回合顯示訊息。</translation>
     </message>
     <message>
         <source>If the state is removed</source>
-        <translation>Si l&apos;état est supprimé</translation>
+        <translation>若狀態消除</translation>
     </message>
     <message>
         <source>Message to be displayed when the effects of the state disappears.</source>
-        <translation>Message à afficher lorsque les effets de l&apos;état disparaissent.</translation>
+        <translation>當狀態效果消失時顯示訊息。</translation>
     </message>
 </context>
 <context>
     <name>Edit_Tilesets</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic tileset settings.</source>
-        <translation>Réglages basiques du tileset.</translation>
+        <translation>基本圖塊設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the tileset.</source>
-        <translation>Nom du tileset.</translation>
+        <translation>圖塊設置名稱。</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Mode</translation>
+        <translation>模式</translation>
     </message>
     <message>
         <source>Behavior of terrain autotiles. As a general rule, [World Type] is applied to overworld tilesets and [Area Type] is applied to others. For more information, see the [Resource Specification] page in Help.</source>
-        <translation>Comportement des autotiles terrain. En règle générale, [Type de Monde] est appliqué à la zone commune des tilesets et [Type de Zone] est appliqué aux autres. Pour plus d&apos;informations, reportez-vous à la page [Spécification de la ressource] dans l&apos;Aide.</translation>
+        <translation>地形自動圖塊行為。作為一般規則，[世界類型] 應用於主世界圖塊，而 [區域類型] 應用於其他圖塊。有關更多資訊，參見幫助中的 [資源規範] 頁面。</translation>
     </message>
     <message>
         <source>World Type</source>
-        <translation>Type de Monde</translation>
+        <translation>世界類型</translation>
     </message>
     <message>
         <source>Area Type</source>
-        <translation>Type de Zone</translation>
+        <translation>區域類型</translation>
     </message>
     <message>
         <source>Passage</source>
-        <translation>Passage</translation>
+        <translation>通過</translation>
     </message>
     <message>
         <source>Sets whether a normal character can pass through the tile.&lt;br&gt;○ : passable&lt;br&gt;✕ : impassable&lt;br&gt;☆ : passable under the tile</source>
-        <translation>Règle si un personnage normal peut passer à travers le tile.&lt;br&gt;○ : franchissable&lt;br&gt;✕ : infranchissable&lt;br&gt;☆ : franchissable sous le tile</translation>
+        <translation>設置標準人物是否可通過圖塊。&lt;br&gt;○ : 可通過&lt;br&gt;✕ : 不可通過&lt;br&gt;☆ : 圖塊下方可通過</translation>
     </message>
     <message>
         <source>Passage (4 dir)</source>
-        <translation>Passage (4 dir)</translation>
+        <translation>通過 (4 dir)</translation>
     </message>
     <message>
         <source>Sets the direction from which a normal character can enter the tile. Possible entries/exits are indicated by arrows.</source>
-        <translation>Règle la direction à partir de laquelle un personnage normal peu entrer le tile. Les entrées/sorties possibles sont indiquées par des flèches.</translation>
+        <translation>設置標準人物可進入圖塊的方向。可能進口/出口以箭頭表示。</translation>
     </message>
     <message>
         <source>Ladder</source>
-        <translation>Échelle</translation>
+        <translation>梯子</translation>
     </message>
     <message>
         <source>Sets the character as looking upward when on this tile. This makes it look like the character is grabbing onto a ladder attached to a wall.</source>
-        <translation>Règle le personnage comme regardant en haut quand il est sur ce tile. Cela donne l&apos;impression que le personnage attrape l&apos;échelle attachée au mur.</translation>
+        <translation>當在該圖塊時設置人物為向上看。這使得其看起來人物正抓住連接在牆壁上的梯子。</translation>
     </message>
     <message>
         <source>Bush</source>
-        <translation>Buisson</translation>
+        <translation>灌木叢</translation>
     </message>
     <message>
         <source>Sets as translucent the bottom some pixels of a character on the tile, which can make the character&apos;s feet seemingly hidden in a bush.</source>
-        <translation>Règle comme transparent les pixels de la partie inférieure d&apos;un personnage sur le tile, ce qui peut donner l&apos;impression que les pieds du personnage sont cachés dans un buisson.</translation>
+        <translation>設置人物某些像素在圖塊上底部半透明，可使得人物的腳好像隱藏在灌木叢中。</translation>
     </message>
     <message>
         <source>Counter</source>
-        <translation>Compteur</translation>
+        <translation>櫃檯</translation>
     </message>
     <message>
         <source>Enables a tile to start an event that is not directly next to it. When a tile with the counter attribute is between the character and the event, the event will start as if the character is right next to it, even if it would not normally do so. When this attribute is given to a terrain autotile, it is considered to be a table and will be drawn by extending it 12 pixels downward.</source>
-        <translation>Active un tile pour commencer un évènement qui n&apos;est pas directement à ses côtés. Quand un tile avec l&apos;attribut de compteur est entre le personnage et l&apos;évènement, l&apos;évènement commencera comme si le personnage était juste à côté, même si en temps normal cela ne se passerait pas. Quand cet attribut est donné à un autotile terrain, il est considéré comme étant un tableau et sera dessiné en l&apos;étendant de 12 pixels vers le bas.</translation>
+        <translation>啟用圖塊使其可開始一個未直接在其附近的劇情。。當具有櫃檯屬性的圖塊介於人物和劇情之間時，該劇情將開始，好像該人物就在劇情旁邊--即使在正常情況下不會這樣。當將該屬性賦予一個地形自動圖塊時，其被視為一個平地層，將通過向下擴展 12 個像素而繪製。</translation>
     </message>
     <message>
         <source>Damage Floor</source>
-        <translation>Dommages Terrain</translation>
+        <translation>傷害地面</translation>
     </message>
     <message>
         <source>Sets a tile to deal damage when walked on. A poisonous swamp is one example of possible uses.</source>
-        <translation>Règle un tile pour infliger des dommages quand on marche dessus. Un marais empoisonné est un exemple des utilisations possibles.</translation>
+        <translation>設置一個圖塊處理在上面行走時的傷害。有毒沼澤地 是一個可能使用例子。</translation>
     </message>
     <message>
         <source>Terrain Tag</source>
-        <translation>Étiquette de Terrain</translation>
+        <translation>地形標記</translation>
     </message>
     <message>
         <source>Assigns a numeric value between 0 and 7 to each tile. No specific uses are defined. The value can be obtained by using the [Get Location Info] event command. For terrain tags that are obtained, those in the upper layers except for 0 are prioritized.</source>
-        <translation>Assigne une valeur numérique entre 0 et 7 à chaque tile. Aucune utilisation spécifique n&apos;est définie. La valeur peut être obtenue en utilisant la commande d&apos;évènement [Obtenir Info Position]. Pour les étiquettes terrain qui sont obtenues, celles dans les couches supérieures à l&apos;exception de 0 sont prioritaires.</translation>
+        <translation>為每個圖塊分配一個 0 和 7 之間的數值。未定義具體使用。該值可使用 [獲取位置資訊] 劇情命令獲得。對於獲得的地形標記，處於上層的的地形標記（0 除外）獲得優先。</translation>
     </message>
 </context>
 <context>
     <name>Edit_Troops</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic troop settings.</source>
-        <translation>Réglages basiques de troupe.</translation>
+        <translation>基本軍隊設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the troop.</source>
-        <translation>Nom de la troupe.</translation>
+        <translation>軍隊名稱。</translation>
     </message>
     <message>
         <source>Auto-name</source>
-        <translation>Nom-Automatique</translation>
+        <translation>自動命名</translation>
     </message>
     <message>
         <source>Gives a name based on the names of the enemies within the troop.</source>
-        <translation>Donne un nom basé sur les noms des ennemis dans la troupe.</translation>
+        <translation>基於軍隊中的敵人的名字命名。</translation>
     </message>
     <message>
         <source>Change BG</source>
-        <translation>Changement BG</translation>
+        <translation>更改背景</translation>
     </message>
     <message>
         <source>Changes the background images for editing and battle tests.</source>
-        <translation>Change les images d&apos;arrière-plan pour l&apos;édition et les tests de combat.</translation>
+        <translation>更改編輯和戰鬥測試的背景圖像。</translation>
     </message>
     <message>
         <source>Battle Test</source>
-        <translation>Test de Combat</translation>
+        <translation>戰鬥測試</translation>
     </message>
     <message>
         <source>Runs a battle test with the current troop.</source>
-        <translation>Effectue un test de combat avec la troupe actuelle.</translation>
+        <translation>使用當前軍隊運行戰鬥測試。</translation>
     </message>
     <message>
         <source>Placement View</source>
-        <translation>Vue Position</translation>
+        <translation>佈置視圖</translation>
     </message>
     <message>
         <source>Displays the enemies in the troop. Drag an enemy to move it. Right-click to open the popup menu.</source>
-        <translation>Affiche les ennemis dans la troupe. Faire glisser un ennemi pour le bouger. Cliquez avec le bouton droit pour ouvrir le menu contextuel.</translation>
+        <translation>顯示軍隊中的敵人。拖拽敵人進行移動。點擊右鍵開啟彈出選單。</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Ajouter</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Places the selected enemy into the troop.</source>
-        <translation>Place l&apos;ennemi sélectionné dans la troupe.</translation>
+        <translation>將所選敵人放入軍隊。</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Retirer</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Removes the selected enemy from the troop.</source>
-        <translation>Retire l&apos;ennemi sélectionné de la troupe.</translation>
+        <translation>將所選敵人從軍隊移除。</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Effacer</translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Removes all the enemies from the troop.</source>
-        <translation>Retire tous les ennemis de la troupe.</translation>
+        <translation>將所有敵人從軍隊移除。</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation>Aligner</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Places all the enemies automatically.</source>
-        <translation>Place tous les ennemis automatiquement.</translation>
+        <translation>自動放置所有敵人。</translation>
     </message>
     <message>
         <source>Enemy List</source>
-        <translation>Liste Ennemis</translation>
+        <translation>敵人列表</translation>
     </message>
     <message>
         <source>Press the [Add] button on the left to add selected enemies to the troop.</source>
-        <translation>Appuyez sur le bouton [Ajouter] sur la gauche pour ajouter les ennemis sélectionnés à la troupe.</translation>
+        <translation>按左側的 [添加] 按鈕添加所選敵人到軍隊。</translation>
     </message>
 </context>
 <context>
     <name>Edit_Weapons</name>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <source>Basic weapon settings.</source>
-        <translation>Réglages basiques de l&apos;arme.</translation>
+        <translation>基本武器設置。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the weapon.</source>
-        <translation>Nom de l&apos;arme.</translation>
+        <translation>武器名稱。</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icône</translation>
+        <translation>圖示</translation>
     </message>
     <message>
         <source>Icon appearing to the left of the weapon name in the game.</source>
-        <translation>Icône apparaissant à gauche du nom de l&apos;arme dans le jeu.</translation>
+        <translation>出現在遊戲中的武器名稱左邊的圖示。</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>Comment displayed when the weapon is selected in the game.</source>
-        <translation>Commentaire affiché quand l&apos;arme est sélectionnée dans le jeu.</translation>
+        <translation>當遊戲中選擇了該武器時顯示的說明。</translation>
     </message>
     <message>
         <source>Weapon Type</source>
-        <translation>Type d&apos;Arme</translation>
+        <translation>武器類型</translation>
     </message>
     <message>
         <source>Type of the weapon. Setting [Equip Weapon] in trait lists enables to equip with them.</source>
-        <translation>Type de l&apos;arme. Régler [Équiper Arme] dans la liste des traits permet de s&apos;équiper avec.</translation>
+        <translation>武器的類型。在特性列表中設置 [裝備武器] 以裝備武器。</translation>
     </message>
     <message>
         <source>Price</source>
-        <translation>Prix</translation>
+        <translation>價格</translation>
     </message>
     <message>
         <source>Weapon price. The player can sell the weapon for half of this price when the price is greater than 0.</source>
-        <translation>Prix de l&apos;arme. Le joueur peut vendre l&apos;arme pour la moitié de ce prix quand le prix est supérieur à 0.</translation>
+        <translation>武器價格。當價格大於 0 時，玩家可以該價格的一半出售武器。</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation>Animation</translation>
+        <translation>動畫</translation>
     </message>
     <message>
         <source>Animation displayed for the target when using this weapon in battle.</source>
-        <translation>Animation affichée pour la cible lors de l&apos;utilisation de cette arme en combat.</translation>
+        <translation>當在戰鬥中使用該武器時為目標顯示的動畫。</translation>
     </message>
 </context>
 <context>
     <name>EnemyDropItemBox</name>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
 </context>
 <context>
     <name>EquipmentListBox</name>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Equipment Item</source>
-        <translation>Objet d&apos;Équipement</translation>
+        <translation>裝備道具</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
 </context>
 <context>
     <name>EquipmentSelectBox</name>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
 </context>
 <context>
@@ -6128,251 +6113,252 @@ Please lower the file size of this project.</source>
     <message>
         <source>Face</source>
         <comment>Face Image</comment>
-        <translation>Visage</translation>
+        <translation>頭像</translation>
     </message>
     <message>
         <source>Face image to be displayed to the left of the message.</source>
-        <translation>Image du visage à afficher à gauche du message.</translation>
+        <translation>顯示於訊息左邊的頭像圖像。</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Texte</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Text to display.</source>
-        <translation>Texte à afficher.</translation>
+        <translation>顯示的文字。</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation>Arrière-plan</translation>
+        <translation>背景</translation>
     </message>
     <message>
         <source>Background type of the message.</source>
-        <translation>Type d&apos;arrière-plan du message.</translation>
+        <translation>訊息的背景類型。</translation>
     </message>
     <message>
         <source>Window Position</source>
-        <translation>Position de la Fenêtre</translation>
+        <translation>視窗位置</translation>
     </message>
     <message>
         <source>Position to display the message on the screen.</source>
-        <translation>Position de l&apos;affichage du message sur l&apos;écran.</translation>
+        <translation>在畫面上顯示訊息的位置。</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Aperçu</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>Previews how it will be displayed on the actual screen.</source>
-        <translation>Affiche comment ce sera affiché sur l&apos;écran réel.</translation>
+        <translation>預覽在實際畫面上的顯示方式。</translation>
     </message>
     <message>
         <source>Batch Entry</source>
-        <translation>Entrée de Lot</translation>
+        <translation>批錄入</translation>
     </message>
     <message>
         <source>Enables the input of more than 4 lines and inserts multiple event commands.</source>
-        <translation>Permet d&apos;activer l&apos;entrée de plus de 4 lignes et introduit des commandes d&apos;évènements multiples.</translation>
+        <translation>啟用輸入 4 行以上，以及插入多個劇情命令。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand102</name>
     <message>
         <source>Text to be displayed as the choice #%1.</source>
-        <translation>Texte à afficher en tant que choix #%1.</translation>
+        <translation>顯示於選擇 #%1 的文字。</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>choice</comment>
-        <translation>Oui</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>No</source>
         <comment>choice</comment>
-        <translation>Non</translation>
+        <translation>No</translation>
     </message>
     <message>
         <source>Choices</source>
-        <translation>Choix</translation>
+        <translation>選擇</translation>
     </message>
     <message>
         <source>Texts to display as choices.</source>
-        <translation>Textes à afficher en tant que choix.</translation>
+        <translation>顯示於選擇的文字。</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation>Arrière-plan</translation>
+        <translation>背景</translation>
     </message>
     <message>
         <source>Background type of the choices.</source>
-        <translation>Type d&apos;arrière-plan des choix.</translation>
+        <translation>選擇的背景類型。</translation>
     </message>
     <message>
         <source>Window Position</source>
-        <translation>Position de la Fenêtre</translation>
+        <translatorcomment>単語修正</translatorcomment>
+        <translation>視窗位置</translation>
     </message>
     <message>
         <source>Position to display the choices on the screen.</source>
-        <translation>Position de l&apos;affichage des choix sur l&apos;écran.</translation>
+        <translation>在畫面上顯示選擇的位置。</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Par défaut</translation>
+        <translation>默認</translation>
     </message>
     <message>
         <source>Initial position of the cursor.</source>
-        <translation>Position initiale du curseur.</translation>
+        <translation>指針初始位置。</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Handling method for when the cancel button is pressed.</source>
-        <translation>Méthode de gestion lorsque le bouton Annuler est enfoncé.</translation>
+        <translation>當取消按鈕按下時的處理方式。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand103</name>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>變數</translation>
     </message>
     <message>
         <source>Variable containing the numeric value entered by the player. The original entry is displayed in this variable as entry begins.</source>
-        <translation>Variable contenant la valeur numérique saisie par le joueur. L&apos;entrée originale est affichée dans cette variable comme entrée qui commence.</translation>
+        <translation>包含玩家輸入數值的變更。該輸入開始時，原始登錄顯示於該變數中。</translation>
     </message>
     <message>
         <source>Digits</source>
-        <translation>Chiffres</translation>
+        <translation>數位</translation>
     </message>
     <message>
         <source>Number of digits to be entered.</source>
-        <translation>Nombre de chiffres à saisir.</translation>
+        <translation>要輸入的數位編號。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand104</name>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>變數</translation>
     </message>
     <message>
         <source>Variable for storing the ID of the item the player selected. Zero is stored if the player cancels the selection.</source>
-        <translation>Variable pour stocker l&apos;ID de l&apos;objet sélectionné par le joueur. Rien n&apos;est stocké si le joueur annule la sélection.</translation>
+        <translation>存取玩家選擇的道具的 ID 的變更。若玩家取消選擇，存取零。</translation>
     </message>
     <message>
         <source>Item Type</source>
-        <translation>Type d&apos;Objet</translation>
+        <translation>道具類型</translation>
     </message>
     <message>
         <source>Type of items to be listed.</source>
-        <translation>Type d&apos;objets à lister.</translation>
+        <translation>要列出的道具的類型。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand105</name>
     <message>
         <source>Text</source>
-        <translation>Texte</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Text to display.</source>
-        <translation>Texte à afficher.</translation>
+        <translation>顯示的文字。</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation>Vitesse</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Speed at which text scrolls.</source>
-        <translation>Vitesse à laquelle le texte défile.</translation>
+        <translation>文字滾動速度。</translation>
     </message>
     <message>
         <source>No Fast Forward</source>
-        <translation>Pas d&apos;Avance Rapide</translation>
+        <translation>無快速向前</translation>
     </message>
     <message>
         <source>Disables the fast-scrolling feature when the OK button is pressed.</source>
-        <translation>Désactive le défilement rapide lorsque vous appuyez sur le bouton OK.</translation>
+        <translation>當按下 OK 按鈕，禁用快速滾動功能。</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Aperçu</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>Previews how it will be displayed on the actual screen.</source>
-        <translation>Montre comment ce sera affiché sur l&apos;écran réel.</translation>
+        <translation>預覽在實際畫面上的顯示方式。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand108</name>
     <message>
         <source>Comment</source>
-        <translation>Commentaire</translation>
+        <translation>說明</translation>
     </message>
     <message>
         <source>Comment text. Has no effect in the game.</source>
-        <translation>Texte Commentaire. N&apos;a aucun effet dans le jeu.</translation>
+        <translation>說明文字。在遊戲中無效果。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand111</name>
     <message>
         <source>Create Else Branch</source>
-        <translation>Créer Autre Branche</translation>
+        <translation>創建其他分支</translation>
     </message>
     <message>
         <source>Also creates a branch for when the condition is not met.</source>
-        <translation>Crée aussi une branche lorsque la condition n&apos;est pas respectée.</translation>
+        <translation>當條件未滿足時也創建一個分支。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand117</name>
     <message>
         <source>Common Event</source>
-        <translation>Évènement Commun</translation>
+        <translation>一般劇情</translation>
     </message>
     <message>
         <source>Common event to call up.</source>
-        <translation>Évènement commun à appeler.</translation>
+        <translation>召集的一般劇情。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand118</name>
     <message>
         <source>Label Name</source>
-        <translation>Nom du Label</translation>
+        <translation>標籤名稱</translation>
     </message>
     <message>
         <source>Name of the label to be set.</source>
-        <translation>Nom du label à régler.</translation>
+        <translation>要設置的標籤的名稱。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand119</name>
     <message>
         <source>Label Name</source>
-        <translation>Nom du Label</translation>
+        <translation>標籤名稱</translation>
     </message>
     <message>
         <source>Label name of the jump destination.</source>
-        <translation>Nom du label de la destination du saut.</translation>
+        <translation>跳轉目標的標籤名稱。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand121</name>
     <message>
         <source>Switch</source>
-        <translation>Interrupteur</translation>
+        <translation>開關</translation>
     </message>
     <message>
         <source>Switch(es) to operate.</source>
-        <translation>Interrupteur(s) à utiliser.</translation>
+        <translation>要操作的開關。</translation>
     </message>
     <message>
         <source>Selects whether to turn the switch(es) ON or OFF.</source>
-        <translation>Sélectionne s&apos;il faut régler le(s) interrupteur(s) sur ON ou OFF.</translation>
+        <translation>選擇是否打開 (ON) 或關閉 (OFF) 開關。</translation>
     </message>
     <message>
         <source>ON</source>
@@ -6380,7 +6366,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Turns the specified switch(es) ON.</source>
-        <translation>Règle le(s) interrupteur(s) spécifié(s) sur ON.</translation>
+        <translation>打開指定開關為 ON。</translation>
     </message>
     <message>
         <source>OFF</source>
@@ -6388,107 +6374,103 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Turns the specified switch(es) OFF.</source>
-        <translation>Règle le(s) interrupteur(s) spécifié(s) sur OFF.</translation>
+        <translation>關閉指定開關為 OFF。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand122</name>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>變數</translation>
     </message>
     <message>
         <source>Variable(s) to operate.</source>
-        <translation>Variable(s) à utiliser.</translation>
+        <translation>要操作的變數。</translation>
     </message>
     <message>
         <source>Operation</source>
-        <translation>Opération</translation>
+        <translation>操作</translation>
     </message>
     <message>
         <source>Operation to run on the specified variable(s).</source>
-        <translation>Opération à effectuer sur le(s) variable(s) spécifiée(s).</translation>
+        <translation>對指定變數運行的操作。</translation>
     </message>
     <message>
         <source>Set</source>
         <comment>Set to the variable</comment>
-        <translation>Régler</translation>
+        <translation>設置</translation>
     </message>
     <message>
         <source>Stores the operand to the specified variable(s).</source>
-        <translation>Stocke l&apos;opérande sur la (les) variable(s) spécifiée(s).</translation>
+        <translation>存取運算元到指定變數。</translation>
     </message>
     <message>
         <source>Add</source>
         <comment>Add to the variable</comment>
-        <translation>Ajouter</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Adds the operand to the specified variable(s).</source>
-        <translation>Ajoute l&apos;opérande sur la (les) variable(s) spécifiée(s).</translation>
+        <translation>加運算元到指定變數。</translation>
     </message>
     <message>
         <source>Sub</source>
         <comment>Subtract</comment>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Soustr.</translation>
+        <translation>減</translation>
     </message>
     <message>
         <source>Subtracts the operand from the specified variable(s).</source>
-        <translation>Soustrait l&apos;opérande de la (des) variable(s) spécifiée(s).</translation>
+        <translation>將運算元從指定變數減去。</translation>
     </message>
     <message>
         <source>Mul</source>
         <comment>Multiply</comment>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Mult.</translation>
+        <translation>乘</translation>
     </message>
     <message>
         <source>Multiplies the specified variable(s) by the operand.</source>
-        <translation>Multiplie la (les) variable(s) spécifiée(s) par l&apos;opérande.</translation>
+        <translation>將指定變數乘以運算元。</translation>
     </message>
     <message>
         <source>Div</source>
         <comment>Divide</comment>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Div.</translation>
+        <translation>除</translation>
     </message>
     <message>
         <source>Divides the specified variable(s) by the operand.</source>
-        <translation>Divise la (les) variable(s) spécifiée(s) par l&apos;opérande.</translation>
+        <translation>將指定變數除以運算元。</translation>
     </message>
     <message>
         <source>Mod</source>
         <comment>Modulo</comment>
-        <translation>Mod</translation>
+        <translation>模計算</translation>
     </message>
     <message>
         <source>Divides the specified variable(s) by the operand and stores the remainder(s).</source>
-        <translation>Divise la (les) variable(s) spécifiée(s) par l&apos;opérande et enregistre le(s) reste(s).</translation>
+        <translation>將指定變數除以運算元，並存取餘數。</translation>
     </message>
     <message>
         <source>Operand</source>
-        <translation>Opérande</translation>
+        <translation>運算元</translation>
     </message>
     <message>
         <source>Value to be used in calculating variables.</source>
-        <translation>Valeur à utiliser dans le calcul des variables.</translation>
+        <translation>計算變數時使用的值。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand123</name>
     <message>
         <source>Self Switch</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Interr. Auto.</translation>
+        <translation>自開關</translation>
     </message>
     <message>
         <source>Self switch to operate.</source>
-        <translation>Interrupteur automatique à utiliser.</translation>
+        <translation>要操作的自開關。</translation>
     </message>
     <message>
         <source>Selects whether to turn the self switch ON or OFF.</source>
-        <translation>Sélectionne s&apos;il faut régler l&apos;interrupteur automatique sur ON ou OFF.</translation>
+        <translation>選擇是否打開 (ON) 或關閉 (OFF) 自開關。</translation>
     </message>
     <message>
         <source>ON</source>
@@ -6496,7 +6478,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Turns the specified self switch ON.</source>
-        <translation>Règle l&apos;interrupteur automatique spécifié sur ON.</translation>
+        <translation>打開指定自開關為 ON。</translation>
     </message>
     <message>
         <source>OFF</source>
@@ -6504,39 +6486,39 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Turns the specified self switch OFF.</source>
-        <translation>Règle l&apos;interrupteur automatique spécifié sur OFF.</translation>
+        <translation>關閉指定自開關為 OFF。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand124</name>
     <message>
         <source>Selects whether to start or stop the timer.</source>
-        <translation>Sélectionne s&apos;il faut mettre en marche ou arrêter le chronomètre.</translation>
+        <translation>選擇是否開始或停止定時器。</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation>Démarrer</translation>
+        <translation>開始</translation>
     </message>
     <message>
         <source>Starts the timer.</source>
-        <translation>Démarre le chronomètre.</translation>
+        <translation>開始定時器。</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Arrêter</translation>
+        <translation>停止</translation>
     </message>
     <message>
         <source>Stops the timer.</source>
-        <translation>Arrête le chronomètre.</translation>
+        <translation>停止定時器。</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>Value of the Timer</comment>
-        <translation>Temps</translation>
+        <translation>時間</translation>
     </message>
     <message>
         <source>Time to count down on the timer.</source>
-        <translation>Temps de décompte sur le chronomètre.</translation>
+        <translation>定時器倒計時時間。</translation>
     </message>
     <message>
         <source>min</source>
@@ -6553,303 +6535,303 @@ Please lower the file size of this project.</source>
     <name>EventCommand126</name>
     <message>
         <source>Item</source>
-        <translation>Objet</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Item to increase or decrease.</source>
-        <translation>Objet à augmenter ou diminuer.</translation>
+        <translation>要增加或減少的道具。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand127</name>
     <message>
         <source>Weapon</source>
-        <translation>Arme</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Weapon to increase or decrease.</source>
-        <translation>Arme à augmenter ou diminuer.</translation>
+        <translation>要增加或減少的武器。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand128</name>
     <message>
         <source>Armor</source>
-        <translation>Armure</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Armor to increase or decrease.</source>
-        <translation>Armure à augmenter ou diminuer.</translation>
+        <translation>要增加或減少的盔甲。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand129</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to add or remove.</source>
-        <translation type="vanished">Acteur à ajouter ou retirer.</translation>
+        <translation type="vanished">要添加或移除的角色。</translation>
     </message>
     <message>
         <source>Selects whether to add or remove the actor.</source>
-        <translation>Sélectionne s&apos;il faut ajouter ou retirer l&apos;acteur.</translation>
+        <translation>選擇是否添加或移除角色。</translation>
     </message>
     <message>
         <source>Add</source>
         <comment>Add to the party</comment>
-        <translation>Ajouter</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Adds the actor to the party.</source>
-        <translation>Ajoute l&apos;acteur au groupe.</translation>
+        <translation>新增角色至隊伍。</translation>
     </message>
     <message>
         <source>Remove</source>
         <comment>Remove from the party</comment>
-        <translation>Retirer</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Removes the actor from the party.</source>
-        <translation>Retire l&apos;acteur du groupe.</translation>
+        <translation>將角色從隊伍移除。</translation>
     </message>
     <message>
         <source>Initialize</source>
-        <translation>Initialiser</translation>
+        <translation>初始化</translation>
     </message>
     <message>
         <source>When adding, reverts to the starting state as specified in the database.</source>
-        <translation>Lorsque vous ajoutez, cela retourne à l&apos;état de démarrage tel qu&apos;indiqué dans la base de données.</translation>
+        <translation>添加時，恢復到資料庫中指定開始狀態。</translation>
     </message>
     <message>
         <source>Actor to increase or decrease.</source>
-        <translation>Acteur à augmenter ou diminuer.</translation>
+        <translation>增減角色。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand134</name>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Selects whether to enable or disable the saving of game data.</source>
-        <translation>Sélectionne s&apos;il faut activer ou désactiver la sauvegarde des données du jeu.</translation>
+        <translation>選擇是否啟用或禁用遊戲數據保存。</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Désactiver</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Disables the saving of game data.</source>
-        <translation>Désactive la sauvegarde des données du jeu.</translation>
+        <translation>禁用遊戲數據保存。</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Activer</translation>
+        <translation>啟用</translation>
     </message>
     <message>
         <source>Enables the saving of game data.</source>
-        <translation>Active la sauvegarde des données du jeu.</translation>
+        <translation>啟用遊戲數據保存。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand135</name>
     <message>
         <source>Menu</source>
-        <translation>Menu</translation>
+        <translation>選單</translation>
     </message>
     <message>
         <source>Selects whether to enable or disable the menu screen calls.</source>
-        <translation>Sélectionne s&apos;il faut activer ou désactiver les appels de l&apos;écran de menu.</translation>
+        <translation>選擇是否啟用或禁用選單畫面呼叫。</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Désactiver</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Disables the menu screen calls.</source>
-        <translation>Désactive les appels de l&apos;écran de menu.</translation>
+        <translation>禁用選單畫面呼叫。</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Activer</translation>
+        <translation>啟用</translation>
     </message>
     <message>
         <source>Enables the menu screen calls.</source>
-        <translation>Active les appels de l&apos;écran de menu.</translation>
+        <translation>啟用選單畫面呼叫。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand136</name>
     <message>
         <source>Encounter</source>
-        <translation>Rencontre</translation>
+        <translation>衝突</translation>
     </message>
     <message>
         <source>Selects whether to enable or disable the random encounters.</source>
-        <translation>Sélectionne s&apos;il faut activer ou désactiver les rencontres aléatoires.</translation>
+        <translation>選擇是否啟用或禁用隨機衝突。</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Désactiver</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Disables the random encounters.</source>
-        <translation>Désactive les rencontres aléatoires.</translation>
+        <translation>禁用隨機衝突。</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Activer</translation>
+        <translation>啟用</translation>
     </message>
     <message>
         <source>Enables the random encounters.</source>
-        <translation>Active les rencontres aléatoires.</translation>
+        <translation>啟用隨機衝突。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand137</name>
     <message>
         <source>Formation</source>
-        <translation>Formation</translation>
+        <translation>隊形</translation>
     </message>
     <message>
         <source>Selects whether to enable or disable the formation command.</source>
-        <translation>Sélectionne s&apos;il faut activer ou désactiver la commande de formation.</translation>
+        <translation>選擇是否啟用或禁用隊形命令。</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Désactiver</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Disables the formation command.</source>
-        <translation>Désactive la commande de formation.</translation>
+        <translation>禁用隊形命令。</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Activer</translation>
+        <translation>啟用</translation>
     </message>
     <message>
         <source>Enables the formation command.</source>
-        <translation>Active la commande de formation.</translation>
+        <translation>啟用隊形命令。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand138</name>
     <message>
         <source>Window Color</source>
-        <translation>Couleur Fenêtre</translation>
+        <translation>視窗顏色</translation>
     </message>
     <message>
         <source>Specifies how to change the window color.</source>
-        <translation>Indique comment changer la couleur de la fenêtre.</translation>
+        <translation>指定改變視窗顏色的方式。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand140</name>
     <message>
         <source>Vehicle</source>
-        <translation>Véhicule</translation>
+        <translation>車輛</translation>
     </message>
     <message>
         <source>Vehicle to change the BGM.</source>
-        <translation>Véhicule pour changer la BGM.</translation>
+        <translation>要更改背景音樂的車輛。</translation>
     </message>
     <message>
         <source>BGM</source>
-        <translation>BGM</translation>
+        <translation>背景音樂</translation>
     </message>
     <message>
         <source>BGM to be played while riding in a vehicle.</source>
-        <translation>BGM à jouer pendant la conduite d&apos;un véhicule.</translation>
+        <translation>乘坐車輛時播放的背景音樂。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand201</name>
     <message>
         <source>Direction</source>
-        <translation>Direction</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Direction of the character after moving.</source>
-        <translation>Direction du personnage après déplacement.</translation>
+        <translation>移動後人物的方向。</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation>Fondu</translation>
+        <translation>淡出</translation>
     </message>
     <message>
         <source>Type of screen transition when moving.</source>
-        <translation>Type de transition d&apos;écran pendant le déplacement.</translation>
+        <translation>移動時畫面過渡類型。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand202</name>
     <message>
         <source>Vehicle</source>
-        <translation>Véhicule</translation>
+        <translation>車輛</translation>
     </message>
     <message>
         <source>Vehicle to change the location.</source>
-        <translation>Véhicule pour changer d&apos;emplacement.</translation>
+        <translation>要更改位置的車輛。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand203</name>
     <message>
         <source>Event</source>
-        <translation>Évènement</translation>
+        <translation>劇情</translation>
     </message>
     <message>
         <source>Event character to change the location.</source>
-        <translation>Personnage d&apos;évènement pour changer l&apos;emplacement.</translation>
+        <translation>要更改位置的劇情人物。</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Direction</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Direction of the character after moving.</source>
-        <translation>Direction du personnage après déplacement.</translation>
+        <translation>移動後人物的方向。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand204</name>
     <message>
         <source>Direction</source>
-        <translation>Direction</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Scroll direction.</source>
-        <translation>Faire défiler la direction.</translation>
+        <translation>滾動方向。</translation>
     </message>
     <message>
         <source>Distance</source>
-        <translation>Distance</translation>
+        <translation>距離</translation>
     </message>
     <message>
         <source>Number of tiles to scroll.</source>
-        <translation>Nombre de tiles à faire défiler.</translation>
+        <translation>要滾動的圖塊數。</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation>Vitesse</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Scroll speed.</source>
-        <translation>Vitesse de défilement.</translation>
+        <translation>滾動速度。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand211</name>
     <message>
         <source>Transparency</source>
-        <translation>Transparence</translation>
+        <translation>透明度</translation>
     </message>
     <message>
         <source>Selects whether to show or hide the the player.</source>
-        <translation>Sélectionne s&apos;il faut afficher ou masquer le joueur.</translation>
+        <translation>選擇是否顯示或隱藏玩家。</translation>
     </message>
     <message>
         <source>ON</source>
@@ -6857,7 +6839,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Hides the player character.</source>
-        <translation>Masque le personnage du joueur.</translation>
+        <translation>隱藏玩家人物。</translation>
     </message>
     <message>
         <source>OFF</source>
@@ -6865,73 +6847,72 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Shows the player character.</source>
-        <translation>Montre le personnage du joueur.</translation>
+        <translation>顯示玩家人物。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand212</name>
     <message>
         <source>Character</source>
-        <translation>Personnage</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Character to be the target.</source>
-        <translation>Personnage à être ciblé.</translation>
+        <translation>要成為目標的人物。</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation>Animation</translation>
+        <translation>動畫</translation>
     </message>
     <message>
         <source>Type of animation to be displayed.</source>
-        <translation>Type d&apos;animation à afficher.</translation>
+        <translation>要顯示的動畫的類型。</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation>Attendre la Fin</translation>
+        <translation>等待完成</translation>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation>Attend la fin de l&apos;effet.</translation>
+        <translation>等待效果完成。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand213</name>
     <message>
         <source>Character</source>
-        <translation>Personnage</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Character to be the target.</source>
-        <translation>Personnage à être ciblé.</translation>
+        <translation>要成為目標的人物。</translation>
     </message>
     <message>
         <source>Balloon Icon</source>
-        <translation>Icône de Ballon</translation>
+        <translation>氣球圖示</translation>
     </message>
     <message>
         <source>Type of balloon icon to be displayed.</source>
-        <translation>Type d&apos;icône de ballon à afficher.</translation>
+        <translation>要顯示的氣球圖示的類型。</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation>Attendre la Fin</translation>
+        <translation>等待完成</translation>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation>Attend la fin de l&apos;effet.</translation>
+        <translation>等待效果完成。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand216</name>
     <message>
         <source>Player Followers</source>
-        <translation>Suiveurs du Joueur</translation>
+        <translation>玩家跟隨者</translation>
     </message>
     <message>
         <source>Selects whether to show or hide the party members that follow behind the player.</source>
-        <translatorcomment>Changed &quot;partie&quot; to &quot;groupe&quot;. &quot;Partie&quot; is not the correct translation for &quot;party&quot;, especially in this context.</translatorcomment>
-        <translation>Sélectionne s&apos;il faut afficher ou masquer les membres du groupe qui suivent derrière le joueur.</translation>
+        <translation>選擇是否顯示或隱藏跟隨在玩家後面的隊伍成員。</translation>
     </message>
     <message>
         <source>ON</source>
@@ -6939,7 +6920,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays all the party members on the map.</source>
-        <translation>Affiche tous les membre du groupe sur la carte.</translation>
+        <translation>顯示地圖上的所有隊伍成員。</translation>
     </message>
     <message>
         <source>OFF</source>
@@ -6947,182 +6928,182 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays only the actor at the head of the party on the map.</source>
-        <translation>Affiche seulement l&apos;acteur à la tête du groupe sur la carte.</translation>
+        <translation>僅顯示地圖上隊伍前頭的角色。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand223</name>
     <message>
         <source>Color Tone</source>
-        <translation>Tonalité de couleur</translation>
+        <translation>色調</translation>
     </message>
     <message>
         <source>Specifies how to change the color.</source>
-        <translation>Indique comment changer la couleur.</translation>
+        <translation>指定改變顏色的方式。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand224</name>
     <message>
         <source>Flash Color</source>
-        <translation>Flasher Couleur</translation>
+        <translation>閃光顏色</translation>
     </message>
     <message>
         <source>Specifies what color to flash with.</source>
-        <translation>Spécifie avec quelle couleur flasher.</translation>
+        <translation>指定閃光使用顏色。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand225</name>
     <message>
         <source>Shake</source>
-        <translation>Secouer</translation>
+        <translation>搖動</translation>
     </message>
     <message>
         <source>Specifies how the screen should shake.</source>
-        <translation>Spécifie la manière dont l&apos;écran doit secouer.</translation>
+        <translation>指定畫面搖動的方式。</translation>
     </message>
     <message>
         <source>Power</source>
-        <translation>Puissance</translation>
+        <translation>力量</translation>
     </message>
     <message>
         <source>Power of the shake.</source>
-        <translation>Puissance de la secousse.</translation>
+        <translation>搖動的力量。</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation>Vitesse</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Speed of the shake.</source>
-        <translation>Vitesse de la secousse.</translation>
+        <translation>搖動的速度。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand230</name>
     <message>
         <source>Duration of the wait in frames.</source>
-        <translation>Durée de l&apos;attente en trames.</translation>
+        <translation>框等待持續時間。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand231</name>
     <message>
         <source>Picture to show.</source>
-        <translation>Image à montrer.</translation>
+        <translation>要顯示的圖片。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand232</name>
     <message>
         <source>Picture to move or change properties.</source>
-        <translation>Image pour bouger ou changer les propriétés.</translation>
+        <translation>要移動或更改屬性的圖片。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand233</name>
     <message>
         <source>Picture to rotate.</source>
-        <translation>Image à faire pivoter.</translation>
+        <translation>要旋轉的圖片。</translation>
     </message>
     <message>
         <source>Rotation</source>
-        <translation>Rotation</translation>
+        <translation>旋轉</translation>
     </message>
     <message>
         <source>Rotation setting of the picture.</source>
-        <translation>Réglage de la rotation de l&apos;image.</translation>
+        <translation>圖片旋轉設置。</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation>Vitesse</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Value by which to increase/decrease the angle. Positive values mean counterclockwise rotation.</source>
-        <translation>Valeur par laquelle augmenter/diminuer l&apos;angle. Valeurs positives signifiant une rotation dans le sens inverse des aiguilles d&apos;une montre.</translation>
+        <translation>增加/減少角度的值。正值表示逆時針旋轉。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand234</name>
     <message>
         <source>Picture to tint.</source>
-        <translation>Image à teinter.</translation>
+        <translation>要著色的圖片。</translation>
     </message>
     <message>
         <source>Color Tone</source>
-        <translation>Tonalité de couleur</translation>
+        <translation>色調</translation>
     </message>
     <message>
         <source>Specifies how to change the color.</source>
-        <translation>Indique comment changer la couleur.</translation>
+        <translation>指定改變顏色的方式。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand235</name>
     <message>
         <source>Picture to erase.</source>
-        <translation>Image à effacer.</translation>
+        <translation>要擦除的圖片。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand236</name>
     <message>
         <source>Weather</source>
-        <translation>Météo</translation>
+        <translation>天氣</translation>
     </message>
     <message>
         <source>Settings for the weather effect to be displayed.</source>
-        <translation>Réglages pour l&apos;effet météo à afficher.</translation>
+        <translation>要顯示的天氣效果設置。</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Type of the weather effect.</source>
-        <translation>Type d&apos;effet météo.</translation>
+        <translation>天氣效果類型。</translation>
     </message>
     <message>
         <source>Power</source>
-        <translation>Puissance</translation>
+        <translation>力量</translation>
     </message>
     <message>
         <source>Amount of the weather effect images to be displayed at once.</source>
-        <translation>Montant d&apos;images d&apos;effet météo à afficher en une fois.</translation>
+        <translation>一次顯示的天氣效果圖像數量。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand242</name>
     <message>
         <source>Duration of the fadeout in seconds.</source>
-        <translation>Durée de l&apos;effacement progressif en secondes.</translation>
+        <translation>以秒為單位的淡出時間。</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>secondes</translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
     <name>EventCommand246</name>
     <message>
         <source>Duration of the fadeout in seconds.</source>
-        <translation>Durée de l&apos;effacement progressif en secondes.</translation>
+        <translation>以秒為單位的淡出時間。</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>secondes</translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
     <name>EventCommand281</name>
     <message>
         <source>Map Name Display</source>
-        <translation>Affichage du Nom de la Carte</translation>
+        <translation>地圖名稱顯示</translation>
     </message>
     <message>
         <source>Selects whether to display the map name when changing the current map.</source>
-        <translation>Sélectionne s&apos;il faut afficher ou non le nom de la carte au moment de changer la carte actuelle.</translation>
+        <translation>選擇更換當前地圖時是否顯示地圖名稱。</translation>
     </message>
     <message>
         <source>ON</source>
@@ -7130,7 +7111,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays the map name when changing the current map.</source>
-        <translation>Affiche le nom de la carte lorsque vous changez la carte actuelle.</translation>
+        <translation>更換當前地圖時顯示地圖名稱。</translation>
     </message>
     <message>
         <source>OFF</source>
@@ -7138,423 +7119,422 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Does not display the map name when changing the current map.</source>
-        <translation>N&apos;affiche pas le nom de la carte lorsque vous changez la carte actuelle.</translation>
+        <translation>更換當前地圖時不顯示地圖名稱。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand282</name>
     <message>
         <source>Tileset</source>
-        <translation>Tileset</translation>
+        <translation>圖塊設置</translation>
     </message>
     <message>
         <source>Tileset to change to.</source>
-        <translation>Tileset à changer.</translation>
+        <translation>要更換到的圖塊。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand283</name>
     <message>
         <source>Battle Background</source>
-        <translation>Arrière-plan de Combat</translation>
+        <translation>戰鬥背景</translation>
     </message>
     <message>
         <source>Battle background images to change to.</source>
-        <translation>Images d&apos;arrière-plan de combat à changer.</translation>
+        <translation>要更換到的戰鬥背景圖像。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand284</name>
     <message>
         <source>Parallax Background</source>
-        <translation>Arrière-plan parallaxe</translation>
+        <translation>視差背景</translation>
     </message>
     <message>
         <source>Parallax background settings to change to.</source>
-        <translation>Réglages d&apos;arrière-plan parallaxe à changer.</translation>
+        <translation>要更換到的視差背景設置。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand285</name>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>變數</translation>
     </message>
     <message>
         <source>Variable for storing information that was obtained.</source>
-        <translation>Variable pour stocker des informations qui ont été obtenues.</translation>
+        <translation>存取獲得的資訊的變數。</translation>
     </message>
     <message>
         <source>Info Type</source>
-        <translation>Type d&apos;Info</translation>
+        <translation>資訊類型</translation>
     </message>
     <message>
         <source>Type of information to obtain.</source>
-        <translation>Type d&apos;informations à obtenir.</translation>
+        <translation>要獲取的資訊的類型。</translation>
     </message>
     <message>
         <source>Location of information to obtain.</source>
-        <translation>Emplacement des informations à obtenir.</translation>
+        <translation>要獲取的資訊的位置。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand301</name>
     <message>
         <source>Can Escape</source>
-        <translation>Peut Fuire</translation>
+        <translation>可逃跑</translation>
     </message>
     <message>
         <source>Enables the [Escape] command and creates a branch defining [If Escape] handling.</source>
-        <translation>Active la commande [Fuire] et créer une branche définissant la gestion [Si Fuire].</translation>
+        <translation>啟用 [逃跑] 命令並創建分支定義 [若逃跑] 處理。</translation>
     </message>
     <message>
         <source>Can Lose</source>
-        <translation>Peut Perdre</translation>
+        <translation>可失敗</translation>
     </message>
     <message>
         <source>Even if the party is defeated, the game does not end, but a branch is created defining [If Lose] handling.</source>
-        <translation>Même si le groupe est vaincu, le jeu ne se termine pas, mais une branche est créée définissant la gestion [Si Perdre].</translation>
+        <translation>即使隊伍被打敗，遊戲並不結束，而是創建分支定義 [若戰敗] 處理。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand302</name>
     <message>
         <source>Merchandise List</source>
-        <translation>Liste des Marchandises</translation>
+        <translation>商品列表</translation>
     </message>
     <message>
         <source>Items that can be purchased at the shop.</source>
-        <translation>Objets qui peuvent être achetés dans le magasin.</translation>
+        <translation>可在商店購買的道具。</translation>
     </message>
     <message>
         <source>Merchandise</source>
-        <translation>Marchandises</translation>
+        <translation>商品</translation>
     </message>
     <message>
         <source>Price</source>
-        <translation>Prix</translation>
+        <translation>價格</translation>
     </message>
     <message>
         <source>Purchase Only</source>
-        <translation>Seulement Acheter</translation>
+        <translation>僅購買</translation>
     </message>
     <message>
         <source>Makes it impossible to sell items in the shop.</source>
-        <translation>Rend impossible de vendre des objets dans le magasin.</translation>
+        <translation>允許在商店出售道具。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand303</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to input the name.</source>
-        <translation>Acteur où entrer le nom.</translation>
+        <translation>要輸入名稱的角色。</translation>
     </message>
     <message>
         <source>Max characters</source>
-        <translation>Caractères Max</translation>
+        <translation>最大字符</translation>
     </message>
     <message>
         <source>Maximum number of characters for name input.</source>
-        <translation>Nombre maximal de caractères pour l&apos;entrée du nom.</translation>
+        <translation>名稱輸入最大字符數。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand313</name>
     <message>
         <source>Selects whether to add or remove the state.</source>
-        <translation>Sélectionne s&apos;il faut ajouter ou retirer l&apos;état.</translation>
+        <translation>選擇是否添加或移除狀態。</translation>
     </message>
     <message>
         <source>Add</source>
         <comment>Add the state</comment>
-        <translation>Ajouter</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Adds the state to the actor.</source>
-        <translation>Ajoute l&apos;état à l&apos;acteur.</translation>
+        <translation>對角色添加狀態。</translation>
     </message>
     <message>
         <source>Remove</source>
         <comment>Remove the state</comment>
-        <translation>Retirer</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Removes the state from the actor.</source>
-        <translation>Retire l&apos;état de l&apos;acteur.</translation>
+        <translation>移除角色的狀態。</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>State to add or remove.</source>
-        <translation>État à ajouter ou retirer.</translation>
+        <translation>要添加或移除的狀態。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand317</name>
     <message>
         <source>Parameter</source>
-        <translation>Paramètre</translation>
+        <translation>參數</translation>
     </message>
     <message>
         <source>Parameter type to increase or decrease.</source>
-        <translation>Type de paramètre à augmenter ou diminuer.</translation>
+        <translation>要增加或減少的參數類型。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand318</name>
     <message>
         <source>Selects whether to learn or forget the skill.</source>
-        <translation>Sélectionne s&apos;il faut apprendre ou oublier la compétence.</translation>
+        <translation>選擇是否學習或忘記技能。</translation>
     </message>
     <message>
         <source>Learn</source>
-        <translation>Apprendre</translation>
+        <translation>學習</translation>
     </message>
     <message>
         <source>Adds the skill to the actor.</source>
-        <translation>Ajoute la compétence à l&apos;acteur.</translation>
+        <translation>對角色添加技能。</translation>
     </message>
     <message>
         <source>Forget</source>
-        <translation>Oublier</translation>
+        <translation>忘記</translation>
     </message>
     <message>
         <source>Removes the skill from the actor.</source>
-        <translation>Retire la compétence à l&apos;acteur.</translation>
+        <translation>移除角色的技能。</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Skill to learn or forget.</source>
-        <translation>Compétence à apprendre ou oublier.</translation>
+        <translation>要學習或忘記的技能。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand319</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to change the equipment.</source>
-        <translation>Acteur à qui changer l&apos;équipement.</translation>
+        <translation>要更改裝備的角色。</translation>
     </message>
     <message>
         <source>Equipment Type</source>
-        <translation>Type d&apos;Équipement</translation>
+        <translation>裝備類型</translation>
     </message>
     <message>
         <source>Type of the equipment to be changed.</source>
-        <translation>Type d&apos;équipement à modifier.</translation>
+        <translation>要更改的裝備的類型。</translation>
     </message>
     <message>
         <source>Equipment Item</source>
-        <translation>Objet d&apos;Équipement</translation>
+        <translation>裝備道具</translation>
     </message>
     <message>
         <source>Item to be newly equipped. The party must have the specified item.</source>
-        <translation>Objet à équiper nouvellement. Le groupe doit avoir l&apos;objet spécifié.</translation>
+        <translation>要新裝備的道具。隊伍必須有指定道具。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand320</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to change the name.</source>
-        <translation>Acteur à qui changer le nom.</translation>
+        <translation>要更改名稱的角色。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>New name of the actor.</source>
-        <translation>Nouveau nom de l&apos;acteur.</translation>
+        <translation>角色的新名稱。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand321</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to change the class.</source>
-        <translation>Acteur à qui changer la classe.</translation>
+        <translation>要更改類別的角色。</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation>Classe</translation>
+        <translation>類別</translation>
     </message>
     <message>
         <source>New class of the actor.</source>
-        <translation>Nouvelle classe de l&apos;acteur.</translation>
+        <translation>角色的新類別。</translation>
     </message>
     <message>
         <source>Save the current level of the actor.</source>
-        <translation>Enregistre le niveau actuel de l&apos;acteur.</translation>
+        <translation>保存該角色目前級別。</translation>
     </message>
     <message>
         <source>Save Level</source>
-        <translation>Enregistrer le Niveau</translation>
+        <translation>保存級別</translation>
     </message>
 </context>
 <context>
     <name>EventCommand322</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to change the images.</source>
-        <translation>Acteur à qui changer les images.</translation>
+        <translation>要更改圖像的角色。</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Images</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Images of the actor to be displayed in the game.</source>
-        <translation>Images de l&apos;acteur à afficher dans le jeu.</translation>
+        <translation>在遊戲中顯示的角色圖像。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand323</name>
     <message>
         <source>Vehicle</source>
-        <translation>Véhicule</translation>
+        <translation>車輛</translation>
     </message>
     <message>
         <source>Vehicle to change the image.</source>
-        <translation>Véhicule à qui changer l&apos;image.</translation>
+        <translation>要更改圖像的車輛。</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation>Image à afficher sur l&apos;écran de la carte.</translation>
+        <translation>顯示在地圖畫面的圖像。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand324</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to change the nickname.</source>
-        <translation>Acteur à qui changer le surnom.</translation>
+        <translation>要更改暱稱的角色。</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Surnom</translation>
+        <translation>暱稱</translation>
     </message>
     <message>
         <source>New nickname of the actor.</source>
-        <translation>Nouveau surnom de l&apos;acteur.</translation>
+        <translation>角色的新暱稱。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand325</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to change the profile.</source>
-        <translation>Acteur à qui changer le profil.</translation>
+        <translation>要更改簡介的角色。</translation>
     </message>
     <message>
         <source>Profile</source>
-        <translation>Profil</translation>
+        <translation>簡介</translation>
     </message>
     <message>
         <source>New profile of the actor.</source>
-        <translation>Nouveau profil de l&apos;acteur.</translation>
+        <translation>角色的新簡介。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand333</name>
     <message>
         <source>Selects whether to add or remove the state.</source>
-        <translation>Sélectionne s&apos;il faut ajouter ou retirer l&apos;état.</translation>
+        <translation>選擇是否添加或移除狀態。</translation>
     </message>
     <message>
         <source>Add</source>
         <comment>Add the state</comment>
-        <translation>Ajouter</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Adds the state to the enemy.</source>
-        <translation>Ajoute l&apos;état à l&apos;ennemi.</translation>
+        <translation>添加狀態到敵人。</translation>
     </message>
     <message>
         <source>Remove</source>
         <comment>Remove the state</comment>
-        <translation>Retirer</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Removes the state from the enemy.</source>
-        <translation>Retire l&apos;état de l&apos;ennemi.</translation>
+        <translation>將狀態從敵人移除。</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>State to add or remove.</source>
-        <translation>État à ajouter ou retirer.</translation>
+        <translation>要添加或移除的狀態。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand335</name>
     <message>
         <source>Enemy to appear.</source>
-        <translation>Ennemi à apparaître.</translation>
+        <translation>要出現的敵人。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand336</name>
     <message>
         <source>Enemy to transform.</source>
-        <translation>Ennemi à transformer.</translation>
+        <translation>要變形的敵人。</translation>
     </message>
     <message>
         <source>Transform to</source>
-        <translation>Transformer en</translation>
+        <translation>變形為</translation>
     </message>
     <message>
         <source>Specifies which enemy to transform into.</source>
-        <translation>Spécifie en quel ennemi se transformer.</translation>
+        <translation>指定要變形為哪個敵人。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand337</name>
     <message>
         <source>Enemy to be the target.</source>
-        <translation>Ennemi à être ciblé.</translation>
+        <translation>要成為目標的敵人。</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation>Animation</translation>
+        <translation>動畫</translation>
     </message>
     <message>
         <source>Type of animation to be displayed.</source>
-        <translation>Type d&apos;animation à afficher.</translation>
+        <translation>要顯示的動畫的類型。</translation>
     </message>
     <message>
         <source>Target all enemies in the troop.</source>
@@ -7569,129 +7549,128 @@ Please lower the file size of this project.</source>
     <name>EventCommand339</name>
     <message>
         <source>Subject</source>
-        <translation>Sujet</translation>
+        <translation>主題</translation>
     </message>
     <message>
         <source>Battle character to be forced the action.</source>
-        <translation>Personnage de combat à qui forcer l&apos;action.</translation>
+        <translation>強制動作的戰鬥人物。</translation>
     </message>
     <message>
         <source>Forces the action of the specified enemy.</source>
-        <translation>Force l&apos;action de l&apos;ennemi spécifié.</translation>
+        <translation>強制指定敵人的動作。</translation>
     </message>
     <message>
         <source>Forces the action of the specified actor.</source>
-        <translation>Force l&apos;action de l&apos;acteur spécifié.</translation>
+        <translation>強制指定角色的動作。</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation>Action</translation>
+        <translation>動作</translation>
     </message>
     <message>
         <source>Contents of the forced action.</source>
-        <translation>Contenu de l&apos;action forcée.</translation>
+        <translation>強制動作的內容。</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Skill that will be used as the action.</source>
-        <translation>Compétence qui sera utilisée comme action.</translation>
+        <translation>將用於動作的技能。</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation>Cible</translation>
+        <translation>目標</translation>
     </message>
     <message>
         <source>Target of the action when the selection is required.</source>
-        <translation>Cible de l&apos;action quand la sélection est requise.</translation>
+        <translation>當需要選擇時，動作的目標。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand355</name>
     <message>
         <source>Script</source>
-        <translation>Script</translation>
+        <translation>腳本</translation>
     </message>
     <message>
         <source>JavaScript code to be evaluated.</source>
-        <translation>Code de JavaScript à évaluer.</translation>
+        <translation>要評估的 JavaScript 代碼。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand356</name>
     <message>
         <source>Plugin Command</source>
-        <translation>Commande de Module</translation>
+        <translation>插件命令</translation>
     </message>
     <message>
         <source>Command to be executed by plugins.</source>
-        <translation>Commande à être exécutée par les modules.</translation>
+        <translation>由插件執行的命令。</translation>
     </message>
 </context>
 <context>
     <name>EventCommandListBox</name>
     <message>
         <source>Test</source>
-        <translation>Test</translation>
+        <translation>測試</translation>
     </message>
     <message>
         <source>Copy as Text</source>
-        <translation>Copier en tant que Texte</translation>
+        <translation>複製成本文</translation>
     </message>
     <message>
         <source>Copy as HTML</source>
-        <translation>Copier en tant que HTML</translation>
+        <translation>複製成HTML</translation>
     </message>
 </context>
 <context>
     <name>EventCommandTexts</name>
     <message>
         <source>Wait</source>
-        <translation>Attendre</translation>
+        <translation>等待</translation>
     </message>
     <message>
         <source>Entire Party</source>
-        <translation>Groupe entier</translation>
+        <translation>整個隊伍</translation>
     </message>
     <message>
         <source>Entire Troop</source>
-        <translation>Troupe Entière</translation>
+        <translation>整個軍隊</translation>
     </message>
     <message>
         <source>%1 min %2 sec</source>
-        <translation>%1 min %2 sec</translation>
+        <translation>%1 分 %2 秒</translation>
     </message>
     <message>
         <source>The number of %1</source>
-        <translation>Le nombre de %1</translation>
+        <translation>%1 數</translation>
     </message>
     <message>
         <source>%1 of %2</source>
-        <translation>%1 de %2</translation>
+        <translation>%2 的 %1</translation>
     </message>
     <message>
         <source>the party member #%1</source>
-        <translation>le membre du groupe #%1</translation>
+        <translation>隊伍成員 #%1</translation>
     </message>
     <message>
         <source>Actor ID</source>
-        <translation>ID de l&apos;Acteur</translation>
+        <translation>角色 ID</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Désactiver</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Activer</translation>
+        <translation>啟用</translation>
     </message>
     <message>
         <source>When </source>
         <comment>When ** (before the text)</comment>
-        <translation>Lorsque</translation>
+        <translation>當 </translation>
     </message>
     <message>
         <source> </source>
@@ -7700,1089 +7679,1084 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source> digits</source>
-        <translation>chiffres</translation>
+        <translation>數位</translation>
     </message>
     <message>
         <source> digit</source>
-        <translation>chiffre</translation>
+        <translation>數位</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation>Vitesse</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>No Fast Forward</source>
-        <translation>Pas d&apos;Avance Rapide</translation>
+        <translation>無快速向前</translation>
     </message>
     <message>
         <source>%1 is %2</source>
-        <translation>%1 est %2</translation>
+        <translation>%1 為 %2</translation>
     </message>
     <message>
         <source>Self Switch</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Interr. Auto.</translation>
+        <translation>自開關</translation>
     </message>
     <message>
         <source>Timer</source>
-        <translation>Minuteur</translation>
+        <translation>定時器</translation>
     </message>
     <message>
         <source>%1 is in the party</source>
-        <translation>%1 est dans le groupe</translation>
+        <translation>%1 在隊伍中</translation>
     </message>
     <message>
         <source>Name of %1 is %2</source>
-        <translation>Nom de %1 est %2</translation>
+        <translation>%1 的名稱為 %2</translation>
     </message>
     <message>
         <source>Class of %1 is %2</source>
-        <translation>Classe de %1 est %2</translation>
+        <translation>%1 的類為 %2</translation>
     </message>
     <message>
         <source>%1 has learned %2</source>
-        <translation>%1 a appris %2</translation>
+        <translation>%1 已學習 %2</translation>
     </message>
     <message>
         <source>%1 has equipped %2</source>
-        <translation>%1 a équipé %2</translation>
+        <translation>%1 裝備 %2</translation>
     </message>
     <message>
         <source>%1 is affected by %2</source>
-        <translation>%1 est affecté par %2</translation>
+        <translation>%1 受 %2 的影響</translation>
     </message>
     <message>
         <source>%1 is appeared</source>
-        <translation>%1 est apparu</translation>
+        <translation>%1 出現</translation>
     </message>
     <message>
         <source>%1 is facing %2</source>
-        <translation>%1 fait face à %2</translation>
+        <translation>%1 正面對 %2</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation>Or</translation>
+        <translation>金幣</translation>
     </message>
     <message>
         <source>Party has %1</source>
-        <translation>Le groupe a %1</translation>
+        <translation>隊伍有 %1</translation>
     </message>
     <message>
         <source>Button [%1] is pressed down</source>
-        <translation>Touche [%1] est enfoncée</translation>
+        <translation>按鈕 [%1] 按下</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation>Script</translation>
+        <translation>腳本</translation>
     </message>
     <message>
         <source>%1 is driven</source>
         <comment>Vehicle</comment>
-        <translation>%1 est conduit</translation>
+        <translation>%1 被駕駛</translation>
     </message>
     <message>
         <source>Random</source>
         <comment>Random Number</comment>
-        <translation>Aléatoire</translation>
+        <translation>隨機</translation>
     </message>
     <message>
         <source>Start</source>
         <comment>Timer</comment>
-        <translation>Démarrer</translation>
+        <translation>開始</translation>
     </message>
     <message>
         <source>Stop</source>
         <comment>Timer</comment>
-        <translation>Arrêter</translation>
+        <translation>停止</translation>
     </message>
     <message>
         <source>Add %1</source>
         <comment>Add to the party</comment>
-        <translation>Ajouter %1</translation>
+        <translation>添加 %1</translation>
     </message>
     <message>
         <source>Initialize</source>
-        <translation>Initialiser</translation>
+        <translation>初始化</translation>
     </message>
     <message>
         <source>Remove %1</source>
         <comment>Remove from the party</comment>
-        <translation>Retirer %1</translation>
+        <translation>移除 %1</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Direction</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation>Fondu</translation>
+        <translation>淡出</translation>
     </message>
     <message>
         <source>Exchange with %1</source>
-        <translation>Échanger avec %1</translation>
+        <translation>與 %1 交換</translation>
     </message>
     <message>
         <source>Repeat</source>
         <comment>Movement Route</comment>
-        <translation>Répéter</translation>
+        <translation>重複</translation>
     </message>
     <message>
         <source>Skip</source>
         <comment>Movement Route</comment>
-        <translation>Passer</translation>
+        <translation>跳過</translation>
     </message>
     <message>
         <source>Same as Random Encounter</source>
-        <translation>Identique Rencontre Aléatoire</translation>
+        <translation>與隨機衝突相同</translation>
     </message>
     <message>
         <source> characters</source>
         <comment>Text string count</comment>
-        <translation> personnages</translation>
+        <translation>字元</translation>
     </message>
     <message>
         <source> character</source>
         <comment>Text string count</comment>
-        <translation> personnage</translation>
+        <translation>字元</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
 </context>
 <context>
     <name>EventCommands</name>
     <message>
         <source>Text</source>
-        <translation>Texte</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Show Text</source>
-        <translation>Afficher le Texte</translation>
+        <translation>顯示文字</translation>
     </message>
     <message>
         <source>Show Choices</source>
-        <translation>Afficher les Choix</translation>
+        <translation>顯示選擇</translation>
     </message>
     <message>
         <source>Input Number</source>
-        <translation>Entrer Nombre</translation>
+        <translation>輸入數字</translation>
     </message>
     <message>
         <source>When Cancel</source>
-        <translation>Quand Annuler</translation>
+        <translation>當取消時</translation>
     </message>
     <message>
         <source>End</source>
         <comment>Branch End</comment>
-        <translation>Fin</translation>
+        <translation>結束</translation>
     </message>
     <message>
         <source>Select Item</source>
-        <translation>Sélectionner Objet</translation>
+        <translation>選擇項目</translation>
     </message>
     <message>
         <source>Text(S)</source>
-        <translation>Texte(S)</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Show Scrolling Text</source>
-        <translation>Montrer le Texte Défilant</translation>
+        <translation>顯示滾動文字</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Commentaire</translation>
+        <translation>說明</translation>
     </message>
     <message>
         <source>If</source>
-        <translation>Si</translation>
+        <translation>若</translation>
     </message>
     <message>
         <source>Conditional Branch</source>
-        <translation>Branche Conditionnelle</translation>
+        <translation>條件分支</translation>
     </message>
     <message>
         <source>Else</source>
-        <translation>Autre</translation>
+        <translation>其他</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation>Boucle</translation>
+        <translation>迴圈</translation>
     </message>
     <message>
         <source>Repeat Above</source>
-        <translation>Répéter Ci-Dessus</translation>
+        <translation>重複上述</translation>
     </message>
     <message>
         <source>Break Loop</source>
-        <translation>Rompre la Boucle</translation>
+        <translation>斷開迴圈</translation>
     </message>
     <message>
         <source>Continue Loop</source>
-        <translation>Continuer la Boucle</translation>
+        <translation>繼續迴圈</translation>
     </message>
     <message>
         <source>Exit Event Processing</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Sortir du Traitement de l&apos;Év.</translation>
+        <translation>退出劇情處理</translation>
     </message>
     <message>
         <source>Common Event</source>
-        <translation>Évènement Commun</translation>
+        <translation>一般劇情</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Label</translation>
+        <translation>標籤</translation>
     </message>
     <message>
         <source>Jump to Label</source>
-        <translation>Passer au Label</translation>
+        <translation>跳轉到標籤</translation>
     </message>
     <message>
         <source>Control Switches</source>
-        <translation>Contrôler les Interrupteurs</translation>
+        <translation>控制開關</translation>
     </message>
     <message>
         <source>Control Variables</source>
-        <translation>Contrôler les Variables</translation>
+        <translation>控制變數</translation>
     </message>
     <message>
         <source>Control Self Switch</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Contrôler Interrupteur Auto.</translation>
+        <translation>控制自開關</translation>
     </message>
     <message>
         <source>Control Timer</source>
-        <translation>Contrôler Chronomètre</translation>
+        <translation>控制定時器</translation>
     </message>
     <message>
         <source>Change Gold</source>
-        <translation>Changer Or</translation>
+        <translation>更改金幣</translation>
     </message>
     <message>
         <source>Change Items</source>
-        <translation>Changer Objets</translation>
+        <translation>更改道具</translation>
     </message>
     <message>
         <source>Change Weapons</source>
-        <translation>Changer Armes</translation>
+        <translation>更改武器</translation>
     </message>
     <message>
         <source>Change Armors</source>
-        <translation>Changer Armures</translation>
+        <translation>更改盔甲</translation>
     </message>
     <message>
         <source>Change Party Member</source>
-        <translation>Changer Membre du Groupe</translation>
+        <translation>更改隊伍成員</translation>
     </message>
     <message>
         <source>Change Battle BGM</source>
-        <translation>Changer BGM de Combat</translation>
+        <translation>更改戰鬥背景音樂</translation>
     </message>
     <message>
         <source>Change Victory ME</source>
-        <translation>Changer ME de Victoire</translation>
+        <translation>更改勝利 ME</translation>
     </message>
     <message>
         <source>Change Save Access</source>
-        <translation>Changer Accès à Enregistrer</translation>
+        <translation>更改保存訪問</translation>
     </message>
     <message>
         <source>Change Menu Access</source>
-        <translation>Changer Accès au Menu</translation>
+        <translation>更改選單訪問</translation>
     </message>
     <message>
         <source>Change Encounter</source>
-        <translation>Changer Rencontre</translation>
+        <translation>更改衝突</translation>
     </message>
     <message>
         <source>Change Formation Access</source>
-        <translation>Changer Accès à Formation</translation>
+        <translation>更改隊形訪問</translation>
     </message>
     <message>
         <source>Change Window Color</source>
-        <translation>Changer Couleur Fenêtre</translation>
+        <translation>更改視窗顏色</translation>
     </message>
     <message>
         <source>Change Defeat ME</source>
-        <translation>Changer ME de Défaite</translation>
+        <translation>更改戰敗 ME</translation>
     </message>
     <message>
         <source>Change Vehicle BGM</source>
-        <translation>Changer la BGM du Véhicule</translation>
+        <translation>更改車輛 BGM</translation>
     </message>
     <message>
         <source>Transfer Player</source>
-        <translation>Transférer Joueur</translation>
+        <translation>轉移玩家</translation>
     </message>
     <message>
         <source>Set Vehicle Location</source>
-        <translation>Régler Emplacement Véhicule</translation>
+        <translation>設置車輛位置</translation>
     </message>
     <message>
         <source>Set Event Location</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Régler Emplacement Év.</translation>
+        <translation>設置劇情位置</translation>
     </message>
     <message>
         <source>Scroll Map</source>
-        <translation>Faire Défiler la Carte</translation>
+        <translation>滾動地圖</translation>
     </message>
     <message>
         <source>Set Movement Route</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Régler Trajectoire Mouv.</translation>
+        <translation>設置移動路線</translation>
     </message>
     <message>
         <source>Get on/off Vehicle</source>
-        <translation>Monter/Descendre du véhicule</translation>
+        <translation>上/下車輛</translation>
     </message>
     <message>
         <source>Change Transparency</source>
-        <translation>Changer la Transparence</translation>
+        <translation>更改透明度</translation>
     </message>
     <message>
         <source>Change Player Followers</source>
-        <translation>Changer Suiveurs du Joueur</translation>
+        <translation>更改玩家跟隨者</translation>
     </message>
     <message>
         <source>Gather Followers</source>
-        <translation>Rassembler les Suiveurs</translation>
+        <translation>聚集跟隨者</translation>
     </message>
     <message>
         <source>Show Animation</source>
-        <translation>Montrer l&apos;Animation</translation>
+        <translation>顯示動畫</translation>
     </message>
     <message>
         <source>Show Balloon Icon</source>
-        <translation>Montrer l&apos;Icône de Ballon</translation>
+        <translation>顯示氣球圖示</translation>
     </message>
     <message>
         <source>Erase Event</source>
-        <translation>Effacer l&apos;Évènement</translation>
+        <translation>清除劇情</translation>
     </message>
     <message>
         <source>Fadeout Screen</source>
-        <translation>Effacer Progressivement l&apos;Écran</translation>
+        <translation>淡出畫面</translation>
     </message>
     <message>
         <source>Fadein Screen</source>
-        <translation>Fondre l&apos;Écran</translation>
+        <translation>淡入畫面</translation>
     </message>
     <message>
         <source>Tint Screen</source>
-        <translation>Teinter l&apos;Écran</translation>
+        <translation>著色畫面</translation>
     </message>
     <message>
         <source>Flash Screen</source>
-        <translation>Flasher l&apos;Écran</translation>
+        <translation>閃光畫面</translation>
     </message>
     <message>
         <source>Shake Screen</source>
-        <translation>Secouer l&apos;Écran</translation>
+        <translation>搖動畫面</translation>
     </message>
     <message>
         <source>Wait</source>
-        <translation>Attendre</translation>
+        <translation>等待</translation>
     </message>
     <message>
         <source>Show Picture</source>
-        <translation>Afficher l&apos;Image</translation>
+        <translation>顯示圖片</translation>
     </message>
     <message>
         <source>Move Picture</source>
-        <translation>Bouger l&apos;Image</translation>
+        <translation>移動圖片</translation>
     </message>
     <message>
         <source>Rotate Picture</source>
-        <translation>Tourner l&apos;Image</translation>
+        <translation>旋轉圖片</translation>
     </message>
     <message>
         <source>Tint Picture</source>
-        <translation>Teinter l&apos;Image</translation>
+        <translation>著色圖片</translation>
     </message>
     <message>
         <source>Erase Picture</source>
-        <translation>Effacer l&apos;Image</translation>
+        <translation>擦除圖片</translation>
     </message>
     <message>
         <source>Set Weather Effect</source>
-        <translation>Régler l&apos;Effet Météo</translation>
+        <translation>設置天氣效果</translation>
     </message>
     <message>
         <source>Play BGM</source>
-        <translation>Jouer BGM</translation>
+        <translation>播放 BGM</translation>
     </message>
     <message>
         <source>Fadeout BGM</source>
-        <translation>Effacer Progressivement BGM</translation>
+        <translation>淡出 BGM</translation>
     </message>
     <message>
         <source>Save BGM</source>
-        <translation>Enregistrer BGM</translation>
+        <translation>保存 BGM</translation>
     </message>
     <message>
         <source>Replay BGM</source>
-        <translation>Rejouer BGM</translation>
+        <translation>重放 BGM</translation>
     </message>
     <message>
         <source>Play BGS</source>
-        <translation>Jouer BGS</translation>
+        <translation>播放 BGS</translation>
     </message>
     <message>
         <source>Fadeout BGS</source>
-        <translation>Effacer Progressivement BGS</translation>
+        <translation>淡出 BGS</translation>
     </message>
     <message>
         <source>Play ME</source>
-        <translation>Jouer ME</translation>
+        <translation>播放 ME</translation>
     </message>
     <message>
         <source>Play SE</source>
-        <translation>Jouer SE</translation>
+        <translation>播放 SE</translation>
     </message>
     <message>
         <source>Stop SE</source>
-        <translation>Arrêter SE</translation>
+        <translation>停止 SE</translation>
     </message>
     <message>
         <source>Play Movie</source>
-        <translation>Lire Film</translation>
+        <translation>播放電影</translation>
     </message>
     <message>
         <source>Change Map Name Display</source>
-        <translation>Affichage Nom de la Carte</translation>
+        <translation>更改地圖名稱顯示</translation>
     </message>
     <message>
         <source>Change Tileset</source>
-        <translation>Changer Tileset</translation>
+        <translation>更改圖塊設置</translation>
     </message>
     <message>
         <source>Change Battle Back</source>
-        <translation>Changer la Lutte</translation>
+        <translation>更改戰鬥背景</translation>
     </message>
     <message>
         <source>Change Parallax</source>
-        <translation>Changer Parallaxe</translation>
+        <translation>更改視差</translation>
     </message>
     <message>
         <source>Get Location Info</source>
-        <translation>Obtenir Infos d&apos;Emplacement</translation>
+        <translation>獲取位置資訊</translation>
     </message>
     <message>
         <source>Battle Processing</source>
-        <translation>Traitement du Combat</translation>
+        <translation>戰鬥處理</translation>
     </message>
     <message>
         <source>If Win</source>
-        <translation>Si Gagner</translation>
+        <translation>若獲勝</translation>
     </message>
     <message>
         <source>If Escape</source>
-        <translation>Si Fuire</translation>
+        <translation>若逃跑</translation>
     </message>
     <message>
         <source>If Lose</source>
-        <translation>Si Perdre</translation>
+        <translation>若戰敗</translation>
     </message>
     <message>
         <source>Shop Processing</source>
-        <translation>Traitement du Magasin</translation>
+        <translation>商店處理</translation>
     </message>
     <message>
         <source>Name Input Processing</source>
-        <translation>Traitement de l&apos;Entrée du Nom</translation>
+        <translation>名稱輸入處理</translation>
     </message>
     <message>
         <source>Change HP</source>
-        <translation>Changer HP</translation>
+        <translation>更改 HP</translation>
     </message>
     <message>
         <source>Change MP</source>
-        <translation>Changer MP</translation>
+        <translation>更改 MP</translation>
     </message>
     <message>
         <source>Change TP</source>
-        <translation>Changer TP</translation>
+        <translation>更改 TP</translation>
     </message>
     <message>
         <source>Change State</source>
-        <translation>Changer État</translation>
+        <translation>更改狀態</translation>
     </message>
     <message>
         <source>Recover All</source>
-        <translation>Récupérer Tout</translation>
+        <translation>恢復全體</translation>
     </message>
     <message>
         <source>Change EXP</source>
-        <translation>Changer EXP</translation>
+        <translation>更改 EXP</translation>
     </message>
     <message>
         <source>Change Level</source>
-        <translation>Changer Niveau</translation>
+        <translation>更改等級</translation>
     </message>
     <message>
         <source>Change Parameter</source>
-        <translation>Changer Paramètre</translation>
+        <translation>更改參數</translation>
     </message>
     <message>
         <source>Change Skill</source>
-        <translation>Changer Compétence</translation>
+        <translation>更改技能</translation>
     </message>
     <message>
         <source>Change Equipment</source>
-        <translation>Changer Équipement</translation>
+        <translation>更改裝備</translation>
     </message>
     <message>
         <source>Change Name</source>
-        <translation>Changer Nom</translation>
+        <translation>更改名稱</translation>
     </message>
     <message>
         <source>Change Class</source>
-        <translation>Changer Classe</translation>
+        <translation>更改類別</translation>
     </message>
     <message>
         <source>Change Actor Images</source>
-        <translation>Changer Images de l&apos;Acteur</translation>
+        <translation>更改角色圖像</translation>
     </message>
     <message>
         <source>Change Vehicle Image</source>
-        <translation>Changer Image du Véhicule</translation>
+        <translation>更改車輛圖像</translation>
     </message>
     <message>
         <source>Change Nickname</source>
-        <translation>Changer Surnom</translation>
+        <translation>更改暱稱</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation>Changer Profil</translation>
+        <translation>更改簡介</translation>
     </message>
     <message>
         <source>Change Enemy HP</source>
-        <translation>Changer HP de l&apos;Ennemi</translation>
+        <translation>更改敵人 HP</translation>
     </message>
     <message>
         <source>Change Enemy MP</source>
-        <translation>Changer MP de l&apos;Ennemi</translation>
+        <translation>更改敵人 MP</translation>
     </message>
     <message>
         <source>Change Enemy TP</source>
-        <translation>Changer TP de l&apos;Ennemi</translation>
+        <translation>更改敵人 TP</translation>
     </message>
     <message>
         <source>Change Enemy State</source>
-        <translation>Changer État de l&apos;Ennemi</translation>
+        <translation>更改敵人 狀態</translation>
     </message>
     <message>
         <source>Enemy Recover All</source>
-        <translation>Guérison Totale Ennemi</translation>
+        <translation>敵人恢復</translation>
     </message>
     <message>
         <source>Enemy Appear</source>
-        <translation>Apparition Ennemi</translation>
+        <translation>敵人出現</translation>
     </message>
     <message>
         <source>Enemy Transform</source>
-        <translation>Transformation Ennemi</translation>
+        <translation>敵人變形</translation>
     </message>
     <message>
         <source>Show Battle Animation</source>
-        <translation>Affiche l&apos;Animation de Combat</translation>
+        <translation>顯示戰鬥動畫</translation>
     </message>
     <message>
         <source>Force Action</source>
-        <translation>Forcer Action</translation>
+        <translation>強制動作</translation>
     </message>
     <message>
         <source>Abort Battle</source>
-        <translation>Abandonner le Combat</translation>
+        <translation>中止戰鬥</translation>
     </message>
     <message>
         <source>Open Menu Screen</source>
-        <translation>Ouvrir l&apos;Écran de Menu</translation>
+        <translation>開啟選單畫面</translation>
     </message>
     <message>
         <source>Open Save Screen</source>
-        <translation>Ouvrir l&apos;Écran de Sauvegarde</translation>
+        <translation>開啟保存畫面</translation>
     </message>
     <message>
         <source>Game Over</source>
-        <translation>Game Over</translation>
+        <translation>遊戲結束</translation>
     </message>
     <message>
         <source>Return to Title Screen</source>
-        <translation>Retourner à l&apos;Écran Titre</translation>
+        <translation>返回標題畫面</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation>Script</translation>
+        <translation>腳本</translation>
     </message>
     <message>
         <source>Plugin Command</source>
-        <translation>Commande de Module</translation>
+        <translation>插件命令</translation>
     </message>
     <message>
         <source>Undefined Command</source>
-        <translation>Commande Indéfinie</translation>
+        <translation>未定義命令</translation>
     </message>
     <message>
         <source>Opens the message window and displays text.</source>
-        <translation>Ouvre la fenêtre de message et affiche le texte.</translation>
+        <translation>開啟訊息視窗並顯示文字。</translation>
     </message>
     <message>
         <source>Displays a list of choices and branches handling.</source>
-        <translation>Affiche une liste de choix et la gestion des branches.</translation>
+        <translation>顯示選擇和分支處理列表。</translation>
     </message>
     <message>
         <source>Enters a natural number and stores it in a variable.</source>
-        <translation>Entre un nombre naturel et le stocke dans une variable.</translation>
+        <translation>輸入自然數並存取至變更。</translation>
     </message>
     <message>
         <source>Selects an item possessed by the party and stores its item ID in a variable.</source>
-        <translation>Sélectionne un objet possédé par le groupe et stocke son ID d&apos;objet dans une variable.</translation>
+        <translation>選擇隊伍擁有的道具並將道具 ID 存取至變更。</translation>
     </message>
     <message>
         <source>Displays text that scrolls from the bottom of the screen to the top.</source>
-        <translation>Affiche le texte qui défile du bas de l&apos;écran vers le haut.</translation>
+        <translation>顯示從畫面底部滾動到頂部的文字。</translation>
     </message>
     <message>
         <source>Turns a switch ON/OFF.</source>
-        <translation>Règle un interrupteur sur ON/OFF.</translation>
+        <translation>打開 (ON)/關閉 (OFF) 開關。</translation>
     </message>
     <message>
         <source>Changes the numeric value stored in the variable.</source>
-        <translation>Change la valeur numérique stockée dans la variable.</translation>
+        <translation>更改存取於變數中的數值。</translation>
     </message>
     <message>
         <source>Turns a self switch ON/OFF. Used only on the map screen.</source>
-        <translation>Règle un interrupteur automatique sur ON/OFF. Utilisé seulement sur l&apos;écran de carte.</translation>
+        <translation>打開 (ON)/關閉 (OFF) 自開關。僅在地圖畫面使用。</translation>
     </message>
     <message>
         <source>Starts or stops the timer.</source>
-        <translation>Démarre ou arrête le chronomètre.</translation>
+        <translation>開始或停止定時器。</translation>
     </message>
     <message>
         <source>Creates a portion to be run only when specific conditions are met.</source>
-        <translation>Créé une portion qui doit être exécutée uniquement lorsque des conditions spécifiques sont remplies.</translation>
+        <translation>創建一個部分僅當特定條件滿足時運行。</translation>
     </message>
     <message>
         <source>Creates a portion to be run repeatedly.</source>
-        <translation>Crée une portion qui doit être exécutée de façon répétée.</translation>
+        <translation>創建一個部分重複運行。</translation>
     </message>
     <message>
         <source>Escapes the innermost loop.</source>
-        <translation>Échappe de la boucle.la plus profonde.</translation>
+        <translation>逃逸最內層迴圈。</translation>
     </message>
     <message>
         <source>Ends running events.</source>
-        <translation>Met fin aux évènements en cours.</translation>
+        <translation>結束運行劇情。</translation>
     </message>
     <message>
         <source>Calls up a common event. When the called event is complete, moves onto the next command.</source>
-        <translation>Appelle un évènement commun. Quand l&apos;évènement appelé est fini, se déplace à la commande suivante.</translation>
+        <translation>召集一般劇情。當召集的劇情完成時，移動到下一個命令。</translation>
     </message>
     <message>
         <source>Sets the label name for jump.</source>
-        <translation>Définit le nom de label pour le saut.</translation>
+        <translation>設置跳轉標籤名稱。</translation>
     </message>
     <message>
         <source>Moves to the specified label name. Only valid within this event list.</source>
-        <translation>Se déplace au nom de label spécifié. Valide seulement cette liste d&apos;évènements.</translation>
+        <translation>移動到指定標籤名稱。僅在本劇情列表中有效。</translation>
     </message>
     <message>
         <source>Sets the comments displayed in the list. Has no effect in the game.</source>
-        <translation>Définit les commentaires affichés dans la liste. N&apos;a aucun effet dans le jeu.</translation>
+        <translation>設置說明顯示在列表中。在遊戲中無效果。</translation>
     </message>
     <message>
         <source>Changes the amount of money in the party&apos;s inventory.</source>
-        <translation>Change le montant d&apos;argent dans l&apos;inventaire du groupe.</translation>
+        <translation>更改隊伍庫存中的貨幣金額。</translation>
     </message>
     <message>
         <source>Changes the item in the party&apos;s inventory.</source>
-        <translation>Change l&apos;objet dans l&apos;inventaire du groupe.</translation>
+        <translation>更改隊伍庫存中的道具。</translation>
     </message>
     <message>
         <source>Changes the weapon in the party&apos;s inventory.</source>
-        <translation>Change l&apos;arme dans l&apos;inventaire du groupe.</translation>
+        <translation>更改隊伍庫存中的武器。</translation>
     </message>
     <message>
         <source>Changes the armor in the party&apos;s inventory.</source>
-        <translation>Change l&apos;armure dans l&apos;inventaire du groupe.</translation>
+        <translation>更改隊伍庫存中的盔甲。</translation>
     </message>
     <message>
         <source>Changes the actor in the party.</source>
-        <translation>Change l&apos;acteur dans le groupe.</translation>
+        <translation>更改隊伍中的角色。</translation>
     </message>
     <message>
         <source>Changes the HP of the actor.</source>
-        <translation>Change les HP de l&apos;acteur.</translation>
+        <translation>更改角色的 HP。</translation>
     </message>
     <message>
         <source>Changes the MP of the actor.</source>
-        <translation>Change les MP de l&apos;acteur.</translation>
+        <translation>更改角色的 MP。</translation>
     </message>
     <message>
         <source>Changes the TP of the actor.</source>
-        <translation>Change le TP de l&apos;acteur.</translation>
+        <translation>更改角色的 TP。</translation>
     </message>
     <message>
         <source>Changes the state of the actor.</source>
-        <translation>Change l&apos;état de l&apos;acteur.</translation>
+        <translation>更改角色的狀態。</translation>
     </message>
     <message>
         <source>Clears all states and fully recovers HP and MP.</source>
-        <translation>Efface tous les états et récupère complètement les HP et les MP.</translation>
+        <translation>清除所有狀態並恢復 HP 和 MP 至全滿。</translation>
     </message>
     <message>
         <source>Changes the EXP of the actor.</source>
-        <translation>Change l&apos;EXP de l&apos;acteur.</translation>
+        <translation>更改角色的 EXP。</translation>
     </message>
     <message>
         <source>Changes the level of the actor.</source>
-        <translation>Change le niveau de l&apos;acteur.</translation>
+        <translation>更改角色的等級。</translation>
     </message>
     <message>
         <source>Changes the parameter of the actor.</source>
-        <translation>Change le paramètre de l&apos;acteur.</translation>
+        <translation>更改角色的參數。</translation>
     </message>
     <message>
         <source>Changes the skill of the actor.</source>
-        <translation>Change la compétence de l&apos;acteur.</translation>
+        <translation>更改角色的技能。</translation>
     </message>
     <message>
         <source>Changes the equipment of the actor.</source>
-        <translation>Change l&apos;équipement de l&apos;acteur.</translation>
+        <translation>更改角色的裝備。</translation>
     </message>
     <message>
         <source>Changes the name of the actor.</source>
-        <translation>Change le nom de l&apos;acteur.</translation>
+        <translation>更改角色的名稱。</translation>
     </message>
     <message>
         <source>Changes the class of the actor.</source>
-        <translation>Change la classe de l&apos;acteur.</translation>
+        <translation>更改角色的類別。</translation>
     </message>
     <message>
         <source>Changes the nickname of the actor.</source>
-        <translation>Change le surnom de l&apos;acteur.</translation>
+        <translation>更改角色的暱稱。</translation>
     </message>
     <message>
         <source>Changes the profile of the actor.</source>
-        <translation>Change le profil de l&apos;acteur.</translation>
+        <translation>更改角色的簡介。</translation>
     </message>
     <message>
         <source>Changes the current location of the player. Used only on the map screen.</source>
-        <translation>Change l&apos;emplacement actuel du joueur. Utilisé seulement sur l&apos;écran de carte.</translation>
+        <translation>更改玩家的當前位置。僅在地圖畫面使用。</translation>
     </message>
     <message>
         <source>Changes the current location of the specified vehicle.</source>
-        <translation>Change l&apos;emplacement actuel du véhicule spécifié.</translation>
+        <translation>更改指定車輛的當前位置。</translation>
     </message>
     <message>
         <source>Changes the current location of the specified event. Cannot move the event to a different map.</source>
-        <translation>Change l&apos;emplacement actuel de l&apos;évènement spécifié. Ne peut pas bouger l&apos;évènement vers une carte différente.</translation>
+        <translation>更改指定劇情的當前位置。不能將劇情移動到其他地圖。</translation>
     </message>
     <message>
         <source>Scrolls the map without changing the player&apos;s location. Used only on the map screen.</source>
-        <translation>Fait défiler la carte sans changer l&apos;emplacement du joueur. Utilisé seulement sur l&apos;écran de carte.</translation>
+        <translation>滾動地圖，不更改玩家位置。僅在地圖畫面使用。</translation>
     </message>
     <message>
         <source>Forces the player or event to move. If a route already exists, it will be overwritten.</source>
-        <translation>Force le joueur ou l&apos;évènement à bouger. Si une trajectoire existe déjà, elle sera écrasée.</translation>
+        <translation>強制玩家或劇情移動。若路線已存在，其將被覆寫。</translation>
     </message>
     <message>
         <source>Puts the player on a vehicle. If the player is already on a vehicle, puts him on the ground.</source>
-        <translation>Met le joueur sur un véhicule. Si le joueur est déjà sur un véhicule, cela le met sur le sol.</translation>
+        <translation>將玩家放到車輛上。若玩家已在車輛上，將其放到地上。</translation>
     </message>
     <message>
         <source>Changes whether to show or hide the player on the map.</source>
-        <translation>Change s&apos;il faut afficher ou masquer le joueur sur la carte.</translation>
+        <translation>更改是否在地圖上顯示或隱藏玩家。</translation>
     </message>
     <message>
         <source>Changes whether to show or hide the party members that follow behind the player.</source>
-        <translation>Change s&apos;il faut afficher ou masquer les membres du groupe qui suivent derrière le joueur.</translation>
+        <translation>更改是否顯示或隱藏跟隨在玩家後面的隊伍成員。</translation>
     </message>
     <message>
         <source>Moves all party members to the same position as the lead character.</source>
-        <translation>Déplace tous les membres du groupe sur le même emplacement que le personnage principal.</translation>
+        <translation>將所有隊伍成員移動到領隊人物的相同位置。</translation>
     </message>
     <message>
         <source>Displays the specified animation to the character on the map.</source>
-        <translation>Affiche l&apos;animation spécifiée au personnage sur la carte.</translation>
+        <translation>顯示指定動畫到地圖上的人物。</translation>
     </message>
     <message>
         <source>Displays the specified balloon icon above the character&apos;s head.</source>
-        <translation>Affiche l&apos;icône de ballon spécifiée au-dessus de la tête du personnage.</translation>
+        <translation>顯示指定氣球圖示在人物的頭上方。</translation>
     </message>
     <message>
         <source>Temporarily removes the current event on the map. If the player moves off of the map and returns, the event will reappear.</source>
-        <translation>Supprime temporairement l&apos;évènement actuel sur la carte. Si le joueur sort de la carte et revient, l&apos;évènement réapparaîtra.</translation>
+        <translation>暫時移除地圖上的當前劇情。若玩家移動離開地圖又返回，劇情將重新出現。</translation>
     </message>
     <message>
         <source>Fades out the entire screen.</source>
-        <translation>La totalité de l&apos;écran disparaît.</translation>
+        <translation>淡出整畫面。</translation>
     </message>
     <message>
         <source>Fades in the entire screen.</source>
-        <translation>Fondu dans la totalité de l&apos;écran.</translation>
+        <translation>淡入整畫面。</translation>
     </message>
     <message>
         <source>Changes the color tone of the entire screen. Also affects the battle screen.</source>
-        <translation>Change la tonalité des couleurs de tout l&apos;écran. Affecte aussi l&apos;écran de combat.</translation>
+        <translation>改變整畫面色調。也影響到戰鬥畫面。</translation>
     </message>
     <message>
         <source>Temporarily fill the entire screen with a color, then gradually revert to the original color.</source>
-        <translation>Rempli temporairement la totalité de l&apos;écran avec une couleur, puis retourne graduellement à la couleur d&apos;origine.</translation>
+        <translation>暫時使用一種顏色填充整畫面，然後逐漸恢復到原始顏色。</translation>
     </message>
     <message>
         <source>Shakes the entire screen from side to side.</source>
-        <translation>Secoue la totalité de l&apos;écran d&apos;un côté à l&apos;autre.</translation>
+        <translation>從一邊到另一邊搖動整畫面。</translation>
     </message>
     <message>
         <source>Waits for a certain period of time.</source>
-        <translation>Attend une certaine période de temps.</translation>
+        <translation>等待一定的時間。</translation>
     </message>
     <message>
         <source>Displays the specified picture on top of the screen.</source>
-        <translation>Affiche l&apos;image spécifiée en haut de l&apos;écran.</translation>
+        <translation>在螢幕頂部顯示指定圖片。</translation>
     </message>
     <message>
         <source>Changes the properties of the picture.</source>
-        <translation>Change les propriétés de l&apos;image.</translation>
+        <translation>更改圖片屬性。</translation>
     </message>
     <message>
         <source>Changes the rotation speed of the picture.</source>
-        <translation>Change la vitesse de rotation de l&apos;image.</translation>
+        <translation>更改圖片旋轉速度。</translation>
     </message>
     <message>
         <source>Changes the color tone of the picture.</source>
-        <translation>Change la tonalité des couleurs de l&apos;image.</translation>
+        <translation>改變圖片色調。</translation>
     </message>
     <message>
         <source>Removes the picture.</source>
-        <translation>Supprime l&apos;image.</translation>
+        <translation>刪除圖片。</translation>
     </message>
     <message>
         <source>Changes the weather effect such as rain and snow.</source>
-        <translation>Change l&apos;effet météo comme la pluie ou la neige.</translation>
+        <translation>更改雨雪等天氣效果。</translation>
     </message>
     <message>
         <source>Plays the specified BGM.</source>
-        <translation>Joue la BGM spécifiée.</translation>
+        <translation>播放指定 BGM。</translation>
     </message>
     <message>
         <source>Fades out the current BGM.</source>
-        <translation>Estompe la BGM actuelle.</translation>
+        <translation>淡出當前 BGM。</translation>
     </message>
     <message>
         <source>Saves the current BGM.</source>
-        <translation>Sauvegarde la BGM actuelle.</translation>
+        <translation>保存當前 BGM。</translation>
     </message>
     <message>
         <source>Replays the saved BGM.</source>
-        <translation>Rejoue la BGM sauvegardée.</translation>
+        <translation>重放保存的 BGM。</translation>
     </message>
     <message>
         <source>Plays the specified BGS.</source>
-        <translation>Joue le BGS spécifié.</translation>
+        <translation>播放指定 BGS。</translation>
     </message>
     <message>
         <source>Fades out the current BGS.</source>
-        <translation>Estompe le BGS actuel.</translation>
+        <translation>淡出當前 BGS。</translation>
     </message>
     <message>
         <source>Plays the specified ME.</source>
-        <translation>Joue la ME spécifiée.</translation>
+        <translation>播放指定 ME。</translation>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>Joue le SE spécifié.</translation>
+        <translation>播放指定 SE。</translation>
     </message>
     <message>
         <source>Stop all the SE.</source>
-        <translation>Arrêter tous les SE.</translation>
+        <translation>停止所有 SE。</translation>
     </message>
     <message>
         <source>Starts a battle.</source>
-        <translation>Commence un combat.</translation>
+        <translation>開始戰鬥。</translation>
     </message>
     <message>
         <source>Calls up the shop screen.</source>
-        <translation>Appelle l&apos;écran de magasin.</translation>
+        <translation>呼叫商店畫面。</translation>
     </message>
     <message>
         <source>Calls up the name input screen.</source>
-        <translation>Appelle l&apos;écran de saisie du nom.</translation>
+        <translation>呼叫名稱輸入畫面。</translation>
     </message>
     <message>
         <source>Calls up the menu screen.</source>
-        <translation>Appelle l&apos;écran de menu.</translation>
+        <translation>呼叫選單畫面。</translation>
     </message>
     <message>
         <source>Calls up the save screen.</source>
-        <translation>Appelle l&apos;écran de sauvegarde.</translation>
+        <translation>呼叫保存畫面。</translation>
     </message>
     <message>
         <source>Forces Game Over.</source>
-        <translation>Force Game Over.</translation>
+        <translation>強制遊戲結束。</translation>
     </message>
     <message>
         <source>Returns to the title screen.</source>
-        <translation>Retourne à l&apos;écran titre.</translation>
+        <translation>返回標題畫面。</translation>
     </message>
     <message>
         <source>Changes the BGM to be played during a battle.</source>
-        <translation>Change la BGM qui doit être jouée pendant un combat.</translation>
+        <translation>更改戰鬥期間播放的 BGM。</translation>
     </message>
     <message>
         <source>Changes the ME to be played at winning a battle.</source>
-        <translation>Change la ME qui doit être jouée lors de la victoire d&apos;un combat.</translation>
+        <translation>更改戰鬥獲勝時播放的 ME。</translation>
     </message>
     <message>
         <source>Enables or disables the saving of game data.</source>
-        <translation>Active ou désactive la sauvegarde des données du jeu.</translation>
+        <translation>啟用或禁用遊戲數據保存。</translation>
     </message>
     <message>
         <source>Enables or disables menu screen calls.</source>
-        <translation>Active ou désactive les appels de l&apos;écran de menu.</translation>
+        <translation>啟用或禁用選單畫面呼叫。</translation>
     </message>
     <message>
         <source>Enables or disables random encounters.</source>
-        <translation>Active ou désactive les rencontres aléatoires.</translation>
+        <translation>啟用或禁用隨機衝突。</translation>
     </message>
     <message>
         <source>Enables or disables the formation command.</source>
-        <translation>Active ou désactive la commande de formation.</translation>
+        <translation>啟用或禁用隊形命令。</translation>
     </message>
     <message>
         <source>Changes the window background color.</source>
-        <translation>Change la couleur d&apos;arrière-plan de la fenêtre.</translation>
+        <translation>更改視窗背景色。</translation>
     </message>
     <message>
         <source>Changes the ME to be played at losing a battle.</source>
-        <translation>Change la ME qui doit être jouée lors de la défaite d&apos;un combat.</translation>
+        <translation>更改戰敗時播放的 ME。</translation>
     </message>
     <message>
         <source>Changes the BGM to be played while riding in a vehicle.</source>
-        <translation>Change la BGM à jouer pendant la conduite d&apos;un véhicule.</translation>
+        <translation>更改乘坐車輛時播放的背景音樂。</translation>
     </message>
     <message>
         <source>Changes the image of the actor.</source>
-        <translation>Change l&apos;image de l&apos;acteur.</translation>
+        <translation>更改角色的圖像。</translation>
     </message>
     <message>
         <source>Changes the image of the specified vehicle.</source>
-        <translation>Change l&apos;image du véhicule spécifié.</translation>
+        <translation>更改指定車輛的圖像。</translation>
     </message>
     <message>
         <source>Plays the specified movie. Event processing is stopped until the movie ends.</source>
-        <translation>Lit le film spécifié. Le traitement d&apos;évènement est stoppé jusqu&apos;à ce que le film se termine.</translation>
+        <translation>播放指定影片。在影片結束前，劇情處理停止。</translation>
     </message>
     <message>
         <source>Changes whether to display the map name when changing the current map.</source>
-        <translation>Change s&apos;il faut afficher ou non le nom de la carte au moment de changer la carte actuelle.</translation>
+        <translation>更改更換當前地圖時是否顯示地圖名稱。</translation>
     </message>
     <message>
         <source>Changes the tileset used by the current map temporarily.</source>
-        <translation>Change temporairement le tileset utilisé par la carte actuelle.</translation>
+        <translation>暫時更改當前地圖使用的圖塊設置。</translation>
     </message>
     <message>
         <source>Changes the battle background associated with the current map temporarily.</source>
-        <translation>Change temporairement l&apos;arrière-plan de la bataille associé avec la carte actuelle.</translation>
+        <translation>暫時更改與當前地圖關聯的戰鬥背景。</translation>
     </message>
     <message>
         <source>Changes the parallax background associated with the current map temporarily.</source>
-        <translation>Change temporairement l&apos;arrière-plan parallaxe associé avec la carte actuelle.</translation>
+        <translation>暫時更改與當前地圖關聯的視差背景。</translation>
     </message>
     <message>
         <source>Gets information related to specific coordinates on the current map.</source>
-        <translation>Obtient des informations liées à des coordonnées spécifiques sur la carte actuelle.</translation>
+        <translation>獲取與當前地圖上的特定座標相關的資訊。</translation>
     </message>
     <message>
         <source>Changes the HP of the enemy.</source>
-        <translation>Change les HP de l&apos;ennemi.</translation>
+        <translation>更改敵人 HP。</translation>
     </message>
     <message>
         <source>Changes the MP of the enemy.</source>
-        <translation>Change les MP de l&apos;ennemi.</translation>
+        <translation>更改敵人 MP。</translation>
     </message>
     <message>
         <source>Changes the TP of the enemy.</source>
-        <translation>Change le TP de l&apos;ennemi.</translation>
+        <translation>更改敵人 TP。</translation>
     </message>
     <message>
         <source>Changes the state of the enemy.</source>
-        <translation>Change l&apos;état de l&apos;ennemi.</translation>
+        <translation>更改敵人的狀態。</translation>
     </message>
     <message>
         <source>Clears all states and fully recovers the HP and MP of the enemy.</source>
-        <translation>Efface tous les états et récupère complètement les HP et les MP de l&apos;ennemi.</translation>
+        <translation>清除所有狀態並滿值恢復敵人 HP 和 MP。</translation>
     </message>
     <message>
         <source>Makes the enemy who has the [Appear Halfway] option to appear.</source>
-        <translation>Fait que l&apos;ennemi qui a l&apos;option [Apparaît à mi-course] apparaisse.</translation>
+        <translation>使具有 [半途出現] 選項的敵人出現。</translation>
     </message>
     <message>
         <source>Transforms the enemy. HP and MP will not be changed.</source>
-        <translation>Transforme l&apos;ennemi. Les HP et les MP ne seront pas changés.</translation>
+        <translation>變形敵人。HP 和 MP 將不改變。</translation>
     </message>
     <message>
         <source>Displays the specified animation on the battle screen.</source>
-        <translation>Affiche l&apos;animation spécifiée sur l&apos;écran de combat.</translation>
+        <translation>在戰鬥畫面顯示特定動畫。</translation>
     </message>
     <message>
         <source>Forces the specified action.</source>
-        <translation>Force l&apos;action spécifiée.</translation>
+        <translation>強制指定動作。</translation>
     </message>
     <message>
         <source>Exits the battle.</source>
-        <translation>Quitte le combat.</translation>
+        <translation>退出戰鬥。</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
-        <translation>Évalue le texte comme JavaScript.</translation>
+        <translation>將文字作為 JavaScript 評估。</translation>
     </message>
     <message>
         <source>Send a command to a plugin.</source>
-        <translation>Envoyer une commande à un module.</translation>
+        <translation>發送命令到插件。</translation>
     </message>
 </context>
 <context>
     <name>EventEditorMain</name>
     <message>
         <source>Event Editor</source>
-        <translation>Éditeur d&apos;Évènement</translation>
+        <translation>劇情編輯器</translation>
     </message>
     <message>
         <source>Discard changes to this event?</source>
-        <translation>Annuler les modifications de cet évènement?</translation>
+        <translation>確定要放棄劇情的修改？</translation>
     </message>
 </context>
 <context>
     <name>EventImageBox</name>
     <message>
         <source>Tileset</source>
-        <translation>Tileset</translation>
+        <translation>圖塊設置</translation>
     </message>
 </context>
 <context>
     <name>FileListBox</name>
     <message>
         <source>(None)</source>
-        <translation>(Aucun)</translation>
+        <translation>(無)</translation>
     </message>
 </context>
 <context>
     <name>GameObjectBox</name>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
 </context>
 <context>
     <name>GameObjectBox_EllipsisBox</name>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
 </context>
 <context>
@@ -8813,20 +8787,19 @@ Please complete the post with follow this link.</source>
     <name>Group_ActionPatterns</name>
     <message>
         <source>Action Patterns</source>
-        <translation>Modèles d&apos;Action</translation>
+        <translation>動作模式</translation>
     </message>
     <message>
         <source>List of enemy actions in battle.</source>
-        <translation>Liste des actions ennemi au combat.</translation>
+        <translation>戰鬥中敵人的動作列表。</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Condition</source>
-        <translation>Condition</translation>
+        <translation>條件</translation>
     </message>
     <message>
         <source>R</source>
@@ -8835,11 +8808,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Always</source>
-        <translation>Toujours</translation>
+        <translation>總是</translation>
     </message>
     <message>
         <source>Turn</source>
-        <translation>Tour</translation>
+        <translation>場景段</translation>
     </message>
     <message>
         <source>HP</source>
@@ -8851,129 +8824,129 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Party Level</source>
-        <translation>Niv. Groupe</translation>
+        <translation>隊伍等級</translation>
     </message>
 </context>
 <context>
     <name>Group_AnimationFrames</name>
     <message>
         <source>Frames</source>
-        <translation>Trames</translation>
+        <translation>框</translation>
     </message>
     <message>
         <source>Animation frames.</source>
-        <translation>Trames d&apos;Animation.</translation>
+        <translation>動畫框。</translation>
     </message>
     <message>
         <source>Frame View</source>
-        <translation>Vue Trame</translation>
+        <translation>框視圖</translation>
     </message>
     <message>
         <source>Displays the contents of the selected frame. Double-click on the empty area to place a new cell. Drag a cell to move it. Right-click to open the popup menu.</source>
-        <translation>Affiche le contenu de la trame sélectionnée. Double-cliquer sur la zone vide pour placer une nouvelle cellule. Glisser une cellule pour la déplacer. Cliquez avec le bouton droit pour ouvrir le menu contextuel.</translation>
+        <translation>顯示所選框的內容。雙擊空區域放置新動畫格。拖拽動畫格進行移動。點擊右鍵開啟彈出選單。</translation>
     </message>
     <message>
         <source>Change Target</source>
-        <translation>Changer Cible</translation>
+        <translation>更改目標</translation>
     </message>
     <message>
         <source>Changes the image currently displayed for editing.</source>
-        <translation>Change l&apos;image actuellement affichée pour édition.</translation>
+        <translation>更改當前顯示的要編輯的圖片。</translation>
     </message>
     <message>
         <source>Tween</source>
-        <translation>Interpolation</translation>
+        <translation>補間</translation>
     </message>
     <message>
         <source>Automatically tweens the frames between the two specified frames.</source>
-        <translation>Interpole automatiquement les trames entre les deux trames spécifiés.</translation>
+        <translation>在兩個指定框之間自動補間框。</translation>
     </message>
     <message>
         <source>Batch</source>
-        <translation>Lot</translation>
+        <translation>批量</translation>
     </message>
     <message>
         <source>Changes the properties for multiple cells in the specified frames.</source>
-        <translation>Change les propriétés de plusieurs cellules dans les trames spécifiées.</translation>
+        <translation>更改指定框的多個動畫格的屬性。</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation>Décalage</translation>
+        <translation>移動 (Shift)</translation>
     </message>
     <message>
         <source>Shifts the positions of multiple cells in the specified frames.</source>
-        <translation>Déplace les positions de plusieurs cellules dans les trames spécifiées.</translation>
+        <translation>移動指定框的多個動畫格的位置。</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation>Jouer</translation>
+        <translation>播放</translation>
     </message>
     <message>
         <source>Tests the animation.</source>
-        <translation>Teste l&apos;animation.</translation>
+        <translation>測試動畫。</translation>
     </message>
     <message>
         <source>Pattern Palette</source>
-        <translation>Palette de Motifs</translation>
+        <translation>模式調色板</translation>
     </message>
     <message>
         <source>Select the pattern for a new cell.</source>
-        <translation>Sélectionne le motif pour une nouvelle cellule.</translation>
+        <translation>選擇新動畫格的模式。</translation>
     </message>
     <message>
         <source>Paste Last</source>
-        <translation>Dernier Coller</translation>
+        <translation>最近的黏貼</translation>
     </message>
     <message>
         <source>Makes the currently selected frame identical to the previous frame.</source>
-        <translation>Rend la trame actuellement sélectionnée identique à la trame précédente.</translation>
+        <translation>使目前所選框與前一個框相同。</translation>
     </message>
 </context>
 <context>
     <name>Group_AnimationRange</name>
     <message>
         <source>Range</source>
-        <translation>Plage</translation>
+        <translation>範圍</translation>
     </message>
     <message>
         <source>Range to apply this operation.</source>
-        <translation>Plage où appliquer cette opération.</translation>
+        <translation>應用該操作的範圍。</translation>
     </message>
     <message>
         <source>Frames</source>
-        <translation>Trames</translation>
+        <translation>框</translation>
     </message>
     <message>
         <source>Range of the frame numbers.</source>
-        <translation>Plage des numéros de trames.</translation>
+        <translation>框編號範圍。</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation>Cellules</translation>
+        <translation>動畫格</translation>
     </message>
     <message>
         <source>Range of the cell numbers.</source>
-        <translation>Plage des numéros de cellules.</translation>
+        <translation>動畫格編號範圍。</translation>
     </message>
 </context>
 <context>
     <name>Group_AnimationTimings</name>
     <message>
         <source>SE and Flash Timing</source>
-        <translation>SE et Timing du Flash</translation>
+        <translation>SE 和閃光定時</translation>
     </message>
     <message>
         <source>SE and flash colors, etc. used when a frame is displayed.</source>
-        <translation>SE, couleurs flash, etc. utilisés quand une trame est affichée.</translation>
+        <translation>框顯示時使用的 SE 和閃光顏色等。</translation>
     </message>
     <message>
         <source>No.</source>
         <comment>Frame Number</comment>
-        <translation>N°.</translation>
+        <translation>No.</translation>
     </message>
     <message>
         <source>SE</source>
@@ -8981,232 +8954,232 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Flash</translation>
+        <translation>閃光</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation>Cible</translation>
+        <translation>目標</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation>Écran</translation>
+        <translation>畫面</translation>
     </message>
     <message>
         <source>Hide Target</source>
-        <translation>Masquer Cible</translation>
+        <translation>隱藏目標</translation>
     </message>
 </context>
 <context>
     <name>Group_AttackMotions</name>
     <message>
         <source>[SV] Attack Motions</source>
-        <translation>[SV] Mouvements d&apos;Attaque</translation>
+        <translation>[SV] 攻擊動作</translation>
     </message>
     <message>
         <source>Motions for a normal attack in side-view mode.</source>
-        <translation>Mouvements pour une attaque normale en mode vue de côté.</translation>
+        <translation>側視模式中標準攻擊的動作。</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Motion</source>
-        <translation>Mouvement</translation>
+        <translation>動作</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Bare Hands</source>
-        <translation>Mains Nues</translation>
+        <translation>徒手</translation>
     </message>
 </context>
 <context>
     <name>Group_BattleEvent</name>
     <message>
         <source>Battle Event</source>
-        <translation>Évènement de Combat</translation>
+        <translation>劇情戰鬥</translation>
     </message>
     <message>
         <source>Events run during battle. Set up dialogs with the enemy, etc.</source>
-        <translation>Évènements exécutés pendant le combat. Configurer les dialogues avec l&apos;ennemi, etc.</translation>
+        <translation>戰鬥期間運行的劇情。設置與敵人的對話等。</translation>
     </message>
     <message>
         <source>Conditions</source>
-        <translation>Conditions</translation>
+        <translation>條件</translation>
     </message>
     <message>
         <source>Conditions to start the event. The contents will be run only when all the set conditions have been met. If there are multiple event pages meeting conditions, the contents will be run in order from lower to higher numbered page.</source>
-        <translation>Conditions pour démarrer l&apos;évènement. Le contenu sera exécuté uniquement lorsque toutes les conditions auront été remplies. S&apos;il y a plusieurs pages d&apos;évènement remplissant les conditions, le contenu sera exécuté dans l&apos;ordre de la page numerotée la plus basse à la plus haute.</translation>
+        <translation>開始劇情的條件。僅當所有設定條件已滿足時，內容將運行。若有多個劇情頁面滿足條件，內容將從低編號頁面到高編號頁面的順序運行。</translation>
     </message>
     <message>
         <source>Span</source>
-        <translation>Portée</translation>
+        <translation>跨度</translation>
     </message>
     <message>
         <source>Interval during which the event contents are allowed to run.&lt;br&gt;[Battle] Run only once in the battle.&lt;br&gt;[Turn] Run only once per turn.&lt;br&gt;[Moment] Repeat while the conditions met.</source>
-        <translation>Intervalle pendant lequel le contenu de l&apos;évènement est autorisé à s&apos;exécuter.&lt;br&gt;[Combat] S&apos;exécute seulement une fois dans le combat.&lt;br&gt;[Tour] S&apos;exécute seulement une fois par tour.&lt;br&gt;[Moment] S&apos;exécute tant que les conditions sont remplies.</translation>
+        <translation>劇情內容允許運行的間隔時間。&lt;br&gt;[參戰角色] 僅在戰鬥中運行一次。&lt;br&gt;[回合] 每個回合僅運行一次。&lt;br&gt;[時刻] 當條件滿足時重複。</translation>
     </message>
     <message>
         <source>Battle</source>
-        <translation>Combat</translation>
+        <translation>戰鬥</translation>
     </message>
     <message>
         <source>Turn</source>
-        <translation>Tour</translation>
+        <translation>場景段</translation>
     </message>
     <message>
         <source>Moment</source>
-        <translation>Moment</translation>
+        <translation>時刻</translation>
     </message>
     <message>
         <source>Turn End</source>
-        <translation>Fin du Tour</translation>
+        <translation>場景段結束</translation>
     </message>
     <message>
         <source>Enemy HP</source>
-        <translation>HP Ennemi</translation>
+        <translation>敵人 HP</translation>
     </message>
     <message>
         <source>Actor HP</source>
-        <translation>HP Acteur</translation>
+        <translation>角色 HP</translation>
     </message>
     <message>
         <source>Don&apos;t Run</source>
-        <translation>Ne pas Exécuter</translation>
+        <translation>不運行</translation>
     </message>
 </context>
 <context>
     <name>Group_CheckerboardColor</name>
     <message>
         <source>Transparent Color</source>
-        <translation>Couleur Transparente</translation>
+        <translation>透明色</translation>
     </message>
     <message>
         <source>Sets the color to use as the transparency background in the editor.</source>
-        <translation>Détermine la couleur à utiliser comme arrière-plan transparent dans l&apos;éditeur.</translation>
+        <translation>在編輯器中設定透明的背景色。</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation>Rouge</translation>
+        <translation>紅色</translation>
     </message>
     <message>
         <source>R value of the transparent color.</source>
-        <translation>Valeur R de la couleur transparente.</translation>
+        <translation>設定透明色的R值。</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vert</translation>
+        <translation>綠色</translation>
     </message>
     <message>
         <source>G value of the transparent color.</source>
-        <translation>Valeur V de la couleur transparente.</translation>
+        <translation>設定透明色的G值。</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Bleu</translation>
+        <translation>藍色</translation>
     </message>
     <message>
         <source>B value of the transparent color.</source>
-        <translation>Valeur B de la couleur transparente.</translation>
+        <translation>設定透明色的B值。</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Aperçu</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>Shows how the transparent color looks like.</source>
-        <translation>Illustre la couleur transparente une fois utilisée.</translation>
+        <translation>顯示透明色所呈現的效果。</translation>
     </message>
 </context>
 <context>
     <name>Group_Damage</name>
     <message>
         <source>Damage</source>
-        <translation>Dommages</translation>
+        <translation>傷害</translation>
     </message>
     <message>
         <source>Amount of damage or recovery applied to the target.</source>
-        <translation>Montant de dommages ou récupération appliqué à la cible.</translation>
+        <translation>應用到目標的傷害或恢復量。</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Type of damage.</source>
-        <translation>Type de dommages.</translation>
+        <translation>傷害類型。</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>HP Damage</source>
-        <translation>HP Dommages</translation>
+        <translation>HP 傷害</translation>
     </message>
     <message>
         <source>MP Damage</source>
-        <translation>MP Dommages</translation>
+        <translation>MP 傷害</translation>
     </message>
     <message>
         <source>HP Recover</source>
-        <translation>Récupération HP</translation>
+        <translation>HP 恢復</translation>
     </message>
     <message>
         <source>MP Recover</source>
-        <translation>Récupération MP</translation>
+        <translation>MP 恢復</translation>
     </message>
     <message>
         <source>HP Drain</source>
-        <translation>Drainer HP</translation>
+        <translation>HP 耗盡</translation>
     </message>
     <message>
         <source>MP Drain</source>
-        <translation>Drainer MP</translation>
+        <translation>MP 耗盡</translation>
     </message>
     <message>
         <source>Element</source>
-        <translation>Élément</translation>
+        <translation>元素</translation>
     </message>
     <message>
         <source>Element of the damage. Final damage varies depending on the target&apos;s resistance to the element in question.</source>
-        <translation>Élément des dommages. Les dommages finals varient en fonction de la résistance de la cible à l&apos;élément en question.</translation>
+        <translation>傷害元素。取決於目標對相關元素的抵抗力，最終傷害有所不同。</translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation>Attaque Normale</translation>
+        <translation>標準攻擊</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation>Formule</translation>
+        <translation>公式</translation>
     </message>
     <message>
         <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, &quot;a.atk&quot; stands for user&apos;s attack power.</source>
-        <translation>Formule pour calculer les dommages basiques. L&apos;utilisateur est exprimé par a et la cible par b, et puis l&apos;un ou l&apos;autre est suivi par un point pour permettre le référencement des états indiqués ci-après. Par exemple, &quot;a.atk&quot; signifie puissance d&apos;attaque de l&apos;utilisateur.</translation>
+        <translation>計算基本傷害的公式。用戶以 a 表示，目標以 b 表示，其中之一後面加一個點，以引用此後顯示的狀態。例如，&quot;a.atk&quot; 代表用戶的攻擊力。</translation>
     </message>
     <message>
         <source>Variance</source>
-        <translation>Variance</translation>
+        <translation>變化</translation>
     </message>
     <message>
         <source>Degree of variability. The value of the final damage will vary by this percentage value.</source>
-        <translation>Degré de variation. La valeur des dommages finals variera en fonction de ce pourcentage.</translation>
+        <translation>變化的程度。最終傷害的值將因此百分比值而變化。</translation>
     </message>
     <message>
         <source>Critical Hits</source>
-        <translation>Coups Critiques</translation>
+        <translation>暴擊</translation>
     </message>
     <message>
         <source>Whether to enable critical hits. When enabled, critical hits will be determined based on the user&apos;s critical rate and the target&apos;s critical evasion rate.</source>
-        <translation>S&apos;il faut activer ou non les coups critiques. Lorsque activés, les coups critiques seront déterminés par le taux de critiques de l&apos;utilisateur et le taux d&apos;évasion critique de la cible.</translation>
+        <translation>是否啟用暴擊。啟用後，暴擊將基於用戶的暴擊率和目標的危急閃避率確定。</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>critical</comment>
-        <translation>Oui</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>No</source>
@@ -9218,288 +9191,286 @@ Please complete the post with follow this link.</source>
     <name>Group_Duration</name>
     <message>
         <source>Duration</source>
-        <translation>Durée</translation>
+        <translation>持續時間</translation>
     </message>
     <message>
         <source>Duration of the effect in frames.</source>
-        <translation>Durée de l&apos;effet en trames.</translation>
+        <translation>框效果持續時間。</translation>
     </message>
     <message>
         <source>frames (1/60 sec)</source>
-        <translation>trames (1/60 sec)</translation>
+        <translation>框 (1/60 sec)</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation>Attendre la Fin</translation>
+        <translation>等待完成</translation>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation>Attend la fin de l&apos;effet.</translation>
+        <translation>等待效果完成。</translation>
     </message>
 </context>
 <context>
     <name>Group_Effects</name>
     <message>
         <source>Effects</source>
-        <translation>Effets</translation>
+        <translation>效果</translation>
     </message>
     <message>
         <source>List of the various effects other than damage.</source>
-        <translation>Liste des effets divers autres que les dommages.</translation>
+        <translation>除傷害外的各種效果列表。</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation>Contenu</translation>
+        <translation>內容</translation>
     </message>
     <message>
         <source>Recover HP</source>
-        <translation>Récupération HP</translation>
+        <translation>恢復 HP</translation>
     </message>
     <message>
         <source>Recover MP</source>
-        <translation>Récupération MP</translation>
+        <translation>恢復 MP</translation>
     </message>
     <message>
         <source>Gain TP</source>
-        <translation>Gain TP</translation>
+        <translation>獲得 TP</translation>
     </message>
     <message>
         <source>Add State</source>
-        <translation>Ajouter État</translation>
+        <translation>添加狀態</translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation>Attaque Normale</translation>
+        <translation>標準攻擊</translation>
     </message>
     <message>
         <source>Remove State</source>
-        <translation>Retirer État</translation>
+        <translation>消除狀態</translation>
     </message>
     <message>
         <source>Add Buff</source>
-        <translation>Ajouter Buff</translation>
+        <translation>添加增益效果</translation>
     </message>
     <message>
         <source>turns</source>
-        <translation>tours</translation>
+        <translation>場景段</translation>
     </message>
     <message>
         <source>Add Debuff</source>
-        <translation>Ajouter Debuff</translation>
+        <translation>添加減益效果</translation>
     </message>
     <message>
         <source>Remove Buff</source>
-        <translation>Retirer Buff</translation>
+        <translation>刪除增益效果</translation>
     </message>
     <message>
         <source>Remove Debuff</source>
-        <translation>Retirer Debuff</translation>
+        <translation>删除減益</translation>
     </message>
     <message>
         <source>Special Effect</source>
-        <translation>Effet Spécial</translation>
+        <translation>特殊效果</translation>
     </message>
     <message>
         <source>Grow</source>
-        <translation>Grandir</translation>
+        <translation>增長</translation>
     </message>
     <message>
         <source>Learn Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Apprendre Comp.</translation>
+        <translation>學習技能</translation>
     </message>
     <message>
         <source>Common Event</source>
-        <translation>Évmt Commun</translation>
+        <translation>一般劇情</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation>Non défini</translation>
+        <translation>未定義</translation>
     </message>
 </context>
 <context>
     <name>Group_Encounters</name>
     <message>
         <source>Encounters</source>
-        <translation>Rencontres</translation>
+        <translation>衝突</translation>
     </message>
     <message>
         <source>List of the troops for random encounters.</source>
-        <translation>Liste des troupes pour les rencontres aléatoires.</translation>
+        <translation>隨機衝突軍隊列表。</translation>
     </message>
     <message>
         <source>Troop</source>
-        <translation>Troupe</translation>
+        <translation>軍隊</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Poids</translation>
+        <translation>權重</translation>
     </message>
     <message>
         <source>Range</source>
-        <translation>Plage</translation>
+        <translation>範圍</translation>
     </message>
     <message>
         <source>Entire Map</source>
-        <translation>Carte entière</translation>
+        <translation>整個地圖</translation>
     </message>
 </context>
 <context>
     <name>Group_EventConditions</name>
     <message>
         <source>Conditions</source>
-        <translation>Conditions</translation>
+        <translation>條件</translation>
     </message>
     <message>
         <source>Specifies conditions for which the event appears on the map. If no conditions are specified, the event appears unconditionally. Higher numbered page has a higher priority.</source>
-        <translation>Spécifie les conditions pour lesquelles cet évènement apparaît sur la carte. Si aucune condition n&apos;est spécifiée, l&apos;évènement apparaît sans condition. Les pages possédant un numéro supérieur ont une priorité plus élevée.</translation>
+        <translation>指定劇情出現在地圖上的條件。若本指定條件，劇情未條件出現。較高編號的頁面有較高優先順序。</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation>Interrupteur</translation>
+        <translation>開關</translation>
     </message>
     <message>
         <source>Appears when the specified switch is ON.</source>
-        <translation>Apparaît quand l&apos;interrupteur spécifié est sur ON.</translation>
+        <translation>當指定開關為 ON 時出現。</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>變數</translation>
     </message>
     <message>
         <source>Appears when the specified variable is greater than or equal to the given value.</source>
-        <translation>Apparaît quand la variable spécifiée est supérieure ou égale à la valeur donnée.</translation>
+        <translation>當指定變數大於或等於給定值時出現。</translation>
     </message>
     <message>
         <source>Self Switch</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Interr. Auto.</translation>
+        <translation>自開關</translation>
     </message>
     <message>
         <source>Appears when the specified self switch is ON.</source>
-        <translation>Apparaît quand l&apos;interrupteur automatique spécifié est sur ON.</translation>
+        <translation>當指定自開關為 ON 時出現。</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation>Objet</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Appears when the party has the specified item.</source>
-        <translation>Apparaît quand le groupe a l&apos;objet spécifié.</translation>
+        <translation>當隊伍有指定道具時出現。</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Appears when the specified actor is in the party.</source>
-        <translation>Apparaît quand l&apos;acteur spécifié est dans le groupe.</translation>
+        <translation>當指定角色在隊伍時出現。</translation>
     </message>
 </context>
 <context>
     <name>Group_Invocation</name>
     <message>
         <source>Invocation</source>
-        <translation>Invocation</translation>
+        <translation>調用</translation>
     </message>
     <message>
         <source>Settings related to action invocation.</source>
-        <translation>Paramètres en rapport avec l&apos;action invocation.</translation>
+        <translation>與動作調用相關的設置。</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation>Vitesse</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Value that is added to the character&apos;s agility when determining action order. This allows you to create actions that are powerful but take a long time to perform.</source>
-        <translation>Valeur qui est ajoutée à l&apos;agilité du personnage au moment de déterminer l&apos;ordre des actions. Cela vous permet de créer des actions qui sont puissantes mais prennent du temps à accomplir.</translation>
+        <translation>在確定動作命令時添加到人物的敏捷度的值。這可讓你創建強大但執行耗時長的動作。</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Succès</translation>
+        <translation>成功</translation>
     </message>
     <message>
         <source>Probability that the use of the action succeeds.</source>
-        <translation>Probabilité que l&apos;utilisation de l&apos;action réussisse.</translation>
+        <translation>動作使用成功的機率。</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation>Répéter</translation>
+        <translation>重複</translation>
     </message>
     <message>
         <source>Number of times the effect is applied to the target.</source>
-        <translation>Nombre de fois où l&apos;effet est appliqué à la cible.</translation>
+        <translation>效果應用於目標的次數。</translation>
     </message>
     <message>
         <source>TP Gain</source>
-        <translation>Gain de TP</translation>
+        <translation>TP 獲得</translation>
     </message>
     <message>
         <source>Amount of TP the user gains per hit.</source>
-        <translation>Montant de TP que l&apos;utilisateur gagne par coup.</translation>
+        <translation>用戶每打擊獲得的 TP 量。</translation>
     </message>
     <message>
         <source>Hit Type</source>
-        <translation>Type de Coup</translation>
+        <translation>打擊類型</translation>
     </message>
     <message>
         <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user&apos;s hit rate and target&apos;s evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target&apos;s magic evasion rate.</source>
-        <translation>Méthode pour déterminer un coup. &lt;br&gt;[Coup Certain] Traite une utilisation réussie de l&apos;action comme un coup.&lt;br&gt;[Attaque Physique] Détermine les coups basés sur le taux de toucher de l&apos;utilisateur et le taux d&apos;évasion de la cible.&lt;br&gt;[Attaque Magique] Détermine les coups basés sur le taux d&apos;évasion magique de la cible.</translation>
+        <translation>確定打擊的方法。&lt;br&gt;[確定打擊] 將動作的成功使用視為打擊。&lt;br&gt;[物理攻擊] 基於用戶的命中率和目標的閃避率確定打擊。&lt;br&gt;[魔法攻擊] 基於目標的魔法閃避率確定打擊。</translation>
     </message>
     <message>
         <source>Certain Hit</source>
-        <translation>Coup Certain</translation>
+        <translation>確定打擊</translation>
     </message>
     <message>
         <source>Physical Attack</source>
-        <translation>Attaque Physique</translation>
+        <translation>物理攻擊</translation>
     </message>
     <message>
         <source>Magical Attack</source>
-        <translation>Attaque Magique</translation>
+        <translation>魔法攻擊</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation>Animation</translation>
+        <translation>動畫</translation>
     </message>
     <message>
         <source>Animation displayed for the target when using the action in battle.</source>
-        <translation>Animation affichée pour la cible lors de l&apos;utilisation de cette action au combat.</translation>
+        <translation>當在戰鬥中使用動作時為目標顯示的動畫。</translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation>Attaque Normale</translation>
+        <translation>標準攻擊</translation>
     </message>
 </context>
 <context>
     <name>Group_Location</name>
     <message>
         <source>Location</source>
-        <translation>Emplacement</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Setting for where the character should be moved.</source>
-        <translation>Réglage de l&apos;emplacement où le personnage devrait être déplacé.</translation>
+        <translation>設置人物應移動到的位置。</translation>
     </message>
     <message>
         <source>Direct designation</source>
-        <translation>Désignation directe</translation>
+        <translation>直接指定</translation>
     </message>
     <message>
         <source>Specifies the location directly.</source>
-        <translation>Spécifie l&apos;emplacement directement.</translation>
+        <translation>直接指定位置。</translation>
     </message>
     <message>
         <source>Designation with variables</source>
-        <translation>Désignation avec des variables</translation>
+        <translation>使用變數指定</translation>
     </message>
     <message>
         <source>Specifies the location determined by the variables.</source>
-        <translation>Spécifie l&apos;emplacement déterminé par les variables.</translation>
+        <translation>指定由變數確定的位置。</translation>
     </message>
     <message>
         <source>ID</source>
@@ -9507,7 +9478,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Variable containing the ID of the map.</source>
-        <translation>Variable contenant l&apos;ID de la carte.</translation>
+        <translation>包含地圖 ID 的變數。</translation>
     </message>
     <message>
         <source>X</source>
@@ -9515,7 +9486,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Variable containing the X coordinate of the map.</source>
-        <translation>Variable contenant la coordonnée X de la carte.</translation>
+        <translation>包含地圖 X 座標的變數。</translation>
     </message>
     <message>
         <source>Y</source>
@@ -9523,116 +9494,114 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Variable containing the Y coordinate of the map.</source>
-        <translation>Variable contenant la coordonnée Y de la carte.</translation>
+        <translation>包含地圖 Y 座標的變數。</translation>
     </message>
     <message>
         <source>Exchange with another event</source>
-        <translation>Échange avec un autre évènement</translation>
+        <translation>與另一個劇情交換</translation>
     </message>
     <message>
         <source>Swaps the event locations.</source>
-        <translation>Permute les emplacements de l&apos;évènement.</translation>
+        <translation>交換劇情位置。</translation>
     </message>
     <message>
         <source>Another Event</source>
-        <translation>Un Autre Évènement</translation>
+        <translation>另一個劇情</translation>
     </message>
     <message>
         <source>Event character to swap the location.</source>
-        <translation>Évènement personnage pour permuter l&apos;emplacement.</translation>
+        <translation>要交換位置的劇情人物。</translation>
     </message>
 </context>
 <context>
     <name>Group_MagicSkills</name>
     <message>
         <source>[SV] Magic Skills</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>[SV] Comp. Mag.</translation>
+        <translation>[SV] 魔法技能</translation>
     </message>
     <message>
         <source>List of the skill types which require a chanting motion in side-view mode.</source>
-        <translation>Liste des types de compétences qui requièrent un mouvement d&apos;incantation en mode vue de côté.</translation>
+        <translation>在側視模式中要求念咒動作的技能類型列表。</translation>
     </message>
     <message>
         <source>Skill Type</source>
-        <translation>Type de Compétence</translation>
+        <translation>技能類型</translation>
     </message>
 </context>
 <context>
     <name>Group_MapGrid</name>
     <message>
         <source>Map Grid</source>
-        <translation>Grille de la carte</translation>
+        <translation>地圖網格</translation>
     </message>
     <message>
         <source>Turns the Map Editor grid display on/off.</source>
-        <translation>Active/Désactive l&apos;affichage de la grille sur l&apos;éditeur de carte.</translation>
+        <translation>打開 (ON)/關閉 (OFF) 地圖編輯器網格。</translation>
     </message>
     <message>
         <source>Show</source>
         <comment>Map Grid Visible</comment>
-        <translation>Afficher</translation>
+        <translation>顯示</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>橫向</translation>
     </message>
     <message>
         <source>Sets the horizontal spacing between grid tiles.</source>
-        <translation>Détermine l&apos;espacement horizontal entre les tiles de la grille.</translation>
+        <translation>設定網格圖塊的橫向間距。</translation>
     </message>
     <message>
         <source>tiles</source>
         <comment>unit</comment>
-        <translation>tiles</translation>
+        <translation>圖塊</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertical</translation>
+        <translation>縱向</translation>
     </message>
     <message>
         <source>Sets the vertical spacing between grid tiles.</source>
-        <translation>Détermine l&apos;espacement vertical entre les tiles de la grille.</translation>
+        <translation>設定網格圖塊的縱向間距。</translation>
     </message>
 </context>
 <context>
     <name>Group_MenuCommands</name>
     <message>
         <source>Menu Commands</source>
-        <translation>Menu Commandes</translation>
+        <translation>選單命令</translation>
     </message>
     <message>
         <source>ON/OFF settings of the commands in the menu screen.</source>
-        <translation>Les réglages ON/OFF des commandes dans l&apos;écran de menu.</translation>
+        <translation>選單畫面命令的 ON/OFF 設置。</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation>Objet</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Equip</source>
-        <translation>Équiper</translation>
+        <translation>裝備</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Statut</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Formation</source>
-        <translation>Formation</translation>
+        <translation>隊形</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Show [%1] command in the menu screen.</source>
-        <translation>Afficher [%1] commande dans l&apos;écran de menu.</translation>
+        <translation>在選單畫面顯示 [%1] 命令。</translation>
     </message>
 </context>
 <context>
@@ -9660,166 +9629,166 @@ Please complete the post with follow this link.</source>
     <name>Group_Operand</name>
     <message>
         <source>Operand</source>
-        <translation>Opérande</translation>
+        <translation>運算元</translation>
     </message>
     <message>
         <source>Amount by which to increase or decrease.</source>
-        <translation>Montant par lequel augmenter ou diminuer.</translation>
+        <translation>要增加或減少的數量。</translation>
     </message>
     <message>
         <source>Constant</source>
-        <translation>Constante</translation>
+        <translation>常量</translation>
     </message>
     <message>
         <source>Uses the constant value.</source>
-        <translation>Utilise la valeur constante.</translation>
+        <translation>使用常量值。</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>變數</translation>
     </message>
     <message>
         <source>Uses the value of the specified variable.</source>
-        <translation>Utilise la valeur de la variable spécifiée.</translation>
+        <translation>使用指定變數的值。</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation>Aléatoire</translation>
+        <translation>隨機</translation>
     </message>
     <message>
         <source>Uses a random value between two specified values.</source>
-        <translation>Utilise une valeur aléatoire comprise entre deux valeurs spécifiées.</translation>
+        <translation>使用兩個指定值之間的隨機值。</translation>
     </message>
     <message>
         <source>Game Data</source>
-        <translation>Données Jeu</translation>
+        <translation>遊戲數據</translation>
     </message>
     <message>
         <source>Uses a value from various data in the game.</source>
-        <translation>Utilise une valeur à partir de données diverses dans le jeu.</translation>
+        <translation>使用來自遊戲中各種數據的一個值。</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation>Script</translation>
+        <translation>腳本</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
-        <translation>Évalue le texte comme du JavaScript.</translation>
+        <translation>將文字作為 JavaScript 評估。</translation>
     </message>
 </context>
 <context>
     <name>Group_Operation</name>
     <message>
         <source>Operation</source>
-        <translation>Opération</translation>
+        <translation>操作</translation>
     </message>
     <message>
         <source>Selects whether to increase or decrease.</source>
-        <translation>Sélectionne s&apos;il faut augmenter ou diminuer.</translation>
+        <translation>選擇是否要增加或減少。</translation>
     </message>
     <message>
         <source>Increase</source>
-        <translation>Augmenter</translation>
+        <translation>增加</translation>
     </message>
     <message>
         <source>Adds the operand.</source>
-        <translation>Ajoute l&apos;opérande.</translation>
+        <translation>添加運算元。</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation>Diminuer</translation>
+        <translation>減少</translation>
     </message>
     <message>
         <source>Subtracts the operand.</source>
-        <translation>Soustrait l&apos;opérande.</translation>
+        <translation>減去運算元。</translation>
     </message>
 </context>
 <context>
     <name>Group_ParameterChanges</name>
     <message>
         <source>Parameter Changes</source>
-        <translation>Changements de Paramètres</translation>
+        <translation>參數變更</translation>
     </message>
     <message>
         <source>Set how much the actor&apos;s parameters will increase by equipping this item.</source>
-        <translation>Règle de combien les paramètres de l&apos;acteur vont augmenter en équipant cet objet.</translation>
+        <translation>設定通過裝備該道具，角色的參數將增加的量。</translation>
     </message>
 </context>
 <context>
     <name>Group_Picture</name>
     <message>
         <source>Picture</source>
-        <translation>Image</translation>
+        <translation>圖片</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Numéro</translation>
+        <translation>數目</translation>
     </message>
     <message>
         <source>Control number of the picture. The larger number, the higher priority.</source>
-        <translation>Numéro de contrôle de l&apos;image. Plus le nombre est élevé, plus la priorité est haute.</translation>
+        <translation>控制圖片編號。編號越大，優先順序越高。</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Image of the picture to be displayed.</source>
-        <translation>Aperçu de l&apos;image à afficher.</translation>
+        <translation>要顯示的圖片圖像。</translation>
     </message>
 </context>
 <context>
     <name>Group_PictureBlend</name>
     <message>
         <source>Blend</source>
-        <translation>Mélange</translation>
+        <translation>融合</translation>
     </message>
     <message>
         <source>Settings related to the mixing of the screen and the image.</source>
-        <translation>Paramètres associés au mélange de l&apos;écran et de l&apos;image.</translation>
+        <translation>與螢幕和圖像混合相關的設置。</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Opacité</translation>
+        <translation>不透明度</translation>
     </message>
     <message>
         <source>Opacity level of the picture.</source>
-        <translation>Niveau d&apos;opacité de l&apos;image.</translation>
+        <translation>圖片不透明度水平。</translation>
     </message>
     <message>
         <source>Blend Mode</source>
-        <translation>Mode Mélange</translation>
+        <translation>融合模式</translation>
     </message>
     <message>
         <source>Blend mode used when the picture is drawn.</source>
-        <translation>Mode mélange utilisé quand l&apos;image est dessinée.</translation>
+        <translation>畫圖片時使用的融合模式。</translation>
     </message>
 </context>
 <context>
     <name>Group_PicturePosition</name>
     <message>
         <source>Position</source>
-        <translation>Position</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Display position of the picture.</source>
-        <translation>Position d&apos;affichage de l&apos;image.</translation>
+        <translation>圖片顯示位置。</translation>
     </message>
     <message>
         <source>Origin</source>
-        <translation>Origine</translation>
+        <translation>原點</translation>
     </message>
     <message>
         <source>Origin point of the picture.</source>
-        <translation>Point d&apos;origine de l&apos;image.</translation>
+        <translation>圖片原點。</translation>
     </message>
     <message>
         <source>Direct designation</source>
-        <translation>Désignation directe</translation>
+        <translation>直接指定</translation>
     </message>
     <message>
         <source>Displays at the specified position.</source>
-        <translation>Affiche la position spécifiée.</translation>
+        <translation>顯示在指定位置。</translation>
     </message>
     <message>
         <source>X</source>
@@ -9827,7 +9796,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>X coordinate of the picture.</source>
-        <translation>Coordonnée X de l&apos;image.</translation>
+        <translation>圖片 X 座標。</translation>
     </message>
     <message>
         <source>Y</source>
@@ -9835,436 +9804,435 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Y coordinate of the picture.</source>
-        <translation>Coordonnée Y de l&apos;image.</translation>
+        <translation>圖片 Y 座標。</translation>
     </message>
     <message>
         <source>Designation with variables</source>
-        <translation>Désignation avec des variables</translation>
+        <translation>使用變數指定</translation>
     </message>
     <message>
         <source>Displays at the position determined by the variables.</source>
-        <translation>Affiche à la position déterminée par les variables.</translation>
+        <translation>顯示在由變數確定的位置。</translation>
     </message>
     <message>
         <source>Variable containing the X coordinate of the picture.</source>
-        <translation>Variable contenant la coordonnée X de l&apos;image.</translation>
+        <translation>包含圖片 X 座標的變數。</translation>
     </message>
     <message>
         <source>Variable containing the Y coordinate of the picture.</source>
-        <translation>Variable contenant la coordonnée Y de l&apos;image.</translation>
+        <translation>包含圖片 Y 座標的變數。</translation>
     </message>
 </context>
 <context>
     <name>Group_PictureZoom</name>
     <message>
         <source>Scale</source>
-        <translation>Échelle</translation>
+        <translation>比例</translation>
     </message>
     <message>
         <source>Scale of the picture.</source>
-        <translation>Échelle de l&apos;image.</translation>
+        <translation>圖片比例。</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Largeur</translation>
+        <translation>寬</translation>
     </message>
     <message>
         <source>Horizontal scale.</source>
-        <translation>Échelle horizontale.</translation>
+        <translation>橫向比例。</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Hauteur</translation>
+        <translation>高</translation>
     </message>
     <message>
         <source>Vertical scale.</source>
-        <translation>Échelle verticale.</translation>
+        <translation>縱向比例。</translation>
     </message>
 </context>
 <context>
     <name>Group_SkillsToLearn</name>
     <message>
         <source>Skills to Learn</source>
-        <translation>Compétences à Apprendre</translation>
+        <translation>要學習的技能</translation>
     </message>
     <message>
         <source>Skills mastered at level-up for actors in this class.</source>
-        <translation>Compétences maîtrisées à l&apos;augmentation de niveau par les acteurs dans cette classe.</translation>
+        <translation>該類別角色升級時掌握的技能。</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation>Niveau</translation>
+        <translation>等級</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>Remarque</translation>
+        <translation>注釋</translation>
     </message>
 </context>
 <context>
     <name>Group_StartingParty</name>
     <message>
         <source>Starting Party</source>
-        <translation>Groupe de départ</translation>
+        <translation>起始隊伍</translation>
     </message>
     <message>
         <source>Party members at the start of the game.</source>
-        <translation>Membres du groupe au démarrage du jeu.</translation>
+        <translation>遊戲開始時的隊伍成員。</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemAudio</name>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation>Nom du Fichier</translation>
+        <translation>檔案名</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemMessages</name>
     <message>
         <source>Messages</source>
-        <translation>Messages</translation>
+        <translation>訊息</translation>
     </message>
     <message>
         <source>Message texts displayed in the game.</source>
-        <translation>Messages textes affichés dans le jeu.</translation>
+        <translation>在遊戲中顯示的訊息文字。</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Texte</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Always Dash</source>
-        <translation>Toujours courir</translation>
+        <translation>始終衝刺</translation>
     </message>
     <message>
         <source>Command Remember</source>
-        <translation>Commande Se Rappeler</translation>
+        <translation>命令記住</translation>
     </message>
     <message>
         <source>BGM Volume</source>
-        <translation>Volume BGM</translation>
+        <translation>BGM 音量</translation>
     </message>
     <message>
         <source>BGS Volume</source>
-        <translation>Volume BGS</translation>
+        <translation>BGS 音量</translation>
     </message>
     <message>
         <source>ME Volume</source>
-        <translation>Volume ME</translation>
+        <translation>ME 音量</translation>
     </message>
     <message>
         <source>SE Volume</source>
-        <translation>Volume SE</translation>
+        <translation>SE 音量</translation>
     </message>
     <message>
         <source>Possession</source>
-        <translation>Possession</translation>
+        <translation>財產</translation>
     </message>
     <message>
         <source>EXP Total</source>
-        <translation>Total EXP</translation>
+        <translation>EXP 總計</translation>
     </message>
     <message>
         <source>EXP Next</source>
-        <translation>EXP Suivant</translation>
+        <translation>下一個 EXP</translation>
     </message>
     <message>
         <source>Save Message</source>
-        <translation>Enregistrer Message</translation>
+        <translation>保存訊息</translation>
     </message>
     <message>
         <source>Load Message</source>
-        <translation>Charger Message</translation>
+        <translation>讀取訊息</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation>檔案</translation>
     </message>
     <message>
         <source>Party Name</source>
-        <translation>Nom du Groupe</translation>
+        <translation>隊伍名稱</translation>
     </message>
     <message>
         <source>Emerge</source>
-        <translation>Émerger</translation>
+        <translation>出現</translation>
     </message>
     <message>
         <source>Preemptive</source>
-        <translation>Préemptif</translation>
+        <translation>先發制人</translation>
     </message>
     <message>
         <source>Surprise</source>
-        <translation>Surprise</translation>
+        <translation>突襲</translation>
     </message>
     <message>
         <source>Escape Start</source>
-        <translation>Commencer Fuite</translation>
+        <translation>逃跑開始</translation>
     </message>
     <message>
         <source>Escape Failure</source>
-        <translation>Échec Fuite</translation>
+        <translation>逃跑失敗</translation>
     </message>
     <message>
         <source>Victory</source>
-        <translation>Victoire</translation>
+        <translation>勝利</translation>
     </message>
     <message>
         <source>Defeat</source>
-        <translation>Défaite</translation>
+        <translation>戰敗</translation>
     </message>
     <message>
         <source>Obtain EXP</source>
-        <translation>Obtenir EXP</translation>
+        <translation>獲得 EXP</translation>
     </message>
     <message>
         <source>Obtain Gold</source>
-        <translation>Obtenir Or</translation>
+        <translation>獲得金幣</translation>
     </message>
     <message>
         <source>Obtain Item</source>
-        <translation>Obtenir Objet</translation>
+        <translation>獲得道具</translation>
     </message>
     <message>
         <source>Level Up</source>
-        <translation>Niveau Supérieur</translation>
+        <translation>升級</translation>
     </message>
     <message>
         <source>Obtain Skill</source>
-        <translation>Obtenir Compétence</translation>
+        <translation>獲得技能</translation>
     </message>
     <message>
         <source>Use Item</source>
-        <translation>Utiliser Objet</translation>
+        <translation>使用道具</translation>
     </message>
     <message>
         <source>Critical to Enemy</source>
-        <translation>Critique pour l&apos;Ennemi</translation>
+        <translation>敵人危急</translation>
     </message>
     <message>
         <source>Critical to Actor</source>
-        <translation>Critique pour l&apos;Acteur</translation>
+        <translation>角色危急</translation>
     </message>
     <message>
         <source>Actor Damage</source>
-        <translation>Dommages Acteur</translation>
+        <translation>角色傷害</translation>
     </message>
     <message>
         <source>Actor Recovery</source>
-        <translation>Récupération Acteur</translation>
+        <translation>角色恢復</translation>
     </message>
     <message>
         <source>Actor Gain</source>
-        <translation>Gain Acteur</translation>
+        <translation>角色獲得</translation>
     </message>
     <message>
         <source>Actor Loss</source>
-        <translation>Perte Acteur</translation>
+        <translation>角色損失</translation>
     </message>
     <message>
         <source>Actor Drain</source>
-        <translation>Drain Acteur</translation>
+        <translation>角色耗盡</translation>
     </message>
     <message>
         <source>Actor No Damage</source>
-        <translation>Pas de Dommages Acteur</translation>
+        <translation>角色無傷害</translation>
     </message>
     <message>
         <source>Actor No Hit</source>
-        <translation>Pas de Coup Acteur</translation>
+        <translation>角色無打擊</translation>
     </message>
     <message>
         <source>Enemy Damage</source>
-        <translation>Dommages Ennemi</translation>
+        <translation>敵人傷害</translation>
     </message>
     <message>
         <source>Enemy Recovery</source>
-        <translation>Récupération Ennemi</translation>
+        <translation>敵人恢復</translation>
     </message>
     <message>
         <source>Enemy Gain</source>
-        <translation>Gain Ennemi</translation>
+        <translation>敵人獲得</translation>
     </message>
     <message>
         <source>Enemy Loss</source>
-        <translation>Perte Ennemi</translation>
+        <translation>敵人損失</translation>
     </message>
     <message>
         <source>Enemy Drain</source>
-        <translation>Drain Ennemi</translation>
+        <translation>敵人耗盡</translation>
     </message>
     <message>
         <source>Enemy No Damage</source>
-        <translation>Pas de Dommages Ennemi</translation>
+        <translation>敵人無傷害</translation>
     </message>
     <message>
         <source>Enemy No Hit</source>
-        <translation>Pas de Coup Ennemi</translation>
+        <translation>敵人無打擊</translation>
     </message>
     <message>
         <source>Evasion</source>
-        <translation>Évasion</translation>
+        <translation>閃避</translation>
     </message>
     <message>
         <source>Magic Evasion</source>
-        <translation>Évasion Magique</translation>
+        <translation>魔法閃避</translation>
     </message>
     <message>
         <source>Magic Reflection</source>
-        <translation>Réflexion Magique</translation>
+        <translation>魔法反射</translation>
     </message>
     <message>
         <source>Counter Attack</source>
-        <translation>Contre Attaque</translation>
+        <translation>反攻</translation>
     </message>
     <message>
         <source>Substitute</source>
-        <translation>Remplacer</translation>
+        <translation>代替</translation>
     </message>
     <message>
         <source>Buff Add</source>
-        <translation>Ajouter Buff</translation>
+        <translation>增益效果添加</translation>
     </message>
     <message>
         <source>Debuff Add</source>
-        <translation>Ajouter Debuff</translation>
+        <translation>減益效果添加</translation>
     </message>
     <message>
         <source>Buff Remove</source>
-        <translation>Retirer Buff</translation>
+        <translation>增益效果移除</translation>
     </message>
     <message>
         <source>Action Failure</source>
-        <translation>Échec Action</translation>
+        <translation>動作失敗</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemMusic</name>
     <message>
         <source>Music</source>
-        <translation>Musique</translation>
+        <translation>音樂</translation>
     </message>
     <message>
         <source>Music resources to be used throughout the game.</source>
-        <translation>Ressources de musique à utiliser pendant le jeu.</translation>
+        <translation>整個遊戲中使用的音樂資源。</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Titre</translation>
+        <translation>標題</translation>
     </message>
     <message>
         <source>Battle</source>
-        <translation>Combat</translation>
+        <translation>戰鬥</translation>
     </message>
     <message>
         <source>Victory</source>
-        <translation>Victoire</translation>
+        <translation>勝利</translation>
     </message>
     <message>
         <source>Defeat</source>
-        <translation>Défaite</translation>
+        <translation>戰敗</translation>
     </message>
     <message>
         <source>Game Over</source>
-        <translation>Game Over</translation>
+        <translation>遊戲結束</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemOptions</name>
     <message>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation>選項</translation>
     </message>
     <message>
         <source>Options that affect the entire game.</source>
-        <translation>Options qui affectent l&apos;ensemble du jeu.</translation>
+        <translation>影響整個遊戲的選項。</translation>
     </message>
     <message>
         <source>Use Side-view Battle</source>
-        <translation>Utiliser Combat Vue Latérale</translation>
+        <translation>使用側視圖戰鬥</translation>
     </message>
     <message>
         <source>Show the battle screen in side-view. If unchecked, the front-view mode will be used.</source>
-        <translation>Afficher l&apos;écran de combat en vue latérale. Si non coché, le mode vue frontale sera utilisé.</translation>
+        <translation>在側視圖中顯示戰鬥畫面。若未勾選，將使用前視圖模式。</translation>
     </message>
     <message>
         <source>Start Transparent</source>
-        <translation>Démarrage Transparent</translation>
+        <translation>開始透明</translation>
     </message>
     <message>
         <source>Starts the game with the player&apos;s transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
-        <translation>Commence le jeu avec l&apos;étiquette de transparence du joueur réglé sur ON. Cela peut être désactivé à l&apos;aide de la commande d&apos;évènement [Changer la Transparence].</translation>
+        <translation>將玩家的透明度標記設置為 ON 開始遊戲。可通過 [更改透明度] 劇情命令關閉。</translation>
     </message>
     <message>
         <source>Show Player Followers</source>
-        <translation>Afficher Suiveurs du Joueur</translation>
+        <translation>顯示玩家跟隨者</translation>
     </message>
     <message>
         <source>Enables the display of party members walking behind the player. This can be changed using the [Change Player Followers] event command.</source>
-        <translation>Permet l&apos;affichage des membres du groupe marchant derrière le joueur. Cela peut être changé en utilisant la commande d&apos;évènement [Changer les Suiveurs du Joueur].</translation>
+        <translation>啟用顯示行走在玩家身後的隊伍成員。可通過 [更改玩家跟隨者] 劇情命令更改。</translation>
     </message>
     <message>
         <source>Knockout by Slip Damage</source>
-        <translation>KO par dégâts. de Détérior</translation>
+        <translation>不測傷害 KO</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0 by slip damage, such as poison. If unchecked, stops at 1 HP.</source>
-        <translation>Permet aux HP de chuter jusqu&apos;à 0 par des dommages de détérioration, comme le poison. Si ce n&apos;est pas coché, cela s&apos;arrête à 1 HP.</translation>
+        <translation>允許 HP 因不測傷害（如中毒）降至 0。若未勾選，停止在 1 HP。</translation>
     </message>
     <message>
         <source>Knockout by Floor Damage</source>
-        <translation>KO par Dégats de Terrain</translation>
+        <translation>地面傷害 KO</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0 by damage caused by map terrain. If unchecked, stops at 1 HP.</source>
-        <translation>Permet aux HP de chuter jusqu&apos;à 0 par des dommages causés par le terrain de la carte. Si ce n&apos;est pas coché, cela s&apos;arrête à 1 HP.</translation>
+        <translation>允許 HP 因地圖地形造成的傷害降至 0。若未勾選，停止在 1 HP。</translation>
     </message>
     <message>
         <source>Display TP in Battle</source>
-        <translation>Affiche les TP en Combat</translation>
+        <translation>在戰鬥中顯示 TP</translation>
     </message>
     <message>
         <source>Displays the TP of each party member in the status window during battles. Uncheck this option if you don&apos;t use TP system.</source>
-        <translation>Affiche les TP de chaque membre du groupe dans la fenêtre d&apos;état pendant les combats. Décocher cette option si vous n&apos;utilisez pas le système de TP.</translation>
+        <translation>在戰鬥中在狀態視窗顯示每個隊伍成員的 TP。如果你不使用 TP 系統，取消勾選此選項。</translation>
     </message>
     <message>
         <source>EXP for Reserve Members</source>
-        <translation>EXP Membres en Réserve</translation>
+        <translation>保留成員的 EXP</translation>
     </message>
     <message>
         <source>When there are more than four characters in the party, this setting allows party members that did not participate in a battle to get a share of the resulting EXP.</source>
-        <translation>Quand il y a plus de quatre personnages dans le groupe, ce réglage permet aux membres du groupe qui n&apos;ont pas participé à un combat d&apos;avoir une part de l&apos;EXP résultant.</translation>
+        <translation>當隊伍有四名以上人物時，此設置允許未參與戰鬥的隊伍成員分享獲得的 EXP。</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemSounds</name>
     <message>
         <source>Sounds</source>
-        <translation>Sons</translation>
+        <translation>聲音</translation>
     </message>
     <message>
         <source>Sound effects to be used throughout the game.</source>
-        <translation>Effets sonores à utiliser pendant le jeu.</translation>
+        <translation>整個遊戲中使用的音效。</translation>
     </message>
     <message>
         <source>Cursor</source>
-        <translation>Curseur</translation>
+        <translation>指針</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10272,421 +10240,417 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Buzzer</source>
-        <translation>Signal sonore</translation>
+        <translation>蜂鳴器</translation>
     </message>
     <message>
         <source>Equip</source>
-        <translation>Équiper</translation>
+        <translation>裝備</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Charger</translation>
+        <translation>讀取</translation>
     </message>
     <message>
         <source>Battle Start</source>
-        <translation>Démarrage du Combat</translation>
+        <translation>戰鬥開始</translation>
     </message>
     <message>
         <source>Escape</source>
-        <translation>Fuite</translation>
+        <translation>逃跑</translation>
     </message>
     <message>
         <source>Enemy Attack</source>
-        <translation>Attaque Ennemie</translation>
+        <translation>敵人攻擊</translation>
     </message>
     <message>
         <source>Enemy Damage</source>
-        <translation>Dommages Ennemis</translation>
+        <translation>敵人傷害</translation>
     </message>
     <message>
         <source>Enemy Collapse</source>
-        <translation>Effondrement Ennemi</translation>
+        <translation>敵人崩塌</translation>
     </message>
     <message>
         <source>Boss Collapse 1</source>
-        <translation>Effondrement Boss 1</translation>
+        <translation>Boss 崩塌 1</translation>
     </message>
     <message>
         <source>Boss Collapse 2</source>
-        <translation>Effondrement Boss 2</translation>
+        <translation>Boss 崩塌 2</translation>
     </message>
     <message>
         <source>Actor Damage</source>
-        <translation>Dommages Acteur</translation>
+        <translation>角色傷害</translation>
     </message>
     <message>
         <source>Actor Collapse</source>
-        <translation>Effondrement Acteur</translation>
+        <translation>角色崩塌</translation>
     </message>
     <message>
         <source>Recovery</source>
-        <translation>Récupération</translation>
+        <translation>恢復</translation>
     </message>
     <message>
         <source>Miss</source>
-        <translation>Manquer</translation>
+        <translation>未擊中</translation>
     </message>
     <message>
         <source>Evasion</source>
-        <translation>Évasion</translation>
+        <translation>閃避</translation>
     </message>
     <message>
         <source>Magic Evasion</source>
-        <translation>Évasion Magique</translation>
+        <translation>魔法閃避</translation>
     </message>
     <message>
         <source>Magic Reflection</source>
-        <translation>Réflexion Magique</translation>
+        <translation>魔法反射</translation>
     </message>
     <message>
         <source>Shop</source>
-        <translation>Magasin</translation>
+        <translation>商店</translation>
     </message>
     <message>
         <source>Use Item</source>
-        <translation>Utiliser Objet</translation>
+        <translation>使用道具</translation>
     </message>
     <message>
         <source>Use Skill</source>
-        <translation>Utiliser Compétence</translation>
+        <translation>使用技能</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemStarting</name>
     <message>
         <source>Starting Positions</source>
-        <translation>Positions de Démarrage</translation>
+        <translation>開始位置</translation>
     </message>
     <message>
         <source>player and the vehicles</source>
-        <translation>joueur et les véhicules</translation>
+        <translation>玩家和車輛</translation>
     </message>
     <message>
         <source>Location of the %1 at the start of the game.</source>
-        <translation>Emplacement de %1 au moment du démarrage du jeu.</translation>
+        <translation>遊戲開始時 %1 的位置。</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemTypes</name>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Change Maximum</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Changement Max.</translation>
+        <translation>更改最大值</translation>
     </message>
 </context>
 <context>
     <name>Group_TargetActor</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Actor to change the status.</source>
-        <translation>Acteur à qui changer l&apos;état.</translation>
+        <translation>要更改狀態的角色。</translation>
     </message>
     <message>
         <source>Fixed</source>
-        <translation>Fixe</translation>
+        <translation>固定</translation>
     </message>
     <message>
         <source>Directly specifies the actor to be targeted.</source>
-        <translation>Spécifie directement l&apos;acteur ciblé.</translation>
+        <translation>直接指定目標角色。</translation>
     </message>
     <message>
         <source>Entire Party</source>
-        <translation>Groupe entier</translation>
+        <translation>整個隊伍</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>變數</translation>
     </message>
     <message>
         <source>Uses the variable value as the actor ID.</source>
-        <translation>Utilise la valeur de la variable comme l&apos;ID de l&apos;acteur.</translation>
+        <translation>使用變更值為角色 ID。</translation>
     </message>
 </context>
 <context>
     <name>Group_TargetBattler</name>
     <message>
         <source>Enemy</source>
-        <translation>Ennemi</translation>
+        <translation>敵人</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
 </context>
 <context>
     <name>Group_TilesetImages</name>
     <message>
         <source>Images</source>
-        <translation>Images</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Images to be used in this tileset.</source>
-        <translation>Images à utiliser pour ce tileset.</translation>
+        <translation>該圖塊設置中使用的圖像。</translation>
     </message>
     <message>
         <source>Tileset image for the tab %1.</source>
-        <translation>Tileset pour l&apos;onglet Image %1.</translation>
+        <translation>標籤 %1 的圖塊圖像。</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation>Animation</translation>
+        <translation>動畫</translation>
     </message>
     <message>
         <source>Ground</source>
-        <translation>Terre</translation>
+        <translation>地面</translation>
     </message>
     <message>
         <source>Buildings</source>
-        <translation>Bâtiments</translation>
+        <translation>建築</translation>
     </message>
     <message>
         <source>Walls</source>
-        <translation>Murs</translation>
+        <translation>牆壁</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normal</translation>
+        <translation>標準</translation>
     </message>
 </context>
 <context>
     <name>Group_Traits</name>
     <message>
         <source>Traits</source>
-        <translation>Traits</translation>
+        <translation>特性</translation>
     </message>
     <message>
         <source>List of the traits to give this data item.</source>
-        <translation>Liste des traits à donner à cet objet de données.</translation>
+        <translation>要賦予該資料項目目的特性列表。</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation>Contenu</translation>
+        <translation>內容</translation>
     </message>
     <message>
         <source>Element Rate</source>
-        <translation>Taux d&apos;Éléments</translation>
+        <translation>元素率</translation>
     </message>
     <message>
         <source>Debuff Rate</source>
-        <translation>Taux de Debuff</translation>
+        <translation>減益率</translation>
     </message>
     <message>
         <source>State Rate</source>
-        <translation>Taux d&apos;État</translation>
+        <translation>狀態率</translation>
     </message>
     <message>
         <source>State Resist</source>
-        <translation>Résistance d&apos;État</translation>
+        <translation>狀態拒絕</translation>
     </message>
     <message>
         <source>Parameter</source>
-        <translation>Paramètre</translation>
+        <translation>參數</translation>
     </message>
     <message>
         <source>Ex-Parameter</source>
-        <translation>Ex-Paramètre</translation>
+        <translation>Ex-參數</translation>
     </message>
     <message>
         <source>Sp-Parameter</source>
-        <translation>Sp-Paramètre</translation>
+        <translation>Sp-參數</translation>
     </message>
     <message>
         <source>Attack Element</source>
-        <translation>Élément d&apos;Attaque</translation>
+        <translation>攻擊元素</translation>
     </message>
     <message>
         <source>Attack State</source>
-        <translation>État d&apos;Attaque</translation>
+        <translation>攻擊狀態</translation>
     </message>
     <message>
         <source>Attack Speed</source>
-        <translation>Vitesse d&apos;Attaque</translation>
+        <translation>攻擊速度</translation>
     </message>
     <message>
         <source>Attack Times +</source>
-        <translation>Temps d&apos;Attaque +</translation>
+        <translation>攻擊次數 +</translation>
     </message>
     <message>
         <source>Add Skill Type</source>
-        <translation>Ajouter Type de Compétence</translation>
+        <translation>添加技能類型</translation>
     </message>
     <message>
         <source>Seal Skill Type</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Sceller Type Comp.</translation>
+        <translation>封存技能類型</translation>
     </message>
     <message>
         <source>Add Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Ajouter Comp.</translation>
+        <translation>添加技能</translation>
     </message>
     <message>
         <source>Seal Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Sceller Comp.</translation>
+        <translation>封存技能</translation>
     </message>
     <message>
         <source>Equip Weapon</source>
-        <translation>Équiper Arme</translation>
+        <translation>裝備武器</translation>
     </message>
     <message>
         <source>Equip Armor</source>
-        <translation>Équiper Armure</translation>
+        <translation>裝備盔甲</translation>
     </message>
     <message>
         <source>Lock Equip</source>
-        <translation>Verrouiller Équiper</translation>
+        <translation>鎖定裝備</translation>
     </message>
     <message>
         <source>Seal Equip</source>
-        <translation>Sceller Équiper</translation>
+        <translation>封存裝備</translation>
     </message>
     <message>
         <source>Slot Type</source>
-        <translation>Type Emplacement</translation>
+        <translation>裝備槽類型</translation>
     </message>
     <message>
         <source>Action Times +</source>
-        <translation>Temps d&apos;Action +</translation>
+        <translation>動作次數 +</translation>
     </message>
     <message>
         <source>Special Flag</source>
-        <translation>Drapeau Spécial</translation>
+        <translation>特殊標記</translation>
     </message>
     <message>
         <source>Collapse Effect</source>
-        <translation>Eff. Effondrement</translation>
+        <translation>崩塌效應</translation>
     </message>
     <message>
         <source>Party Ability</source>
-        <translation>Capacité Groupe</translation>
+        <translation>隊伍能力</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation>Non défini</translation>
+        <translation>未定義</translation>
     </message>
 </context>
 <context>
     <name>Group_Troop</name>
     <message>
         <source>Troop</source>
-        <translation>Troupe</translation>
+        <translation>軍隊</translation>
     </message>
     <message>
         <source>Troop to fight the party.</source>
-        <translation>Troupe pour combattre le groupe.</translation>
+        <translation>戰鬥隊伍的軍隊。</translation>
     </message>
     <message>
         <source>Direct designation</source>
-        <translation>Désignation directe</translation>
+        <translation>直接指定</translation>
     </message>
     <message>
         <source>Specifies the troop directly.</source>
-        <translation>Spécifie la troupe directement.</translation>
+        <translation>直接指定軍隊。</translation>
     </message>
     <message>
         <source>Designation with a variable</source>
-        <translation>Désignation avec une variable</translation>
+        <translation>使用變數指定</translation>
     </message>
     <message>
         <source>Specifies the troop determined by the variable.</source>
-        <translation>Spécifie la troupe déterminée par la variable.</translation>
+        <translation>指定由變數確定的軍隊。</translation>
     </message>
     <message>
         <source>Same as Random Encounter</source>
-        <translation>Identique Rencontre Aléatoire</translation>
+        <translation>與隨機衝突相同</translation>
     </message>
     <message>
         <source>Randomly selects a troop from among those set for random encounters by map settings.</source>
-        <translation>Sélectionne de façon aléatoire une troupe parmi celles réglées pour les rencontres aléatoires par les réglages de carte.</translation>
+        <translation>從地圖設置設定的隨機衝突軍隊中隨機選擇一支軍隊。</translation>
     </message>
 </context>
 <context>
     <name>Group_UI</name>
     <message>
         <source>UI</source>
-        <translation>Interface</translation>
+        <translation>UI(使用者介面)</translation>
     </message>
     <message>
         <source>Changes how the editor looks like.</source>
-        <translation>Modifiez l&apos;apparence de l&apos;éditeur.</translation>
+        <translation>變更編輯器的外觀、氣氛。</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation>Thème</translation>
+        <translation>主題</translation>
     </message>
     <message>
         <source>Customizes the look and feel of the editor.</source>
-        <translation>Personnalisez l&apos;apparence et le ressenti de l&apos;éditeur.</translation>
+        <translation>自訂編輯器的外觀、氣氛。</translation>
     </message>
     <message>
         <source>Object Selector</source>
-        <translation>Sélecteur d&apos;objets</translation>
+        <translation>物件選擇器</translation>
     </message>
     <message>
         <source>Chooses an object selector for selecting in-game objects in the editor like Items, Weapons, Armors and so on.</source>
-        <translation>Choisit un sélecteur d&apos;objet pour la sélection d&apos;objets de jeu, comme les objets, armes, armures, etc., dans l&apos;éditeur.</translation>
+        <translation>選擇「物件選擇器」，會自動選出遊戲內的道具、武器、護具等在編輯器選單中的物件。</translation>
     </message>
     <message>
         <source>Optimized for less than 100 objects.</source>
         <comment>Object Selector hint</comment>
-        <translation>Optimisé pour moins de 100 objets.</translation>
+        <translation>最適合100個以下的物件。</translation>
     </message>
     <message>
         <source>Optimized for hundreds of objects</source>
         <comment>Object Selector hint</comment>
-        <translation>Optimisé pour des centaines d&apos;objets</translation>
+        <translation>最適合數百個以上的物件</translation>
     </message>
     <message>
         <source>Chooses one based on the amount of objects automatically.</source>
         <comment>Object Selector hint</comment>
-        <translation>Choisit automatiquement un sélecteur en fonction de la quantité d&apos;objets.</translation>
+        <translation>根據物件數自動選出1個項目。</translation>
     </message>
 </context>
 <context>
     <name>Group_VariableRange</name>
     <message>
         <source>Single</source>
-        <translation>Seul</translation>
+        <translation>單個</translation>
     </message>
     <message>
         <source>Operates one switch.</source>
-        <translation>Actionne un interrupteur.</translation>
+        <translation>操作一個開關。</translation>
     </message>
     <message>
         <source>Operates one variable.</source>
-        <translation>Actionne une variable.</translation>
+        <translation>操作一個變數。</translation>
     </message>
     <message>
         <source>Range</source>
-        <translation>Plage</translation>
+        <translation>範圍</translation>
     </message>
     <message>
         <source>Operates all switches found between two specified numbers.</source>
-        <translation>Actionne tous les interrupteurs trouvés entre deux nombres spécifiés.</translation>
+        <translation>操作在兩個指定數字之間找到的所有開關。</translation>
     </message>
     <message>
         <source>Operates all variables found between two specified numbers.</source>
-        <translation>Actionne toutes les variables trouvées entre deux nombres spécifiés.</translation>
+        <translation>操作在兩個指定數字之間找到的所有變數。</translation>
     </message>
 </context>
 <context>
@@ -10731,892 +10695,885 @@ Please complete the post with follow this link.</source>
     <name>Layout_AudioSelector</name>
     <message>
         <source>Play</source>
-        <translation>Jouer</translation>
+        <translation>播放</translation>
     </message>
     <message>
         <source>Plays the selected file.</source>
-        <translation>Joue le fichier sélectionné.</translation>
+        <translation>播放所選檔案。</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Arrêter</translation>
+        <translation>停止</translation>
     </message>
     <message>
         <source>Stops the current playback.</source>
-        <translation>Arrête la lecture en cours.</translation>
+        <translation>停止目前播放。</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation>Volume</translation>
+        <translation>音量</translation>
     </message>
     <message>
         <source>Volume for audio playback.</source>
-        <translation>Volume pour la lecture audio.</translation>
+        <translation>音頻播放音量。</translation>
     </message>
     <message>
         <source>Pitch</source>
-        <translation>Ton</translation>
+        <translation>音調</translation>
     </message>
     <message>
         <source>Pitch for audio playback.</source>
-        <translation>Ton pour la lecture audio.</translation>
+        <translation>音頻播放音調。</translation>
     </message>
     <message>
         <source>Pan</source>
-        <translation>Panoramique</translation>
+        <translation>移動</translation>
     </message>
     <message>
         <source>Pan for audio playback.</source>
-        <translation>Panoramique pour la lecture audio.</translation>
+        <translation>音頻播放移動。</translation>
     </message>
 </context>
 <context>
     <name>Layout_ColorTone</name>
     <message>
         <source>Red</source>
-        <translation>Rouge</translation>
+        <translation>紅色</translation>
     </message>
     <message>
         <source>R value of the color tone.</source>
-        <translation>Valeur R de la tonalité de couleur.</translation>
+        <translation>色調的 R 值。</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vert</translation>
+        <translation>綠色</translation>
     </message>
     <message>
         <source>G value of the color tone.</source>
-        <translation>Valeur V de la tonalité de couleur.</translation>
+        <translation>色調的 G 值。</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Bleu</translation>
+        <translation>藍色</translation>
     </message>
     <message>
         <source>B value of the color tone.</source>
-        <translation>Valeur B de la tonalité de couleur.</translation>
+        <translation>色調的 B 值。</translation>
     </message>
     <message>
         <source>Gray</source>
-        <translation>Gris</translation>
+        <translation>灰色</translation>
     </message>
     <message>
         <source>Intensity of the grayscale.</source>
-        <translation>Intensité de l&apos;échelle de gris.</translation>
+        <translation>灰階強度。</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Aperçu</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>Shows how the color tone will be applied.</source>
-        <translation>Indique comment la tonalité des couleurs sera appliquée.</translation>
+        <translation>顯示色調應用效果。</translation>
     </message>
     <message>
         <source>Calls a predefined color tone.</source>
-        <translation>Appelle une tonalité de couleur prédéfinie.</translation>
+        <translation>調用預定色調。</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normal</translation>
+        <translation>標準</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation>Sombre</translation>
+        <translation>黑色</translation>
     </message>
     <message>
         <source>Sepia</source>
-        <translation>Sépia</translation>
+        <translation>棕黑色</translation>
     </message>
     <message>
         <source>Sunset</source>
-        <translatorcomment>スペースが限られている為、CoucherをC.に省略しましたが、文脈で意味が通じるかと思われます。</translatorcomment>
-        <translation>C. de Soleil</translation>
+        <translation>日落</translation>
     </message>
     <message>
         <source>Night</source>
-        <translation>Nuit</translation>
+        <translation>夜晚</translation>
     </message>
 </context>
 <context>
     <name>Layout_EventEditor</name>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Name of the event.</source>
-        <translation>Nom de l&apos;évènement.</translation>
+        <translation>劇情名稱。</translation>
     </message>
 </context>
 <context>
     <name>Layout_EventPage</name>
     <message>
         <source>Autonomous Movement</source>
-        <translation>Mouvement Autonome</translation>
+        <translation>自主移動</translation>
     </message>
     <message>
         <source>Settings for autonomous movement. The event moves automatically by this settings if not controlled by other events.</source>
-        <translation>Réglages pour le mouvement autonome. L&apos;évènement se déplace automatiquement par ces paramètres si ce n&apos;est pas contrôlé par d&apos;autres évènements.</translation>
+        <translation>自主移動設置。若未受其他劇情控制，該設置下的該劇情自動移動。</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>Movement Type</comment>
-        <translation>Type</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Type of autonomous movement.&lt;br&gt;[Fixed] Do not move from the position in which it was placed.&lt;br&gt;[Random] Moves passable tiles around freely.&lt;br&gt;[Approach] Moves toward the current location of the player.&lt;br&gt;[Custom] Moves along the specified route.</source>
-        <translation>Type de mouvement autonome.&lt;br&gt;[Fixe] Ne pas bouger de la position dans laquelle c&apos;était placé.&lt;br&gt;[Aléatoire] Déplace les tiles praticables tout autour librement.&lt;br&gt;[Approcher] Se déplace vers l&apos;emplacement actuel du joueur.&lt;br&gt;[Personnaliser] Se déplace le long de la trajectoire spécifiée.</translation>
+        <translation>自主移動的類型。&lt;br&gt;[固定] 不移動離開其所在位置。&lt;br&gt;[隨機] 自由移動到可通過圖塊。&lt;br&gt;[接近] 向玩家當前位置移動。&lt;br&gt;[接近] 沿指定路線移動。</translation>
     </message>
     <message>
         <source>Fixed</source>
-        <translation>Fixe</translation>
+        <translation>固定</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation>Aléatoire</translation>
+        <translation>隨機</translation>
     </message>
     <message>
         <source>Approach</source>
-        <translation>Approcher</translation>
+        <translation>接近</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Personnaliser</translation>
+        <translation>自定義</translation>
     </message>
     <message>
         <source>Route</source>
-        <translation>Trajectoire</translation>
+        <translation>路線</translation>
     </message>
     <message>
         <source>Opens the route setting window when the movement type is [Custom].</source>
-        <translation>Ouvre la fenêtre de réglage de la trajectoire quand le type de mouvement est [Personnaliser].</translation>
+        <translation>當移動類型為 [自定義] 時，開啟路線設定視窗。</translation>
     </message>
     <message>
         <source>Speed</source>
         <comment>Movement Speed</comment>
-        <translation>Vitesse</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Freq</source>
         <comment>Movement Frequency</comment>
-        <translatorcomment>省略のピリオドを追加しております</translatorcomment>
-        <translation>Fréqu.</translation>
+        <translation>頻率</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation>選項</translation>
     </message>
     <message>
         <source>Options for character animation, passage, etc.</source>
-        <translation>Options pour animation personnage, passage, etc.</translation>
+        <translation>人物動畫、通過等的選項。</translation>
     </message>
     <message>
         <source>Walking</source>
         <comment>Walking Animation</comment>
-        <translation>Marche</translation>
+        <translation>行走</translation>
     </message>
     <message>
         <source>Turns on the animation when the character is moving.</source>
-        <translation>Active l&apos;animation quand le personnage se déplace.</translation>
+        <translation>人物移動時打開動畫。</translation>
     </message>
     <message>
         <source>Stepping</source>
         <comment>Stepping Animation</comment>
-        <translation>Pas à Pas</translation>
+        <translation>踏步</translation>
     </message>
     <message>
         <source>Turns on the animation when the character is not moving.</source>
-        <translation>Active l&apos;animation quand le personnage ne se déplace pas.</translation>
+        <translation>人物不移動時打開動畫。</translation>
     </message>
     <message>
         <source>Direction Fix</source>
-        <translation>Direction Fixe</translation>
+        <translation>方向固定</translation>
     </message>
     <message>
         <source>Makes it impossible to change the direction of the character.</source>
-        <translation>Rend impossible de changer la direction du personnage.</translation>
+        <translation>不能改變人物的方向。</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>À Travers</translation>
+        <translation>穿過</translation>
     </message>
     <message>
         <source>Makes it possible to move through impassable tiles and characters.</source>
-        <translation>Rend possible de se déplacer à travers les tiles infranchissables et les personnages.</translation>
+        <translation>允許移動穿過不可通過圖塊和人物。</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation>Priorité</translation>
+        <translation>優先順序</translation>
     </message>
     <message>
         <source>Display priority of the event. However, when the image is a tile and the priority is [Below characters], the tileset settings will be used.</source>
-        <translation>Afficher la priorité de l&apos;évènement. Cependant, lorsque l&apos;image est un tile et la priorité est [Personnages en dessous], les réglages tileset seront utilisés.</translation>
+        <translation>劇情顯示優先順序。然而，當圖像為圖塊且優先順序為 [低於人物] 時，將使用圖塊設置。</translation>
     </message>
     <message>
         <source>Below characters</source>
-        <translation>Personnages en dessous</translation>
+        <translation>低於人物</translation>
     </message>
     <message>
         <source>Same as characters</source>
-        <translation>Comme les personnages</translation>
+        <translation>與人物相同</translation>
     </message>
     <message>
         <source>Above characters</source>
-        <translation>Personnages au dessus</translation>
+        <translation>高於人物</translation>
     </message>
     <message>
         <source>Trigger</source>
-        <translation>Déclencher</translation>
+        <translation>觸發器</translation>
     </message>
     <message>
         <source>Condition to start the event.&lt;br&gt;[Action Button] Starts when the player presses the button.&lt;br&gt;[Player Touch] In addition to the above, starts when the player touches the event.&lt;br&gt;[Event Touch] In addition to the above, starts when the event touches the player.&lt;br&gt;[Autorun] Starts when the event appears.&lt;br&gt;[Parallel] Runs cyclically while the event is present.</source>
-        <translation>Condition pour commencer l&apos;évènement.&lt;br&gt;[Touche Action] Commence quand le joueur enfonce la touche.&lt;br&gt;[Touche Joueur] En plus de ce qui précède, commence quand le joueur touche l&apos;évènement.&lt;br&gt;[Touche évènement] En plus de ce qui précède, commence quand l&apos;évènement touche le joueur.&lt;br&gt;[Exécution Automatique] Commence quand l&apos;évènement apparaît.&lt;br&gt;[Parallèle] S&apos;exécute cycliquement pendant que l&apos;évènement est présent.</translation>
+        <translation>開始劇情的條件。&lt;br&gt;[操作按鈕] 當玩家按按鈕時開始。&lt;br&gt;[玩家接觸] 除上述外，當玩家接觸劇情時開始。&lt;br&gt;[劇情接觸] 除上述外，當劇情接觸玩家時開始。&lt;br&gt;[自動運行] 當劇情出現時開始。&lt;br&gt;[並行] 當劇情存在時迴圈運行。</translation>
     </message>
     <message>
         <source>Action Button</source>
-        <translation>Touche Action</translation>
+        <translation>操作按鈕</translation>
     </message>
     <message>
         <source>Player Touch</source>
-        <translation>Touche Joueur</translation>
+        <translation>玩家接觸</translation>
     </message>
     <message>
         <source>Event Touch</source>
-        <translation>Touche Évènement</translation>
+        <translation>劇情接觸</translation>
     </message>
     <message>
         <source>Autorun</source>
-        <translation>Exécution Automatique</translation>
+        <translation>自動運行</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>Parallèle</translation>
+        <translation>並行</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Contenu</translation>
+        <translation>內容</translation>
     </message>
     <message>
         <source>Event commands to be run for this event. Right-click to open the popup menu.</source>
-        <translation>Commandes d&apos;évènement à exécuter pour cet évènement. Cliquez avec le bouton droit pour ouvrir le menu contextuel.</translation>
+        <translation>為該劇情運行的劇情命令。點擊右鍵開啟彈出選單。</translation>
     </message>
 </context>
 <context>
     <name>Layout_EventPageButtons</name>
     <message>
         <source>New&lt;br&gt;Event Page</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Nouveau&lt;br&gt;Page Év.</translation>
+        <translation>新&lt;br&gt;劇情頁面</translation>
     </message>
     <message>
         <source>Creates a new consecutively numbered page after the current page.</source>
-        <translation>Crée une nouvelle page numérotée consécutivement après la page actuelle.</translation>
+        <translation>在當前頁面之後創建新的連續編號頁面。</translation>
     </message>
     <message>
         <source>Copy&lt;br&gt;Event Page</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Copier&lt;br&gt;Page Év.</translation>
+        <translation>複製&lt;br&gt;劇情頁面</translation>
     </message>
     <message>
         <source>Copies the contents of the current page to the clipboard.</source>
-        <translation>Copie le contenu de la page actuelle vers le presse-papiers.</translation>
+        <translation>複製當前頁面的內容到剪貼板。</translation>
     </message>
     <message>
         <source>Paste&lt;br&gt;Event Page</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Coller&lt;br&gt;Page Év.</translation>
+        <translation>貼上&lt;br&gt;劇情頁面</translation>
     </message>
     <message>
         <source>Pastes the contents of the clipboard into a new page.</source>
-        <translation>Colle le contenu du presse-papiers sur une nouvelle page.</translation>
+        <translation>貼上剪貼板內容到新頁面。</translation>
     </message>
     <message>
         <source>Delete&lt;br&gt;Event Page</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Supprimer&lt;br&gt;Page Év.</translation>
+        <translation>刪除&lt;br&gt;劇情頁面</translation>
     </message>
     <message>
         <source>Deletes the current page.</source>
-        <translation>Supprimer la page actuelle.</translation>
+        <translation>刪除當事頁面。</translation>
     </message>
     <message>
         <source>Clear&lt;br&gt;Event Page</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Effacer&lt;br&gt;Page Év.</translation>
+        <translation>清除&lt;br&gt;劇情頁面</translation>
     </message>
     <message>
         <source>Clears the contents of the current page.</source>
-        <translation>Efface le contenu de la page actuelle.</translation>
+        <translation>清除當前頁面的內容。</translation>
     </message>
 </context>
 <context>
     <name>Layout_FlashColor</name>
     <message>
         <source>Red</source>
-        <translation>Rouge</translation>
+        <translation>紅色</translation>
     </message>
     <message>
         <source>R value of the flash color.</source>
-        <translation>Valeur R de la couleur flash.</translation>
+        <translation>閃光顏色的 R 值。</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vert</translation>
+        <translation>綠色</translation>
     </message>
     <message>
         <source>G value of the flash color.</source>
-        <translation>Valeur V de la couleur flash.</translation>
+        <translation>閃光顏色的 G 值。</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Bleu</translation>
+        <translation>藍色</translation>
     </message>
     <message>
         <source>B value of the flash color.</source>
-        <translation>Valeur B de la couleur flash.</translation>
+        <translation>閃光顏色的 B 值。</translation>
     </message>
     <message>
         <source>Intensity</source>
-        <translation>Intensité</translation>
+        <translation>強度</translation>
     </message>
     <message>
         <source>Intensity of the flash color.</source>
-        <translation>Intensité de la couleur flash.</translation>
+        <translation>閃光顏色強度。</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Aperçu</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>Shows how the flash color will be applied.</source>
-        <translation>Indique comment la couleur flash sera appliquée.</translation>
+        <translation>顯示閃光顏色應用效果。</translation>
     </message>
 </context>
 <context>
     <name>Layout_MovementRoute</name>
     <message>
         <source>Character</source>
-        <translation>Personnage</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Character to be assigned the movement route.</source>
-        <translation>Personnage à attribuer la trajectoire de mouvement.</translation>
+        <translation>分配移動路線的人物。</translation>
     </message>
     <message>
         <source>Command List</source>
-        <translation>Liste de Commandes</translation>
+        <translation>命令列表</translation>
     </message>
     <message>
         <source>Movement commands to be run. Press a button on the right to add a new command.</source>
-        <translation>Commandes de mouvement à exécuter. Appuyer sur une touche située à droite pour ajouter une nouvelle commande.</translation>
+        <translation>要運行的移動命令。按右邊按鈕添加新命令。</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation>選項</translation>
     </message>
     <message>
         <source>Options for the movement route behavior.</source>
-        <translation>Options pour le comportement de la trajectoire de mouvement.</translation>
+        <translation>移動路線行為選項。</translation>
     </message>
     <message>
         <source>Repeat Movements</source>
-        <translation>Répéter Mouvements</translation>
+        <translation>重複移動</translation>
     </message>
     <message>
         <source>After running all the commands, returns to the top of the list.</source>
-        <translation>Après l&apos;exécution de toutes les commandes, revient au début de la liste.</translation>
+        <translation>運行所有命令後，返回到列表頂部。</translation>
     </message>
     <message>
         <source>Skip If Cannot Move</source>
-        <translation>Passer Si Ne Peut Pas Bouger</translation>
+        <translation>若不能移動，跳過</translation>
     </message>
     <message>
         <source>Skips any command that would move a character into an impassable location.</source>
-        <translation>Passe n&apos;importe qu&apos;elle commande qui déplacerait un personnage dans un emplacement infranchissable.</translation>
+        <translation>跳過將會移動人物到不可通過位置的任何命令。</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation>Attendre la Fin</translation>
+        <translation>等待完成</translation>
     </message>
     <message>
         <source>Waits for the movements to finish.</source>
-        <translation>Attend la fin du mouvement.</translation>
+        <translation>等待移動完成。</translation>
     </message>
     <message>
         <source>Movement Commands</source>
-        <translation>Commandes Mouvement</translation>
+        <translation>移動命令</translation>
     </message>
 </context>
 <context>
     <name>Layout_ParallaxBack</name>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Image of the parallax background.</source>
-        <translation>Image de l&apos;arrière-plan parallaxe.</translation>
+        <translation>視差背景圖像。</translation>
     </message>
     <message>
         <source>Loops the parallax background horizontally.</source>
-        <translation>Boucle l&apos;arrière-plan parallaxe horizontalement.</translation>
+        <translation>橫向迴圈視差背景。</translation>
     </message>
     <message>
         <source>Scroll</source>
-        <translation>Faire défiler</translation>
+        <translation>滾動</translation>
     </message>
     <message>
         <source>Automatically performs horizontal scrolling at the specified speed.</source>
-        <translation>Effectue automatiquement un défilement horizontal à la vitesse spécifiée.</translation>
+        <translation>以指定速度自動執行橫向滾動。</translation>
     </message>
     <message>
         <source>Loops the parallax background vertically.</source>
-        <translation>Boucle l&apos;arrière-plan parallaxe verticalement.</translation>
+        <translation>縱向迴圈視差背景。</translation>
     </message>
     <message>
         <source>Automatically performs vertical scrolling at the specified speed.</source>
-        <translation>Effectue automatiquement un défilement vertical à la vitesse spécifiée.</translation>
+        <translation>以指定速度自動執行縱向滾動。</translation>
     </message>
 </context>
 <context>
     <name>Layout_StateMessage</name>
     <message>
         <source>(Target Name)</source>
-        <translation>(Nom Cible)</translation>
+        <translation>（目標名稱）</translation>
     </message>
 </context>
 <context>
     <name>LocationBox</name>
     <message>
         <source>Current Map</source>
-        <translation>Carte Actuelle</translation>
+        <translation>當前地圖</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
 </context>
 <context>
     <name>MAC_APPLICATION_MENU</name>
     <message>
         <source>Services</source>
-        <translation>Services</translation>
+        <translation>服務</translation>
     </message>
     <message>
         <source>Hide %1</source>
-        <translation>Masquer %1</translation>
+        <translation>隱藏 %1</translation>
     </message>
     <message>
         <source>Hide Others</source>
-        <translation>Masquer Autres</translation>
+        <translation>隱藏其他</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>Afficher Tout</translation>
+        <translation>顯示全部</translation>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation>Préférences...</translation>
+        <translation>首選項...</translation>
     </message>
     <message>
         <source>Quit %1</source>
-        <translation>Quitter %1</translation>
+        <translation>退出 %1</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation>À propos de %1</translation>
+        <translation>關於 %1</translation>
     </message>
 </context>
 <context>
     <name>MainMenu</name>
     <message>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation>檔案</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Éditer</translation>
+        <translation>編輯</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Mode</translation>
+        <translation>模式</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation>Dessiner</translation>
+        <translation>繪製</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation>Échelle</translation>
+        <translation>比例</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Outils</translation>
+        <translation>工具</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Jeu</translation>
+        <translation>遊戲</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Aide</translation>
+        <translation>幫助</translation>
     </message>
     <message>
         <source>Quick Event Creation</source>
-        <translation>Création d&apos;Évènements Rapide</translation>
+        <translation>快速劇情創建</translation>
     </message>
     <message>
         <source>Transfer</source>
-        <translation>Transfert</translation>
+        <translation>轉移</translation>
     </message>
     <message>
         <source>Door</source>
-        <translation>Porte</translation>
+        <translation>門</translation>
     </message>
     <message>
         <source>Treasure</source>
-        <translation>Trésor</translation>
+        <translation>財寶</translation>
     </message>
     <message>
         <source>Inn</source>
-        <translation>Auberge</translation>
+        <translation>旅館</translation>
     </message>
     <message>
         <source>Set Starting Position</source>
-        <translation>Régler la Position de Départ</translation>
+        <translation>設置開始位置</translation>
     </message>
     <message>
         <source>New Project</source>
-        <translation>Nouveau Projet</translation>
+        <translation>新項目</translation>
     </message>
     <message>
         <source>Creates a new project.</source>
-        <translation>Crée un nouveau projet.</translation>
+        <translation>創建新項目。</translation>
     </message>
     <message>
         <source>Open Project</source>
-        <translation>Ouvrir Projet</translation>
+        <translation>開啟項目</translation>
     </message>
     <message>
         <source>Opens an existing project.</source>
-        <translation>Ouvre un projet existant.</translation>
+        <translation>開啟現有項目。</translation>
     </message>
     <message>
         <source>Close Project</source>
-        <translation>Fermer Projet</translation>
+        <translation>關閉項目</translation>
     </message>
     <message>
         <source>Closes the current project.</source>
-        <translation>Ferme le projet actuel.</translation>
+        <translation>關閉當前項目。</translation>
     </message>
     <message>
         <source>Save Project</source>
-        <translation>Enregistrer Projet</translation>
+        <translation>保存項目</translation>
     </message>
     <message>
         <source>Saves the current project.</source>
-        <translation>Sauvegarde le projet actuel.</translation>
+        <translation>保存當前項目。</translation>
     </message>
     <message>
         <source>Deployment</source>
-        <translation>Déploiement</translation>
+        <translation>部署</translation>
     </message>
     <message>
         <source>Creates a distribution package.</source>
-        <translation>Crée un package de distribution.</translation>
+        <translation>創建發行套件。</translation>
     </message>
     <message>
         <source>Edit</source>
         <comment>Edit Map</comment>
-        <translation>Éditer</translation>
+        <translation>編輯</translation>
     </message>
     <message>
         <source>Changes the map settings.</source>
-        <translation>Change les paramètres de la carte.</translation>
+        <translation>更改地圖設置。</translation>
     </message>
     <message>
         <source>New</source>
         <comment>New Map</comment>
-        <translation>Nouvelle</translation>
+        <translation>新</translation>
     </message>
     <message>
         <source>Creates a new map.</source>
-        <translation>Crée une nouvelle carte.</translation>
+        <translation>創建新地圖。</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Charger</translation>
+        <translation>讀取</translation>
     </message>
     <message>
         <source>Adds a sample map as a new map.</source>
-        <translation>Ajoute un échantillon de carte comme nouvelle carte.</translation>
+        <translation>添加樣本地圖為新地圖。</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation>Décalage</translation>
+        <translation>移動 (Shift)</translation>
     </message>
     <message>
         <source>Shifts the current map contents.</source>
-        <translation>Permute le contenu de la carte actuelle.</translation>
+        <translation>移動當前地圖內容。</translation>
     </message>
     <message>
         <source>Save as Image</source>
-        <translation>Sauvegarder comme Image</translation>
+        <translation>保存為圖像</translation>
     </message>
     <message>
         <source>Saves the current map as a image file.</source>
-        <translation>Sauvegarder la carte actuelle comme un fichier image.</translation>
+        <translation>保存目前地圖為圖像檔。</translation>
     </message>
     <message>
         <source>Edit</source>
         <comment>Edit Event</comment>
-        <translation>Éditer</translation>
+        <translation>編輯</translation>
     </message>
     <message>
         <source>Changes the event settings.</source>
-        <translation>Change les paramètres de l&apos;évènement.</translation>
+        <translation>更改劇情設定。</translation>
     </message>
     <message>
         <source>New</source>
         <comment>New Event</comment>
-        <translation>Nouveau</translation>
+        <translation>新</translation>
     </message>
     <message>
         <source>Creates a new event.</source>
-        <translation>Crée un nouvel évènement.</translation>
+        <translation>創建新劇情。</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Couper</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Removes and copies the selection to the clipboard.</source>
-        <translation>Supprime et copie la sélection dans le presse-papiers.</translation>
+        <translation>移除並複製所選內容到剪貼板。</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copier</translation>
+        <translation>複製</translation>
     </message>
     <message>
         <source>Copies the selection to the clipboard.</source>
-        <translation>Copie la sélection dans le presse-papiers.</translation>
+        <translation>複製所選內容到剪貼板。</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Coller</translation>
+        <translation>貼上</translation>
     </message>
     <message>
         <source>Inserts the contents of the clipboard.</source>
-        <translation>Insère le contenu du presse-papiers.</translation>
+        <translation>插入剪貼板內容。</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <source>Removes the selection.</source>
-        <translation>Supprime la sélection.</translation>
+        <translation>刪除所選內容。</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Annuler</translation>
+        <translation>撤銷</translation>
     </message>
     <message>
         <source>Reverses the last action.</source>
-        <translation>Annule la dernière action.</translation>
+        <translation>逆反上次操作。</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation>Carte</translation>
+        <translation>地圖</translation>
     </message>
     <message>
         <source>Switches to the map editing mode.</source>
-        <translation>Passe au mode édition de la carte.</translation>
+        <translation>切換到地圖編輯模式。</translation>
     </message>
     <message>
         <source>Event</source>
-        <translation>Évènement</translation>
+        <translation>劇情</translation>
     </message>
     <message>
         <source>Switches to the event editing mode.</source>
-        <translation>Passe au mode édition d&apos;évènement.</translation>
+        <translation>切換到劇情編輯模式。</translation>
     </message>
     <message>
         <source>Pencil</source>
-        <translation>Crayon</translation>
+        <translation>鉛筆</translation>
     </message>
     <message>
         <source>Draws tiles freehand.</source>
-        <translation>Dessine des tiles à la main.</translation>
+        <translation>徒手繪製圖塊。</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>Rectangle</translation>
+        <translation>矩形</translation>
     </message>
     <message>
         <source>Draws a rectangle.</source>
-        <translation>Dessine un rectangle.</translation>
+        <translation>繪製一個矩形。</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation>Ellipse</translation>
+        <translation>橢圓</translation>
     </message>
     <message>
         <source>Draws an ellipse.</source>
-        <translation>Dessine une ellipse.</translation>
+        <translation>繪製一個橢圓。</translation>
     </message>
     <message>
         <source>Flood Fill</source>
-        <translation>Outil de Remplissage</translation>
+        <translation>填充顏色</translation>
     </message>
     <message>
         <source>Fills the enclosed area.</source>
-        <translation>Rempli la zone sélectionnée.</translation>
+        <translation>填充封閉區域。</translation>
     </message>
     <message>
         <source>Shadow Pen</source>
-        <translation>Stylo Ombre</translation>
+        <translation>陰影筆</translation>
     </message>
     <message>
         <source>Adds or removes shadows of walls.</source>
-        <translation>Ajoute ou enlève des ombres sur les murs.</translation>
+        <translation>添加或消除牆壁陰影。</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Effectuer un zoom avant</translation>
+        <translation>放大</translation>
     </message>
     <message>
         <source>Zooms in the map view.</source>
-        <translation>Effectue un zoom avant sur la carte.</translation>
+        <translation>放大地圖視圖。</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Effectuer un zoom arrière</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <source>Zooms out the map view.</source>
-        <translation>Effectue un zoom arrière sur la carte.</translation>
+        <translation>縮小地圖視圖。</translation>
     </message>
     <message>
         <source>Actual Size</source>
-        <translation>Taille Réelle</translation>
+        <translation>實際大小</translation>
     </message>
     <message>
         <source>Displays the map at a scale of 1:1.</source>
-        <translation>Affiche la carte à une échelle de 1:1.</translation>
+        <translation>以 1:1 比例顯示地圖。</translation>
     </message>
     <message>
         <source>Database</source>
-        <translation>Base de Données</translation>
+        <translation>資料庫</translation>
     </message>
     <message>
         <source>Opens the database.</source>
-        <translation>Ouvre la base de données.</translation>
+        <translation>開啟資料庫。</translation>
     </message>
     <message>
         <source>Plugin Manager</source>
-        <translation>Gestionnaire de Modules</translation>
+        <translation>插件管理器</translation>
     </message>
     <message>
         <source>Opens the plugin manager window.</source>
-        <translation>Ouvre la fenêtre du gestionnaire de modules.</translation>
+        <translation>開啟插件管理器視窗。</translation>
     </message>
     <message>
         <source>Sound Test</source>
-        <translation>Test de Son</translation>
+        <translation>聲音測試</translation>
     </message>
     <message>
         <source>Opens the sound test window.</source>
-        <translation>Ouvre la fenêtre de test de son.</translation>
+        <translation>開啟聲音測試視窗。</translation>
     </message>
     <message>
         <source>Event Searcher</source>
-        <translation>Chercheur d&apos;Évènement</translation>
+        <translation>劇情搜尋器</translation>
     </message>
     <message>
         <source>Opens the event searcher window.</source>
-        <translation>Ouvre la fenêtre de chercheur d&apos;évènements.</translation>
+        <translation>開啟劇情搜尋器視窗。</translation>
     </message>
     <message>
         <source>Playtest</source>
-        <translation>Playtest (Essai)</translation>
+        <translation>遊戲測試</translation>
     </message>
     <message>
         <source>Starts a playtest of the current game.</source>
-        <translation>Démarre un playtest du jeu actuel.</translation>
+        <translation>開始當前遊戲的測試。</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Ouvrir Fichier</translation>
+        <translation>開啟資料夾</translation>
     </message>
     <message>
         <source>Opens folder for the current game.</source>
-        <translation>Ouvre le fichier pour le jeu actuel.</translation>
+        <translation>開啟當前遊戲的檔案夾。</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Contenu</translation>
+        <translation>內容</translation>
     </message>
     <message>
         <source>Open the help.</source>
-        <translation>Ouvrir l&apos;aide.</translation>
+        <translation>開啟幫助。</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>À Propos</translation>
+        <translation>關於</translation>
     </message>
     <message>
         <source>Displays the version number and copyrights.</source>
-        <translation>Affiche le numéro de version et les droits d&apos;auteur.</translation>
+        <translation>顯示版本號和版權。</translation>
     </message>
     <message>
         <source>Exit %1</source>
-        <translation>Quitter %1</translation>
+        <translation>退出 %1</translation>
     </message>
     <message>
         <source>Exits the application.</source>
-        <translation>Quitte l&apos;application.</translation>
+        <translation>退出應用。</translation>
     </message>
     <message>
         <source>Generate Dungeon</source>
-        <translation>Générer Donjon</translation>
+        <translation>產生地下城</translation>
     </message>
     <message>
         <source>Generates a dungeon in the current map.</source>
-        <translation>Génère un donjon dans la carte actuelle.</translation>
+        <translation>在目前的地圖中產生地下城。</translation>
     </message>
     <message>
         <source>Character Generator</source>
-        <translation>Générateur de Personnages</translation>
+        <translation>人物產生器</translation>
     </message>
     <message>
         <source>Opens the Character Generator window.</source>
-        <translation>Ouvre la fenêtre du générateur de personnages.</translation>
+        <translation>開啟人物產生器視窗。</translation>
     </message>
     <message>
         <source>Resource Manager</source>
-        <translation>Gestionnaire de ressources</translation>
+        <translation>資源管理器</translation>
     </message>
     <message>
         <source>Opens the Resource Manager window.</source>
-        <translation>Ouvre la fenêtre du gestionnaire de ressources.</translation>
+        <translation>打開資源管理器視窗。</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation>選項</translation>
     </message>
     <message>
         <source>Change editor settings.</source>
-        <translation>Changer les réglages de l&apos;éditeur.</translation>
+        <translation>變更編輯器的設定。</translation>
     </message>
     <message>
         <source>Steam Management</source>
-        <translation>Gestion de Steam</translation>
+        <translation>Steam管理</translation>
     </message>
     <message>
         <source>Manage Your Steam Cloud.</source>
-        <translation>Gérez votre compte Steam Cloud.</translation>
+        <translation>管理您的Steam雲端。</translation>
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
@@ -11632,11 +11589,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>RPG Maker MV Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>RPG Maker MV工具</translation>
     </message>
     <message>
         <source>Add external tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>添加外部工具。</translation>
     </message>
     <message>
         <source>Stop tutorial</source>
@@ -11655,40 +11612,40 @@ Please complete the post with follow this link.</source>
     <name>MapEditTreeBox</name>
     <message>
         <source>Cannot create any more maps.</source>
-        <translation>Ne peut pas créer d&apos;autres cartes.</translation>
+        <translation>不能創建任何更多地圖。</translation>
     </message>
     <message>
         <source>Delete %1?</source>
-        <translation>Supprimer %1?</translation>
+        <translation>刪除 %1？</translation>
     </message>
 </context>
 <context>
     <name>MapEditorMainView</name>
     <message>
         <source>Cannot create any more events.</source>
-        <translation>Ne peut pas créer d&apos;autres évènements.</translation>
+        <translation>不能創建任何更多劇情。</translation>
     </message>
 </context>
 <context>
     <name>MenuItem_IconSetViewer</name>
     <message>
         <source>IconSet Viewer</source>
-        <translation>Visionneuse de jeu d&apos;icônes</translation>
+        <translation>圖示查看器</translation>
     </message>
     <message>
         <source>Icon Index</source>
-        <translation>Index Icône</translation>
+        <translation>圖示索引</translation>
     </message>
     <message>
         <source>Index number of the selected icon.</source>
-        <translation>Numéro d&apos;index de l&apos;icône sélectionnée.</translation>
+        <translation>所選圖示的索引號。</translation>
     </message>
 </context>
 <context>
     <name>MenuItem_PluginHelpEverywhere</name>
     <message>
         <source>Plugin Help</source>
-        <translation>Aide du Module</translation>
+        <translation>插件幫助</translation>
     </message>
 </context>
 <context>
@@ -11696,7 +11653,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Yes</source>
         <comment>Dialog Button</comment>
-        <translation>Oui</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>No</source>
@@ -11711,7 +11668,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
-        <translation>Annuler</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -11719,12 +11676,12 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Yes</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Oui</translation>
+        <translation type="unfinished">Yes</translation>
     </message>
     <message>
         <source>No</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No</translation>
     </message>
     <message>
         <source>OK</source>
@@ -11734,18 +11691,18 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Annuler</translation>
+        <translation type="unfinished">取消</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand14</name>
     <message>
         <source>Offset</source>
-        <translation>Correction</translation>
+        <translation>偏移</translation>
     </message>
     <message>
         <source>Distance from the current position to the jump position.</source>
-        <translation>Distance depuis la position actuelle jusqu&apos;à la position de saut.</translation>
+        <translation>從當前位置到跳轉位置的距離。</translation>
     </message>
     <message>
         <source>X</source>
@@ -11753,7 +11710,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Horizontal offset value.</source>
-        <translation>Valeur du décalage horizontal.</translation>
+        <translation>橫向偏移值。</translation>
     </message>
     <message>
         <source>Y</source>
@@ -11761,80 +11718,80 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Vertical offset value.</source>
-        <translation>Valeur du décalage vertical.</translation>
+        <translation>縱向偏移值。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand15</name>
     <message>
         <source>Duration of the wait in frames.</source>
-        <translation>Durée de l&apos;attente en trames.</translation>
+        <translation>框等待持續時間。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand27</name>
     <message>
         <source>Switch</source>
-        <translation>Interrupteur</translation>
+        <translation>開關</translation>
     </message>
     <message>
         <source>Switch to be turned ON.</source>
-        <translation>Interrupteur à régler sur ON.</translation>
+        <translation>要打開 (ON) 的開關。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand28</name>
     <message>
         <source>Switch</source>
-        <translation>Interrupteur</translation>
+        <translation>開關</translation>
     </message>
     <message>
         <source>Switch to be turned OFF.</source>
-        <translation>Interrupteur à régler sur OFF.</translation>
+        <translation>要關閉 (OFF) 的開關。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand41</name>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation>Image à afficher sur l&apos;écran de la carte.</translation>
+        <translation>顯示在地圖畫面的圖像。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand42</name>
     <message>
         <source>Opacity</source>
-        <translation>Opacité</translation>
+        <translation>不透明度</translation>
     </message>
     <message>
         <source>Opacity level of the character.</source>
-        <translation>Niveau d&apos;opacité du personnage.</translation>
+        <translation>人物不透明度水平。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand43</name>
     <message>
         <source>Blend Mode</source>
-        <translation>Mode Mélange</translation>
+        <translation>融合模式</translation>
     </message>
     <message>
         <source>Blend mode used when the character is drawn.</source>
-        <translation>Mode mélange utilisé quand le personnage est dessiné.</translation>
+        <translation>繪製人物時使用的融合模式。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand45</name>
     <message>
         <source>Script</source>
-        <translation>Script</translation>
+        <translation>腳本</translation>
     </message>
     <message>
         <source>JavaScript code to be evaluated.</source>
-        <translation>Code JavaScript à évaluer.</translation>
+        <translation>要評估的 JavaScript 代碼。</translation>
     </message>
 </context>
 <context>
@@ -11852,197 +11809,197 @@ Please complete the post with follow this link.</source>
     <name>MovementCommands</name>
     <message>
         <source>Move Down</source>
-        <translation>Déplacer vers le bas</translation>
+        <translation>下移</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>Déplacer vers la gauche</translation>
+        <translation>左移</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>Déplacer vers la droite</translation>
+        <translation>右移</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>Déplacer vers le haut</translation>
+        <translation>上移</translation>
     </message>
     <message>
         <source>Move Lower Left</source>
-        <translation>Déplacer en bas à gauche</translation>
+        <translation>左下移動</translation>
     </message>
     <message>
         <source>Move Lower Right</source>
-        <translation>Déplacer en bas à droite</translation>
+        <translation>右下移動</translation>
     </message>
     <message>
         <source>Move Upper Left</source>
-        <translation>Déplacer en haut à gauche</translation>
+        <translation>左上移動</translation>
     </message>
     <message>
         <source>Move Upper Right</source>
-        <translation>Déplacer en haut à droite</translation>
+        <translation>右上移動</translation>
     </message>
     <message>
         <source>Move at Random</source>
-        <translation>Déplacer aléatoirement</translation>
+        <translation>隨機移動</translation>
     </message>
     <message>
         <source>Move toward Player</source>
-        <translation>Délacer vers le Joueur</translation>
+        <translation>向玩家移動</translation>
     </message>
     <message>
         <source>Move away from Player</source>
-        <translation>S&apos;éloigner du Joueur</translation>
+        <translation>移動離開玩家</translation>
     </message>
     <message>
         <source>1 Step Forward</source>
-        <translation>1 Pas en l&apos;Avant</translation>
+        <translation>1 步向前</translation>
     </message>
     <message>
         <source>1 Step Backward</source>
-        <translation>1 Pas en Arrière</translation>
+        <translation>1 步向後</translation>
     </message>
     <message>
         <source>Jump</source>
-        <translation>Saut</translation>
+        <translation>跳</translation>
     </message>
     <message>
         <source>Wait</source>
-        <translation>Attendre</translation>
+        <translation>等待</translation>
     </message>
     <message>
         <source>Turn Down</source>
-        <translation>Tourner vers le bas</translation>
+        <translation>下轉</translation>
     </message>
     <message>
         <source>Turn Left</source>
-        <translation>Tourner à gauche</translation>
+        <translation>左轉</translation>
     </message>
     <message>
         <source>Turn Right</source>
-        <translation>Tourner à droite</translation>
+        <translation>右轉</translation>
     </message>
     <message>
         <source>Turn Up</source>
-        <translation>Tourner vers le haut</translation>
+        <translation>上轉</translation>
     </message>
     <message>
         <source>Turn 90° Right</source>
-        <translation>Tourner de 90° à droite</translation>
+        <translation>右轉 90°</translation>
     </message>
     <message>
         <source>Turn 90° Left</source>
-        <translation>Tourner de 90° à gauche</translation>
+        <translation>左轉 90°</translation>
     </message>
     <message>
         <source>Turn 180°</source>
-        <translation>Tournez de 180°</translation>
+        <translation>轉 180°</translation>
     </message>
     <message>
         <source>Turn 90° Right or Left</source>
-        <translation>Tourner 90°droite ou gauche</translation>
+        <translation>左轉或左轉 90°</translation>
     </message>
     <message>
         <source>Turn at Random</source>
-        <translation>Tourner aléatoirement</translation>
+        <translation>隨機轉</translation>
     </message>
     <message>
         <source>Turn toward Player</source>
-        <translation>Tourner vers le Joueur</translation>
+        <translation>轉向玩家</translation>
     </message>
     <message>
         <source>Turn away from Player</source>
-        <translation>Se détourner du Joueur</translation>
+        <translation>轉離玩家</translation>
     </message>
     <message>
         <source>Switch ON</source>
-        <translation>Interrupteur ON</translation>
+        <translation>打開 ON</translation>
     </message>
     <message>
         <source>Switch OFF</source>
-        <translation>Interrupteur OFF</translation>
+        <translation>關閉 OFF</translation>
     </message>
     <message>
         <source>Speed</source>
         <comment>Movement Speed</comment>
-        <translation>Vitesse</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Change Speed</source>
-        <translation>Changer Vitesse</translation>
+        <translation>更改速度</translation>
     </message>
     <message>
         <source>Frequency</source>
         <comment>Movement Frequency</comment>
-        <translation>Fréquence</translation>
+        <translation>頻率</translation>
     </message>
     <message>
         <source>Change Frequency</source>
-        <translation>Changer Fréquence</translation>
+        <translation>更改頻率</translation>
     </message>
     <message>
         <source>Walking Animation ON</source>
-        <translation>Animation Marche ON</translation>
+        <translation>行走動畫 ON</translation>
     </message>
     <message>
         <source>Walking Animation OFF</source>
-        <translation>Animation Marche OFF</translation>
+        <translation>行走動畫 OFF</translation>
     </message>
     <message>
         <source>Stepping Animation ON</source>
-        <translation>Animation Pas à Pas ON</translation>
+        <translation>踏步動畫 ON</translation>
     </message>
     <message>
         <source>Stepping Animation OFF</source>
-        <translation>Animation Pas à Pas OFF</translation>
+        <translation>踏步動畫 OFF</translation>
     </message>
     <message>
         <source>Direction Fix ON</source>
-        <translation>Direction Fixe ON</translation>
+        <translation>方向固定 ON</translation>
     </message>
     <message>
         <source>Direction Fix OFF</source>
-        <translation>Direction Fixe OFF</translation>
+        <translation>方向固定 OFF</translation>
     </message>
     <message>
         <source>Through ON</source>
-        <translation>À Travers ON</translation>
+        <translation>穿過 ON</translation>
     </message>
     <message>
         <source>Through OFF</source>
-        <translation>À Travers OFF</translation>
+        <translation>穿過 OFF</translation>
     </message>
     <message>
         <source>Transparent ON</source>
-        <translation>Transparent ON</translation>
+        <translation>透明 ON</translation>
     </message>
     <message>
         <source>Transparent OFF</source>
-        <translation>Transparent OFF</translation>
+        <translation>透明 OFF</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Change Image</source>
-        <translation>Changer Image</translation>
+        <translation>更改圖像</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Opacité</translation>
+        <translation>不透明度</translation>
     </message>
     <message>
         <source>Change Opacity</source>
-        <translation>Changer Opacité</translation>
+        <translation>更改不透明度</translation>
     </message>
     <message>
         <source>Blend Mode</source>
-        <translation>Mode Mélange</translation>
+        <translation>融合模式</translation>
     </message>
     <message>
         <source>Change Blend Mode</source>
-        <translation>Changer Mode Mélange</translation>
+        <translation>更改融合模式</translation>
     </message>
     <message>
         <source>SE</source>
@@ -12050,195 +12007,195 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Play SE</source>
-        <translation>Jouer SE</translation>
+        <translation>播放 SE</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation>Script</translation>
+        <translation>腳本</translation>
     </message>
     <message>
         <source>Undefined Command</source>
-        <translation>Commande Indéfinie</translation>
+        <translation>未定義命令</translation>
     </message>
     <message>
         <source>Moves to the lower tile.</source>
-        <translation>Se déplace vers le tile inférieur.</translation>
+        <translation>移動到下麵圖塊。</translation>
     </message>
     <message>
         <source>Moves to the left tile.</source>
-        <translation>Se déplace vers le tile gauche.</translation>
+        <translation>移動到左圖塊。</translation>
     </message>
     <message>
         <source>Moves to the right tile.</source>
-        <translation>Se déplace vers le tile droit.</translation>
+        <translation>移動到右圖塊。</translation>
     </message>
     <message>
         <source>Moves to the upper tile.</source>
-        <translation>Se déplace vers le tile supérieur.</translation>
+        <translation>移動到上面圖塊。</translation>
     </message>
     <message>
         <source>Moves to the lower left tile diagonally.</source>
-        <translation>Se déplace vers le tile inférieur gauche en diagonale.</translation>
+        <translation>對角移動到左下圖塊。</translation>
     </message>
     <message>
         <source>Moves to the lower right tile diagonally.</source>
-        <translation>Se déplace vers le tile inférieur droit en diagonale.</translation>
+        <translation>對角移動到右下圖塊。</translation>
     </message>
     <message>
         <source>Moves to the upper left tile diagonally.</source>
-        <translation>Se déplace vers le tile supérieur gauche en diagonale.</translation>
+        <translation>對角移動到左上圖塊。</translation>
     </message>
     <message>
         <source>Moves to the upper right tile diagonally.</source>
-        <translation>Se déplace vers le tile supérieur droit en diagonale.</translation>
+        <translation>對角移動到右上圖塊。</translation>
     </message>
     <message>
         <source>Moves up, down, left, or right.</source>
-        <translation>Se déplace vers le haut, le bas, la gauche ou la droite.</translation>
+        <translation>上、下、左或右移動。</translation>
     </message>
     <message>
         <source>Moves toward the current location of the player.</source>
-        <translation>Se déplace vers l&apos;emplacement actuel du joueur.</translation>
+        <translation>向玩家當前位置移動。</translation>
     </message>
     <message>
         <source>Moves away from the current location of the player.</source>
-        <translation>S&apos;éloigne de l&apos;endroit actuel où se situe le joueur.</translation>
+        <translation>移動離開玩家當前位置。</translation>
     </message>
     <message>
         <source>Moves in the current direction.</source>
-        <translation>Se déplace dans la direction actuelle.</translation>
+        <translation>以當前方向移動。</translation>
     </message>
     <message>
         <source>Moves in the opposite direction without turning around.</source>
-        <translation>Se déplace dans la direction opposée sans se retourner.</translation>
+        <translation>不轉身朝相反方向移動。</translation>
     </message>
     <message>
         <source>Jumps from the current position.</source>
-        <translation>Saute de la position actuelle.</translation>
+        <translation>從當前位置跳躍。</translation>
     </message>
     <message>
         <source>Waits for a specified amount of time.</source>
-        <translation>Attend pendant une certaine période de temps.</translation>
+        <translation>等待指定的時間。</translation>
     </message>
     <message>
         <source>Faces down.</source>
-        <translation>Orienté vers le bas.</translation>
+        <translation>面朝下。</translation>
     </message>
     <message>
         <source>Faces left.</source>
-        <translation>Orienté vers la gauche.</translation>
+        <translation>面朝左。</translation>
     </message>
     <message>
         <source>Faces right.</source>
-        <translation>Orienté vers la droite.</translation>
+        <translation>面朝右。</translation>
     </message>
     <message>
         <source>Faces up.</source>
-        <translation>Orienté vers le haut.</translation>
+        <translation>面朝上。</translation>
     </message>
     <message>
         <source>Faces 90 degrees to the right.</source>
-        <translation>Orienté 90 degrés vers la droite.</translation>
+        <translation>面朝右 90 度。</translation>
     </message>
     <message>
         <source>Faces 90 degrees to the left.</source>
-        <translation>Orienté 90 degrés vers la gauche.</translation>
+        <translation>面朝左 90 度。</translation>
     </message>
     <message>
         <source>Faces the opposite direction.</source>
-        <translation>Orienté dans la direction opposée.</translation>
+        <translation>面朝相反方向。</translation>
     </message>
     <message>
         <source>Faces 90 degrees to the right or left.</source>
-        <translation>Orienté 90 degrés vers la droite ou la gauche.</translation>
+        <translation>面朝右或左 90 度。</translation>
     </message>
     <message>
         <source>Faces up, down, left, or right.</source>
-        <translation>Orienté vers le haut, le bas, la gauche ou la droite.</translation>
+        <translation>面朝上、下、左或右。</translation>
     </message>
     <message>
         <source>Faces toward the current location of the player.</source>
-        <translation>Orienté vers l&apos;emplacement actuel du joueur.</translation>
+        <translation>面朝玩家當前位置。</translation>
     </message>
     <message>
         <source>Faces opposite toward the current location of the player.</source>
-        <translation>Orienté à l&apos;opposé de l&apos;emplacement actuel du joueur.</translation>
+        <translation>面朝向與玩家當前位置相反方向。</translation>
     </message>
     <message>
         <source>Turns the specified switch ON.</source>
-        <translation>Règle l&apos;interrupteur spécifié sur ON.</translation>
+        <translation>打開指定開關為 ON。</translation>
     </message>
     <message>
         <source>Turns the specified switch OFF.</source>
-        <translation>Règle l&apos;interrupteur spécifié sur OFF.</translation>
+        <translation>關閉指定開關為 OFF。</translation>
     </message>
     <message>
         <source>Changes the speed.</source>
-        <translation>Change la vitesse.</translation>
+        <translation>更改速度。</translation>
     </message>
     <message>
         <source>Changes the frequency. Only applies to autonomous movement.</source>
-        <translation>Change la fréquence. S&apos;applique uniquement au mouvement autonome.</translation>
+        <translation>更改頻率。僅應用到自主移動。</translation>
     </message>
     <message>
         <source>Turns on the walking animation when the character is moving.</source>
-        <translation>Active l&apos;animation marche quand le personnage se déplace.</translation>
+        <translation>人物移動時打開行走動畫。</translation>
     </message>
     <message>
         <source>Turns off the walking animation when the character is moving.</source>
-        <translation>Désactive l&apos;animation marche quand le personnage se déplace.</translation>
+        <translation>人物移動時關閉行走動畫。</translation>
     </message>
     <message>
         <source>Turns on the stepping animation when the character has stopped.</source>
-        <translation>Active l&apos;animation pas à pas quand le personnage s&apos;est arrêté.</translation>
+        <translation>人物停止時打開踏步動畫。</translation>
     </message>
     <message>
         <source>Turns off the stepping animation when the character has stopped.</source>
-        <translation>Désactive l&apos;animation pas à pas quand le personnage s&apos;est arrêté.</translation>
+        <translation>人物停止時關閉踏步動畫。</translation>
     </message>
     <message>
         <source>Makes it impossible to change the direction of the character.</source>
-        <translation>Rend impossible de changer la direction du personnage.</translation>
+        <translation>不能改變人物的方向。</translation>
     </message>
     <message>
         <source>Makes it possible to change the direction of the character.</source>
-        <translation>Rend possible de changer la direction du personnage.</translation>
+        <translation>允許改變人物的方向。</translation>
     </message>
     <message>
         <source>Makes it possible to move through impassable tiles and characters.</source>
-        <translation>Rend possible de se déplacer à travers les tiles infranchissables et les personnages.</translation>
+        <translation>允許移動穿過不可通過圖塊和人物。</translation>
     </message>
     <message>
         <source>Makes it impossible to move through impassable tiles and characters.</source>
-        <translation>Rend impossible de se déplacer à travers les tiles infranchissables et les personnages.</translation>
+        <translation>不允許移動穿過不可通過圖塊和人物。</translation>
     </message>
     <message>
         <source>Makes the character invisible.</source>
-        <translation>Rend le personnage invisible.</translation>
+        <translation>使人物看不見。</translation>
     </message>
     <message>
         <source>Makes the character visible.</source>
-        <translation>Rend le personnage visible.</translation>
+        <translation>使人物可見。</translation>
     </message>
     <message>
         <source>Changes the image of the character.</source>
-        <translation>Change l&apos;image du personnage.</translation>
+        <translation>更改人物的圖像。</translation>
     </message>
     <message>
         <source>Changes the opacity of the character.</source>
-        <translation>Change l&apos;opacité du personnage.</translation>
+        <translation>更改人物的不透明度。</translation>
     </message>
     <message>
         <source>Changes the blend mode of the character.</source>
-        <translation>Change le mode de mélange du personnage.</translation>
+        <translation>更改人物的融合模式。</translation>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>Joue la SE spécifiée.</translation>
+        <translation>播放指定 SE。</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
-        <translation>Évalue le texte comme JavaScript.</translation>
+        <translation>將文字作為 JavaScript 評估。</translation>
     </message>
 </context>
 <context>
@@ -12246,31 +12203,31 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Frequency</source>
         <comment>Movement Frequency</comment>
-        <translation>Fréquence</translation>
+        <translation>移動頻率框</translation>
     </message>
     <message>
         <source>Frequency of autonomous movement.</source>
-        <translation>Fréquence de mouvement autonome.</translation>
+        <translation>自主移動頻率。</translation>
     </message>
     <message>
         <source>1: Lowest</source>
-        <translation>1 : Le plus bas</translation>
+        <translation>1: 最低</translation>
     </message>
     <message>
         <source>2: Lower</source>
-        <translation>2 : Inférieur</translation>
+        <translation>2: 較低</translation>
     </message>
     <message>
         <source>3: Normal</source>
-        <translation>3 : Normal</translation>
+        <translation>3: 標準</translation>
     </message>
     <message>
         <source>4: Higher</source>
-        <translation>4 : Supérieur</translation>
+        <translation>4: 較高</translation>
     </message>
     <message>
         <source>5: Highest</source>
-        <translation>5 : Le plus élevé</translation>
+        <translation>5: 最高</translation>
     </message>
 </context>
 <context>
@@ -12278,518 +12235,519 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Speed</source>
         <comment>Movement Speed</comment>
-        <translation>Vitesse</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>Movement speed of the character.</source>
-        <translation>Vitesse de mouvement du personnage.</translation>
+        <translation>人物移動速度。</translation>
     </message>
     <message>
         <source>1: x8 Slower</source>
-        <translation>1 : 8x Plus lent</translation>
+        <translation>1: x8 較慢</translation>
     </message>
     <message>
         <source>2: x4 Slower</source>
-        <translation>2 : 4x Plus lent</translation>
+        <translation>2: x4 較慢</translation>
     </message>
     <message>
         <source>3: x2 Slower</source>
-        <translation>3 : 2x Plus lent</translation>
+        <translation>3: x2 較慢</translation>
     </message>
     <message>
         <source>4: Normal</source>
-        <translation>4 : Normal</translation>
+        <translation>4: 標準</translation>
     </message>
     <message>
         <source>5: x2 Faster</source>
-        <translation>5 : 2x Plus rapide</translation>
+        <translation>5: x2 較快</translation>
     </message>
     <message>
         <source>6: x4 Faster</source>
-        <translation>6 : 4x Plus rapide</translation>
+        <translation>6: x4 較快</translation>
     </message>
 </context>
 <context>
     <name>NewDataMaker</name>
     <message>
         <source>Hit Physical</source>
-        <translation>Frapper Physique</translation>
+        <translation>打擊物理</translation>
     </message>
     <message>
         <source>Hit Effect</source>
-        <translation>Frapper Effet</translation>
+        <translation>打擊效果</translation>
     </message>
     <message>
         <source>Hit Fire</source>
-        <translation>Frapper Feu</translation>
+        <translation>打擊火</translation>
     </message>
     <message>
         <source>Hit Ice</source>
-        <translation>Frapper Glace</translation>
+        <translation>打擊冰</translation>
     </message>
     <message>
         <source>Hit Thunder</source>
-        <translation>Frapper Tonnerre</translation>
+        <translation>打擊雷電</translation>
     </message>
     <message>
         <source>Slash Physical</source>
-        <translation>Trancher Physique</translation>
+        <translation>猛擊物理</translation>
     </message>
     <message>
         <source>Slash Effect</source>
-        <translation>Trancher Effet</translation>
+        <translation>猛擊效果</translation>
     </message>
     <message>
         <source>Slash Fire</source>
-        <translation>Trancher Feu</translation>
+        <translation>猛擊火</translation>
     </message>
     <message>
         <source>Slash Ice</source>
-        <translation>Trancher Glace</translation>
+        <translation>猛擊冰</translation>
     </message>
     <message>
         <source>Slash Thunder</source>
-        <translation>Trancher Tonnerre</translation>
+        <translation>猛擊雷電</translation>
     </message>
     <message>
         <source>Pierce Physical</source>
-        <translation>Transpercer Physique</translation>
+        <translation>穿破物理</translation>
     </message>
     <message>
         <source>Pierce Effect</source>
-        <translation>Transpercer Effet</translation>
+        <translation>穿破效果</translation>
     </message>
     <message>
         <source>Pierce Fire</source>
-        <translation>Transpercer Feu</translation>
+        <translation>穿破火</translation>
     </message>
     <message>
         <source>Pierce Ice</source>
-        <translation>Transpercer Glace</translation>
+        <translation>穿破冰</translation>
     </message>
     <message>
         <source>Pierce Thunder</source>
-        <translation>Transpercer Tonnerre</translation>
+        <translation>穿破雷電</translation>
     </message>
     <message>
         <source>Claw Physical</source>
-        <translation>Griffer Physique</translation>
+        <translation>爪物理</translation>
     </message>
     <message>
         <source>Claw Effect</source>
-        <translation>Griffer Effet</translation>
+        <translation>爪效果</translation>
     </message>
     <message>
         <source>Claw Fire</source>
-        <translation>Griffer Feu</translation>
+        <translation>爪火</translation>
     </message>
     <message>
         <source>Claw Ice</source>
-        <translation>Griffer Glace</translation>
+        <translation>爪冰</translation>
     </message>
     <message>
         <source>Claw Thunder</source>
-        <translation>Griffer Tonnerre</translation>
+        <translation>爪雷電</translation>
     </message>
     <message>
         <source>Hit Special 1</source>
-        <translation>Frapper Spécial 1</translation>
+        <translation>打擊特殊 1</translation>
     </message>
     <message>
         <source>Hit Special 2</source>
-        <translation>Frapper Spécial 2</translation>
+        <translation>打擊特殊 2</translation>
     </message>
     <message>
         <source>Slash Special 1</source>
-        <translation>Trancher Spécial 1</translation>
+        <translation>猛擊特殊 1</translation>
     </message>
     <message>
         <source>Slash Special 2</source>
-        <translation>Trancher Spécial 2</translation>
+        <translation>猛擊特殊 2</translation>
     </message>
     <message>
         <source>Slash Special 3</source>
-        <translation>Trancher Spécial 3</translation>
+        <translation>猛擊特殊 2</translation>
     </message>
     <message>
         <source>Pierce Special 1</source>
-        <translation>Transpercer Spécial 1</translation>
+        <translation>穿破特殊 1</translation>
     </message>
     <message>
         <source>Pierce Special 2</source>
-        <translation>Transpercer Spécial 2</translation>
+        <translation>穿破特殊 2</translation>
     </message>
     <message>
         <source>Claw Special</source>
-        <translation>Griffer Spécial</translation>
+        <translation>爪特殊</translation>
     </message>
     <message>
         <source>Arrow Special</source>
-        <translation>Flèche Spéciale</translation>
+        <translation>箭特殊</translation>
     </message>
     <message>
         <source>General Special 1</source>
-        <translation>Général Spécial 1</translation>
+        <translation>一般特殊 1</translation>
     </message>
     <message>
         <source>General Special 2</source>
-        <translation>Général Spécial 2</translation>
+        <translation>一般特殊 2</translation>
     </message>
     <message>
         <source>Breath</source>
-        <translation>Souffle</translation>
+        <translatorcomment>単語修正</translatorcomment>
+        <translation>呼吸</translation>
     </message>
     <message>
         <source>Pollen</source>
-        <translation>Pollen</translation>
+        <translation>花粉</translation>
     </message>
     <message>
         <source>Sonic Wave</source>
-        <translation>Vague Sonique</translation>
+        <translation>聲波</translation>
     </message>
     <message>
         <source>Fog</source>
-        <translation>Brouillard</translation>
+        <translation>迷霧</translation>
     </message>
     <message>
         <source>Song</source>
-        <translation>Chanson</translation>
+        <translation>歌曲</translation>
     </message>
     <message>
         <source>Shout</source>
-        <translation>Cri</translation>
+        <translation>咆嘯</translation>
     </message>
     <message>
         <source>Sweep</source>
-        <translation>Balayage</translation>
+        <translation>席捲</translation>
     </message>
     <message>
         <source>Bodyslam</source>
-        <translation>Claquement</translation>
+        <translation>抱摔</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Flash</translation>
+        <translation>閃光</translation>
     </message>
     <message>
         <source>Heal One 1</source>
-        <translation>Guérir Un 1</translation>
+        <translation>癒療一 1</translation>
     </message>
     <message>
         <source>Heal One 2</source>
-        <translation>Guérir Un 2</translation>
+        <translation>癒療一 2</translation>
     </message>
     <message>
         <source>Heal All 1</source>
-        <translation>Guérir Tous 1</translation>
+        <translation>全體癒療 1</translation>
     </message>
     <message>
         <source>Heal All 2</source>
-        <translation>Guérir Tous 2</translation>
+        <translation>全體癒療 2</translation>
     </message>
     <message>
         <source>Cure One 1</source>
-        <translation>Soigner Un 1</translation>
+        <translation>治癒一 1</translation>
     </message>
     <message>
         <source>Cure One 2</source>
-        <translation>Soigner Un 2</translation>
+        <translation>治癒一 2</translation>
     </message>
     <message>
         <source>Cure All 1</source>
-        <translation>Soigner Tous 1</translation>
+        <translation>全體治癒 1</translation>
     </message>
     <message>
         <source>Cure All 2</source>
-        <translation>Soigner Tous 2</translation>
+        <translation>全體治癒 2</translation>
     </message>
     <message>
         <source>Revive 1</source>
-        <translation>Revivre 1</translation>
+        <translation>復蘇 1</translation>
     </message>
     <message>
         <source>Revive 2</source>
-        <translation>Revivre 2</translation>
+        <translation>復蘇 2</translation>
     </message>
     <message>
         <source>Powerup 1</source>
-        <translation>Augmenter la puissance 1</translation>
+        <translation>能力上升 1</translation>
     </message>
     <message>
         <source>Powerup 2</source>
-        <translation>Augmenter la puissance 2</translation>
+        <translation>能力上升 2</translation>
     </message>
     <message>
         <source>Powerup 3</source>
-        <translation>Augmenter la puissance 3</translation>
+        <translation>能力上升 3</translation>
     </message>
     <message>
         <source>Powerdown 1</source>
-        <translation>Diminuer la puissance 1</translation>
+        <translation>能力下降 1</translation>
     </message>
     <message>
         <source>Powerdown 2</source>
-        <translation>Diminuer la puissance 2</translation>
+        <translation>能力下降 2</translation>
     </message>
     <message>
         <source>Powerdown 3</source>
-        <translation>Diminuer la puissance 3</translation>
+        <translation>能力下降 3</translation>
     </message>
     <message>
         <source>Bind</source>
-        <translation>Attacher</translation>
+        <translation>束縛</translation>
     </message>
     <message>
         <source>Absorb</source>
-        <translation>Absorber</translation>
+        <translation>吸收</translation>
     </message>
     <message>
         <source>Poison</source>
-        <translation>Poison</translation>
+        <translation>中毒</translation>
     </message>
     <message>
         <source>Blind</source>
-        <translation>Aveugle</translation>
+        <translation>失明</translation>
     </message>
     <message>
         <source>Silence</source>
-        <translation>Silence</translation>
+        <translation>失言</translation>
     </message>
     <message>
         <source>Sleep</source>
-        <translation>Sommeil</translation>
+        <translation>睡眠</translation>
     </message>
     <message>
         <source>Confusion</source>
-        <translation>Confusion</translation>
+        <translation>混亂</translation>
     </message>
     <message>
         <source>Paralyze</source>
-        <translation>Paralyser</translation>
+        <translation>麻痺</translation>
     </message>
     <message>
         <source>Death</source>
-        <translation>Mort</translation>
+        <translation>死亡</translation>
     </message>
     <message>
         <source>Fire One 1</source>
-        <translation>Feu Un 1</translation>
+        <translation>火一 1</translation>
     </message>
     <message>
         <source>Fire One 2</source>
-        <translation>Feu Un 2</translation>
+        <translation>火一 2</translation>
     </message>
     <message>
         <source>Fire All 1</source>
-        <translation>Feu Tous 1</translation>
+        <translation>全體火 1</translation>
     </message>
     <message>
         <source>Fire All 2</source>
-        <translation>Feu Tous 2</translation>
+        <translation>全體火 2</translation>
     </message>
     <message>
         <source>Fire All 3</source>
-        <translation>Feu Tous 3</translation>
+        <translation>全體火 3</translation>
     </message>
     <message>
         <source>Ice One 1</source>
-        <translation>Glace Un 1</translation>
+        <translation>冰一 1</translation>
     </message>
     <message>
         <source>Ice One 2</source>
-        <translation>Glace Un 2</translation>
+        <translation>冰一 2</translation>
     </message>
     <message>
         <source>Ice All 1</source>
-        <translation>Glace Tous 1</translation>
+        <translation>全體冰 1</translation>
     </message>
     <message>
         <source>Ice All 2</source>
-        <translation>Glace Tous 2</translation>
+        <translation>全體冰 2</translation>
     </message>
     <message>
         <source>Ice All 3</source>
-        <translation>Glace Tous 3</translation>
+        <translation>全體冰 3</translation>
     </message>
     <message>
         <source>Thunder One 1</source>
-        <translation>Tonnerre Un 1</translation>
+        <translation>雷電一 1</translation>
     </message>
     <message>
         <source>Thunder One 2</source>
-        <translation>Tonnerre Un 2</translation>
+        <translation>雷電一 2</translation>
     </message>
     <message>
         <source>Thunder All 1</source>
-        <translation>Tonnerre Tous 1</translation>
+        <translation>全體雷電 1</translation>
     </message>
     <message>
         <source>Thunder All 2</source>
-        <translation>Tonnerre Tous 2</translation>
+        <translation>全體雷電 2</translation>
     </message>
     <message>
         <source>Thunder All 3</source>
-        <translation>Tonnerre Tous 3</translation>
+        <translation>全體雷電 3</translation>
     </message>
     <message>
         <source>Water One 1</source>
-        <translation>Eau Un 1</translation>
+        <translation>水一 1</translation>
     </message>
     <message>
         <source>Water One 2</source>
-        <translation>Eau Un 2</translation>
+        <translation>水一 2</translation>
     </message>
     <message>
         <source>Water All 1</source>
-        <translation>Eau Tous 1</translation>
+        <translation>全體水 1</translation>
     </message>
     <message>
         <source>Water All 2</source>
-        <translation>Eau Tous 2</translation>
+        <translation>全體水 2</translation>
     </message>
     <message>
         <source>Water All 3</source>
-        <translation>Eau Tous 3</translation>
+        <translation>全體水 3</translation>
     </message>
     <message>
         <source>Earth One 1</source>
-        <translation>Terre Un 1</translation>
+        <translation>土一 1</translation>
     </message>
     <message>
         <source>Earth One 2</source>
-        <translation>Terre Un 2</translation>
+        <translation>土一 2</translation>
     </message>
     <message>
         <source>Earth All 1</source>
-        <translation>Terre Tous 1</translation>
+        <translation>全體土 1</translation>
     </message>
     <message>
         <source>Earth All 2</source>
-        <translation>Terre Tous 2</translation>
+        <translation>全體土 2</translation>
     </message>
     <message>
         <source>Earth All 3</source>
-        <translation>Terre Tous 3</translation>
+        <translation>全體土 3</translation>
     </message>
     <message>
         <source>Wind One 1</source>
-        <translation>Vent Un 1</translation>
+        <translation>風一 1</translation>
     </message>
     <message>
         <source>Wind One 2</source>
-        <translation>Vent Un 2</translation>
+        <translation>風一 2</translation>
     </message>
     <message>
         <source>Wind All 1</source>
-        <translation>Vent Tous 1</translation>
+        <translation>全體風 1</translation>
     </message>
     <message>
         <source>Wind All 2</source>
-        <translation>Vent Tous 2</translation>
+        <translation>全體風 2</translation>
     </message>
     <message>
         <source>Wind All 3</source>
-        <translation>Vent Tous 3</translation>
+        <translation>全體風 3</translation>
     </message>
     <message>
         <source>Light One 1</source>
-        <translation>Lumière Un 1</translation>
+        <translation>光一 1</translation>
     </message>
     <message>
         <source>Light One 2</source>
-        <translation>Lumière Un 2</translation>
+        <translation>光一 2</translation>
     </message>
     <message>
         <source>Light All 1</source>
-        <translation>Lumière Tous 1</translation>
+        <translation>全體光 1</translation>
     </message>
     <message>
         <source>Light All 2</source>
-        <translation>Lumière Tous 2</translation>
+        <translation>全體光 2</translation>
     </message>
     <message>
         <source>Light All 3</source>
-        <translation>Lumière Tous 3</translation>
+        <translation>全體光 3</translation>
     </message>
     <message>
         <source>Darkness One 1</source>
-        <translation>Ténèbres Un 1</translation>
+        <translation>黑暗一 1</translation>
     </message>
     <message>
         <source>Darkness One 2</source>
-        <translation>Ténèbres Un 2</translation>
+        <translation>黑暗一 2</translation>
     </message>
     <message>
         <source>Darkness All 1</source>
-        <translation>Ténèbres Tous 1</translation>
+        <translation>全體黑暗 1</translation>
     </message>
     <message>
         <source>Darkness All 2</source>
-        <translation>Ténèbres Tous 2</translation>
+        <translation>全體黑暗 2</translation>
     </message>
     <message>
         <source>Darkness All 3</source>
-        <translation>Ténèbres Tous 3</translation>
+        <translation>全體黑暗 3</translation>
     </message>
     <message>
         <source>Neutral One 1</source>
-        <translation>Neutre Un 1</translation>
+        <translation>自然一 1</translation>
     </message>
     <message>
         <source>Neutral One 2</source>
-        <translation>Neutre Un 2</translation>
+        <translation>自然一 2</translation>
     </message>
     <message>
         <source>Neutral All 1</source>
-        <translation>Neutre Tous 1</translation>
+        <translation>全體自然 1</translation>
     </message>
     <message>
         <source>Neutral All 2</source>
-        <translation>Neutre Tous 2</translation>
+        <translation>全體自然 2</translation>
     </message>
     <message>
         <source>Neutral All 3</source>
-        <translation>Neutre Tous 3</translation>
+        <translation>全體自然 3</translation>
     </message>
     <message>
         <source>Shoot Normal</source>
-        <translation>Tir Normal</translation>
+        <translation>射擊標準</translation>
     </message>
     <message>
         <source>Shoot Barrage</source>
-        <translation>Tir Barricade</translation>
+        <translation>射擊齊射</translation>
     </message>
     <message>
         <source>Shoot All</source>
-        <translation>Tir Tous</translation>
+        <translation>全體射擊</translation>
     </message>
     <message>
         <source>Shoot Special</source>
-        <translation>Tir Spécial</translation>
+        <translation>射擊特殊</translation>
     </message>
     <message>
         <source>Laser One</source>
-        <translation>Laser Un</translation>
+        <translation>鐳射一</translation>
     </message>
     <message>
         <source>Laser All</source>
-        <translation>Laser Tous</translation>
+        <translation>全體鐳射</translation>
     </message>
     <message>
         <source>Light Pillar 1</source>
-        <translation>Pilier de Lumière 1</translation>
+        <translation>光柱 1</translation>
     </message>
     <message>
         <source>Light Pillar 2</source>
-        <translation>Pilier de Lumière 2</translation>
+        <translation>光柱 2</translation>
     </message>
     <message>
         <source>Ball of Light</source>
-        <translation>Boule de Lumière</translation>
+        <translation>光球</translation>
     </message>
     <message>
         <source>Glowing Light</source>
-        <translation>Lumière Éclatante</translation>
+        <translation>熾熱光</translation>
     </message>
     <message>
         <source>G</source>
@@ -12798,12 +12756,12 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Level</source>
-        <translation>Niveau</translation>
+        <translation>等級</translation>
     </message>
     <message>
         <source>Lv</source>
         <comment>Level (abbr.)</comment>
-        <translation>Nv</translation>
+        <translation>Lv</translation>
     </message>
     <message>
         <source>HP</source>
@@ -12834,825 +12792,820 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>EXP</source>
-        <translation>EXP</translation>
+        <translation>經驗值 (EXP)</translation>
     </message>
     <message>
         <source>EXP</source>
         <comment>EXP (abbr.)</comment>
-        <translation>EXP</translation>
+        <translation>經驗值 (EXP)</translation>
     </message>
     <message>
         <source>Max HP</source>
-        <translation>Max HP</translation>
+        <translation>最大 HP</translation>
     </message>
     <message>
         <source>Max MP</source>
-        <translation>Max MP</translation>
+        <translation>最大 MP</translation>
     </message>
     <message>
         <source>Attack</source>
-        <translation>Attaque</translation>
+        <translation>攻擊</translation>
     </message>
     <message>
         <source>Defense</source>
-        <translation>Défense</translation>
+        <translation>防禦</translation>
     </message>
     <message>
         <source>M.Attack</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Attaque M.</translation>
+        <translation>M.攻擊</translation>
     </message>
     <message>
         <source>M.Defense</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Défense M.</translation>
+        <translation>M.防禦</translation>
     </message>
     <message>
         <source>Agility</source>
-        <translation>Agilité</translation>
+        <translation>敏捷度</translation>
     </message>
     <message>
         <source>Luck</source>
-        <translation>Chance</translation>
+        <translation>運氣</translation>
     </message>
     <message>
         <source>Hit</source>
         <comment>Hit Rate</comment>
-        <translation>Coup</translation>
+        <translation>打擊</translation>
     </message>
     <message>
         <source>Evasion</source>
         <comment>Evasion Rate</comment>
-        <translation>Évasion</translation>
+        <translation>閃避</translation>
     </message>
     <message>
         <source>Always Dash</source>
-        <translation>Toujours courir</translation>
+        <translation>始終衝刺</translation>
     </message>
     <message>
         <source>Command Remember</source>
-        <translation>Commande Se Rappeler</translation>
+        <translation>命令記住</translation>
     </message>
     <message>
         <source>BGM Volume</source>
-        <translation>Volume BGM</translation>
+        <translation>BGM 音量</translation>
     </message>
     <message>
         <source>BGS Volume</source>
-        <translation>Volume BGS</translation>
+        <translation>BGS 音量</translation>
     </message>
     <message>
         <source>ME Volume</source>
-        <translation>Volume ME</translation>
+        <translation>ME 音量</translation>
     </message>
     <message>
         <source>SE Volume</source>
-        <translation>Volume SE</translation>
+        <translation>SE 音量</translation>
     </message>
     <message>
         <source>Possession</source>
-        <translation>Possession</translation>
+        <translation>財產</translation>
     </message>
     <message>
         <source>Current %1</source>
-        <translation>%1 Actuel</translation>
+        <translation>當前 %1</translation>
     </message>
     <message>
         <source>To Next %1</source>
-        <translation>Jusqu&apos;au %1 suivant</translation>
+        <translation>至下一個 %1</translation>
     </message>
     <message>
         <source>Save to which file?</source>
-        <translation>Sauvegarder dans quel fichier?</translation>
+        <translation>保存到哪個檔案？</translation>
     </message>
     <message>
         <source>Load which file?</source>
-        <translation>Charger quel fichier?</translation>
+        <translation>讀取哪個檔案？</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation>檔案</translation>
     </message>
     <message>
         <source>%1&apos;s Party</source>
-        <translation>Groupe de %1</translation>
+        <translation>%1 的隊伍</translation>
     </message>
     <message>
         <source>%1 emerged!</source>
-        <translation>%1 emergé !</translation>
+        <translation>%1 出現！</translation>
     </message>
     <message>
         <source>%1 got the upper hand!</source>
-        <translation>%1 a eu le dessus !</translation>
+        <translation>%1 占上風！</translation>
     </message>
     <message>
         <source>%1 was surprised!</source>
-        <translation>%1 a été supris !</translation>
+        <translation>%1 被突襲！</translation>
     </message>
     <message>
         <source>%1 has started to escape!</source>
-        <translation>%1 a commencé à s&apos;enfuir !</translation>
+        <translation>%1 開始逃跑！</translation>
     </message>
     <message>
         <source>However, it was unable to escape!</source>
-        <translation>Cependant, il n&apos;a pas réussi à s&apos;enfuir !</translation>
+        <translation>然而，其未能跳脫！</translation>
     </message>
     <message>
         <source>%1 was victorious!</source>
-        <translation>%1 est victorieux !</translation>
+        <translation>%1 獲勝！</translation>
     </message>
     <message>
         <source>%1 was defeated.</source>
-        <translation>%1 a été vaincu.</translation>
+        <translation>%1 被擊敗。</translation>
     </message>
     <message>
         <source>%1 %2 received!</source>
-        <translation>%1 %2 reçu !</translation>
+        <translation>收到 %1 %2！</translation>
     </message>
     <message>
         <source>%1\G found!</source>
-        <translation>%1\G trouvé(s) !</translation>
+        <translation>找到%1\G！</translation>
     </message>
     <message>
         <source>%1 found!</source>
-        <translation>%1 trouvé !</translation>
+        <translation>找到%1！</translation>
     </message>
     <message>
         <source>%1 is now %2 %3!</source>
-        <translation>%1 est maintenant %2 %3 !</translation>
+        <translation>%1 現在是 %2 %3！</translation>
     </message>
     <message>
         <source>%1 learned!</source>
-        <translation>%1 appris !</translation>
+        <translation>已學習%1！</translation>
     </message>
     <message>
         <source>%1 uses %2!</source>
-        <translation>%1 utilise %2 !</translation>
+        <translation>%1 使用 %2！</translation>
     </message>
     <message>
         <source>An excellent hit!!</source>
         <comment>critical to enemy</comment>
-        <translation>Un excellent coup !</translation>
+        <translation>打得好！！</translation>
     </message>
     <message>
         <source>A painful blow!!</source>
         <comment>critical to actor</comment>
-        <translation>Un coup douloureux !!</translation>
+        <translation>危險！！</translation>
     </message>
     <message>
         <source>%1 took %2 damage!</source>
         <comment>actor</comment>
-        <translation>%1 a pris %2 dommages !</translation>
+        <translation>%1 遭受 %2 傷害！</translation>
     </message>
     <message>
         <source>%1 recovered %2 %3!</source>
         <comment>actor</comment>
-        <translation>%1 a récupéré %2 %3 !</translation>
+        <translation>%1 恢復了 %2 %3！</translation>
     </message>
     <message>
         <source>%1 gained %2 %3!</source>
         <comment>actor</comment>
-        <translation>%1 a gagné %2 %3 !</translation>
+        <translation>%1 獲得 %2 %3！</translation>
     </message>
     <message>
         <source>%1 lost %2 %3!</source>
         <comment>actor</comment>
-        <translation>%1 a perdu %2 %3 !</translation>
+        <translation>%1 損失 %2 %3！</translation>
     </message>
     <message>
         <source>%1 was drained of %2 %3!</source>
         <comment>actor</comment>
-        <translation>%1 a été drainé de %2 %3 !</translation>
+        <translation>%1 耗盡 %2 %3！</translation>
     </message>
     <message>
         <source>%1 took no damage!</source>
         <comment>actor</comment>
-        <translation>%1 n&apos;a pas pris de dommages !</translation>
+        <translation>%1 未遭受傷害！</translation>
     </message>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>actor</comment>
-        <translation>Manqué! %1 n&apos;a pas pris de dommage !</translation>
+        <translation>未擊中！%1 未遭受傷害！</translation>
     </message>
     <message>
         <source>%1 took %2 damage!</source>
         <comment>enemy</comment>
-        <translation>%1 a pris %2 dommages !</translation>
+        <translation>%1 遭受 %2 傷害！</translation>
     </message>
     <message>
         <source>%1 recovered %2 %3!</source>
         <comment>enemy</comment>
-        <translation>%1 a récupéré %2 %3 !</translation>
+        <translation>%1 恢復了 %2 %3！</translation>
     </message>
     <message>
         <source>%1 gained %2 %3!</source>
         <comment>enemy</comment>
-        <translation>%1 a gagné %2 %3 !</translation>
+        <translation>%1 獲得 %2 %3！</translation>
     </message>
     <message>
         <source>%1 lost %2 %3!</source>
         <comment>enemy</comment>
-        <translation>%1 a perdu %2 %3 !</translation>
+        <translation>%1 損失 %2 %3！</translation>
     </message>
     <message>
         <source>%1 was drained of %2 %3!</source>
         <comment>enemy</comment>
-        <translation>%1 a été drainé de %2 %3 !</translation>
+        <translation>%1 耗盡 %2 %3！</translation>
     </message>
     <message>
         <source>%1 took no damage!</source>
         <comment>enemy</comment>
-        <translation>%1 n&apos;a pas pris de dommages !</translation>
+        <translation>%1 未遭受傷害！</translation>
     </message>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>enemy</comment>
-        <translation>Manqué! %1 n&apos;a pas pris de dommage !</translation>
+        <translation>未擊中！%1 未遭受傷害！</translation>
     </message>
     <message>
         <source>%1 evaded the attack!</source>
-        <translation>%1 a échappé à l&apos;attaque !</translation>
+        <translation>%1 閃避了攻擊！</translation>
     </message>
     <message>
         <source>%1 nullified the magic!</source>
-        <translation>%1 a annulé le sort !</translation>
+        <translation>%1 使魔法失效！</translation>
     </message>
     <message>
         <source>%1 reflected the magic!</source>
-        <translation>%1 a réflechi le sort !</translation>
+        <translation>%1 反射了魔法！</translation>
     </message>
     <message>
         <source>%1 counterattacked!</source>
-        <translation>%1 a contre attaqué !</translation>
+        <translation>%1 反擊！</translation>
     </message>
     <message>
         <source>%1 protected %2!</source>
-        <translation>%1 a protégé %2 !</translation>
+        <translation>%1 保護了 %2！</translation>
     </message>
     <message>
         <source>%1&apos;s %2 went up!</source>
-        <translation>%1 de %2 a augmenté !</translation>
+        <translation>%1 的 %2 上升！</translation>
     </message>
     <message>
         <source>%1&apos;s %2 went down!</source>
-        <translation>%1 de %2 a diminué !</translation>
+        <translation>%1 的 %2 下降！</translation>
     </message>
     <message>
         <source>%1&apos;s %2 returned to normal!</source>
-        <translation>%1 de %2 est retourné à la normale !</translation>
+        <translation>%1 的 %2 恢復正常！</translation>
     </message>
     <message>
         <source>There was no effect on %1!</source>
-        <translation>Il n&apos;y a pas d&apos;effet sur %1 !</translation>
+        <translation>對 %1 無效果！</translation>
     </message>
     <message>
         <source>Physical</source>
         <comment>element</comment>
-        <translation>Physique</translation>
+        <translation>物理</translation>
     </message>
     <message>
         <source>Fire</source>
         <comment>element</comment>
-        <translation>Feu</translation>
+        <translation>火</translation>
     </message>
     <message>
         <source>Ice</source>
         <comment>element</comment>
-        <translation>Glace</translation>
+        <translation>冰</translation>
     </message>
     <message>
         <source>Thunder</source>
         <comment>element</comment>
-        <translation>Tonnerre</translation>
+        <translation>雷電</translation>
     </message>
     <message>
         <source>Water</source>
         <comment>element</comment>
-        <translation>Eau</translation>
+        <translation>水</translation>
     </message>
     <message>
         <source>Earth</source>
         <comment>element</comment>
-        <translation>Terre</translation>
+        <translation>土</translation>
     </message>
     <message>
         <source>Wind</source>
         <comment>element</comment>
-        <translation>Vent</translation>
+        <translation>風</translation>
     </message>
     <message>
         <source>Light</source>
         <comment>element</comment>
-        <translation>Lumière</translation>
+        <translation>光</translation>
     </message>
     <message>
         <source>Darkness</source>
         <comment>element</comment>
-        <translation>Ténèbres</translation>
+        <translation>黑暗</translation>
     </message>
     <message>
         <source>Magic</source>
         <comment>skill type</comment>
-        <translation>Magie</translation>
+        <translation>魔法</translation>
     </message>
     <message>
         <source>Special</source>
         <comment>skill type</comment>
-        <translation>Spéciale</translation>
+        <translation>特殊</translation>
     </message>
     <message>
         <source>General Armor</source>
-        <translation>Armure Générale</translation>
+        <translation>一般盔甲</translation>
     </message>
     <message>
         <source>Magic Armor</source>
-        <translation>Armure Magique</translation>
+        <translation>魔法盔甲</translation>
     </message>
     <message>
         <source>Light Armor</source>
-        <translation>Armure Légère</translation>
+        <translation>輕盔甲</translation>
     </message>
     <message>
         <source>Heavy Armor</source>
-        <translation>Armure Lourde</translation>
+        <translation>重盔甲</translation>
     </message>
     <message>
         <source>Small Shield</source>
-        <translation>Petit Bouclier</translation>
+        <translation>小盾</translation>
     </message>
     <message>
         <source>Large Shield</source>
-        <translation>Grand Bouclier</translation>
+        <translation>大盾</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation>Arme</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Shield</source>
-        <translation>Bouclier</translation>
+        <translation>盾</translation>
     </message>
     <message>
         <source>Head</source>
-        <translation>Tête</translation>
+        <translation>頭部</translation>
     </message>
     <message>
         <source>Body</source>
-        <translation>Corps</translation>
+        <translation>身體</translation>
     </message>
     <message>
         <source>Accessory</source>
-        <translation>Accessoire</translation>
+        <translation>配件</translation>
     </message>
     <message>
         <source>Harold</source>
         <comment>actor</comment>
-        <translation>Harold</translation>
+        <translation>哈羅德</translation>
     </message>
     <message>
         <source>Therese</source>
         <comment>actor</comment>
-        <translation>Thérèse</translation>
+        <translation>特雷澤</translation>
     </message>
     <message>
         <source>Marsha</source>
         <comment>actor</comment>
-        <translation>Marsha</translation>
+        <translation>瑪莎</translation>
     </message>
     <message>
         <source>Lucius</source>
         <comment>actor</comment>
-        <translation>Lucius</translation>
+        <translation>盧修斯</translation>
     </message>
     <message>
         <source>Hero</source>
         <comment>class</comment>
-        <translation>Héro</translation>
+        <translation>英雄</translation>
     </message>
     <message>
         <source>Warrior</source>
         <comment>class</comment>
-        <translation>Guerrier</translation>
+        <translation>戰士</translation>
     </message>
     <message>
         <source>Mage</source>
         <comment>class</comment>
-        <translation>Mage</translation>
+        <translation>法師</translation>
     </message>
     <message>
         <source>Priest</source>
         <comment>class</comment>
-        <translation>Prêtre</translation>
+        <translation>牧師</translation>
     </message>
     <message>
         <source>Attack</source>
         <comment>skill</comment>
-        <translation>Attaque</translation>
+        <translation>攻擊</translation>
     </message>
     <message>
         <source>Guard</source>
         <comment>skill</comment>
-        <translation>Garde</translation>
+        <translation>防護</translation>
     </message>
     <message>
         <source>Dual Attack</source>
         <comment>skill</comment>
-        <translation>Attaque Consécutive</translation>
+        <translation>雙重攻擊</translation>
     </message>
     <message>
         <source>Double Attack</source>
         <comment>skill</comment>
-        <translation>Double Attaque</translation>
+        <translation>雙倍攻擊</translation>
     </message>
     <message>
         <source>Triple Attack</source>
         <comment>skill</comment>
-        <translation>Triple Attaque</translation>
+        <translation>三倍攻擊</translation>
     </message>
     <message>
         <source>Escape</source>
         <comment>skill</comment>
-        <translation>Fuire</translation>
+        <translation>逃跑</translation>
     </message>
     <message>
         <source>Wait</source>
         <comment>skill</comment>
-        <translation>Attendre</translation>
+        <translation>待機</translation>
     </message>
     <message>
         <source>Heal</source>
         <comment>skill</comment>
-        <translation>Guérir</translation>
+        <translation>癒療</translation>
     </message>
     <message>
         <source>Fire</source>
         <comment>skill</comment>
-        <translation>Feu</translation>
+        <translation>火</translation>
     </message>
     <message>
         <source>Spark</source>
         <comment>skill</comment>
-        <translation>Étincelle</translation>
+        <translation>火花</translation>
     </message>
     <message>
         <source>Potion</source>
         <comment>item</comment>
-        <translation>Potion</translation>
+        <translation>藥水</translation>
     </message>
     <message>
         <source>Magic Water</source>
         <comment>item</comment>
-        <translation>Eau Magique</translation>
+        <translation>魔法水</translation>
     </message>
     <message>
         <source>Dispel Herb</source>
         <comment>item</comment>
-        <translation>Herbe Dissipatrice</translation>
+        <translation>祛除藥草</translation>
     </message>
     <message>
         <source>Stimulant</source>
         <comment>item</comment>
-        <translation>Stimulant</translation>
+        <translation>興奮劑</translation>
     </message>
     <message>
         <source>Sword</source>
         <comment>weapon</comment>
-        <translation>Épée</translation>
+        <translation>劍</translation>
     </message>
     <message>
         <source>Axe</source>
         <comment>weapon</comment>
-        <translation>Hache</translation>
+        <translation>斧</translation>
     </message>
     <message>
         <source>Cane</source>
         <comment>weapon</comment>
-        <translation>Canne</translation>
+        <translation>杖</translation>
     </message>
     <message>
         <source>Bow</source>
         <comment>weapon</comment>
-        <translation>Arc</translation>
+        <translation>弓</translation>
     </message>
     <message>
         <source>Shield</source>
         <comment>armor</comment>
-        <translation>Bouclier</translation>
+        <translation>盾</translation>
     </message>
     <message>
         <source>Hat</source>
         <comment>armor</comment>
-        <translation>Casque</translation>
+        <translation>帽子</translation>
     </message>
     <message>
         <source>Cloth</source>
         <comment>armor</comment>
-        <translation>Vêtement</translation>
+        <translation>衣服</translation>
     </message>
     <message>
         <source>Ring</source>
         <comment>armor</comment>
-        <translation>Bague</translation>
+        <translation>戒指</translation>
     </message>
     <message>
         <source>Bat</source>
         <comment>enemy</comment>
-        <translation>Chauve-souris</translation>
+        <translation>蝙蝠</translation>
     </message>
     <message>
         <source>Slime</source>
         <comment>enemy</comment>
-        <translation>Slime</translation>
+        <translation>史萊姆</translation>
     </message>
     <message>
         <source>Orc</source>
         <comment>enemy</comment>
-        <translation>Orc</translation>
+        <translation>妖魔</translation>
     </message>
     <message>
         <source>Minotaur</source>
         <comment>enemy</comment>
-        <translation>Minotaure</translation>
+        <translation>牛頭怪</translation>
     </message>
     <message>
         <source>Knockout</source>
         <comment>state</comment>
-        <translation>Assommé</translation>
+        <translation>KO</translation>
     </message>
     <message>
         <source>Guard</source>
         <comment>state</comment>
-        <translation>Garde</translation>
+        <translation>防護</translation>
     </message>
     <message>
         <source>Immortal</source>
         <comment>state</comment>
-        <translation>Immortel</translation>
+        <translation>不死</translation>
     </message>
     <message>
         <source>Poison</source>
         <comment>state</comment>
-        <translation>Empoisonné</translation>
+        <translation>中毒</translation>
     </message>
     <message>
         <source>Blind</source>
         <comment>state</comment>
-        <translation>Aveuglé</translation>
+        <translation>失明</translation>
     </message>
     <message>
         <source>Silence</source>
         <comment>state</comment>
-        <translation>Muet</translation>
+        <translation>失言</translation>
     </message>
     <message>
         <source>Rage</source>
         <comment>state</comment>
-        <translation>Enragé</translation>
+        <translation>憤怒</translation>
     </message>
     <message>
         <source>Confusion</source>
         <comment>state</comment>
-        <translation>Confus</translation>
+        <translation>混亂</translation>
     </message>
     <message>
         <source>Fascination</source>
         <comment>state</comment>
-        <translation>Fasciné</translation>
+        <translation>魅惑</translation>
     </message>
     <message>
         <source>Sleep</source>
         <comment>state</comment>
-        <translation>Endormi</translation>
+        <translation>睡眠</translation>
     </message>
     <message>
         <source> has fallen!</source>
         <comment>Knockout-actor</comment>
-        <translation> est tombé !</translation>
+        <translation>已墜落！</translation>
     </message>
     <message>
         <source> is slain!</source>
         <comment>Knockout-enemy</comment>
-        <translation> est tué !</translation>
+        <translation>被殺死！</translation>
     </message>
     <message>
         <source> revives!</source>
         <comment>Knockout-remove</comment>
-        <translation> revient à la vie!</translation>
+        <translation>復蘇！</translation>
     </message>
     <message>
         <source> is poisoned!</source>
         <comment>Poison-actor</comment>
-        <translation> est empoisonné !</translation>
+        <translation>被毒害！</translation>
     </message>
     <message>
         <source> is poisoned!</source>
         <comment>Poison-enemy</comment>
-        <translation> est empoisonné !</translation>
+        <translation>被毒害！</translation>
     </message>
     <message>
         <source> is no longer poisoned!</source>
         <comment>Poison-remove</comment>
-        <translation> n&apos;est plus empoisonné !</translation>
+        <translation>不再中毒！</translation>
     </message>
     <message>
         <source> is blinded!</source>
         <comment>Blind-actor</comment>
-        <translation> est aveuglé !</translation>
+        <translation>已失明！</translation>
     </message>
     <message>
         <source> is blinded!</source>
         <comment>Blind-enemy</comment>
-        <translation> est aveuglé !</translation>
+        <translation>已失明！</translation>
     </message>
     <message>
         <source> is no longer blinded!</source>
         <comment>Blind-remove</comment>
-        <translation> n&apos;est plus aveuglé !</translation>
+        <translation>不再失明！</translation>
     </message>
     <message>
         <source> is silenced!</source>
         <comment>Silence-actor</comment>
-        <translation> est rendu muet !</translation>
+        <translation>被失言！</translation>
     </message>
     <message>
         <source> is silenced!</source>
         <comment>Silence-enemy</comment>
-        <translation> est est rendu muet !</translation>
+        <translation>被失言！</translation>
     </message>
     <message>
         <source> is no longer silenced!</source>
         <comment>Silence-remove</comment>
-        <translation> n&apos;est plus muet !</translation>
+        <translation>不會失言！</translation>
     </message>
     <message>
         <source> is enraged!</source>
         <comment>Rage-actor</comment>
-        <translation> est enragé !</translation>
+        <translation>被激怒！</translation>
     </message>
     <message>
         <source> is enraged!</source>
         <comment>Rage-enemy</comment>
-        <translation> est enragé !</translation>
+        <translation>被激怒！</translation>
     </message>
     <message>
         <source> is no longer enraged!</source>
         <comment>Rage-remove</comment>
-        <translation> n&apos;est plus enragé !</translation>
+        <translation>不再憤怒！</translation>
     </message>
     <message>
         <source> is confused!</source>
         <comment>Confusion-actor</comment>
-        <translation> est confus !</translation>
+        <translation>被混亂！</translation>
     </message>
     <message>
         <source> is confused!</source>
         <comment>Confusion-enemy</comment>
-        <translation> est confus !</translation>
+        <translation>被混亂！</translation>
     </message>
     <message>
         <source> is no longer confused!</source>
         <comment>Confusion-remove</comment>
-        <translation> n&apos;est plus confus !</translation>
+        <translation>不再被混亂！</translation>
     </message>
     <message>
         <source> is fascinated!</source>
         <comment>Fascination-actor</comment>
-        <translation> est fasciné !</translation>
+        <translation>被魅惑！</translation>
     </message>
     <message>
         <source> is fascinated!</source>
         <comment>Fascination-enemy</comment>
-        <translation> est fasciné !</translation>
+        <translation>被魅惑！</translation>
     </message>
     <message>
         <source> is no longer fascinated!</source>
         <comment>Fascination-remove</comment>
-        <translation> n&apos;est plus fasciné !</translation>
+        <translation>不再被魅惑！</translation>
     </message>
     <message>
         <source> falls asleep!</source>
         <comment>Sleep-actor</comment>
-        <translation> s&apos;endort !</translation>
+        <translation>睡著！</translation>
     </message>
     <message>
         <source> falls asleep!</source>
         <comment>Sleep-enemy</comment>
-        <translation> s&apos;endort !</translation>
+        <translation>睡著！</translation>
     </message>
     <message>
         <source> is sleeping.</source>
         <comment>Sleep-persist</comment>
-        <translation> dort.</translation>
+        <translation>正在睡覺。</translation>
     </message>
     <message>
         <source> wakes up!</source>
         <comment>Sleep-remove</comment>
-        <translation> se réveille!</translation>
+        <translation>醒來！</translation>
     </message>
     <message>
         <source>Skill #1 will be used when you select
 the Attack command.</source>
-        <translation>Compétence #1 sera utilisée lorsque
-vous sélectionnerez la commande Attaque.</translation>
+        <translation>當選擇 攻擊 命令時，將使用技能 #1。</translation>
     </message>
     <message>
         <source>Skill #2 will be used when you select
 the Guard command.</source>
-        <translation>Compétence #2 sera utilisée lorsque
-vous sélectionnerez la commande Garde.</translation>
+        <translation>當選擇 防護 命令時，將使用技能 #2。</translation>
     </message>
     <message>
         <source>State #1 will be automatically added when
 HP reaches 0.</source>
-        <translation>État #1 sera automatiquement ajouté
-lorsque les HP atteindront 0.</translation>
+        <translation>當 HP 為 0 時，將自動添加狀態 #1。</translation>
     </message>
     <message>
         <source> attacks!</source>
         <comment>skill message</comment>
-        <translation> attaque !</translation>
+        <translation>攻擊！</translation>
     </message>
     <message>
         <source> guards.</source>
         <comment>skill message</comment>
-        <translation> garde.</translation>
+        <translation>防護。</translation>
     </message>
     <message>
         <source> flees.</source>
         <comment>skill message</comment>
-        <translation> s&apos;enfuit.</translation>
+        <translation>逃跑。</translation>
     </message>
     <message>
         <source> waits.</source>
         <comment>skill message</comment>
-        <translation> attend.</translation>
+        <translation>待機。</translation>
     </message>
     <message>
         <source> casts %1!</source>
         <comment>skill message</comment>
-        <translation> lance %1 !</translation>
+        <translation>施放 %1!</translation>
     </message>
     <message>
         <source>Overworld</source>
         <comment>tileset</comment>
-        <translation>Zone commune</translation>
+        <translation>主世界</translation>
     </message>
     <message>
         <source>Outside</source>
         <comment>tileset</comment>
-        <translation>Extérieur</translation>
+        <translation>外部</translation>
     </message>
     <message>
         <source>Inside</source>
         <comment>tileset</comment>
-        <translation>Intérieur</translation>
+        <translation>內部</translation>
     </message>
     <message>
         <source>Dungeon</source>
         <comment>tileset</comment>
-        <translation>Donjon</translation>
+        <translation>地下城</translation>
     </message>
     <message>
         <source>SF Outside</source>
         <comment>tileset (cyberpunk)</comment>
-        <translation>SF Extérieur</translation>
+        <translation>高科技外觀</translation>
     </message>
     <message>
         <source>SF Inside</source>
         <comment>tileset (cyberpunk)</comment>
-        <translation>SF Intérieur</translation>
+        <translation>高科技內部</translation>
     </message>
 </context>
 <context>
     <name>ObjIconImageBox</name>
     <message>
         <source>Icon Index</source>
-        <translation>Index Icône</translation>
+        <translation>圖示索引</translation>
     </message>
     <message>
         <source>Index number of the selected icon.</source>
-        <translation>Numéro d&apos;index de l&apos;icône sélectionnée.</translation>
+        <translation>所選圖示的索引號。</translation>
     </message>
 </context>
 <context>
     <name>ObjSelectBox</name>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>無</translation>
     </message>
 </context>
 <context>
     <name>ObjTroopMemberBox</name>
     <message>
         <source>Entire Troop</source>
-        <translation>Troupe Entière</translation>
+        <translation>整個軍隊</translation>
     </message>
 </context>
 <context>
     <name>ObjYesNoBox</name>
     <message>
         <source>Yes</source>
-        <translation>Oui</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>No</source>
@@ -13663,129 +13616,129 @@ lorsque les HP atteindront 0.</translation>
     <name>ProjectManager</name>
     <message>
         <source>Failed to create a new project.</source>
-        <translation>Échec de la création d&apos;un nouveau projet.</translation>
+        <translation>創建新項目失敗。</translation>
     </message>
     <message>
         <source>Succeeded to create a distribution package.</source>
-        <translation>A réussi à créer un package de distribution.</translation>
+        <translation>創建發行套件成功。</translation>
     </message>
     <message>
         <source>Failed to create a distribution package.</source>
-        <translation>Échec de création de package de distribution.</translation>
+        <translation>創建發行套件失敗。</translation>
     </message>
     <message>
         <source>Open Project</source>
-        <translation>Ouvrir Projet</translation>
+        <translation>開啟項目</translation>
     </message>
     <message>
         <source>Save changes to the game?</source>
-        <translation>Enregistrer les modifications dans le jeu?</translation>
+        <translation>保存更改到遊戲？</translation>
     </message>
     <message>
         <source>The output folder already exists. Overwrite?</source>
-        <translation>Le dossier de sortie existe déjà. L&apos;écraser?</translation>
+        <translation>匯出資料夾已存在。覆寫？</translation>
     </message>
     <message>
         <source>Failed to write database.</source>
-        <translation>Échec de l&apos;écriture de la base de données.</translation>
+        <translation>寫入資料庫失敗。</translation>
     </message>
     <message>
         <source>Unable to read file %1.</source>
-        <translation>Impossible de lire le fichier %1.</translation>
+        <translation>不能讀取檔案 %1。</translation>
     </message>
     <message>
         <source>Unable to write file %1.</source>
-        <translation>Impossible d&apos;écrire le fichier %1.</translation>
+        <translation>不能寫入檔案 %1。</translation>
     </message>
     <message>
         <source>Unexpected file format.</source>
-        <translation>Format de fichier inattendu.</translation>
+        <translation>非預期檔案格式。</translation>
     </message>
     <message>
         <source>Version error.</source>
-        <translation>Erreur de version.</translation>
+        <translation>版本錯誤。</translation>
     </message>
     <message>
         <source>Unable to create directory %1.</source>
-        <translation>Impossible de créer le répertoire %1.</translation>
+        <translation>不能創建目錄 %1。</translation>
     </message>
     <message>
         <source>The tool could not be launched.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法啟用該工具。</translation>
     </message>
 </context>
 <context>
     <name>StandardPopupMenu</name>
     <message>
         <source>New</source>
-        <translation>Nouveau</translation>
+        <translation>新</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Éditer</translation>
+        <translation>編輯</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Couper</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copier</translation>
+        <translation>複製</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Coller</translation>
+        <translation>貼上</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Effacer</translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Sélectionner Tout</translation>
+        <translation>全選</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Annuler</translation>
+        <translation>撤銷</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Répéter</translation>
+        <translation>恢復</translation>
     </message>
 </context>
 <context>
     <name>SteamWindow</name>
     <message>
         <source>Steam Management</source>
-        <translation>Gestion de Steam</translation>
+        <translation>Steam管理</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Infos</translation>
+        <translation>資訊</translation>
     </message>
     <message>
         <source>Unable to update Steam Workshop Item, you are banned from the community.</source>
-        <translation>Impossible de mettre à jour l&apos;objet Steam Workshop, votre compte a été exclu de la communauté.</translation>
+        <translation>由於您被Steam社群停權，所以無法更新Steam工作坊物品。</translation>
     </message>
     <message>
         <source>A Timeout occurred when sharing or updating your Workshop Item.</source>
-        <translation>Une erreur d&apos;expiration de délai est survenue lors du partage ou de la mise à jour de votre objet Workshop.</translation>
+        <translation>分享或更新工作坊物品時發生逾時。</translation>
     </message>
     <message>
         <source>Unabled to create Workshop Item, you are not logged onto steam!</source>
-        <translation>Impossible de créer l&apos;objet Workshop, la connexion à Steam a été perdue!</translation>
+        <translation>由於您尚未登入Steam，所以無法建立工作坊物品。</translation>
     </message>
     <message>
         <source>You still need to accept the Steamwork Shop Agreement in order for this Workshop Item to not appear only private.</source>
-        <translation>Vous devez tout de même accepter le contrat Steam Workshop pour que cet objet n&apos;apparaisse pas seulement comme privé.</translation>
+        <translation>要公開此工作坊物品，您必須同意Steam工作坊合約。</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Oui</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>No</source>
@@ -13793,276 +13746,276 @@ lorsque les HP atteindront 0.</translation>
     </message>
     <message>
         <source>An unknown error occurred when attempting to update the Workshop Item.</source>
-        <translation>Une erreur inconnue est survenue lors de la tentative de mise à jour de l&apos;objet Workshop.</translation>
+        <translation>進行工作坊物品的更新時，發生不明錯誤。</translation>
     </message>
     <message>
         <source>Subscribed</source>
-        <translation>Abonné</translation>
+        <translation>購買完成</translation>
     </message>
     <message>
         <source>It appears the currently loaded local project is not saved to the cloud, you can choose to save it to the cloud in the Steam Management Window.</source>
-        <translation>Il semble que le projet local actuellement chargé n&apos;est pas enregistré sur le cloud. Vous pouvez choisir de l&apos;enregistrer sur le cloud dans la fenêtre de gestion de Steam.</translation>
+        <translation>最近一次載入的地方項目有可能未儲存於雲端中。您可以在Steam管理視窗中，選擇儲存於雲端。</translation>
     </message>
     <message>
         <source>Data:</source>
-        <translation>Données :</translation>
+        <translation>數據：</translation>
     </message>
     <message>
         <source>Project Name</source>
-        <translation>Nom du projet</translation>
+        <translation>項目名稱</translation>
     </message>
     <message>
         <source>Project Description</source>
-        <translation>Description du projet</translation>
+        <translation>項目說明</translation>
     </message>
     <message>
         <source>Graphics:</source>
-        <translation>Graphismes :</translation>
+        <translation>圖片：</translation>
     </message>
     <message>
         <source>Select Thumbnail</source>
-        <translation>Sélectionner une miniature</translation>
+        <translation>選擇縮圖</translation>
     </message>
     <message>
         <source>Image to use</source>
-        <translation>Image à utiliser</translation>
+        <translation>使用的圖片</translation>
     </message>
     <message>
         <source>*.png;*.jpg;*.jpeg</source>
-        <translation>*.png;*.jpg;*.jpeg</translation>
+        <translation>*.png, *.jpg, *.jpeg</translation>
     </message>
     <message>
         <source>Steam Workshop:</source>
-        <translation>Steam Workshop:</translation>
+        <translation>Steam 工作坊：</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation>Catégorie</translation>
+        <translation>類別</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation>Ressources</translation>
+        <translation>來源</translation>
     </message>
     <message>
         <source>Game Genre/Resource Type</source>
-        <translation>Genre de jeu/Type de ressource</translation>
+        <translation>遊戲類型/來源種類</translation>
     </message>
     <message>
         <source>Game/Resource Flavor</source>
-        <translation>Thème du jeu/de la ressource</translation>
+        <translation>遊戲/來源喜好</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation>Visibilité</translation>
+        <translation>可視性</translation>
     </message>
     <message>
         <source>By submitting this item, 
  you agree to the</source>
-        <translation>En envoyant cet objet,  vous acceptez</translation>
+        <translation>提交此物品，您同意接受</translation>
     </message>
     <message>
         <source>Steam Workshop Agreement</source>
-        <translation>le contrat Steam Workshop</translation>
+        <translation>Steam工作坊使用者合約</translation>
     </message>
     <message>
         <source>Share on Workshop</source>
-        <translation>Partager sur Workshop</translation>
+        <translation>要在工作坊上分享</translation>
     </message>
     <message>
         <source>You need to agree to the Steam Workshop User Agreement.</source>
-        <translation>Vous devez accepter le contrat d&apos;utilisateur Steam Workshop.</translation>
+        <translation>您必須同意接受Steam工作坊的使用者合約。
+</translation>
     </message>
     <message>
         <source>Progress</source>
-        <translation>Progression</translation>
+        <translation>進度</translation>
     </message>
     <message>
         <source>Projects:</source>
-        <translation>Projets :</translation>
+        <translation>項目:</translation>
     </message>
     <message>
         <source>Storage Used:</source>
-        <translation>Stockage utilisé :</translation>
+        <translation>已使用空間：</translation>
     </message>
     <message>
         <source>Storage Available:</source>
-        <translation>Stockage disponible :</translation>
+        <translation>可使用的空間：</translation>
     </message>
     <message>
         <source>Steam API Available:</source>
-        <translation>API Steam disponible :</translation>
+        <translation>可使用的Steam API</translation>
     </message>
     <message>
         <source>Workshop Item</source>
-        <translation>Objet Workshop</translation>
+        <translation>工作坊物品</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation>Local</translation>
+        <translation>地方</translation>
     </message>
     <message>
         <source>Workshop</source>
-        <translation>Workshop</translation>
+        <translation>工作坊</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Temps</translation>
+        <translation>時間</translation>
     </message>
     <message>
         <source>Owned</source>
-        <translation>Propriétaire</translation>
+        <translation>已擁有</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Statut</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Load Project</source>
-        <translation>Charger projet</translation>
+        <translation>方項目</translation>
     </message>
     <message>
         <source>Could not find the project file associated with this workshop item.</source>
-        <translation>Impossible de trouver le fichier de projet associé à cet objet Workshop.</translation>
+        <translation>無法找到相關此工作坊物品的項目檔案。</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation>Mettre à jour</translation>
+        <translation>更新</translation>
     </message>
     <message>
         <source>Update Info</source>
-        <translation>Mettre à jour les informations</translation>
+        <translation>更新資訊</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Fermer</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <source>You must input a valid Project Name for the Workshop Item.</source>
-        <translation>Vous devez saisir un nom de projet valide pour l&apos;objet Workshop.</translation>
+        <translation>您必須為工作坊物品輸入一個有效的項目名稱。</translation>
     </message>
     <message>
         <source>You must input a valid Project Description for the Workshop Item.</source>
-        <translation>Vous devez saisir une description de projet valide pour l&apos;objet Workshop.</translation>
+        <translation>您必須為工作坊物品輸入一個有效的項目說明。</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image for the Workshop Item.</source>
-        <translation>Vous devez sélectionner une image miniature valide pour l&apos;objet Workshop.</translation>
+        <translation>您必須為工作坊物品選擇一個有效的縮圖。</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image other than the default for the Workshop Item.</source>
-        <translation>Vous devez sélectionner une image miniature valide autre que celle par défaut pour l&apos;objet Workshop.</translation>
+        <translation>您必須為工作坊物品選擇一個預設圖片之外的有效縮圖。</translation>
     </message>
     <message>
         <source>The Thumbnail Image must be less than 1mb.</source>
-        <translation>L&apos;image miniature doit être inférieure à 1 Mo.</translation>
+        <translation>縮圖的大小必須小於1MB。</translation>
     </message>
     <message>
         <source>You must select a valid Item Type for the Workshop Item.</source>
-        <translation>Vous devez sélectionner un type d&apos;objet valide pour l&apos;objet Workshop.</translation>
+        <translation>您必須為工作坊物品選擇一個有效的物品種類。</translation>
     </message>
     <message>
         <source>You must select a valid Genre/Resource Type for the Workshop Item.</source>
-        <translation>Vous devez sélectionner un genre/type de ressource valide pour l&apos;objet Workshop.</translation>
+        <translation>您必須為工作坊物品選擇一個有效的類型/來源種類。</translation>
     </message>
     <message>
         <source>You must select a valid Genre/Resource Flavor for the Workshop Item.</source>
-        <translation>Vous devez sélectionner un thème de genre/ressource valide pour l&apos;objet Workshop.</translation>
+        <translation>您必須為工作坊物品選擇一個有效的類型/來源種類的喜好。</translation>
     </message>
     <message>
         <source>You must select a valid Visibility Level for the Workshop Item.</source>
-        <translation>Vous devez sélectionner un niveau de visibilité valide pour l&apos;objet Workshop.</translation>
+        <translation>您必須為工作坊物品選擇一個有效的可視性級別。</translation>
     </message>
     <message>
         <source>Steam API Available: Yes</source>
-        <translation>API Steam disponible : Oui</translation>
+        <translation>可使用的Steam API：是</translation>
     </message>
     <message>
         <source>Storage Available: </source>
-        <translation>Stockage disponible : </translation>
+        <translation>可使用空間：</translation>
     </message>
     <message>
         <source>Storage Used: </source>
-        <translation>Stockage utilisé : </translation>
+        <translation>已使用空間：</translation>
     </message>
     <message>
         <source>Steam API Available: No</source>
-        <translation>API Steam disponible : Non</translation>
+        <translation>可使用的Steam API：否</translation>
     </message>
     <message>
         <source>UNKNOWN</source>
-        <translation>INCONNU</translation>
+        <translation>不明</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Inconnu</translation>
+        <translation>不明</translation>
     </message>
     <message>
         <source>Failed to obtain owned Workshop Items data.</source>
-        <translation>Impossible d&apos;obtenir les données des objets Workshop dont vous êtes propriétaire.</translation>
+        <translation>已擁有的工作坊物品的數據取得失敗。</translation>
     </message>
     <message>
         <source>Creating</source>
-        <translation>Création</translation>
+        <translation>建立中</translation>
     </message>
     <message>
         <source>Edit And Play</source>
-        <translation>Modifier et jouer</translation>
+        <translation>編輯並遊戲</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Erreur</translation>
+        <translation>錯誤</translation>
     </message>
 </context>
 <context>
     <name>Tab_ConditionalBranch1</name>
     <message>
         <source>Switch</source>
-        <translation>Interrupteur</translation>
+        <translation>開關</translation>
     </message>
     <message>
         <source>Based on the state of the specified switch.</source>
-        <translation>Basé sur l&apos;état de l&apos;interrupteur spécifié.</translation>
+        <translation>基於指定開關的狀態。</translation>
     </message>
     <message>
         <source>is</source>
-        <translation>est</translation>
+        <translation>為</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>變數</translation>
     </message>
     <message>
         <source>Based on the value of the specified variable.</source>
-        <translation>Basé sur la valeur de la variable spécifiée.</translation>
+        <translation>基於指定變數的值。</translation>
     </message>
     <message>
         <source>Constant</source>
-        <translation>Constante</translation>
+        <translation>常量</translation>
     </message>
     <message>
         <source>Compares with the constant value.</source>
-        <translation>Compare avec la valeur constante.</translation>
+        <translation>與常量值比較。</translation>
     </message>
     <message>
         <source>Compares with the value of the specified variable.</source>
-        <translation>Compare avec la valeur d&apos;une variable spécifiée.</translation>
+        <translation>與指定變數的值比較。</translation>
     </message>
     <message>
         <source>Self Switch</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Interr. Auto.</translation>
+        <translation>自開關</translation>
     </message>
     <message>
         <source>Based on the state of the specified self switch. Vaild only in the map event.</source>
-        <translation>Basé sur l&apos;état de l&apos;interrupteur automatique spécifié. Valide uniquement dans l&apos;évènement de la carte.</translation>
+        <translation>基於指定自開關的狀態。僅在地圖劇情中有效。</translation>
     </message>
     <message>
         <source>Timer</source>
-        <translation>Minuteur</translation>
+        <translation>定時器</translation>
     </message>
     <message>
         <source>Based on the remaining time of the timer.</source>
-        <translation>Basé sur le temps restant du chronomètre.</translation>
+        <translation>基於定時器的剩餘時間。</translation>
     </message>
     <message>
         <source>min</source>
@@ -14077,256 +14030,255 @@ lorsque les HP atteindront 0.</translation>
     <name>Tab_ConditionalBranch2</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <source>Based on the specified actor.</source>
-        <translation>Basé sur l&apos;acteur spécifié.</translation>
+        <translation>基於指定角色。</translation>
     </message>
     <message>
         <source>In the party</source>
-        <translation>Dans le groupe</translation>
+        <translation>在隊伍中</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor is in the party.</source>
-        <translation>Basé en fonction de la présence ou de l&apos;absence de l&apos;acteur dans le groupe.</translation>
+        <translation>基於指定角色是否在隊伍。</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Based on the name of the specified actor.</source>
-        <translation>Basé sur le nom de l&apos;acteur spécifié.</translation>
+        <translation>基於指定角色的名稱。</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation>Classe</translation>
+        <translation>類別</translation>
     </message>
     <message>
         <source>Based on the class of the specified actor.</source>
-        <translation>Basé sur la classe de l&apos;acteur spécifié.</translation>
+        <translation>基於指定角色的類別。</translation>
     </message>
     <message>
         <source>Skill</source>
-        <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>技能</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor can use a particular skill.</source>
-        <translation>Basé sur la capacité de l&apos;acteur spécifié à utiliser ou non une compétence particulière.</translation>
+        <translation>基於指定角色是否能使用特定技能。</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation>Arme</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular weapon equipped.</source>
-        <translation>Basé en fonction de si l&apos;acteur a ou non une arme particulière équipée.</translation>
+        <translation>基於指定角色是否裝備特定武器。</translation>
     </message>
     <message>
         <source>Armor</source>
-        <translation>Armure</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular armor equipped.</source>
-        <translation>Basé en fonction de si l&apos;acteur spécifié a ou non une armure particulière équipée.</translation>
+        <translation>基於指定角色是否裝備特定盔甲。</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular state.</source>
-        <translation>Basé en fonction de si l&apos;acteur a ou non un état particulier.</translation>
+        <translation>基於指定角色是否有特定狀態。</translation>
     </message>
 </context>
 <context>
     <name>Tab_ConditionalBranch3</name>
     <message>
         <source>Enemy</source>
-        <translation>Ennemi</translation>
+        <translation>敵人</translation>
     </message>
     <message>
         <source>Based on the specified enemy.</source>
-        <translation>Basé sur l&apos;ennemi spécifié.</translation>
+        <translation>基於指定敵人。</translation>
     </message>
     <message>
         <source>Appeared</source>
-        <translation>Apparu</translation>
+        <translation>出現</translation>
     </message>
     <message>
         <source>Based on whether or not the specified enemy is participating in battle.</source>
-        <translation>Basé sur la participation ou non de l&apos;ennemi au combat.</translation>
+        <translation>基於指定敵人是否參與戰鬥。</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>狀態</translation>
     </message>
     <message>
         <source>Based on whether or not the specified enemy has a particular state.</source>
-        <translation>Basé en fonction de si l&apos;ennemi a ou non un état particulier.</translation>
+        <translation>基於指定敵人是否有特定狀態。</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Personnage</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Based on the direction the player or event is facing.</source>
-        <translation>Basé sur la direction vers laquelle le joueur ou évènement fait face.</translation>
+        <translation>基於玩家或劇情朝向的方向。</translation>
     </message>
     <message>
         <source>is facing</source>
-        <translation>fait face</translation>
+        <translation>朝向</translation>
     </message>
     <message>
         <source>Vehicle</source>
-        <translation>Véhicule</translation>
+        <translation>車輛</translation>
     </message>
     <message>
         <source>Based on whether or not the party is riding in the specified vehicle.</source>
-        <translation>Basé en fonction de si le groupe conduit ou non le véhicule spécifié.</translation>
+        <translation>基於隊伍是否在乘坐指定車輛。</translation>
     </message>
     <message>
         <source>is driven</source>
-        <translation>est conduit</translation>
+        <translation>被駕駛</translation>
     </message>
 </context>
 <context>
     <name>Tab_ConditionalBranch4</name>
     <message>
         <source>Gold</source>
-        <translation>Or</translation>
+        <translation>金幣</translation>
     </message>
     <message>
         <source>Based on the party&apos;s money.</source>
-        <translation>Basé sur l&apos;argent du groupe.</translation>
+        <translation>基於隊伍的貨幣。</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation>Objet</translation>
+        <translation>道具</translation>
     </message>
     <message>
         <source>Based on whether or not the party has a particular item.</source>
-        <translation>Basé en fonction de si le groupe a ou non un objet particulier.</translation>
+        <translation>基於隊伍是否有特定道具。</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation>Arme</translation>
+        <translation>武器</translation>
     </message>
     <message>
         <source>Based on whether or not the party has a particular weapon.</source>
-        <translation>Basé en fonction de si le groupe a ou non une arme particulière.</translation>
+        <translation>基於隊伍是否有特定武器。</translation>
     </message>
     <message>
         <source>Armor</source>
-        <translation>Armure</translation>
+        <translation>盔甲</translation>
     </message>
     <message>
         <source>Based on whether or not the party has a particular armor.</source>
-        <translation>Basé en fonction de si le groupe a ou non une armure particulière.</translation>
+        <translation>基於隊伍是否有特定盔甲。</translation>
     </message>
     <message>
         <source>Button</source>
-        <translation>Bouton</translation>
+        <translation>按鈕</translation>
     </message>
     <message>
         <source>Based on whether or not a particular button is being pressed.</source>
-        <translation>Basé en fonction de si une touche particulière est enfoncée ou non.</translation>
+        <translation>基於特定按鈕是否被按下。</translation>
     </message>
     <message>
         <source>is pressed down</source>
-        <translation>est enfoncé</translation>
+        <translation>被按下</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation>Script</translation>
+        <translation>腳本</translation>
     </message>
     <message>
         <source>For advanced users: Based on the evaluation result of the script.</source>
-        <translation>Pour les utilisateurs avancés : Basé sur le résultat d&apos;évaluation du script.</translation>
+        <translation>對於高級用戶： 基於腳本評估結果。</translation>
     </message>
 </context>
 <context>
     <name>Tab_DBSystem</name>
     <message>
         <source>Game Title</source>
-        <translation>Titre du Jeu</translation>
+        <translation>遊戲名稱</translation>
     </message>
     <message>
         <source>Title of the game.</source>
-        <translation>Titre du jeu.</translation>
+        <translation>遊戲的名稱。</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation>Devise</translation>
+        <translation>貨幣</translation>
     </message>
     <message>
         <source>Unit of currency in the game world.</source>
-        <translation>Unité de devise dans le monde du jeu.</translation>
+        <translation>遊戲世界中的貨幣單位。</translation>
     </message>
     <message>
         <source>Vehicle Images</source>
-        <translation>Images de Véhicules</translation>
+        <translation>車輛圖像</translation>
     </message>
     <message>
         <source>Images of the vehicles to be displayed on the map screen.</source>
-        <translation>Images de véhicules à afficher sur l&apos;écran de carte.</translation>
+        <translation>顯示在地圖畫面的車輛圖像。</translation>
     </message>
     <message>
         <source>Image of the %1.</source>
-        <translation>Image de %1.</translation>
+        <translation>%1 的圖像。</translation>
     </message>
     <message>
         <source>Window Color</source>
-        <translation>Couleur Fenêtre</translation>
+        <translation>視窗顏色</translation>
     </message>
     <message>
         <source>Background color of windows used in the game.</source>
-        <translation>Couleur d&apos;arrière-plan des fenêtres utilisées dans le jeu.</translation>
+        <translation>遊戲中使用的視窗背景顏色。</translation>
     </message>
     <message>
         <source>Title Screen</source>
-        <translation>Écran Titre</translation>
+        <translation>標題畫面</translation>
     </message>
     <message>
         <source>Screen to display at game startup.</source>
-        <translation>Écran à afficher au commencement du jeu.</translation>
+        <translation>遊戲啟動時顯示幕。</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Images</translation>
+        <translation>圖像</translation>
     </message>
     <message>
         <source>Background and frame images to be displayed on the title screen.</source>
-        <translation>Arrière-plan et images de trame à afficher sur l&apos;écran de titre.</translation>
+        <translation>在標題畫面顯示的背景和框圖像。</translation>
     </message>
     <message>
         <source>Draw Game Title</source>
-        <translation>Dessiner Titre du Jeu</translation>
+        <translation>繪製遊戲標題</translation>
     </message>
     <message>
         <source>Draws the game title string on the title screen. Uncheck this option if you want to use your own title logo.</source>
-        <translation>Dessine le titre du jeu sur l&apos;écran de titre. Décocher cette option si vous voulez utiliser votre propre logo titre.</translation>
+        <translation>繪製標題畫面的遊戲標題字串。若要使用你自己的標題 logo，請取消勾選此選項。</translation>
     </message>
 </context>
 <context>
     <name>Tab_DBTerms</name>
     <message>
         <source>Basic Statuses</source>
-        <translation>États Basiques</translation>
+        <translation>基本狀態</translation>
     </message>
     <message>
         <source>Various basic statuses displayed in the game.</source>
-        <translation>États basiques divers affichés dans le jeu.</translation>
+        <translation>遊戲中顯示的各種基本狀態。</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation>Niveau</translation>
+        <translation>等級</translation>
     </message>
     <message>
         <source>Level (abbr.)</source>
-        <translation>Niveau (abbr.)</translation>
+        <translation>等級（縮寫）</translation>
     </message>
     <message>
         <source>HP</source>
@@ -14334,7 +14286,7 @@ lorsque les HP atteindront 0.</translation>
     </message>
     <message>
         <source>HP (abbr.)</source>
-        <translation>HP (abbr.)</translation>
+        <translation>HP（縮寫）</translation>
     </message>
     <message>
         <source>MP</source>
@@ -14342,7 +14294,7 @@ lorsque les HP atteindront 0.</translation>
     </message>
     <message>
         <source>MP (abbr.)</source>
-        <translation>MP (abbr.)</translation>
+        <translation>MP（縮寫）</translation>
     </message>
     <message>
         <source>TP</source>
@@ -14350,163 +14302,163 @@ lorsque les HP atteindront 0.</translation>
     </message>
     <message>
         <source>TP (abbr.)</source>
-        <translation>TP (abbr.)</translation>
+        <translation>TP（縮寫）</translation>
     </message>
     <message>
         <source>EXP</source>
-        <translation>EXP</translation>
+        <translation>經驗值 (EXP)</translation>
     </message>
     <message>
         <source>EXP (abbr.)</source>
-        <translation>EXP (abbr.)</translation>
+        <translation>EXP（縮寫）</translation>
     </message>
     <message>
         <source>Parameters</source>
-        <translation>Paramètres</translation>
+        <translation>參數</translation>
     </message>
     <message>
         <source>Various parameter names displayed in the game.</source>
-        <translation>Noms de paramètres divers affichés dans le jeu.</translation>
+        <translation>遊戲中顯示的各種參數名稱。</translation>
     </message>
     <message>
         <source>Commands</source>
-        <translation>Commandes</translation>
+        <translation>命令</translation>
     </message>
     <message>
         <source>Command names displayed in the game.</source>
-        <translation>Noms de commandes affichés dans le jeu.</translation>
+        <translation>遊戲中顯示的命令名稱。</translation>
     </message>
 </context>
 <context>
     <name>Tab_DBTypes</name>
     <message>
         <source>Elements</source>
-        <translation>Éléments</translation>
+        <translation>元素</translation>
     </message>
     <message>
         <source>Data for representing the special characteristics given to skills and items.</source>
-        <translation>Données pour représenter les caractéristiques spéciales données aux compétences et aux objets.</translation>
+        <translation>代表賦予技能和道具的特性的數據。</translation>
     </message>
     <message>
         <source>Name of the element.</source>
-        <translation>Nom de l&apos;élément.</translation>
+        <translation>元素名稱。</translation>
     </message>
     <message>
         <source>Changes the number of elements.</source>
-        <translation>Change le nombre d&apos;éléments.</translation>
+        <translation>更改元素數量。</translation>
     </message>
     <message>
         <source>Skill Types</source>
-        <translation>Types de Compétence</translation>
+        <translation>技能類型</translation>
     </message>
     <message>
         <source>Data for representing skill types. Each type of skill is treated as a separate command.</source>
-        <translation>Données pour représenter les types de compétence. Chaque type de compétence est traité comme une commande séparée.</translation>
+        <translation>代表技能類型的數據。每種技能類型處理為一個單獨的命令。</translation>
     </message>
     <message>
         <source>Name of the skill type. Displayed as a command in the game.</source>
-        <translation>Nom du type de compétence. Affiché sous la forme d&apos;une commande dans le jeu.</translation>
+        <translation>技能類型的名稱。在遊戲中顯示為命令。</translation>
     </message>
     <message>
         <source>Changes the number of skill types.</source>
-        <translation>Change le nombre de types de compétence.</translation>
+        <translation>更改技能類型數量。</translation>
     </message>
     <message>
         <source>Weapon Types</source>
-        <translation>Types d&apos;Arme</translation>
+        <translation>武器類型</translation>
     </message>
     <message>
         <source>Data for representing weapon types. Sets whether each weapon type can be equipped.</source>
-        <translation>Données pour représenter les types d&apos;arme. Permet de configurer si chaque type d&apos;arme peut être équipé.</translation>
+        <translation>代表武器類型的數據。設置是否可裝備每種武器類型。</translation>
     </message>
     <message>
         <source>Name of the weapon type.</source>
-        <translation>Nom du type d&apos;arme.</translation>
+        <translation>武器類型的名稱。</translation>
     </message>
     <message>
         <source>Changes the number of weapon types.</source>
-        <translation>Change le nombre de types d&apos;arme.</translation>
+        <translation>更改武器類型數量。</translation>
     </message>
     <message>
         <source>Armor Types</source>
-        <translation>Types d&apos;Armure</translation>
+        <translation>盔甲類型</translation>
     </message>
     <message>
         <source>Data for representing armor types. Sets whether each armor type can be equipped.</source>
-        <translation>Données pour représenter les types d&apos;armure. Permet de configurer si chaque type d&apos;armure peut être équipé.</translation>
+        <translation>代表盔甲類型的數據。設置是否可裝備每種盔甲類型。</translation>
     </message>
     <message>
         <source>Name of the armor type.</source>
-        <translation>Nom du type d&apos;armure.</translation>
+        <translation>盔甲類型的名稱。</translation>
     </message>
     <message>
         <source>Changes the number of armor types.</source>
-        <translation>Change le nombre de types d&apos;armure.</translation>
+        <translation>更改盔甲類型數量。</translation>
     </message>
     <message>
         <source>Equipment Types</source>
-        <translation>Types dÉquipement</translation>
+        <translation>裝備類型</translation>
     </message>
     <message>
         <source>Data for representing equipment types such as body armor and head armor.</source>
-        <translation>Données pour représenter les types d&apos;équipement comme l&apos;armure de corps et l&apos;armure de tête.</translation>
+        <translation>代表如身體盔甲和頭盔等裝備類型的數據。</translation>
     </message>
     <message>
         <source>Name of the equipment type.</source>
-        <translation>Nom du type d&apos;équipement.</translation>
+        <translation>裝備類型的名稱。</translation>
     </message>
     <message>
         <source>Changes the number of equipment types.</source>
-        <translation>Change le nombre de types d&apos;équipement.</translation>
+        <translation>更改裝備類型數量。</translation>
     </message>
 </context>
 <context>
     <name>TargetEnemyBox</name>
     <message>
         <source>Enemy</source>
-        <translation>Ennemi</translation>
+        <translation>敵人</translation>
     </message>
     <message>
         <source>Enemy to change the status.</source>
-        <translation>Ennemi à qui changer l&apos;état.</translation>
+        <translation>要更改狀態的敵人。</translation>
     </message>
 </context>
 <context>
     <name>TextEditPopupMenu</name>
     <message>
         <source>Cut</source>
-        <translation>Couper</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copier</translation>
+        <translation>複製</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Coller</translation>
+        <translation>貼上</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Sélectionner Tout</translation>
+        <translation>全選</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Annuler</translation>
+        <translation>撤銷</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Répéter</translation>
+        <translation>恢復</translation>
     </message>
 </context>
 <context>
     <name>TroopScreen</name>
     <message>
         <source>Appear Halfway</source>
-        <translation>Apparaît à mi-course</translation>
+        <translation>半途出現</translation>
     </message>
 </context>
 <context>

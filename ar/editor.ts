@@ -1992,6 +1992,73 @@
     </message>
 </context>
 <context>
+    <name>Dialog_AppendTools</name>
+    <message>
+        <source>RPG Maker MV Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discard changes to RPG Maker MV tools?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additional Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List of tools that have already been added.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">الاسم</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">الوصف</translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">حذف</translation>
+    </message>
+    <message>
+        <source>Delete additional tools.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List of tools that have been found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished">إضافة</translation>
+    </message>
+    <message>
+        <source>Add a tool.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select a folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Dialog_AttackMotion</name>
     <message>
         <source>Attack Motion</source>
@@ -2309,6 +2376,14 @@
     <message>
         <source>Path name is too long.</source>
         <translation>اسم المسار طويل جدًا.</translation>
+    </message>
+    <message>
+        <source>Linux</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creates a package for Linux.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2952,14 +3027,6 @@
 <context>
     <name>Dialog_GameShare</name>
     <message>
-        <source>Game Share</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authentication</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>If necessary to authenticate.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2989,13 +3056,30 @@
         <source>Account has not been authenticated.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Game Share(NICONICO)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication(NICONICO)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <comment>Clear Game ID Button</comment>
+        <translation type="unfinished">مسح</translation>
+    </message>
+    <message>
+        <source>Clear the Game ID.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear the Game ID?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Dialog_GameShareOgc</name>
-    <message>
-        <source>Game Share</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Authentication</source>
         <translation type="unfinished"></translation>
@@ -3016,6 +3100,26 @@
     <message>
         <source>Account has not been authenticated.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Game Share(OPEN GAME CREATORS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authenticated account: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deauthorize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel authentication.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished">معلومات</translation>
     </message>
 </context>
 <context>
@@ -4741,6 +4845,30 @@
     </message>
 </context>
 <context>
+    <name>Dialog_TutorialSelector</name>
+    <message>
+        <source>Tutorial Selector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StartTutorial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start the selected tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>Dialog Button</comment>
+        <translation type="unfinished">إغلاق</translation>
+    </message>
+    <message>
+        <source>Closes this window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Dialog_Upload</name>
     <message>
         <source>Upload</source>
@@ -4873,6 +5001,10 @@ Please lower the file size of this project.</source>
     <name>Dialog_WebBrowserOgc</name>
     <message>
         <source>Browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It is authenticated by Creator name: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8626,11 +8758,12 @@ Please complete the post with follow this link.</source>
 <context>
     <name>GameShareOgc</name>
     <message>
-        <source>Succeeded to upload a project.</source>
+        <source>Failed to upload a project.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to upload a project.</source>
+        <source>Succeeded to upload a project.
+Please complete the post with follow this link.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11438,6 +11571,26 @@ Please complete the post with follow this link.</source>
         <source>Exits the application.</source>
         <translation>يخرج من التطبيق.</translation>
     </message>
+    <message>
+        <source>RPG Maker MV Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add external tools.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop tutorial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tutorial...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start a tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MapEditTreeBox</name>
@@ -13498,6 +13651,10 @@ HP reaches 0.</source>
         <source>Unable to create directory %1.</source>
         <translation>تعذر إنشاء دليل %1.</translation>
     </message>
+    <message>
+        <source>The tool could not be launched.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>StandardPopupMenu</name>
@@ -14291,6 +14448,6583 @@ HP reaches 0.</source>
     <message>
         <source>Appear Halfway</source>
         <translation>الظهور جزئيًا</translation>
+    </message>
+</context>
+<context>
+    <name>TutorialList</name>
+    <message>
+        <source>Step 1: Map Basics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 2: Event Basics (Dialogue)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 3: Event Transfer 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 4: Event Transfer 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 5: Switches and Conditional Branching Part 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 6: Switches and Conditional Branching Part 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 7: Treasure and Self-Switches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 8: Creating Shops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 9: Event Application 1: Notice Board</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 10: Event Application 2: Moving Rock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 11: Event Application 3: Door</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 12: Database Basics 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 13: Database Basics 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 14: Damaging Floors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 15: Healing and Saving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 16: Encounters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 17: Enemy Character (Boss) Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 18: Creating an Ending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step 19: Title and Plug-ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialManager</name>
+    <message>
+        <source>unterminated &quot;...&quot;: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not matched %1...%2: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not found %1 or %2: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unable to parse as string: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not closed %1: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parse error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tutorial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The tutorial ends.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parse error: tutorial list</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep1</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* step1. Create a new project, and create a map.
+&gt; You can create a new project by clicking %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- You can change the title name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the title name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- It takes a little while to create a new project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wait for creating a new project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; About map settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The right side of the screen is the map. 
+On the upper left is the tile palette for the map.
+On the lower left is the map list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; You make a map by putting tilechips.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the tileset palette. 
+Select a tile here and it will be drawn on the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is in %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now for a more detailed explanation on tilesets. 
+Click Database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Here is Tilesets, so click it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can select %1/%2 in %3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the tileset settings screen. 
+The mode is important. In Field, you can specify the field type
+or area type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; How to use the editor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Map Mode, you can draw your map,
+and in Event Mode you can place events.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Since we&apos;re currently in Event Mode, you can edit events. 
+Events will be further explained later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can zoom in and out on the map. 
+Give it a try.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- You can magnify the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Zoom In to magnify the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- You can shrink the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Zoom Out to shrink the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- You can directly magnify/shrink the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pressing &lt;windows&gt;Ctrl&lt;/windows&gt;&lt;mac&gt;Command&lt;/mac&gt; key, roll the center wheel of the mouse to magnify/shrink the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- You can scroll the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pressing the center wheel of the mouse, move the mouse to scroll the map when the entire map is not inside the window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- You can reset the map at actual size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Actual Size to rest the map size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done with map zooming. 
+Next is an explanation of the map tree on the lower left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- You can change a map name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click to change a map name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Edit...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- The editor will show the changed name of the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the name to &quot;Field Map&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we will place tiles on the map from the tile palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; Let&apos;s put a town and a cave on the field map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click tileset B.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click a town tile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to put a town.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click a cave tile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to put a cave.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we will create town and cave maps. 
+This time we&apos;ll use a sample map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; You can load a preset map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click to load a town map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Load.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Normal Town&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click to load a cave map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Stone Cave&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll link each map to the field using events
+so they can be entered and exited freely.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- You can select a map to edit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Map to edit the field map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; You can connect maps by putting transfer events.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- It&apos;s easy to connect maps.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click the town.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Quick Event Creation &gt; Transfer...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the entrance of the town blow.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click at the exit of the town below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Field Map&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the town.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- You should fill the entrance/exit of the map.
+- You can copy/paste events.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click the created event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Copy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click a exit tile of the town to fill the exit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Paste.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click the remaining exit tile of the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click the cave.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the entrance of the cave below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click at the exit of the cave below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the cave.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done placing our transfer events. 
+Next we will determine the player&apos;s initial position.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; You can set the initial position when the game starts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click a tile on the road.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Set Starting Position &gt; Player.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; You should save the project because you change it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Save Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt; You can play it by clicking %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That&apos;s it! Click Playtest.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep10</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 9?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 9 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 9 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we&apos;re going to create a dungeon setup: rocks that move when pushed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Stone Cave&quot; from the tree view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The stones you push to move will be
+placed in the passage 3 tiles in width a bit above the entrance. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The placement coordinate will be (16,18). It&apos;s 12 spaces above the entrance. 
+After making the event, we&apos;ll copy and paste it to the coordinates to the left and right of this space. 
+First, find (16,18).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll create the event. Double click (16,18).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the name as MovingRock.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll to the bottom of the list and click !Other1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the top row of rocks, click and select
+the middle image (downward facing) in the first row of the group second from the left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Direction Fix&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the trigger to &quot;Player Touch&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll set up the content. 
+Double click the first line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the page 2 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Set Movement Route&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the target to This Event. Now we&apos;ll set up the rock movement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the Movement Route as follows:
+Direction Fix OFF
+Move away from Player
+Direction Fix ON</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Skip If Cannot Move&quot;. 
+Otherwise, if the rock can&apos;t be moved because of an obstacle, it&apos;ll freeze.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove the check from &quot;Wait for Completion&quot;. 
+This so the next movement event will run concurrently. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the movement route.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next is setup of player movement. Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure the target is the Player.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the movement route as follows:
+Change Speed: 3
+1 Step Forward
+Change Speed: 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The player movement speed is usually 4. 
+During the time the rock is moving, it will be the speed of the rock (3).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Skip If Cannot Move&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Leave the check on for &quot;Wait for Completion&quot;. 
+This is so that the event waits for both the rock and player movements to finish.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK, and set the player movement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the rock event is complete. Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll copy the completed rock event to the left and right. 
+Click the completed rock.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click the rock and select &quot;Copy&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on (15,18) to the left and select &quot;Paste&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the same way, right click on (17,18) to the right and select &quot;Paste&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now three rocks have been placed. 
+In order to playtest, let&apos;s make the player starting position near the entrance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find the coordinates (15,26), 3 steps from the entrance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on (15,26)
+and select Set Starting Position &gt; Player.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start a playtest. 
+Check that the rocks move, and that everything is all right even if they&apos;re pushed where they can&apos;t be moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Once you&apos;re done with the playtest there will be a short explanation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did the rocks move properly? If it didn&apos;t go well, let&apos;s do the step over again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If it went well, let&apos;s try thinking about why they moved. 
+Well then, nicely done.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep11</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 10?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 10 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 10 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In step 11, we&apos;re going to make a setup
+that opens a door when a lever is operated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll place the door in the narrow path immediately to the right of the entrance (19,25),
+and the lever in a nearby corner (17,24).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First, let&apos;s place the lever. Put your cursor over the corner to the upper right of the entrance (17,24)
+and double click there.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter &quot;Door Lever&quot; as the name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll to the bottom of the list
+and click !Switch1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the image in the middle of the top row of the levers furthest to the left in the upper half.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Direction Fix&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll set up the content. 
+The content will be the door opening operation. 
+Double click the first line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Control Switches...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the switch number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll be handling the second switch here. 
+Click on 0002 from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the name, and enter it as
+Dungeon Door.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the Switch is set to &quot;Single&quot;, &quot;0002 Dungeon Door&quot;,
+and that the Operation is set to on,
+and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll set the noise when the door opens. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab to go to page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Play SE...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll along the line to find Door1,
+and click it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the SE (sound effect).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done with setup for page 1. 
+Click &quot;New Event Page&quot; and create page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will set up page 2. 
+Click &quot;Switch&quot; in Condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll change the switch number. 
+Click the switch number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that 0002 is selected and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll to the bottom of the list, and click !Switch1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the middle switch in the 3rd row of the levers furthest to the left in the top half. 
+This is the lever pushed to the opposite direction of the one in page 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Just like with page 1, check off &quot;Direction Fix&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next is content input. 
+The content will be the door closing operation. 
+Double click the first line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure you&apos;re on the page 2 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Gather Followers&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;Gather Followers&quot; is a command that will gather the party members to the leader. We&apos;ll execute this to prevent party members from getting trapped in the door that appears.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Door1 from the list and click.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the Page 1 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that 0002 is selected
+and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;OFF&quot; in Operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the switch is set to &quot;Single&quot; &quot;0002&quot;, and that the Operation is &quot;OFF&quot;
+and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the on and off switch is complete. 
+&quot;Play SE&quot; and &quot;Control Switch&quot; are in reverse order,
+but the order doesn&apos;t matter for this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will create the door. Find the path to the right of the entrance,
+(19,25).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click (19,25).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter &quot;Lever-Operated Door&quot; for the name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click !Door1 from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the middle door from the top row of the group furthest to the left in the top half.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the first line in &quot;Contents&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simply enter: 
+&quot;You cannot pass.&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done with setup for page 1. 
+With &quot;New Event Page&quot;, create page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will be the opened door. 
+Check off &quot;Switch&quot; in Condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that 0002 is selected from the list
+and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That&apos;s all we need to do for page 2&apos;s setup. 
+This is because this is a &quot;nothing&quot; state, where the door has disappeared. 
+Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now preparation is complete. 
+Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run a playtest. 
+Pull the lever and check that the door opens and closes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well done. 
+Please do challenge yourself to even more complex events.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep12</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 11?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 11 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 11 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From this step onward we&apos;ll be handling a &quot;database&quot;. 
+Within the database there are a very large number of items for the configuration of various things in the game,
+ so we will explain them in order. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step we will focus on getting acquainted with the main character and enemies,
+as well as battle. 
+First, we&apos;ll open the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The first tab is &quot;Actors&quot;. 
+Actors refers to the main character and his allies,
+and is a very important term in RPG Maker MV.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this tutorial, we&apos;ll use
+the word &quot;actor&quot; to describe these.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll also call the collection of actors the &quot;party&quot;. 
+Now for the explanation of actors.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note that in the actor configuration there is a &quot;class&quot; setting. 
+Within a class, various abilities are configured. 
+For example, Harold is a &quot;Hero&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the &quot;Classes&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Here, you can set class abilities in detail. 
+Currently &quot;Hero&quot; is selected from the list,
+so Harold&apos;s ability values are being shown.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In &quot;Parameter Curves&quot;, you can set how a value
+will grow with each level up.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What&apos;s important here is &quot;Traits&quot;. 
+This is a setting peculiar to RPG Maker MV so there will be a detailed explanation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In &quot;Traits&quot;, you can configure various components such as
+basic hit and evasion rate values in addition to types of equipment that can be used,
+usable skill types, and more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In short, you can list various factors in &quot;Traits&quot; and by setting them, those traits will be the actor&apos;s traits.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hit rate is determined by traits,
+and if you accidentally delete it, the hit rate will be 0%
+and no attacks will land, so be careful.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Traits can also be added to weapons and armor, as well as states. Click on the &quot;Weapons&quot; tab to give it a try.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is a trait list for equipment as well. 
+They will be appended to an actor only when they have the equipment on. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For example, while the trait here is &quot;Hit Rate +0%&quot;,
+the hit rate for the actor&apos;s class is 95%,
+so in total, hit rate will be 95%. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please click the &quot;States&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;States&quot; are temporary status changes such as &quot;Poison&quot; or &quot;Paralyze&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>These traits appear only while an actor is in that state.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now let&apos;s go back to &quot;Classes&quot; for a moment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, take a look at &quot;Skills to Learn&quot;. 
+&quot;Skills&quot; are a general name for &quot;Magic&quot; or &quot;Special Moves&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Learned skills can be created/configured in the &quot;Skills&quot; tab. Click the &quot;Skills&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;Attack&quot; and &quot;Guard&quot; are configured as skills,
+but there&apos;s no need to worry about those right now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic is configured in numbers 8 through 10.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently, the skill descriptions are blank, so why don&apos;t we add a description.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #8, &quot;Heal&quot;. 
+The settings for Heal are displayed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Restores 200+ HP
+ in the description.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #9, &quot;Fire&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Deals around 100 fire damage to a single enemy
+ in the description.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #10, &quot;Spark&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Deals around 100 electric damage to all enemies
+ in the description.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>These skill descriptions will now appear in game. 
+Next, click the Item tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;re going to fill in the blank descriptions like we did with skills. 
+Make sure #1, &quot;Potion&quot;, is selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Restores 500 HP
+ in the description.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #2, &quot;Magic Water&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Restores 200 MP
+ in the description.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #3, &quot;Dispel Herb&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Cures status ailments except Knockout
+in the description.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #4, &quot;Stimulant&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Revives a knocked out ally at half of their max HP
+ in the description.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Item descriptions will now appear. 
+Next up, an explanation of enemies the party will fight. 
+Click the &quot;Enemies&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are currently 4 enemies registered in the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We can see that 
+you can set ability values and traits, like with Actors.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you change the &quot;Action Pattern&quot;,
+you can make them use skills, and set the skills
+they can use depending on a condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now, just making an enemy isn&apos;t enough for them to show up in battle. You&apos;ll need to make &quot;Troops&quot;, and add them there. Click the &quot;Troops&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are 4 enemy troops registered in the list. 
+Enemies are added alone, or in groups.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>These &quot;troops&quot; are the groups of enemies the party will actually battle.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can add and remove enemies from troops here. In the second half of this step, we&apos;ll actually create a troop.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Also, it is possible to test battles here without actually launching the game. 
+Click &quot;Battle Test...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A window where you can configure each actor has appeared. 
+Here, you can set your hypothetical level and equipment, and run a test where you battle the troop. 
+This time, there&apos;s no need to change anything.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and start the battle test. 
+Make use of magic and items and battle. 
+Additionally, you will be given the max amount of items
+so you can check item effects.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You likely noticed a few things in battle. 
+For example, there is an unfamiliar value called &quot;TP&quot;, but that will be explained in the next step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Also, if you choose &quot;Escape&quot;, even if you fail, the success rate
+will increase slightly with each turn.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How was it? Want to try again?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Battle Test&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No need to change the actors this time either.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Like this, in &quot;Battle Test&quot; you can playtest battles in an almost identical environment as an actual battle.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alright. Until now the battles have been front-view,
+but you can also make them side-view. 
+Click the &quot;System&quot; tab. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check &quot;Use Side-view Battle&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s try a battle test under these conditions. 
+Click the Troops tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Battle Test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and start the battle test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You probably noticed the change in appearance. 
+From now on in this tutorial, it will be assumed that side-view battle is being used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now then, let&apos;s try making a new troop. 
+Click &quot;Change Maximum...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the maximum from 4 to 5.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the maximum value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the newly created troop #5.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;re going to make a troop of Slime*2, and Bat*2. 
+First, click Slime.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;&lt; Add&quot; twice. Two slimes will be added.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Bat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;&lt; Add&quot; twice. Two bats will be added.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Since the actors are displayed on the right in side-view,
+it would be ideal if we could move the enemies slightly to the left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you drag the enemies to the left, you can change their position
+so let&apos;s slide them all over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll name the troop. Click &quot;Auto-name&quot;. 
+An appropriate name will be generated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now let&apos;s run a battle test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and start the battle test. 
+There&apos;s a large number of enemies, so use Harold&apos;s &quot;Spark&quot; wisely.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you&apos;re done with the battle test, this step is complete. 
+Click OK and set the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Save&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done with this step. 
+Well done. 
+Next time we&apos;ll handle the database again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep13</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 12?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 12 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 12 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step, items and skills will be explained and created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click and open the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the Item tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Change Maximum...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the maximum from 4 to 6. 
+We&apos;ll make 2 new items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the maximum value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First let&apos;s create an &quot;Elixir&quot;. 
+Its effect will be restoration of HP and MP to the maximum value. We&apos;re going to make it by tweaking the settings of a
+pre-existing item, the &quot;Potion&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left click on #1, &quot;Potion&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click and select &quot;Copy&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left click to select the blank #5.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click and select &quot;Paste&quot;. 
+Now the configuration for the potion is copied to #5.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the name to Elixir.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite the description and put 
+fully restores HP and MP.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the price to 500.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we will set up the effect. 
+Click &quot;Recover HP 500&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click and select &quot;Edit...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change &quot;0%&quot; to &quot;100%&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change &quot;500&quot; to &quot;0&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done configuring it to restore HP to its max. Click OK to set the effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;re also going to set up the full MP recovery. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Recover MP&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure the effect is &quot;100%&quot;+&quot;0&quot;
+and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;re also going to change the animation when it is used in battle.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the Animation menu, and change it to #42 &quot;Heal One 2&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the Elixir is complete. You can now put it in chests,
+or add it to shops. 
+Of course you can also use it in a battle test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next is the creation of a new skill. 
+We&apos;ll make it the special move of Therese, who doesn&apos;t have any skills. 
+Click the Skills tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the maximum from 10 to 11.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make it a skill called Triple Strike. Once again we will transform an existing skill to create it. 
+Click #5, &quot;Triple Attack&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click and select copy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click on blank #11.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click and select &quot;Paste&quot;. 
+It&apos;s been copied to #11.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the name to Triple Strike.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write Hits 3 random enemies
+ in the description.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will change the message when the skill is used. 
+Click &quot;uses!&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the Skill Type to &quot;Special&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s go into more detail about skill types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The only skill types that actors may use
+are skills of the type listed in their &quot;traits&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In short, for a &quot;Special&quot; skill type, if
+&quot;special&quot; is not set as a skill type in the actor&apos;s traits,
+they cannot use the skill even if they&apos;ve learned it. 
+Also, if their skill type is &quot;None&quot;, the actor would be unable to use it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thus, when having actors learn skills, please be sure to check their
+skill type. 
+Additionally, enemies can use skills regardless of skill type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That&apos;s all. Would you like to read the explanation again?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Then we can continue the explanation. Therese doesn&apos;t have &quot;Special&quot; as her skill type,
+so we need to deal with this. Click the &quot;Actor&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab for #2, &quot;Therese&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Therese&apos;s class is #2, &quot;Warrior&quot;. 
+We will change the &quot;Traits&quot; for &quot;Warrior&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the Classes tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #2 from the list, &quot;Warrior&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;Add Skill Type Magic&quot; is there, but not Special. 
+It seems natural that a warrior would use special moves.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click &quot;Add Skill Type Magic&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that &quot;Add Skill Type&quot; is checked off,
+click &quot;Magic&quot; and change it to &quot;Special&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now Theresa is able to use special moves instead of magic. Let&apos;s go back to skill editing. 
+Click Skills.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Triple Strike is a special move, so
+we will make it consume TP instead MP. 
+Set the TP Cost to 5.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Since it costs TP, we&apos;ll set the TP Gain to 0. 
+The TP Gain is how much TP is gained when a skill/item is used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done creating the skill. 
+Here we&apos;ll give an explanation of TP.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TP is a value that shifts between 0 and 100.
+It is gained when damage is taken in battle
+and when specific actions are taken.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The value at the start of battle will be from 0 to 25,
+but if the actor has the &quot;Preserve TP&quot; trait,
+the TP value at the end of the battle will be carried over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The primary use is for creating powerful skills that cost TP. 
+That&apos;s all. Would you like to hear the explanation again?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Then let&apos;s move on. 
+We&apos;re going to make Therese learn the skill. 
+Click the Classes tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure #2, &quot;Warrior&quot;, is selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the topmost line in &quot;Skills to Learn&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We won&apos;t change the level or the note. 
+Click on the Skill and select #11, &quot;Triple Strike&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set. 
+Therese has learned &quot;Triple Strike&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, we&apos;ll make an item that boosts TP. 
+Click the Item tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make item #6 based on #1, the potion. 
+Click Potion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click on blank #6.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click and select &quot;Paste&quot;. 
+Now the configuration for the potion is copied to #6.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the name to TP Charge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rewrite the description as 
+Restores 50 TP.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the occasion from &quot;Always&quot; to &quot;Battle Screen&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the line under Effects that says &quot;Recover HP 500&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off Gain TP.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the value gained to 50.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the effect. 
+With this, we&apos;ve created the TP Charge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In these steps, we&apos;ve finished creating items and a skill. 
+Click OK and set the database update.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lastly, in order to test the effects of the items and skill we created, let&apos;s run a battle test. 
+Please open the database once more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the Troops tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select your opponent from the Troops.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Battle Test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and conduct the battle test. 
+Test out Therese&apos;s skill and the new items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to battle test again?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Then we will close the database. 
+There were no changes, so click &quot;Cancel&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well done. In these 2 steps you&apos;ve been
+introduced to the database. There are still unexplained settings,
+but please familiarize yourself with them bit by bit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep14</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 13?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 13 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 13 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time, we&apos;ll make damage floors and a skill to avoid them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Firstly, there will be an explanation of damage floors. 
+Please open the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the &quot;Tileset&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #4, &quot;Dungeon&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Damage Floors&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The tiles with a double triangle mark are damage floors. 
+You can change them by clicking, but we won&apos;t be changing them this time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When the party leader walks over &quot;damage floor&quot; tiles, all party members will lose 10 HP.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and return to the map. 
+We will place damage floors on the dungeon map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to Map mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click on &quot;Stone Cave&quot; from the map tree.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click on a damage floor from the tile palette.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place the damage floor wherever you&apos;d like. 
+When you&apos;re done, we&apos;ll move on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will go back to event mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Because it would be nice to provide a skill that allows the player to negate the effects of a damage floor, we will be making that next. 
+Please open the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to do this, we will first create a state that invalidates damage floors,
+and then create a skill that applies that state when cast.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>So let us first create the state. 
+Click the &quot;States&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Change Maximum...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the maximum from 10 to 11.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to change the maximum.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click and select #11.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the name as Floor 
+Damage Immunity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will set the icon. 
+Double click the image area.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click and select an appropriate icon. 
+(Here we will select a bronze star mark)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the top line in Traits.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the Parameter tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Sp-Parameter&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Floor Damage from the special parameter list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change 100% to 0%.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done setting the traits for &quot;Floor Damage Immunity&quot;. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Remove by Walking&quot; under Removal Conditions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure it is set to 100 steps.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Under &quot;If the state is removed&quot;,
+enter: 
+&quot;You are vulnerable to floor damage again.&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done configuring the state. 
+Next, click the &quot;Skill&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the maximum from 11 to 12.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the maximum value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we don&apos;t have any similar skills, so we&apos;ll start from scratch. 
+Click on blank #12.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s give it a skill name. 
+Enter:
+Cancel Floor Damage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Grants immunity to floor damage for 100 steps
+ in the description.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the icon image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose an icon to your liking.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and the icon will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the Scope to All Allies.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the Occasion to the Menu Screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the MP cost to 5.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;casts *!&quot; as the message.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the blank line at the top of Effects.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the &quot;State&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Add State&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &quot;Floor Damage Immunity&quot; from the states.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure it&apos;s set to 100%,
+click OK and set it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the skill is complete. We&apos;ll make someone learn it. 
+Click the &quot;Classes&quot; tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #4, &quot;Priest&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the next line in &quot;Skills to Learn&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With the level at 1, click the skill
+and select #12, Cancel Floor Damage. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now Lucius has learned floor damage magic. 
+Here&apos;s one more explanation. 
+Click the System tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If the option &quot;Knockout by Floor Damage&quot;
+is not checked off, the HP of the actors will not go below 1 even if they are hit by a damage floor. 
+This time we will leave it unchecked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done configuring the database. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start a playtest. 
+Please try everything,
+such as taking damage and using the floor damage immunity skill.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well done. This is the end of Step 14. 
+In the next step we will continue to deal with dungeon setup.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep15</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 14?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 14 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 14 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step, we will create a point
+in the dungeon where the player can save and heal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click on &quot;Stone Cave&quot; from the map tree.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Having a spot where you can save and heal right before a boss is par for the course in RPGs these days, and we&apos;ll be using the same plan here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will be assuming that the boss will be positioned in the mossy area to the upper right. First, scroll the map far to the upper right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We plan to place the boss at (34,7) in a later step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time, we&apos;ll place a restore point on the floor nearby (30,11). 
+Find (30,11).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click (30,11).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the name as Restore Point.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click !Door2 from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the magic circle you like best from the lower half.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Direction Fix&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the priority to &quot;Below characters&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the trigger to &quot;Player Touch&quot;. 
+Now we&apos;ve made it so the event will be launched when the player stands on it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the topmost line in &quot;Contents&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab to switch to page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Gather Followers&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Play SE...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Heal1 in the list and click it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the SE (sound effect).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Flash Screen...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After making sure that the duration is set to 60 frames and that Wait for Completion is checked off,
+click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we will heal the party members. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab to switch to page 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: We will not be using &quot;Recover All&quot; this time. 
+This is for removing all states, so even positive states
+like floor damage immunity will be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Instead we will combine &quot;Change State&quot;, &quot;Change HP&quot; and &quot;Change MP&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First we will remove Knockout. 
+Click &quot;Change State...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the Actor is set to Entire Party, and that the State is set to Knockout. Then click &quot;Remove&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now Knockout will be removed from the whole party. 
+No other negative states will be dealt with in this tutorial, so this is enough. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Change HP...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the Actor is set to &quot;Entire Party&quot; and that the Operation is &quot;Increase&quot;, and then enter 9999 as the constant.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Change MP...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, we will make it ask about saving. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Do you want to save?
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Choices...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK as-is and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;When Yes&quot; will perform the save process, while &quot;When No&quot; will do nothing. 
+Double click the line under &quot;When Yes&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab and open page 3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Open Save Screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Here we will have a brief explanation on saves. 
+You can always save from the menu,
+but if you use the &quot;Change Save Access&quot; event command,
+the player will be unable to save from the menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this tutorial, we will not disable save access. Therefore, there is no need to ask if the player would like to save,
+but urging the player to save before an important part of the game like this would be a nice thing to do.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done making the restore point. 
+Click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start a playtest. 
+Reduce your HP on the damage floor and then get on the restore point,
+making sure your HP was actually recovered by checking on the menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well done. Step 15 is done here. 
+This tutorial uses configuration with the minimum number of components,
+so there&apos;s lots of room for improvement. When you make your own projects,
+try adding even more components.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep16</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 15?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 15 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 15 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project complete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step, we will place treasure chests and enemy troops in the dungeon. For battle, we&apos;ll be using symbol encounters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Stone Cave&quot; from the tree view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First we will place the treasure chests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll to the bottom left of the map, displaying the area around the entrance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll use the grotto to the left of the entrance. 
+Find the coordinates (3,23).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on (3,23),
+and select
+Quick Event Creation &gt; Treasure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contents will be a TP Charge. 
+Click Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &quot;TP Charge&quot; from the item list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and create the treasure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Placing chests at dead ends
+makes it worth the player&apos;s while to explore them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;ll place our second treasure. 
+Scroll to the bottom right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s just south of the room with the boss. 
+Find (36,24).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on (36,24),
+and select
+Quick Event Creation &gt; Treasure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Item&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select #5, Elixir, from the item list. 
+This item can&apos;t be bought, and it&apos;s useful for bosses.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;ve placed 2 treasure chests. 
+For a cave of this size, 3 to 5 would be appropriate. 
+So we will place a few more chests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place another 1 to 3 chests. 
+Where you place them and their contents is up to you. 
+Once you&apos;ve placed them, we&apos;ll move on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we will place enemy troops. They will be the typical weaklings that you&apos;d find in a dungeon.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this tutorial, we will be using symbol encounters. In this system, troops will each be an event,
+and when touched, battle will start.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now, the opposite of a &quot;symbol encounter&quot; is a &quot;random encounter&quot;. 
+First we&apos;ll explain random encounters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random encounters are an encounter style where battles will suddenly start while the player walks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s explain how to set up random encounters. 
+Right click &quot;Stone Cave&quot; from the map tree and select &quot;Edit&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the first line
+in the Encounters list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can set the troops that will appear in that map (or a specified area of the map) and their weight (likelihood to be chosen as the encounter). 
+We won&apos;t be configuring this so click cancel.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Take note of the Encounter Steps. 
+This is a reference value for how many steps on average will be walked before a battle starts in the random encounter system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That&apos;s it for the random encounter explanation. 
+The main feature of random encounters is that you get the thrill of never knowing when a battle will happen, because you can&apos;t see the enemies. Click cancel and close the window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now let&apos;s return to symbol encounters. 
+Where should we put the enemy symbols?
+As an example, this time we will plan to put them near the treasures we placed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If they&apos;re near treasure, players who wish to take the shortest route can avoid excessive battles,
+and it also provides player incentive as they can open the treasures if they do battle.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we&apos;ll keep it simple and place 3 enemy symbols.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s get to creating the event that will serve as an enemy symbol. If you make one, there&apos;s no issue if you duplicate by copying and pasting and then fine tune.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First, let&apos;s place troop #1 near our first treasure. 
+Scroll the map to display the lower left of the dungeon.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll place them on (8,24). Find those coordinates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click (8,24).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the name as Enemy Symbol.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Monster from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From the bats on the leftmost side of the top half,
+we&apos;ll select the center of the right-facing sprites.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Approach as the Autonomous Movement type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the Trigger to Event Touch.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We won&apos;t change the speed or frequency this time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, double click the first line in &quot;Contents&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab to go to page 3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Battle Processing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the
+Troop is set to &quot;Direct designation&quot;, and that #1, &quot;Bat*2&quot;, is selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off Can Escape.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will describe the process for when the player wins. 
+Double click the line under &quot;If Win&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab to go to page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Play SE...&quot;. 
+We will set the sound effect for when the enemy symbol disappears.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll through the list and select Collapse1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the sound effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Erase Event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When &quot;Erase Event&quot; is performed, that event will be changed to a non-existent state. 
+But if you change maps, it will be restored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additionally, events that have been temporarily erased may be restored when the author overwrites the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, double click the line under &quot;If Escape&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the page 1 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Control Self Switch...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the Self Switch is A, and that the Operation is set
+to ON, click OK and set it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make it so that self switch A will be used as the condition
+to switch to page 2 when the player escapes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done with setup for page 1. 
+Click &quot;New Event Page&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll check off Self Switch as the Condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure it is set to A.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Monster from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the middle bat facing right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will set the enemy symbol so that after escaping,
+it stays still for a few seconds
+and during that time even if the player touches the symbol, battle will not start.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off Through.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the Trigger to Parallel. 
+Parallel will be described later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the first line in &quot;Contents&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the page 2 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Set Movement Route&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the target to This Event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Change Opacity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change opacity to 128.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Wait.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the duration to 120.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure the opacity is 255
+and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure the list looks as follows:
+Opacity: 128
+Wait: 120 frames
+Opacity: 255
+
+If there&apos;s no issue, click OK and set it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure the Self Switch is A
+and check off OFF.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now, after stopping for 120 frames at half opacity,
+it will return to its state in page 1 where it goes after the player.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will explain &quot;parallel processing&quot;. 
+Usually during event execution, the player
+can&apos;t move, however when the event is set to &quot;parallel&quot;,
+players and other events can move.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parallel processing is a feature aimed at advanced users,
+so it&apos;s best not to use it too much while you&apos;re unfamiliar with it. 
+Parallel processing takes up a particularly large amount of time,
+so if there are multiple events using parallel processing,
+you need to be careful as processing may slow down.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the creation and explanation of enemy symbols is complete. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now, let&apos;s duplicate our enemy symbol. 
+Right click the symbol we created
+and select Copy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll put our second symbol at the entrance of the stairs on the upper left. 
+Find (9,16).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on (9,16) and select &quot;Paste&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the event on (9,16).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click Battle Processing and select Edit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the enemy group to #2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the middle slime facing to right from the slimes, second from the left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the same image as on page 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now our changes are complete. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll place the third one at the entrance of the space below the boss. 
+Show around the middle of the right side of the map and find (32,19).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on (32,19) and select &quot;Paste&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the event on (32,19).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make it troop #5.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the middle slime facing away from you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the same image as in page 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done placing the enemy symbols. 
+Next, click Database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the Enemies tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The EXP and Gold from bats and slimes is still 0,
+so let&apos;s enter some appropriate values. 
+First, we&apos;ll change the EXP from bats to 50.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll set their Gold to 20.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the topmost Drop Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Item, and make sure it&apos;s set to #1, &quot;Potion&quot;,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the probability denominator to 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can configure up to 3 drop items. 
+Click the second line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off Item,
+and select #6, &quot;TP Charge&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #2 from the list, &quot;Slime&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set EXP to 50
+and Gold to 40.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off Item,
+and select #2, &quot;Magic Water&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the next Drop Item line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off Item,
+and select #4, &quot;Stimulant&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done configuring the database. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s change the player&apos;s initial position. 
+Click Normal Town.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you turn left from the town entrance, there is an inn immediately nearby. 
+Find (10,31) in front of the inn.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click coordinates (10,31),
+and select
+Set Starting Position &gt; Player.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re all set. 
+Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run a playtest. 
+First, gather money and shop in town, enter the dungeon,
+battle and escape from enemies, and be careful of damage floors.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Once you&apos;re done with the playtest there will be a simple explanation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may have noticed certain aspects of RPG Maker MV,
+like how moving enemies don&apos;t stop even when you&apos;re investigating treasure, and that enemy symbols don&apos;t take damage from damage floors.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playtest again?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well then, nicely done. 
+In the next step we&apos;ll place our boss.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep17</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 16?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 16 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 16 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step, we&apos;ll create the cave boss. 
+We&apos;ll configure the database and adjust it to have strength suitable for a boss.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please open the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the Enemies tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click #3 from the list, &quot;Orc&quot;. 
+We&apos;ll make this enemy the boss.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Here&apos;s an example of how to adjust balance:
+Consider the player&apos;s assumed level and equipment
+to determine an initial strength, and after that make small adjustments with playtesting.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we&apos;ll assume a player level of 4. 
+We&apos;ll start our adjustments based on this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s look at the regular attack combat formula. 
+Click the Skills tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure #1, &quot;Attack&quot;, is selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The damage formula is configured here. 
+This means &quot;Attack*4 - Defense*2&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;Critical Hits&quot; are set to &quot;Yes&quot;. 
+Critical hits deal 3 times the amount of damage. 
+It&apos;s very important to keep these in mind when setting your values, and to adjust
+using playtesting.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additionally, there&apos;s no need to always make enemy attacks skill #1. It&apos;s also possible to create enemy-exclusive attack skills with different formulas and other settings. 
+We&apos;ll be proceeding in this tutorial without any additional changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the Troops tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can check the party strength of a party
+with an assumed level of 4 using battle testing. 
+Click Battle Test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Here we can see the ability values of
+actors at each level. 
+First, let&apos;s make Harold level 4.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Harold&apos;s level 4 stats will be shown.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make the other members level 4 in the same way. 
+Switch to the page 2 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make Therese level 4.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the page 3 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make Marsha level 4.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the page 4 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make Lucius level 4.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Everyone&apos;s level 4 stats will be shown. 
+While generally there would be a need to test equipment
+in addition to this, we won&apos;t be changing equipment this time so it&apos;s fine as-is.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additionally, we will configure the enemy&apos;s initial values
+while taking the skills that the actors can use into consideration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For now, click OK and conduct the battle test. 
+You can immediately end the battle test. 
+Now the configured values are remembered,
+so next time we can conduct the battle test with all members at level 4.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now let&apos;s actually configure the boss parameters. 
+Click the Enemies tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure #3, &quot;Orc&quot;, is selected. 
+This time, enter the following values
+as an example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Max HP to 1200.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Max MP to 10.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Attack to 50.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Defense to 40.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Magic Defense to 40.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Agility to 50.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The game will end when the boss is defeated
+so you can leave the EXP and Gold at 0.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, we&apos;ll edit his action patterns. 
+We&apos;ll set the actions that can be taken and their conditions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can set conditions such as use every X turns or use when HP is above or below a fixed amount. 
+If a condition is not set, the action can always occur. (Excluding cases such as insufficient MP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R refers to rating, which pertains to the rate at which the action is taken. 
+While you&apos;re still getting used to things, it&apos;s fine to leave them all at 5.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First, we&apos;ll make him attack twice in one turn. 
+Double click the &quot;Attack&quot; line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the skill from #1, &quot;Attack&quot;, to #4, &quot;Double Attack&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set it to skill #8, &quot;Heal&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off the HP condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We want to make him use it when his max HP is between 0% and 35%,
+so change the 100 on the right to 35.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the rating from 5 to 6. 
+Now when his HP is low,
+there&apos;s a higher chance of him using Heal instead of Double Attack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click on a new line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set it to skill #10, &quot;Spark&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off HP under Conditions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change 100 to 50.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll change the rating from 5 to 6. 
+Now when the condition is filled,
+there&apos;s a higher chance of him choosing Spark instead of Double Attack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heal and Spark both consume 5 MP. 
+Since the Orc only has 10 MP, he can only use magic twice. 
+When he can no longer use these skills,
+he will use only Double Attack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll set his Traits. 
+Double click the next blank line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the Other tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off Collapse Effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Boss. 
+Now when he&apos;s defeated, his collapse animation will be more impressive.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now, we&apos;re done configuring the Orc unit. 
+Next, click the Troops tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select #3, &quot;Orc&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the preparation is complete. Let&apos;s battle test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure each actor&apos;s level is 4
+and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How was it? It was a bit tough, wasn&apos;t it? 
+We&apos;ll go with this strength.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s place the boss in the dungeon. 
+Click OK and set the database changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Stone Cave&quot; from the tree view.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll to the upper right of the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The boss coordinates will be in the middle of the moss, (34,6). 
+Find those coordinates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click on (34,6).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the name as Boss.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Monster from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the middle character facing down, second from the right in the top half.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now let&apos;s set the contents. 
+Double click the first empty line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter in two lines: 
+&quot;You&apos;ve come far, humans. 
+But your judgment is nigh!&quot;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Battle Processing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change it to #3, Orc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Since he&apos;s the boss, we won&apos;t check off &quot;Can Escape&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;ll describe the processing for after the battle is won. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab for the 1st page and open it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: Curses...
+ These are the orc&apos;s last words.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will erase the orc. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Control Self Switch...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the Self Switch is A, and that the Operation is set
+to ON, click OK and set it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done with setup for page 1. 
+Click &quot;New Event Page&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll check off Self Switch as the Condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure it is set to A.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the boss event is complete. 
+Click OK and set the event. 
+We&apos;ll make the ending in the next step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run a playtest. For the sake of simplicity,
+we&apos;ll start right in front of the boss.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make the player&apos;s initial coordinates close to the boss, at (34,11). Find those coordinates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on (34,11)
+and select
+Set Starting Position &gt; Player.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>However, if we do it like this, the party&apos;s level will be at 1
+and they won&apos;t have any items. Thus we will make a
+temporary event for playtesting.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll place the venue outside of the map, in a place like (28,9). 
+Find (28,9).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click (28,9).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name it For Testing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the Trigger to Autorun.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;Autorun&quot; events will execute automatically
+no matter where they are on the map when their condition is met. 
+This time, it will be executed as soon as the map is loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The content will make the party the necessary strength to battle the boss. 
+Double click the first line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Change EXP...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the Actor is set to &quot;Entire Party&quot; and that the Operation is &quot;Increase&quot;. 
+Set the Operand to a Constant of 400.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Recover All...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the Actor is set to &quot;Entire Party&quot;
+and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Change Items...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select item #4, &quot;Stimulant&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the Operation is &quot;Increase&quot;,
+and set the Operand to 5.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select item #5, &quot;Elixir&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select item #6, &quot;TP Charge&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the Operation is &quot;Increase&quot;. 
+Set the Operand to a Constant of 5.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set. 
+Now we&apos;re all set for a boss battle.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If left as-is, autorun will repeat the content of the event
+endlessly. Thus we need to switch pages
+after it finishes executing. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With &quot;New Event Page&quot;, create page 2. 
+This is the page that will be switched to when autorun is done.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure the Self Switch is set to A.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Because nothing will happen on page 2, the configuration is done now. Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll run our playtest in these conditions. 
+First, save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start a playtest.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you&apos;re done playtesting, we&apos;ll do postprocessing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll stop our event for test use from launching during actual play. 
+While deleting it is one solution,
+let&apos;s make it so we can use it as necessary. 
+Double click the event for test use on (28,9).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the page 2 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;New Event Page&quot;. 
+Page 3 has been created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We won&apos;t do any configuration on page 3. 
+Now page 3 will always be shown,
+and it will no longer switch to pages 1 and 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From now on, if you want to enable this event for testing,
+change to the page 3 tab and use
+&quot;Delete Event Page&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to reflect the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now, please save the project once more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well done. This is the end of Step 17. 
+In the next step we&apos;ll create
+and ending, so we&apos;ll leave the player starting position as it is.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep18</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 17?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 17 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 17 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step, we&apos;ll make an ending. 
+After that, we&apos;ll add some necessary flavor,
+including adding BGM to the maps.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On the top row of the map tree view, right click
+and select &quot;New...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the map name as &quot;Ending&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Autoplay BGM. 
+We&apos;ll specify the BGM that is played
+when this map is entered (i.e. when the ending starts).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the file name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll pick a song that&apos;s fitting for an ending. 
+Let&apos;s click Theme2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the BGM.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and the map will be set. 
+A new map has been created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s make an event for when the boss is defeated. 
+Click on &quot;Stone Cave&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find the boss event at (34,6)
+and double click.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the page 2 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the trigger to Autorun.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the first line under Contents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab to show page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Fadeout Screen. 
+This command will darken the screen until the &quot;Fadein Screen&quot; is executed later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Change Transparency. 
+This command changes the player transparency.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that Transparency is set to ON
+and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Transfer Player...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the Fade to None. 
+We&apos;ll be using &quot;Fadeout Screen&quot; and &quot;Fadein Screen&quot;
+for fade processing instead.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Ending from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any place in the map will do,
+so for now click somewhere around the center.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the transfer destination.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Our processing for this event ends here. 
+Next, another event will take over after the location transfer. 
+Click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll create an event on the ending map. 
+Select Ending from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll create an event. 
+Anywhere is fine,
+but in this tutorial we&apos;ll use the top left. 
+Double click (0,0).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the name as Ending.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the Trigger to Autorun.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s enter the content. 
+Double click the first line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Fadein Screen&quot;. 
+Just like this, always make sure to
+run Fadein Screen after running Fadeout Screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll make something like a credit roll. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab and open page 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Scrolling Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s a bit long, but enter the text as follows:
+And thus, Harold and his allies
+
+defeated the boss of the caves,
+
+and restored peace to the town. 
+
+And they all lived happily ever after. 
+
+
+Development Staff
+
+KADOKAWA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can replace KADOKAWA in the last line
+with your own name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the credit roll.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll show &quot;The End&quot; at the end. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the Window Position to Middle. 
+Now it will be shown in the middle of the screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the Background to Transparent. 
+Now it won&apos;t show the window frame.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter:　　　　　　　　　\{\{\{THE END
+ 
+The first characters are 6 full-width spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Afterwards, we will simply return to the title screen. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the page 3 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Return to Title Screen&quot;. 
+Now we&apos;re done setting up this event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before we playtest, we&apos;ll test within the event. You can select multiple lines, right click and select &quot;Test...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will select the range of lines. Click on Text(S).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hold down the shift key on your keyboard
+and click on Text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click and select &quot;Test...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now you have an idea of what the scrolling text and message look like. The players were shown,
+but they won&apos;t be in the actual game.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now, usually we would playtest here,
+but beating the boss again is a nuisance that takes time. 
+So this time, we&apos;ll use a temporary trick for debugging,
+different from last time. 
+Please open the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the Troops tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select #3, &quot;Orc&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll use a battle event
+to make the battle start and end simultaneously. 
+Click Conditions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off Turn.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Both values are set to 0 
+Thus, the event will occur on turn 0. 
+Turn 0 is the interval where commands can be input after the battle starts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the condition. 
+It is possible to launch events during battle in this way.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll describe the event so that the battle ends instantly. 
+Double click the first line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Change Enemy State...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the &quot;Entire Troop&quot; is selected so that &quot;Knockout&quot; will be Added. 
+Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now as soon as the battle is started, it will end. 
+In order to check, click Battle Test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and start the battle test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Orc was instantly knocked out. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start a playtest. 
+If you can talk to the boss, watch the ending,
+and return to the title screen, it&apos;s a success.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you&apos;re done playtesting,
+we&apos;ll continue our finalization work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll delete the debug event we created. 
+Click Database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the Battle Event Condition.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove the check from Turn. 
+Now the battle event won&apos;t occur.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK. 
+Unlike map events, when no condition
+is set for battle events, they won&apos;t occur.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we just barely touched on battle events but it&apos;s possible to use them in more complex ways.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, we&apos;ll return the player starting position
+to the original start place. 
+Click Normal Town.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll place the player at the town entrance. 
+Scroll along the map
+and find the coordinates (19,36).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on the town entrance at (19,36)
+and select
+Set Starting Position &gt; Player.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;ve completed a minimal game. 
+But we&apos;ll do one more important thing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That will be playing BGM on each map. 
+First, right click on Normal Town
+and select Edit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off Autoplay BGM.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Town1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click on &quot;Stone Cave&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on Stone Cave
+and select Edit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click and select Dungeon1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click and select the Field Map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on Field Map
+and select Edit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click and select Field1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the map. 
+Now we&apos;re done configuring the BGM.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start a playtest. 
+Make sure the BGM is playing in each map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well done. Now we&apos;re done making the game content. 
+The next step will finally be the last one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep19</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 18?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 18 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 18 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step, as a final touch,
+we&apos;ll deal with the title screen. 
+We will also deal with plugins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First, let&apos;s adjust the game title screen. 
+Please open the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the &quot;System&quot; tab. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First we&apos;ll edit the game title. 
+Enter a title that you like.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure not to edit the game title after you&apos;ve released your game. 
+When you release it online and change the title, the game will be unable to read save data from before the change.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, let&apos;s change the title screen image. 
+Click Images.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For title screens, you can combine two images. We&apos;ll select an image from the list on the left as a base,
+and an accent from the list on the right. 
+Combine whatever images you like.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Once you found images you like,
+click OK to set them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can change the title BGM from the topmost line
+of the music list. Double click it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play them and sample them. If you change the pitch, the feel of the song will change, so compare and contrast.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Once you found something you like,
+click OK to set it. 
+If nothing is really doing it for you, go back to Theme6.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the changes
+and close the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, we&apos;ll change the position of the title screen
+command window. We&apos;ll be using a plugin to do this. 
+Click the puzzle piece icon.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the first blank line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you click under Name, several plugin names will appear. 
+Choose TitleCommandPosition from the list of names.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The description and author of the plugin,
+as well as its parameters are displayed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ve done all kinds of things using event commands and the database,
+but there are some things that are hard to accomplish using those alone. 
+What makes these things possible is a plugin.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are many other useful plugins
+aside from those included initially.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are some that require configuration. 
+This one requires configuration of &quot;parameters&quot;. 
+There are also plugins that require
+configuration via notes and plugin commands, but we&apos;ll skip that explanation for now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now let us configure the title command position for ourselves. We&apos;re going to shift it to the bottom right. 
+Double click the Offset X parameter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name and description of the parameter will appear. 
+&quot;The offset value for the X coordinate&quot; is difficult to understand,
+but a positive value will shift it to the right and a negative value will shift it to the left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we&apos;ll move it 200 pixels to the right. 
+Enter 200.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you&apos;re done with the input, click OK and set it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, double click Offset Y.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The offset value for the Y coordinate
+means that a positive value will move it down, and a negative will move it up.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we&apos;ll move it down 40 pixels. 
+Enter 40.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are other parameters, but for now we&apos;ve just changed the two above. 
+Click OK and set the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done editing the title screen using a plugin. 
+Click OK and set the map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;ll run a playtest,
+so please save the project first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start a playtest. 
+Please check and see
+how the title screen has changed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well done. You&apos;ve now completed this tutorial. Like a house with no doors or an empty field,
+there is still room to grow. 
+Please try to come up with ways to innovate on your own.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additionally, on the RPG Maker MV official site, there are courses for beginners. Please read them and further enrich your knowledge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We hope that your technical skills in RPG Maker MV never stop growing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep2</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 1?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 1 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 1 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then press OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project loads.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Character and conversation development is done using &quot;events&quot;. 
+This time we&apos;ll create a character event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Normal Town&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First let&apos;s determine where the character will be placed. 
+The coordinates are shown on this taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will place her on the crossroads near the town entrance. 
+Let&apos;s place her on (19,33). 
+Check the coordinates while clicking on the map and find (19,33).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click on that position. 
+The event editor will launch.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First let&apos;s choose her appearance. 
+Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we will pick an Adult Woman as an example. 
+Click Actor1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the rightmost woman from the top row.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Once you&apos;ve selected her, press OK to confirm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notice that the &quot;Priority&quot; has changed from &quot;Below characters&quot; to &quot;Same as characters&quot;. 
+If the priority is set to below, then it will display under the player. 
+If it&apos;s the same, they won&apos;t overlap.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next let&apos;s name the event &quot;Villager1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Event names are not required, but they are useful when making references from other events. 
+In this tutorial, we will give real examples using names later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check that the Trigger is set to &quot;Action Button&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the condition required to activate the event. 
+If set to &quot;Action Button&quot;, it will activate when the button is pressed. If it&apos;s &quot;Player Touch&quot;, it will activate when touched.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now let&apos;s set the contents. Double click the first line in &quot;Contents&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type &quot;Villager:&quot; on the first line,
+and &quot;Hello&quot; on the second line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can check how the text you&apos;ve input will be shown with &quot;Preview...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hit &quot;Close&quot; after previewing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now, there are things called &quot;control characters &quot; that allow you to do various things such as change text color and size.
+
+Let&apos;s try displaying &quot;Villager:&quot; in a different color. 
+Rewrite the text as &quot;\C[2]Villager: \C[0]&quot;. 
+Make sure the control characters are written in single byte characters.
+
+Let&apos;s change &quot;Hello&quot; to
+Hello, \N[1]　.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please preview your text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The text between \C[2] and \C[0] is now red. Also, \N[1] has been replaced by the name of the main character. 
+This is an example of the effects of control characters.
+
+Close the preview after checking it. 
+There are other control characters as well.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done with text display. 
+Click OK to set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, we&apos;ll show choices. 
+Double click the next empty line after the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First, we&apos;ll open &quot;Show Text...&quot; once more to write a question.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the question text:
+ something like &quot;Please get rid of the beasts in the neighboring cave.&quot; 
+will do.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you&apos;re done entering the text, click OK to confirm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the lowest empty line in &quot;Contents&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Choices...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can choose up to 6 choices, but this time we will make them just &quot;Yes&quot; and &quot;No&quot;. There are other options, but they&apos;re fine as-is for now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now fields labeled &quot;When Yes&quot; and &quot;When No&quot; have appeared. 
+You can describe the event for each case within these fields.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now for an explanation about Balloon Icons. 
+These are music notes, hearts, and other symbols that display above the event. 
+This time we&apos;ll use them in place of dialogue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the line under &quot;When Yes&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to Page 2 of the Event Commands.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Balloon Icon...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose &quot;This Event&quot; for the &quot;Character&quot;, and &quot;Heart&quot; for the &quot;Balloon Icon&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check off &quot;Wait for Completion&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the line under &quot;When No&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose &quot;This Event&quot; for the &quot;Character&quot;, and &quot;Cobweb&quot; for the &quot;Balloon Icon&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can add dialogue after a balloon icon, but even if you don&apos;t the sentiment should be clear. 
+Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now Step 2&apos;s preparations are complete. 
+Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playtest and make sure that everything runs as expected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep3</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 2?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 2 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 2 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then press OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project loads.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Normal Town from the map tree.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step we will learn how to move NPC events.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> There are two ways to move an event:
+you can set &quot;Autonomous Movement&quot; or use the event command &quot;Set Movement Route&quot;. 
+We&apos;ll deal with the former this time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s set &quot;Autonomous Movement&quot; for the character we created in Step 2. To do this, we will first find where the character is placed.　</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Event Searcher&quot;. 
+Here you can search for various events.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The character we want to look for was called &quot;Villager1&quot;. 
+Click Event Name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter &quot;Villager1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you&apos;re done, click Search. 
+Their position will be shown.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>As you can see, a benefit of naming your events
+is that you can easily search for them. 
+Click &quot;Close&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Villager1 on (19,33)
+and open the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Here we&apos;ll set the autonomous movement. 
+You can specify frequency and speed, but we&apos;ll leave those how they are for now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &quot;Random&quot; from &quot;Type&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the settings are complete. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s playtest here. 
+Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start a playtest. 
+Check that Villager1 is moving randomly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When the playtest is over, let&apos;s move on.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll make a character that repeatedly moves in the same places. As an example, let&apos;s make a character that walks around the statue in the town center.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click under the statue in the center of the town. 
+Make sure the coordinate is (19,23).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click (19,23) and open an event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll do the various basic settings for the event. 
+Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Actor2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pick the image of the woman facing to the right at the bottom right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name her something like StatueCircler.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the first line in &quot;Contents&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter some simple text, like: 
+&quot;I&apos;m circling the statue.&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make this event walk the perimeter of the statue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First let&apos;s change the movement speed and frequency. 
+Set the speed to &quot;4: Normal&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the freq to &quot;5: Highest&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;ll set her to walk around the statue. 
+Set the &quot;Type&quot; to &quot;Custom&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Route...&quot; and you can set the movement route.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you click a &quot;Movement Command&quot; on the right
+it will be added to the list on the left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The events entered are added here. 
+Right click when you want to delete or insert an event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add these events in the following order. 
+Move Right
+Move Up
+Move Up
+Move Up
+Move Left
+Move Left
+Move Down
+Move Down
+Move Down
+Move Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that &quot;Repeat Movements&quot; is checked. Now she&apos;ll circle the statue endlessly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not check off &quot;Skip If Cannot Move&quot;. We don&apos;t want her route to change on us.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the movement route.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run a playtest. 
+Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run the test and check to see if the woman is circling the statue properly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Is the event working properly in the playtest?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Then let&apos;s review the event. 
+Double click the event under the statue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double check the movement route settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well done. This is the end of Step 3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep4</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 3?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 3 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 3 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project loads.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step we will learn how to make an event move
+using the event command &quot;Set Movement Route&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First let&apos;s make a new character event. 
+In the northern road of the town, click near the middle
+of the long path that runs from left to right (at the T junction).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find (19,10) and double click it. 
+Open the event window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the image. Double click.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click People1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the right-facing woman, second from the left in the bottom row.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set her name to MovingLady.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the first blank line in &quot;Contents&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First she&apos;ll talk about where she&apos;s going to move. 
+Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type in: 
+&quot;I&apos;m moving 4 steps to the right now.&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up until now has just been a review. Now we&apos;re going to &quot;Set Movement Route&quot;. Double click the blank line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to Page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Set Movement Route&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The movement target is currently set to &quot;Player&quot;. 
+Please change it to &quot;This Event&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Skip If Cannot Move&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove the check from &quot;Wait for Completion&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the movement route as follows: 
+Move Right
+Move Right
+Move Right
+Move Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that there are four instances of &quot;Move Right&quot; in the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the movement route.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the event preparation is ready. Let&apos;s change the player&apos;s initial position to make playtesting easier. 
+After clicking a few squares away from the event, right click.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Set Starting Position &gt; Player.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First we&apos;ll save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now conduct a playtest. 
+Talk to the NPC a few times and check the movement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Once you&apos;re done, there&apos;s some more explanation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If the player character talks to her from their right or the path is blocked, her movement will be stopped. 
+This is the effect of &quot;Skip If Cannot Move&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could you playtest again to check that this is working?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, we&apos;ll make two events move simultaneously.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s make a male NPC event parallel to the woman. 
+Double-click the coordinate (19,9) above &quot;MovingLady&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set his name to MovingDude.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select People1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose the man facing right on the left in the bottom row.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to Page 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type in: 
+&quot;I&apos;m going to move with that lady.&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;ll make it so the man moves with the lady when you talk to her. 
+Double click MovingLady.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If we add an event to make the man move in the same way as the lady after her event, it&apos;ll look like they&apos;re walking together.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>But it&apos;s a pain to do the setup all over again. Here we will take advantage of copying &amp; pasting.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Set Movement Route...&quot; so it&apos;s selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>While it&apos;s selected, right click and choose &quot;Copy&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now right click the last empty line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose &quot;Paste&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll edit the event command you just pasted. 
+Right click and select &quot;Edit...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change &quot;This Event&quot; to &quot;MovingDude&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the event changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The preparation is complete. Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run a playtest, and make sure the man moves with the woman when you talk to her. 
+Also, check to see that if you block one of their paths that they will no longer be lined up.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Once you&apos;re done with the playtest we have a quick note.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Although this time we removed the check from &quot;Wait for Completion&quot;, when you want one to move after the other, check it off.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>However, sometimes when you use &quot;Wait for Completion&quot; and the path is blocked by an obstacle, you may no longer be able to progress in the game, so be careful.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That&apos;s it for this explanation. Well done.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep5</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 4?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 4 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 4 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project loads.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step we&apos;ll learn how to create events using switches and conditional branching.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Normal Town.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;re going to make three people lined up horizontally. 
+The location will be by the right side of statue in the center (25,22).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First, we&apos;re going to make an event where an NPC will give you a potion once.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click (23,22) to create an event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s call the event PotionWoman.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Actor3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the downward facing woman second from the left in the bottom row.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s make the contents. Double click the first empty line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First let&apos;s make a message saying an item has been received. 
+Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: 
+&quot;I&apos;ll give you a potion.&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we process the receipt of the potion. Double click the blank line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Change Items...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check that the Item is &quot;Potion&quot;, the Operation is &quot;Increase&quot; and that the Operand is &quot;Constant&quot; at &quot;1&quot;, and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now, if we keep it like this, you can get potions whenever you talk to her.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Here we&apos;re going to add a switch that contains the information that a potion was received. 
+Double click the blank line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Control Switches...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we&apos;ll use the first switch. You can name switches so they&apos;re easy to distinguish. Click the switch.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the first option in the list (0001).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the name 
+as GetPotion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the switch is set to &quot;Single&quot; &quot;0001: GetPotion&quot;, and that Operation is set to ON, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll use this switch to create a reaction for the NPC after they&apos;ve given a potion. Click &quot;New Event Page&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ve created a second page. 
+We&apos;ll set it up just like page 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the image to the same as on page 1. 
+Double click.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the downward facing woman second in the bottom row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll set the conditions for this event to appear. Put a check next to &quot;Switch&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure the switch number is set to &quot;0001 GetPotion&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;ll create the content for after she&apos;s given us a potion. 
+Double click the top line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: 
+&quot;Use that potion wisely, okay?&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press OK and set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done setting up this event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Here there will be a detailed explanation about event appearance conditions and pages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can create multiple pages for events,
+and when their conditions are fulfilled, the event will change to the appropriate page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If there are multiple pages when a condition is met,
+the page with the highest number will be executed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If no condition is specified, that page will always be considered to have its condition met. 
+On the other hand, if two or more conditions are specified, the page will be considered to have its conditions met when all conditions are met.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s consider our current case. 
+-When switch 1 is ON, the &quot;condition&quot; of page 2 is met, and the event is changed to the page 2 event. 
+-When switch 1 is not ON, the event will be the page 1 event, which has no condition set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That&apos;s all. This is pretty important, so would you like to read the explanation again?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s move on. Click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;re going to create someone whose dialogue changes depending on whether or not you&apos;ve gotten a potion. Double click (25,22).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name the event PotionJudge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll use the man with a hood, second from the right in the bottom row. 
+Choose the sprite of him facing downward.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we&apos;re going to use a &quot;Conditional Branch&quot; to determine whether or not the player has gotten the potion. 
+Double click the first line in &quot;Contents&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Conditional Branch...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check that &quot;Switch&quot; is checked off and that &quot;0001 GetPotion&quot; is set to ON.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Create Else Branch&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll enter the dialogue for when you have a potion and for when you don&apos;t. First, let&apos;s do it for when you have one. Double click.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: 
+&quot;Use potions wisely!&quot; This is the dialogue after you&apos;ve gotten a potion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the line under &quot;Else&quot;,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: 
+&quot;You need potions if you&apos;re going adventuring.&quot; This is the dialogue before you&apos;ve gotten a potion.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done setting up this event. 
+Switches record conditions such as completing actions, and are useful for dividing processes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Also, it&apos;s possible to achieve the same results without conditional branching by increasing event pages like you did with PotionWoman. 
+You could also use conditional branching with PotionWoman.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When images or other conditions need to change, you&apos;ll have to use event pages, but in cases like this you are free to choose.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and finish event creation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll make an event where you lose a potion. 
+Double click two spaces right of the man (27,22).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name it PotionBeggar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click People1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the kid facing downward, first in the top row.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s enter the content. 
+Double click the first line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: &quot;Gimme a potion!&quot;
+ Now we&apos;ll enter the process that will forcibly take a potion from the player.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check that the Item is &quot;Potion&quot; and that the Operand is &quot;Constant&quot; at &quot;1&quot;. 
+Click &quot;Decrease&quot; as the Operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the process for losing a potion has been made. 
+If you don&apos;t have one, nothing will happen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now event creation is complete. 
+Please save your work up until now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After you get a potion, it will be lost when you talk to the kid, but PotionWoman won&apos;t give you any more. Keep this in mind and conduct a playtest.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Were you able to fully check everything? Did you open the menu screen and check to see if you had a potion?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Will you test again to check other conditions?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well done. Now we&apos;ll move onto the next step (part 2).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep6</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 5?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 5 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 5 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project loads.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step, we&apos;ll change up the previous step and learn more about conditional branching.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Step 5 we used a switch to determine if conditions were met. 
+However, it&apos;s also possible to determine if the player has a potion or not without using switches. 
+Let&apos;s try it for ourselves.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click PotionWoman (23,22).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;re going to change the appearance condition from Switch to Item. 
+Remove the check from Switch.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off Item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure it is set to &quot;Potion&quot;. 
+It will be fulfilled when you have the item in question.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open page 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we no longer need the &quot;Control Switch&quot;, so we&apos;ll delete it. 
+This can be done by right clicking and selecting &quot;Delete&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;ve set her to give you a potion any time that you don&apos;t have one. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, double click the man who judges whether or not you have a potion (25,22).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll change the condition in the conditional branch. 
+Right click and select &quot;Edit...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab for the 4th page and open it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Item&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please make sure that the item is set to &quot;Potion&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the condition is &quot;the party possesses a potion&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done editing the event. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save your project before running a playtest.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run a play test, and check the events. 
+Pay attention to whether you can receive another potion 
+after getting a potion and losing it by talking to the child.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Once you&apos;re done with the playtest, there&apos;s some more explanation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We learned that by making a condition that generates items, we can perform different actions than with a switch. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To create a situation where once you get an item you can never get it again, we use switches,
+and for a situation where you can receive the item continually it&apos;s best to branch using items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are still many other conditions you can specify,
+so please try them out for yourself to learn about them. 
+But the one you will have the most opportunities to use is the switch.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep7</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 6?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 6 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 6 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait for loading to finish.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we&apos;re going to learn about self-switches.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Normal Town.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;re going to make 2 events in the grass in the corner, when you go left from the town entrance. 
+Scroll along the map until the area is displayed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First we&apos;ll make a chest in the grass. 
+Since the player initially has no money, we&apos;ll make it a treasure chest of money.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s place the treasure below the wooden crate (4,31). 
+Click on the map and find (4,31).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click under the wooden crate (4,31)
+and select Quick Event Creation &gt; Treasure...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the &quot;Content&quot; is checked off as &quot;Gold&quot;
+and enter 1000 as the amount.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK. A treasure chest will be created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the treasure chest.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for &quot;Control Self Switch: A&quot; in the content list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab to go to page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can see from the image that this page is for the chest in an opened state.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check that the appearance condition is set to &quot;Self Switch A&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>These settings are similar to the switch settings we learned in Step 5. 
+So now to explain how self switches and switches differ.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Like switches, self switches can be turned on and off. 
+But unlike switches, they cannot be referred to by other events.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each event can have self switches from A to D. 
+Since they&apos;re unaffected by other events, one benefit is that they&apos;re easy to understand.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>However, when you need to make references from other events, you will have to use regular switches.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That ends the explanation of self switches. 
+Would you like to read the explanation again?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now, click Cancel.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;re going to make an event using self switches. Let&apos;s make it so you get gold if you investigate something sparkling in a patch of grass.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make the event so that page 1 is for before you get the gold
+and page 2 is for after you get the gold.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s place the gold on (2,33). Double click (2,33).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name the event. 
+Type in &quot;Dropped Gold&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select !Flame from the list. 
+It&apos;s near the bottom, so scroll down to find it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the topmost sparkle in the bottom half, 5th column from the right. 
+We&apos;ll make this animate vertically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll get things set up to animate the sparkle. 
+Set the Autonomous Movement type to &quot;Custom&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Route...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the movement route as follows: 
+Turn Left
+Turn Right
+Turn Up
+Turn Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;ve set the light to animate. 
+Click OK to set the movement route.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We will set the animation speed. 
+Set the autonomous movement frequency to &quot;4: Higher&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the priority to &quot;Below characters&quot; and make sure the condition for the event to launch is to press the action button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The condition for the event to launch is for the action button to be pressed when the player is standing on the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, let&apos;s make the contents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the first empty line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Control Self Switch...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check that the Self Switch is &quot;A&quot; and that Operation is set to &quot;ON&quot;, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Change Gold...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check that the Operation is set to &quot;Increase&quot;, and that the Operand is &quot;Constant&quot;.
+Enter the value as 1000.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the blank line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: 
+&quot;Picked up 1000\G in the grass.&quot; \G will be converted into the currency unit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll make a second page. 
+Click &quot;New Event Page&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure you&apos;re on page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check &quot;Self Switch&quot; under Conditions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that A is selected. 
+That&apos;s all for page 2. 
+This is because after you get the gold, there&apos;s nothing left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now for a little more explanation. 
+Open page 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The reason the self switch is controlled before the text is displayed
+is so that the image will change to the one on page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The image will become the image of the relevant page the moment the switch is triggered. 
+Basically, even if the content on page 1 is still being executed, this is where only the image is changed to that of page 2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep in mind this concept of an event that is still executing, while the image of another page is showing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Would you like to read the explanation again?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s change the player&apos;s initial position for playtesting. 
+Let&apos;s make it (8,33), near the grass.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on (8,33),
+and select Set Starting Position &gt; Player.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run a playtest. 
+Investigate both events, and check the menu to see if your gold has increased. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the end of Step 7. Well done. 
+We&apos;ll reuse the gold spot later, so don&apos;t forget about it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep8</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 7?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 7 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 7 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step we will create an inn and an item shop.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Normal Town.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make the inn the red-roofed building to the left of the town entrance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>As in Step 1, we&apos;ll use a sample map for the interior map of the inn. 
+Right click Normal Town and select &quot;Load...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll a bit down the list to find and click &quot;Inn 1F&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now a map has been created a level under &quot;Normal Town&quot;. 
+You can created a layered map structure like this.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next let&apos;s connect the maps. 
+Right click the inn&apos;s entrance (10,19)
+and select Quick Event Creation &gt; Transfer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click and edit the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click just in front of the entrance to the red building on the lower left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Is the location set to Normal Town (10,30)?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Then let&apos;s redo the location settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK. The event will be created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we make the entrance from the town to the inn. 
+Click Normal Town.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find the coordinates (10,29), the entrance to the inn building.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click (10,29),
+and select Quick Event Creation &gt; Door.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s set the location. Click.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click Inn 1F.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the inn entrance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure the location is (10,19) or beside it and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the town and inn are linked. 
+Next is creating the inn sign. 
+Click tileset B.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the inn sign that says &quot;INN&quot;. 
+It&apos;s second from the right in the top row of the tile palette. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll switch to map mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click above the inn door and place the sign.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back to event mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next up is the event in the inn. Click Inn 1F.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First we&apos;ll make an inn event. 
+Look for the counter to the right of the entrance (11,10).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right click on (11,10)
+and select
+Quick Event Creation &gt; Inn.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This time we won&apos;t change the image or price. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the inn event is complete. 
+Next is the item shop.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For this, we&apos;ll make a traveling merchant staying at the inn into an item shop.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make the merchant&apos;s coordinates in the guest room (7,7). 
+Click to find those coordinates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the chair above the table, coordinates (7,7).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name the event TravelingMerchant.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let&apos;s pick someone who looks like a merchant. 
+Click People3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pick the man facing downward furthest to the left in the bottom row.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For the event content, we&apos;re going to set it so that you can shop after he greets you. 
+Double click the first line in &quot;Contents&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: &quot;I&apos;m a traveling merchant. 
+Please buy something.&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the page 3 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Shop Processing&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;re going to add merchandise for sale to this list. 
+Double click the first line. 
+The merchandise selection window will appear.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check that &quot;Item&quot; is checked and set to &quot;Potion&quot;
+and click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make the second item Magic Water.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make the third item Dispel Herb.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ll make the 4th item Stimulant.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the items.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;re done adding goods to sell. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The items and equipment you can select here for the shop
+are registered in a &quot;database&quot;, which will be explained later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The price is also determined by the database
+and when the player sells items, they will be bought for half their value. 
+If the price is zero, the merchant will not buy the item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That&apos;s it for this explanation. We can get back to work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lastly, let&apos;s make a message for after the player is done shopping. 
+Double click the next line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tab to go to page 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: &quot;Thank you. 
+Come by again sometime.&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now the traveling merchant event is complete. 
+Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now our inn and item shop are finished. 
+Save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now let&apos;s run a playtest. 
+Since your starting gold will be zero, test it out after you get the gold from the chest and grass patch we made in the last step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Well done. This is the end of Step 8.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TutorialStep9</name>
+    <message>
+        <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you have the project we finished in step 8?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the step 8 project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the step 8 project. 
+Projects are in the Games folder in My Documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will load the data required to start this step.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click New Project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please hold on while the project loads.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we will start the tutorial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, we&apos;ll take several steps and using event commands,
+create a somewhat elaborate setup.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In this step we&apos;re going to make a noticeboard in the town.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &quot;Normal Town&quot; from the map tree.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The position is going to be on the upper left side of the first intersection from the town entrance, to the right of the barrel, coordinates (17,31).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click coordinates (17,31).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter &quot;Noticeboard&quot; as the event name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click Image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Tileset B, second from the bottom of the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the tile with the noticeboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and set the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This way we can also set tiles on the layers above the event image (B-E).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the priority to &quot;Same as characters&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next we&apos;ll set up the content. Double click the first line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First we want to determine which way the character is facing when they investigate the board. Click &quot;Conditional Branch...&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What we want to know for branching is which way the player is facing. 
+Click the page 3 tab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Character&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure that the &quot;Player&quot; is facing &quot;Down&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check off &quot;Create Else Branch&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK and it will be set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Since you can&apos;t read a noticeboard from the back, we&apos;ll set it up so that it can&apos;t be read when the player is facing down, but it will be read in all other cases.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click the blank line under &quot;Else&quot;,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click &quot;Show Text...&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: 
+&quot;\&gt;Someone, get rid of the monsters in the eastern cave.&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\&gt; is a control character that will instantly display all the text of the line. This is appropriate for the text display on a noticeboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click OK to set the text.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next, we&apos;ll enter the text for when the noticeboard is read from behind. Double click the line under &quot;If: Player is facing Down&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter: 
+&quot;\&gt;You can&apos;t read it from the back.&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now we&apos;re done creating the noticeboard event. 
+Click OK and set the event.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now let&apos;s run a playtest. 
+First, save the project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start your playtest,
+and read the noticeboard from the top, sides, and bottom.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When you&apos;re done, there will be a short explanation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ve set up a noticeboard as the event image,
+but you can place the noticeboard on the map, and then place
+an event with no image above that as well.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A noticeboard event has various applications. 
+That&apos;s the end of the explanation of Step 9.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
