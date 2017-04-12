@@ -6,12 +6,12 @@
     <message>
         <location filename="../qml/Controls/AnimationFrameList.qml" line="12"/>
         <source>Frame List</source>
-        <translation>镜头列表</translation>
+        <translation>帧列表</translation>
     </message>
     <message>
         <location filename="../qml/Controls/AnimationFrameList.qml" line="13"/>
         <source>The selected frame is displayed in the right side.&lt;br&gt;[N] Selects the next item.&lt;br&gt;[B] Selects the previous item.</source>
-        <translation type="unfinished">选择的镜头在右侧展示。[N]选择下一个项目。[B]选择前一个项目。</translation>
+        <translation>选择的帧显示在右边。[N]选择下一项。[B]选择前一项。</translation>
     </message>
 </context>
 <context>
@@ -55,45 +55,45 @@
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGenerator.qml" line="129"/>
         <source>Face Image</source>
-        <translation>脸部图像</translation>
+        <translation>脸图</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGenerator.qml" line="130"/>
         <source>Opens the export window for face images.</source>
-        <translation type="unfinished">打开导出窗中导出脸部图像。</translation>
+        <translation>打开脸图的导出窗口。</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGenerator.qml" line="137"/>
         <source>Walk Character</source>
         <translatorcomment>comment：元翻訳「行走角色」を「角色行走」に変更しました。</translatorcomment>
-        <translation type="unfinished">角色行走</translation>
+        <translation>行走图</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGenerator.qml" line="138"/>
         <source>Opens the export window for walk characters.</source>
-        <translation type="unfinished">打开导出窗中导出行走角色。</translation>
+        <translation>打开行走图的导出窗口。</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGenerator.qml" line="145"/>
         <source>Damage Character</source>
         <translatorcomment>comment：元翻訳「损伤角色」を「角色损伤」に変更しました。</translatorcomment>
-        <translation type="unfinished">角色损伤</translation>
+        <translation>受伤图</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGenerator.qml" line="146"/>
         <source>Opens the export window for damage characters.</source>
-        <translation type="unfinished">打开导出窗口导出损伤角色。</translation>
+        <translation>打开受伤图的导出窗口。</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGenerator.qml" line="153"/>
         <source>Battler</source>
         <translatorcomment>comment：元翻訳「战斗」を「战斗姿态」に変更しました。</translatorcomment>
-        <translation type="unfinished">战斗姿态</translation>
+        <translation>战斗图</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGenerator.qml" line="154"/>
         <source>Opens the export window for side-view battlers.</source>
-        <translation type="unfinished">打开导出窗中导出战斗侧视图。</translation>
+        <translation>打开 SideView 战斗图的导出窗口。</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGenerator.qml" line="165"/>
@@ -204,7 +204,7 @@
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="498"/>
         <source>Beast Ears</source>
-        <translation>野兽耳朵</translation>
+        <translation>兽耳</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="507"/>
@@ -229,12 +229,12 @@
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="543"/>
         <source>Accessory 1</source>
-        <translation>配件1</translation>
+        <translation>配件 1</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="552"/>
         <source>Accessory 2</source>
-        <translation>配件2</translation>
+        <translation>配件 2</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="561"/>
@@ -272,22 +272,22 @@
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="746"/>
         <source>Facial Mark Color</source>
-        <translation>脸部标志颜色</translation>
+        <translation>脸部特征颜色</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="760"/>
         <source>Beast Ears Color</source>
-        <translation>野兽耳朵的颜色</translation>
+        <translation>兽耳颜色</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="774"/>
         <source>Tail Color</source>
-        <translation>尾巴的颜色</translation>
+        <translation>尾巴颜色</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="788"/>
         <source>Wing Color</source>
-        <translation>翅膀的颜色</translation>
+        <translation>翅膀颜色</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="802"/>
@@ -296,7 +296,7 @@
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="892"/>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="930"/>
         <source>Main Color</source>
-        <translation>主色</translation>
+        <translation>主要颜色</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="810"/>
@@ -304,7 +304,7 @@
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="900"/>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="938"/>
         <source>Sub Color 1</source>
-        <translation>辅色1</translation>
+        <translation>配色 1</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="818"/>
@@ -312,13 +312,13 @@
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="908"/>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="946"/>
         <source>Sub Color 2</source>
-        <translation>辅色2</translation>
+        <translation>配色 2</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="826"/>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="916"/>
         <source>Sub Color 3</source>
-        <translation>辅色3</translation>
+        <translation>配色 3</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/CharacterGeneratorData.qml" line="959"/>
@@ -374,22 +374,22 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="17"/>
         <source>Items that are equipped by party members will also be affected.</source>
-        <translation>组员装备的物品也会受到影响。</translation>
+        <translation>队伍成员装备的物品也会受到影响。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="18"/>
         <source>Items that are equipped by party members will also be treated as their possession.</source>
-        <translation>组员装备的物品也会被视作为他们的财产。</translation>
+        <translation>队伍成员装备的道具也视为他们的所有物。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="19"/>
         <source>Allow Knockout</source>
-        <translation>允许击倒</translation>
+        <translation>允许导致无法战斗</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="20"/>
         <source>Allows HP to drop to 0. If unchecked, stops at 1 HP.</source>
-        <translation>允许生命值降到0，在未检查的情况下，会停在生命值1。</translation>
+        <translation>允许 HP 降到 0。未勾选时会至少剩下 1 点 HP。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="21"/>
@@ -399,7 +399,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="22"/>
         <source>Displays a message upon leveling up.</source>
-        <translation>在升级时显示信息。</translation>
+        <translation>升级时显示信息。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="23"/>
@@ -422,7 +422,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="26"/>
         <source>Image to be displayed on the menu screen.</source>
-        <translation type="unfinished">菜单屏幕上展示的图像。</translation>
+        <translation>菜单画面上显示的图像。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="27"/>
@@ -433,18 +433,18 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="28"/>
         <source>Image to be displayed on the map screen.</source>
-        <translation>地图屏幕上展示的图像。</translation>
+        <translation>地图画面上显示的图像。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="29"/>
         <source>[SV] Battler</source>
         <comment>[SV] Battler Image</comment>
-        <translation type="unfinished">[SV]战士</translation>
+        <translation>[SV] 战斗者</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="30"/>
         <source>Image to be displayed in battle when in side-view mode.</source>
-        <translation type="unfinished">在战斗侧视图模式下展示的图像。</translation>
+        <translation>在 SideView 模式下展示的战斗图像。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="91"/>
@@ -464,7 +464,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="94"/>
         <source>Airship</source>
-        <translation>飞船</translation>
+        <translation>飞艇</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="95"/>
@@ -474,13 +474,13 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="107"/>
         <source>HP</source>
-        <translation>生命值</translation>
+        <translation>HP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="108"/>
         <source>MP</source>
         <translatorcomment>comment：元翻訳「力量值」を「」に変更しました。</translatorcomment>
-        <translation type="unfinished">魔法值</translation>
+        <translation>MP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="109"/>
@@ -495,18 +495,18 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="111"/>
         <source>EXP</source>
-        <translation>经验</translation>
+        <translation>经验值</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="113"/>
         <source>Max HP</source>
-        <translation>最大生命值</translation>
+        <translation>最大 HP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="114"/>
         <source>Max MP</source>
         <translatorcomment>comment：元翻訳「最大力量值」を「最大魔法值」に変更しました。</translatorcomment>
-        <translation type="unfinished">最大魔法值</translation>
+        <translation>最大 MP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="115"/>
@@ -516,7 +516,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="116"/>
         <source>Defense</source>
-        <translation>防卫</translation>
+        <translation>防御</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="117"/>
@@ -526,17 +526,17 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="118"/>
         <source>M.Defense</source>
-        <translation>魔法防卫</translation>
+        <translation>魔法防御</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="119"/>
         <source>Agility</source>
-        <translation>灵敏度</translation>
+        <translation>敏捷</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="120"/>
         <source>Luck</source>
-        <translation>运气</translation>
+        <translation>幸运</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="122"/>
@@ -547,22 +547,22 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="123"/>
         <source>Evasion Rate</source>
-        <translation>躲避率</translation>
+        <translation>回避率</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="124"/>
         <source>Critical Rate</source>
-        <translation>致命率</translation>
+        <translation>暴击率</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="125"/>
         <source>Critical Evasion</source>
-        <translation>致命躲避</translation>
+        <translation>暴击回避</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="126"/>
         <source>Magic Evasion</source>
-        <translation>魔法躲避</translation>
+        <translation>魔法回避</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="127"/>
@@ -572,58 +572,58 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="128"/>
         <source>Counter Attack</source>
-        <translation>反攻</translation>
+        <translation>反击</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="129"/>
         <source>HP Regeneration</source>
-        <translation>生命值再生</translation>
+        <translation>HP 自动恢复</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="130"/>
         <source>MP Regeneration</source>
         <translatorcomment>comment：元翻訳「力量值再生」を「魔法值再生」に変更しました。</translatorcomment>
-        <translation type="unfinished">魔法值再生</translation>
+        <translation>MP 自动恢复</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="131"/>
         <source>TP Regeneration</source>
-        <translation>TP再生</translation>
+        <translation>TP 自动恢复</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="133"/>
         <source>Target Rate</source>
-        <translation>目标命中率</translation>
+        <translation>受到攻击几率</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="134"/>
         <source>Guard Effect</source>
         <translatorcomment>comment：元翻訳「守卫作用」を「守卫效果」に変更しました。</translatorcomment>
-        <translation type="unfinished">守卫效果</translation>
+        <translation>防御效果</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="135"/>
         <source>Recovery Effect</source>
         <translatorcomment>comment：元翻訳「康复作用」を「治愈效果」に変更しました。</translatorcomment>
-        <translation type="unfinished">治愈效果</translation>
+        <translation>恢复效果</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="136"/>
         <source>Pharmacology</source>
         <translatorcomment>comment：元翻訳「药物学」を「药理学」に変更しました。</translatorcomment>
-        <translation type="unfinished">药理学</translation>
+        <translation>药理知识</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="137"/>
         <source>MP Cost Rate</source>
         <translatorcomment>comment：元翻訳「力量值成本率」を「魔法值成本率」に変更しました。</translatorcomment>
-        <translation type="unfinished">魔法值成本率</translation>
+        <translation>MP 消耗率</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="138"/>
         <source>TP Charge Rate</source>
         <translatorcomment>comment：元翻訳「TP价格程度」を「TP充电率」に変更しました。</translatorcomment>
-        <translation type="unfinished">TP充电率</translation>
+        <translation>TP 补充率</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="139"/>
@@ -639,52 +639,52 @@
         <location filename="../qml/Singletons/Constants.qml" line="141"/>
         <source>Floor Damage</source>
         <translatorcomment>comment：元翻訳「场地损害」を「场地伤害」に変更しました。</translatorcomment>
-        <translation type="unfinished">场地伤害</translation>
+        <translation>地形伤害</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="142"/>
         <source>Experience</source>
-        <translation>经验</translation>
+        <translation>经验值</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="144"/>
         <source>Maximum hit point. Represents the maximum amount of damage that the character can withstand.</source>
-        <translation>最大攻击点数。代表角色能承受的最大伤害。</translation>
+        <translation>最大 HP。代表角色能承受的最大伤害。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="145"/>
-        <source>Maximum magic point. Represents the character&apos;s maximum power for using magic skills.</source>
-        <translation>最大魔法点数。代表角色能使用魔法技能的最大能力。</translation>
+        <source>Maximum magic point. Represents the character's maximum power for using magic skills.</source>
+        <translation>最大 MP。代表角色能使用魔法技能的最大能力。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="146"/>
         <source>Attack power. Affects things like the amount of damage done to opponents.</source>
-        <translation>攻击能力。能够影响给对手造成的伤害程度。</translation>
+        <translation>攻击力。影响给对方造成的伤害量。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="147"/>
         <source>Defense power. Affects things like the amount of damage taken from opponents.</source>
-        <translation>防卫能力。能够承受的来自对手的伤害的能力</translation>
+        <translation>防御力。影响受到对方攻击的伤害值。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="148"/>
         <source>Magic attack power. Affects things like the power of the magic the character uses.</source>
-        <translation>魔法攻击能力。角色使用魔法的能力</translation>
+        <translation>魔法攻击力。影响角色使用魔法的能力。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="149"/>
         <source>Magic defense power. Affects things like the power of magic attacks from opponents.</source>
-        <translation>魔法防卫能力。能够承受来自于对手的魔法攻击的能力。</translation>
+        <translation>魔法防御。影响受到对方魔法攻击时的伤害量。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="150"/>
         <source>Agility. Affects things like attack order.</source>
-        <translation>灵敏度。会影响比如攻击顺序。</translation>
+        <translation>敏捷。影响攻击顺序。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="151"/>
         <source>Luck. Affects things like the chance of status ailments occurring.</source>
-        <translation>运气。会影响比如疾病的出现几率。</translation>
+        <translation>幸运。影响负面状态发生的概率。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="162"/>
@@ -708,7 +708,7 @@
         <location filename="../qml/Singletons/Constants.qml" line="165"/>
         <source>Guard</source>
         <comment>command</comment>
-        <translation>守卫</translation>
+        <translation>防御</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="166"/>
@@ -738,14 +738,14 @@
         <location filename="../qml/Singletons/Constants.qml" line="170"/>
         <source>Formation</source>
         <comment>command</comment>
-        <translation>组队</translation>
+        <translation>整队</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="171"/>
         <source>Options</source>
         <comment>command</comment>
         <translatorcomment>comment：元翻訳「选择」を変更した「设置」になりました。</translatorcomment>
-        <translation type="unfinished">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="172"/>
@@ -769,7 +769,7 @@
         <location filename="../qml/Singletons/Constants.qml" line="175"/>
         <source>Armor</source>
         <comment>command</comment>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="176"/>
@@ -787,7 +787,7 @@
         <location filename="../qml/Singletons/Constants.qml" line="178"/>
         <source>Optimize</source>
         <comment>command: best equip</comment>
-        <translation>最优化</translation>
+        <translation>优化</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="179"/>
@@ -806,7 +806,7 @@
         <source>Sell</source>
         <comment>command</comment>
         <translatorcomment>comment：元翻訳「销售」を「出售」に変更しました。</translatorcomment>
-        <translation>销售</translation>
+        <translation>出售</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="182"/>
@@ -827,7 +827,7 @@
         <source>To Title</source>
         <comment>command</comment>
         <translatorcomment>comment：元翻訳「到标题」中の「到」は必要なありませんので、消しました。</translatorcomment>
-        <translation type="unfinished">标题</translation>
+        <translation>回到标题</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="185"/>
@@ -845,17 +845,17 @@
         <location filename="../qml/Singletons/Constants.qml" line="435"/>
         <location filename="../qml/Singletons/Constants.qml" line="443"/>
         <source>None</source>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="212"/>
         <source>1 Enemy</source>
-        <translation>1个敌人</translation>
+        <translation>敌方单体</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="212"/>
         <source>All Enemies</source>
-        <translation>所有敌人</translation>
+        <translation>敌方全体</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="212"/>
@@ -880,22 +880,22 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="213"/>
         <source>1 Ally</source>
-        <translation>1个盟友</translation>
+        <translation>己方单体</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="214"/>
         <source>All Allies</source>
-        <translation>所有盟友</translation>
+        <translation>己方全体</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="214"/>
         <source>1 Ally (Dead)</source>
-        <translation>1个盟友（牺牲）</translation>
+        <translation>己方单体（牺牲）</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="214"/>
         <source>All Allies (Dead)</source>
-        <translation>所有盟友（牺牲）</translation>
+        <translation>己方全体（死亡）</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="214"/>
@@ -920,7 +920,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="217"/>
         <source>Never</source>
-        <translation>从未</translation>
+        <translation>从不</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="220"/>
@@ -935,12 +935,12 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="220"/>
         <source>Hidden Item A</source>
-        <translation>隐藏物品A</translation>
+        <translation>隐藏物品 A</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="220"/>
         <source>Hidden Item B</source>
-        <translation>隐藏物品B</translation>
+        <translation>隐藏物品 B</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="223"/>
@@ -951,7 +951,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="223"/>
         <source>Dual Wield</source>
-        <translation>双重使用</translation>
+        <translation>二刀流</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="226"/>
@@ -961,74 +961,74 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="226"/>
         <source>Guard</source>
-        <translation>守卫</translation>
+        <translation>防御</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="226"/>
         <source>Substitute</source>
-        <translation>替代品</translation>
+        <translation>掩护</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="226"/>
         <source>Preserve TP</source>
-        <translation>保留TP</translation>
+        <translation>保留 TP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="229"/>
         <source>Boss</source>
-        <translation>老大</translation>
+        <translation>Boss</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="229"/>
         <source>Instant</source>
-        <translation>立即</translation>
+        <translation>即时</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="229"/>
         <source>No Disappear</source>
-        <translation>无消失</translation>
+        <translation>不消失</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="232"/>
         <source>Encounter Half</source>
-        <translation>遇到一半</translation>
+        <translation>遇敌减半</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="232"/>
         <source>Encounter None</source>
-        <translation>没有遇到</translation>
+        <translation>无遇敌</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="232"/>
         <source>Cancel Surprise</source>
-        <translation>取消意外</translation>
+        <translation>取消偷袭</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="233"/>
         <source>Raise Preemptive</source>
-        <translation>优先度上升</translation>
+        <translation>增加先发制人率</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="233"/>
         <source>Gold Double</source>
         <translatorcomment>comment：元翻訳「双金」を「双倍金币」に変更しました。</translatorcomment>
-        <translation type="unfinished">双倍金币</translation>
+        <translation>双倍金钱</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="233"/>
         <source>Drop Item Double</source>
         <translatorcomment>comment：元翻訳「双倍掉失物品」を「掉落双倍物品」に変更しました。</translatorcomment>
-        <translation>双倍掉失物品</translation>
+        <translation>掉落物品双倍</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="236"/>
         <source>Escape</source>
-        <translation>逃脱</translation>
+        <translation>逃跑</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="239"/>
         <source>Pattern</source>
-        <translation type="unfinished">模式</translation>
+        <translation>模式</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="239"/>
@@ -1043,7 +1043,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="239"/>
         <source>Scale</source>
-        <translation>范围</translation>
+        <translation>比例</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="240"/>
@@ -1053,84 +1053,84 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="240"/>
         <source>Mirror</source>
-        <translation>镜子</translation>
+        <translation>镜像</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="240"/>
         <source>Opacity</source>
-        <translation>不透明</translation>
+        <translation>不透明度</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="240"/>
         <source>Blend</source>
         <comment>Blend Mode</comment>
-        <translation>融合</translation>
+        <translation>合成</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="243"/>
         <source>Pattern number assigned to the cell.</source>
         <translatorcomment>comment：元翻訳「分配到小房间的模式数量。」を「空间的格局坐标。」に変更しました。</translatorcomment>
-        <translation type="unfinished">空间的格局坐标。</translation>
+        <translation>分配给元件的模式编号。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="244"/>
         <source>X coordinate of the cell.</source>
         <translatorcomment>comment：元翻訳「小房间的X坐标。」を「空间的X坐标。」に変更しました。</translatorcomment>
-        <translation type="unfinished">空间的X坐标。</translation>
+        <translation>元件的 X 坐标。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="245"/>
         <source>Y coordinate of the cell.</source>
         <translatorcomment>comment：元翻訳「小房间的Y坐标。。」を「空间的Y坐标。」に変更しました。</translatorcomment>
-        <translation type="unfinished">空间的Y坐标。</translation>
+        <translation>元件的 Y 坐标。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="246"/>
         <source>Scale of the cell.</source>
         <translatorcomment>comment：元翻訳「小房间的范围。」を「空间的范围。」に変更しました。</translatorcomment>
-        <translation type="unfinished">空间的范围。</translation>
+        <translation>元件的缩放比例。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="247"/>
         <source>Angle of rotation in degrees.</source>
-        <translation>旋转角度的度数。</translation>
+        <translation>旋转角度（角度制）。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="248"/>
         <source>Whether to draw the cell flipped horizontally.</source>
         <translatorcomment>comment：元翻訳「是否把小房间画成水平浏览。」を「是否将空间画成横向旋转。」に変更しました。</translatorcomment>
-        <translation type="unfinished">是否将空间画成横向旋转。</translation>
+        <translation>是否将元件横向翻转。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="249"/>
         <source>Opacity level of the cell.</source>
         <translatorcomment>comment：元翻訳「小房间的不透明程度。」を「空间的不透明度。」に変更しました。</translatorcomment>
-        <translation>小房间的不透明程度。</translation>
+        <translation>元件的不透明度。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="250"/>
         <source>Blend mode used when the cell is drawn.</source>
         <translatorcomment>comment：元翻訳「画小房间时使用融合模式。」を「当绘制时使用融合模式。」に変更しました。</translatorcomment>
-        <translation type="unfinished">当绘制时使用融合模式。</translation>
+        <translation>绘制时使用的合成方式。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="253"/>
         <source>Normal</source>
         <comment>Normal blending</comment>
-        <translation type="unfinished">常规</translation>
+        <translation>正常</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="254"/>
         <source>Additive</source>
         <comment>Additive blending</comment>
-        <translation type="unfinished">饱和相加</translation>
+        <translation>叠加</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="255"/>
         <source>Multiply</source>
         <comment>Multiply blending</comment>
         <translatorcomment>comment：元翻訳「多重」を「变暗混合」に変更しました。この言葉はphotoshopの専門言葉です、まだ中国語に翻訳されないので、ネットで調べた後、わかるような翻訳をしました。</translatorcomment>
-        <translation type="unfinished">变暗混合</translation>
+        <translation>正片叠底</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="256"/>
@@ -1196,37 +1196,37 @@
         <location filename="../qml/Singletons/Constants.qml" line="270"/>
         <location filename="../qml/Singletons/Constants.qml" line="274"/>
         <source>Choice #1</source>
-        <translation type="unfinished">选项#1</translation>
+        <translation>选项 #1</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="270"/>
         <location filename="../qml/Singletons/Constants.qml" line="274"/>
         <source>Choice #2</source>
-        <translation type="unfinished">选项#2</translation>
+        <translation>选项 #2</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="270"/>
         <location filename="../qml/Singletons/Constants.qml" line="275"/>
         <source>Choice #3</source>
-        <translation type="unfinished">选项#3</translation>
+        <translation>选项 #3</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="271"/>
         <location filename="../qml/Singletons/Constants.qml" line="275"/>
         <source>Choice #4</source>
-        <translation type="unfinished">选项#4</translation>
+        <translation>选项 #4</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="271"/>
         <location filename="../qml/Singletons/Constants.qml" line="275"/>
         <source>Choice #5</source>
-        <translation type="unfinished">选项#5</translation>
+        <translation>选项 #5</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="271"/>
         <location filename="../qml/Singletons/Constants.qml" line="275"/>
         <source>Choice #6</source>
-        <translation type="unfinished">选项#6</translation>
+        <translation>选项 #6</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="274"/>
@@ -1251,12 +1251,12 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="293"/>
         <source>Map X</source>
-        <translation>地图X</translation>
+        <translation>地图 X</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="293"/>
         <source>Map Y</source>
-        <translation>地图Y</translation>
+        <translation>地图 Y</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="293"/>
@@ -1266,17 +1266,17 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="294"/>
         <source>Screen X</source>
-        <translation>屏幕X</translation>
+        <translation>画面 X</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="294"/>
         <source>Screen Y</source>
-        <translation>屏幕Y</translation>
+        <translation>画面 Y</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="297"/>
         <source>Map ID</source>
-        <translation>地图ID</translation>
+        <translation>地图 ID</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="297"/>
@@ -1289,12 +1289,12 @@
         <location filename="../qml/Singletons/Constants.qml" line="298"/>
         <source>Gold</source>
         <translatorcomment>comment：元翻訳「金子」を変更して「金币」になりました。</translatorcomment>
-        <translation type="unfinished">金币</translation>
+        <translation>金钱</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="298"/>
         <source>Steps</source>
-        <translation>步骤</translation>
+        <translation>步数</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="298"/>
@@ -1309,22 +1309,22 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="299"/>
         <source>Save Count</source>
-        <translation type="unfinished">保存数量</translation>
+        <translation>保存次数</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="299"/>
         <source>Battle Count</source>
-        <translation type="unfinished">战斗数量</translation>
+        <translation>战斗次数</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="299"/>
         <source>Win Count</source>
-        <translation type="unfinished">获胜数量</translation>
+        <translation>胜利次数</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="300"/>
         <source>Escape Count</source>
-        <translation type="unfinished">逃脱数量</translation>
+        <translation>逃跑次数</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="303"/>
@@ -1342,7 +1342,7 @@
         <location filename="../qml/Singletons/Constants.qml" line="304"/>
         <source>None</source>
         <comment>No Fade</comment>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="307"/>
@@ -1352,7 +1352,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="307"/>
         <source>Question</source>
-        <translation>问题</translation>
+        <translation>问号</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="307"/>
@@ -1362,7 +1362,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="308"/>
         <source>Heart</source>
-        <translation>心</translation>
+        <translation>心形</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="308"/>
@@ -1372,7 +1372,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="308"/>
         <source>Sweat</source>
-        <translation>甜蜜</translation>
+        <translation>流汗</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="308"/>
@@ -1398,31 +1398,31 @@
         <location filename="../qml/Singletons/Constants.qml" line="310"/>
         <location filename="../qml/Singletons/Constants.qml" line="367"/>
         <source>User-defined 1</source>
-        <translation>自定义1</translation>
+        <translation>自定义 1</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="310"/>
         <location filename="../qml/Singletons/Constants.qml" line="367"/>
         <source>User-defined 2</source>
-        <translation>自定义2</translation>
+        <translation>自定义 2</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="310"/>
         <location filename="../qml/Singletons/Constants.qml" line="367"/>
         <source>User-defined 3</source>
-        <translation>自定义3</translation>
+        <translation>自定义 3</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="311"/>
         <location filename="../qml/Singletons/Constants.qml" line="368"/>
         <source>User-defined 4</source>
-        <translation>自定义4</translation>
+        <translation>自定义 4</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="311"/>
         <location filename="../qml/Singletons/Constants.qml" line="368"/>
         <source>User-defined 5</source>
-        <translation>自定义5</translation>
+        <translation>自定义 5</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="314"/>
@@ -1442,36 +1442,36 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="317"/>
         <source>Event ID</source>
-        <translation>事件ID</translation>
+        <translation>事件 ID</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="318"/>
         <source>Tile ID (Layer 1)</source>
         <translatorcomment>comment：元翻訳「磁贴ID（第1层）」を「图块ID（第1层）」に変更しました。</translatorcomment>
-        <translation type="unfinished">图块ID（第1层）</translation>
+        <translation>图块 ID（第1层）</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="318"/>
         <source>Tile ID (Layer 2)</source>
         <translatorcomment>comment：元翻訳「磁贴ID（第2层）」を「图块ID（第2层）」に変更しました。</translatorcomment>
-        <translation type="unfinished">图块ID（第2层）</translation>
+        <translation>图块 ID（第2层）</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="319"/>
         <source>Tile ID (Layer 3)</source>
         <translatorcomment>comment：元翻訳「磁贴ID（第3层）」を「图块ID（第3层）」に変更しました。</translatorcomment>
-        <translation type="unfinished">图块ID（第3层）</translation>
+        <translation>图块 ID（第3层）</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="319"/>
         <source>Tile ID (Layer 4)</source>
         <translatorcomment>comment：元翻訳「磁贴ID（第4层）」を「图块ID（第4层）」に変更しました。</translatorcomment>
-        <translation type="unfinished">图块ID（第4层）</translation>
+        <translation>图块 ID（第4层）</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="320"/>
         <source>Region ID</source>
-        <translation>地域ID</translation>
+        <translation>区域 ID</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="324"/>
@@ -1512,25 +1512,25 @@
         <location filename="../qml/Singletons/Constants.qml" line="336"/>
         <location filename="../qml/Singletons/Constants.qml" line="339"/>
         <source>Down</source>
-        <translation>下面</translation>
+        <translation>下</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="336"/>
         <location filename="../qml/Singletons/Constants.qml" line="339"/>
         <source>Left</source>
-        <translation>左面</translation>
+        <translation>左</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="336"/>
         <location filename="../qml/Singletons/Constants.qml" line="339"/>
         <source>Right</source>
-        <translation>右面</translation>
+        <translation>右</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="336"/>
         <location filename="../qml/Singletons/Constants.qml" line="339"/>
         <source>Up</source>
-        <translation>上面</translation>
+        <translation>上</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="339"/>
@@ -1540,7 +1540,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="345"/>
         <source>Rain</source>
-        <translation>下雨</translation>
+        <translation>雨</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="345"/>
@@ -1550,7 +1550,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="345"/>
         <source>Snow</source>
-        <translation>下雪</translation>
+        <translation>雪</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="351"/>
@@ -1574,25 +1574,25 @@
         <location filename="../qml/Singletons/Constants.qml" line="352"/>
         <source>Down</source>
         <comment>Button</comment>
-        <translation>下面</translation>
+        <translation>下</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="352"/>
         <source>Left</source>
         <comment>Button</comment>
-        <translation>左面</translation>
+        <translation>左</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="352"/>
         <source>Right</source>
         <comment>Button</comment>
-        <translation>右面</translation>
+        <translation>右</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="353"/>
         <source>Up</source>
         <comment>Button</comment>
-        <translation>上面</translation>
+        <translation>上</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="353"/>
@@ -1610,21 +1610,21 @@
         <location filename="../qml/Singletons/Constants.qml" line="356"/>
         <source>Thrust</source>
         <comment>Bare hands, glove and spear</comment>
-        <translation>刺</translation>
+        <translation>突刺</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="357"/>
         <source>Swing</source>
         <comment>Short-range Weapon</comment>
         <translatorcomment>comment：元翻訳「摇摆」を「摆动」に変更しました。</translatorcomment>
-        <translation type="unfinished">摆动</translation>
+        <translation>挥舞</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="358"/>
         <source>Missile</source>
         <comment>Long-range Weapon</comment>
         <translatorcomment>comment：元翻訳「导弹」を「投射物」に変更しました。远距离攻击</translatorcomment>
-        <translation type="unfinished">投射物</translation>
+        <translation>导弹</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="361"/>
@@ -1744,17 +1744,17 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="366"/>
         <source>Railgun</source>
-        <translation>轨道炮</translation>
+        <translation>电磁炮</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="366"/>
         <source>Stun Rod</source>
-        <translation>电击枪</translation>
+        <translation>电击棒</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="368"/>
         <source>User-defined 6</source>
-        <translation>自定义6</translation>
+        <translation>自定义 6</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="374"/>
@@ -1784,13 +1784,13 @@
         <location filename="../qml/Singletons/Constants.qml" line="384"/>
         <source>Dropdown</source>
         <comment>Object Selector</comment>
-        <translation>掉下</translation>
+        <translation>下拉式</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="385"/>
         <source>Extended</source>
         <comment>Object Selector</comment>
-        <translation>延伸</translation>
+        <translation>扩展</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="386"/>
@@ -1802,27 +1802,27 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="390"/>
         <source> frames</source>
-        <translation>结构</translation>
+        <translation>帧</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="390"/>
         <source> frame</source>
-        <translation>结构</translation>
+        <translation> 帧</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="394"/>
         <source> seconds</source>
-        <translation>秒钟</translation>
+        <translation> 秒</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="394"/>
         <source> second</source>
-        <translation>秒钟</translation>
+        <translation> 秒</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="499"/>
         <source>Last Target</source>
-        <translation>最后目标</translation>
+        <translation>上一目标</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="501"/>
@@ -1832,7 +1832,7 @@
     <message>
         <location filename="../qml/Singletons/Constants.qml" line="503"/>
         <source>Index </source>
-        <translation>索引</translation>
+        <translation>索引 </translation>
     </message>
 </context>
 <context>
@@ -1840,67 +1840,67 @@
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="11"/>
         <source>Control characters</source>
-        <translation>角色控制</translation>
+        <translation>控制字符</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="14"/>
         <source>Replaced by the value of the nth variable.</source>
-        <translation type="unfinished">由第n个变量的值取代。</translation>
+        <translation>替换为第 n 个变量的值。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="15"/>
         <source>Replaced by the name of the nth actor.</source>
-        <translation type="unfinished">由第n个角色的名字取代。</translation>
+        <translation>替换为第 n 个角色的名字。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="16"/>
         <source>Replaced by the name of the nth party member.</source>
-        <translation type="unfinished">被第n个组员的名字取代。</translation>
+        <translation>替换为第 n 个队伍成员。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="17"/>
         <source>Replaced by the currency unit.</source>
-        <translation>由货币单位取代。</translation>
+        <translation>替换为货币单位。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="18"/>
         <source>Draw the subsequent text in the nth color.</source>
-        <translation>用第n个颜色来画随后的文本。</translation>
+        <translation>用第 n 个颜色来画接下来的文本。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="19"/>
         <source>Draw the nth icon.</source>
-        <translation>画第n个图标。</translation>
+        <translation>绘制第 n 个图标。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="20"/>
         <source>Increase the text size by one step.</source>
-        <translation type="unfinished">将文本扩大一格。</translation>
+        <translation>将字体大小增加一级。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="21"/>
         <source>Decrease the text size by one step.</source>
-        <translation type="unfinished">将文本缩小一格。</translation>
+        <translation>将字体大小减小一级。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="22"/>
         <source>Replaced with the backslash character.</source>
-        <translation>由反斜线符号代替。</translation>
+        <translation>替换为反斜杠字符。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="25"/>
         <source>Open the gold window.</source>
-        <translation>打开金色窗口。</translation>
+        <translation>打开金钱窗口。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="26"/>
         <source>Wait 1/4 second.</source>
-        <translation>等1/4秒。</translation>
+        <translation>等待 1/4 秒。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="27"/>
         <source>Wait 1 second.</source>
-        <translation>等1秒。</translation>
+        <translation>等待 1 秒。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="28"/>
@@ -1912,19 +1912,19 @@
         <location filename="../qml/Event/ControlCharactersHint.qml" line="29"/>
         <source>Display remaining text on same line all at once.</source>
         <translatorcomment>comment：元翻訳「在同一行同时显示剩余文字。」を「同时显示同一行的剩余文本。」に変更しました。</translatorcomment>
-        <translation type="unfinished">同时显示同一行的剩余文本。</translation>
+        <translation>立刻显示一行内剩余的文字。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="30"/>
         <source>Cancel the effect that displays text all at once.</source>
         <translatorcomment>comment：元翻訳「取消同时显示所有文字的功能。」を「同时取消文本的显示效果。」に変更しました。</translatorcomment>
-        <translation type="unfinished">同时取消文本的显示效果。</translation>
+        <translation>取消“立刻显示所有文本”的效果。</translation>
     </message>
     <message>
         <location filename="../qml/Event/ControlCharactersHint.qml" line="31"/>
         <source>Do not wait for input after displaying text.</source>
         <translatorcomment>comment：元翻訳「显示文字后不用等候输入。」を「显示文本后不需要等待输入。」に変更しました。</translatorcomment>
-        <translation type="unfinished">显示文本后不需要等待输入。</translation>
+        <translation>显示文本后不等待输入。</translation>
     </message>
 </context>
 <context>
@@ -1932,12 +1932,12 @@
     <message>
         <location filename="../qml/Database/DataSelector.qml" line="52"/>
         <source>Data List</source>
-        <translation>资料列表</translation>
+        <translation>数据列表</translation>
     </message>
     <message>
         <location filename="../qml/Database/DataSelector.qml" line="53"/>
         <source>The contents of the selected item are displayed in the right side of the window.&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation type="unfinished">右侧窗口显示选择的物品内容。[F5]选择下一个物品。[F4]选择前一个物品。</translation>
+        <translation>选中的项目会显示在窗口右侧。&lt;br&gt;[F5] 选择下一项。&lt;br&gt;[F4] 选择前一项。</translation>
     </message>
     <message>
         <location filename="../qml/Database/DataSelector.qml" line="79"/>
@@ -1949,7 +1949,7 @@
         <location filename="../qml/Database/DataSelector.qml" line="80"/>
         <source>Changes the number of data entries.</source>
         <translatorcomment>comment：元翻訳「改变数据进入的数量。」を「更改数据输入的数量。」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改数据输入的数量。</translation>
+        <translation>更改数据的数量。</translation>
     </message>
 </context>
 <context>
@@ -1967,7 +1967,7 @@
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="43"/>
         <source>Data for player-controlled party members.</source>
-        <translation>玩家控制的组员数据。</translation>
+        <translation>玩家控制的队伍成员的数据。</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="49"/>
@@ -1979,7 +1979,7 @@
         <location filename="../qml/Database/DatabaseMain.qml" line="50"/>
         <source>Data that determines roles of actors within the party.</source>
         <translatorcomment>comment：元翻訳「小组中决定参与者角色的数据。」を「队伍中决定参与者角色的数据。」に変更しました。</translatorcomment>
-        <translation type="unfinished">队伍中决定参与者角色的数据。</translation>
+        <translation>决定角色在队伍中的作用的数据。</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="56"/>
@@ -1989,7 +1989,7 @@
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="57"/>
         <source>Data for actions that produce special effects by consuming MP or TP.</source>
-        <translation>消耗生命值或TP的行为而产生的特殊数据。</translation>
+        <translation>消耗 MP 或 TP，产生特殊效果的行为的数据。</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="64"/>
@@ -2000,7 +2000,7 @@
         <location filename="../qml/Database/DatabaseMain.qml" line="65"/>
         <source>Data for non-equipment items, such as recovery and event items.</source>
         <translatorcomment>comment：元翻訳「没有装备的物品的数据，比如恢复或事件物品。」を「没有装备的物品的数据，比如治愈和事件物品。」に変更しました。</translatorcomment>
-        <translation type="unfinished">没有装备的物品的数据，比如治愈和事件物品。</translation>
+        <translation>装备品之外的物品数据，如恢复物品和事件物品等。</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="72"/>
@@ -2015,12 +2015,12 @@
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="80"/>
         <source>Armors</source>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="81"/>
         <source>Data for armor items that increase defense power mainly.</source>
-        <translation>主要增加攻击防卫的物品的数据。</translation>
+        <translation>主要增加防御的物品的数据。</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="88"/>
@@ -2035,12 +2035,12 @@
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="96"/>
         <source>Troops</source>
-        <translation>部队</translation>
+        <translation>敌群</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="97"/>
         <source>Data for enemy groups. The unit in which they appear in the game.</source>
-        <translation>敌人团队的数据。在游戏中出现的单元。</translation>
+        <translation>敌人队伍的数据。出现在游戏中的单位。</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="104"/>
@@ -2067,7 +2067,7 @@
         <location filename="../qml/Tutorial/TutorialStep1.js" line="65"/>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="76"/>
         <source>Tilesets</source>
-        <translation type="unfinished">拼接设置</translation>
+        <translation>图块</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="119"/>
@@ -2085,7 +2085,7 @@
         <location filename="../qml/Database/DatabaseMain.qml" line="126"/>
         <source>Data for commonly used events.</source>
         <translatorcomment>comment：元翻訳「一般事件中使用的数据。」を「公共事件中使用的数据。」に変更しました。</translatorcomment>
-        <translation type="unfinished">公共事件中使用的数据。</translation>
+        <translation>公共事件的数据。</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="132"/>
@@ -2105,22 +2105,22 @@
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="137"/>
         <source>Names of elements, skill types, weapon types, armor types, and equipment types.</source>
-        <translation>元素，技能，武器，盔甲和装备的各种名称。</translation>
+        <translation>属性，技能，武器，盔甲和装备的各种名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="140"/>
         <source>Terms</source>
-        <translation>条件</translation>
+        <translation>用语</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="141"/>
         <source>Text data such as command and parameter names.</source>
-        <translation>像命令和参数名称的文字数据。</translation>
+        <translation>文本数据，如命令和能力值名称等。</translation>
     </message>
     <message>
         <location filename="../qml/Database/DatabaseMain.qml" line="211"/>
         <source>Discard changes to the database?</source>
-        <translation>放弃数据库的改变？</translation>
+        <translation>放弃数据库的更改？</translation>
     </message>
 </context>
 <context>
@@ -2128,7 +2128,7 @@
     <message>
         <location filename="../qml/Main/DeploymentOption.qml" line="26"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location filename="../qml/Main/DeploymentOption.qml" line="27"/>
@@ -2143,17 +2143,17 @@
     <message>
         <location filename="../qml/Main/DeploymentOption.qml" line="35"/>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="unfinished">游戏中未使用的文件将不在部署中包括。</translation>
+        <translation>游戏中未使用的文件将不会出现在部署后的文件中。</translation>
     </message>
     <message>
         <location filename="../qml/Main/DeploymentOption.qml" line="40"/>
         <source>Zip Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Zip 压缩</translation>
     </message>
     <message>
         <location filename="../qml/Main/DeploymentOption.qml" line="41"/>
         <source>Zip compress the project files.</source>
-        <translation type="unfinished"></translation>
+        <translation>将项目文件压缩成 Zip 格式。</translation>
     </message>
     <message>
         <location filename="../qml/Main/DeploymentOption.qml" line="49"/>
@@ -2173,7 +2173,7 @@
     <message>
         <location filename="../qml/Main/DeploymentOption.qml" line="58"/>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="unfinished">加密图像文件已在组件中包括。</translation>
+        <translation>加密资源包中的图像文件。</translation>
     </message>
     <message>
         <location filename="../qml/Main/DeploymentOption.qml" line="63"/>
@@ -2183,7 +2183,7 @@
     <message>
         <location filename="../qml/Main/DeploymentOption.qml" line="64"/>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="unfinished">加密音频文件已包括在组件中。</translation>
+        <translation>加密安装包中的音频文件。</translation>
     </message>
     <message>
         <location filename="../qml/Main/DeploymentOption.qml" line="73"/>
@@ -2252,7 +2252,7 @@
         <location filename="../qml/Main/Dialog_About.qml" line="11"/>
         <source>About %1</source>
         <translatorcomment>comment：元翻訳「大约%1」を「关于%1」に変更しました。</translatorcomment>
-        <translation type="unfinished">关于%1</translation>
+        <translation>关于 %1</translation>
     </message>
 </context>
 <context>
@@ -2265,12 +2265,12 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="104"/>
         <source>Skill and Rating</source>
-        <translation>技能和等级</translation>
+        <translation>技能和评分</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="105"/>
         <source>Basic action settings.</source>
-        <translation>基本行为设置。</translation>
+        <translation>基本的行动设置。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="110"/>
@@ -2280,7 +2280,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="111"/>
         <source>Skill that will be used as the action.</source>
-        <translation>将作为动作使用的技能。</translation>
+        <translation>将用于行动的技能。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="116"/>
@@ -2290,7 +2290,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="117"/>
         <source>Priority of the action. Of all actions meeting the conditions, the one with the highest rating will be the standard, and the one within 2 rating points of the standard will be used. Actions 1 rating point away will be used 2/3 of the time and those 2 rating points away will be used 1/3 of the time.</source>
-        <translation type="unfinished">动作的优先度。当所有动作的条件都符合时，等级最高的那个将成为标准，标准的2个等级点会启用。动作1的等级点离开会用2/3的时间，那些动作2的等级点会用到1/3的时间。</translation>
+        <translation>战斗行动采用的次序。在符合条件的行动中，以评分最高的行动作为基准，评分差在 2 点以内的行动会作为可能使用的候补。评分差为 1 的行动被使用的几率相当于基准行动的 2/3，评分差为 2 的行动被使用的几率相当于基准行动的 1/3。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="126"/>
@@ -2300,7 +2300,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="127"/>
         <source>Conditions for possible actions.</source>
-        <translation type="unfinished">可能发生的行为的条件。</translation>
+        <translation>采用战斗行动的标准。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="138"/>
@@ -2310,7 +2310,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="139"/>
         <source>Possible as long as the specified action can be performed.</source>
-        <translation>只要特定行为发生就有可能出现。</translation>
+        <translation>只要指定的行动可能发生，就无条件地作为候选行动。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="149"/>
@@ -2320,29 +2320,29 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="150"/>
         <source>Possible when the specified turn has been surpassed. Specifies the turn count with A + B * X. If A = 1 and B = 3, the condition will be met at turn 1, 4, 7, and so on. Turn 0 has no meaning here.</source>
-        <translation>当特定的回合被超过就有可能发生。特定的回合包括 A + B * X。如果A = 1并 B = 3，那条件会在回合1,4,7时满足，等等。回合0在这没有意义。</translation>
+        <translation>指定的回合数之后可能发生。指定回合数为 A + B * X。如果 A = 1, B = 3, 那么 1, 4, 7... 等回合满足这个条件。第 0 回合在此没有意义。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="190"/>
         <source>HP</source>
-        <translation>生命值</translation>
+        <translation>HP</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="191"/>
-        <source>Possible when this enemy&apos;s HP is in the specified range.</source>
-        <translation type="unfinished">当敌人的生命值在特定范围内时有可能。</translation>
+        <source>Possible when this enemy's HP is in the specified range.</source>
+        <translation>当敌人的 HP 在指定的范围内时满足条件。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="227"/>
         <source>MP</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation type="unfinished">魔法值</translation>
+        <translation>MP</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="228"/>
-        <source>Possible when this enemy&apos;s MP is in the specified range.</source>
+        <source>Possible when this enemy's MP is in the specified range.</source>
         <translatorcomment>comment：元翻訳「在敌人的魔法值值在特定范围内时有可能。」を「在敌人的魔法值在特定范围内时有可能。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在敌人的魔法值在特定范围内时有可能。</translation>
+        <translation>当敌人的 MP 在指定的范围内时满足条件。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="265"/>
@@ -2352,7 +2352,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="266"/>
         <source>Possible when the specified state has been added to this enemy.</source>
-        <translation type="unfinished">在给这个敌人添加了特定状态时会有可能发生。</translation>
+        <translation>在敌人被附加了指定状态时满足条件。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="284"/>
@@ -2362,9 +2362,9 @@
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="285"/>
-        <source>Possible when the party members&apos; highest level is greater than or equal to the specified number.</source>
+        <source>Possible when the party members' highest level is greater than or equal to the specified number.</source>
         <translatorcomment>comment：元翻訳「当小组成员达到的最高等级超过或等与特定数时就有可能发生。」を「当队伍成员的最高等级超过或等与特定数时就有可能发生。」に変更しました。</translatorcomment>
-        <translation type="unfinished">当队伍成员的最高等级超过或等与特定数时就有可能发生。</translation>
+        <translation>当队伍成员的最高等级大于等于指定的数值时满足条件。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="303"/>
@@ -2379,7 +2379,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Action.qml" line="311"/>
         <source>Possible when the specified switch is ON.</source>
-        <translation>当特定开关是打开时就有可能发生。</translation>
+        <translation>当指定的开关打开时满足条件。</translation>
     </message>
 </context>
 <context>
@@ -2418,12 +2418,12 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationCell.qml" line="13"/>
         <source>Cell Properties</source>
-        <translation type="unfinished">单元格属性</translation>
+        <translation>元件属性</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationCell.qml" line="26"/>
         <source>Various settings for the cell.</source>
-        <translation type="unfinished">单元格的不同设置。</translation>
+        <translation>原件的各种设置。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationCell.qml" line="79"/>
@@ -2448,7 +2448,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationShift.qml" line="55"/>
         <source>Offset</source>
-        <translation>抵消</translation>
+        <translation>偏移</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationShift.qml" line="56"/>
@@ -2463,7 +2463,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationShift.qml" line="61"/>
         <source>Value to be added to X coordinates.</source>
-        <translation>X坐标上要增加的值。</translation>
+        <translation>X 坐标上要增加的值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationShift.qml" line="68"/>
@@ -2473,7 +2473,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationShift.qml" line="69"/>
         <source>Value to be added to Y coordinates.</source>
-        <translation>Y坐标上要增加的值。</translation>
+        <translation>Y 坐标上要增加的值。</translation>
     </message>
 </context>
 <context>
@@ -2481,17 +2481,17 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="12"/>
         <source>SE and Flash Timing</source>
-        <translation>SE和闪光时间</translation>
+        <translation>SE 和闪光定时</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="24"/>
         <source>Frame</source>
-        <translation>镜头</translation>
+        <translation>帧</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="25"/>
         <source>Frame number to associate this data.</source>
-        <translation>与此数据关联的镜头数量。</translation>
+        <translation>与数据关联的帧的编号。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="39"/>
@@ -2501,7 +2501,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="40"/>
         <source>Sound effect to play at the specified frame.</source>
-        <translation>当展示特定镜头时的音效。</translation>
+        <translation>在指定帧播放的音效。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="54"/>
@@ -2511,7 +2511,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="55"/>
         <source>Flash effect to play at the specified frame.</source>
-        <translation>当展示特定镜头时的闪光效果。</translation>
+        <translation>在指定帧播放的闪光效果。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="66"/>
@@ -2536,7 +2536,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="84"/>
         <source>Screen</source>
-        <translation>屏幕</translation>
+        <translation>画面</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="85"/>
@@ -2561,7 +2561,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTimings.qml" line="121"/>
         <source>Duration of the flash in 1/15 seconds.</source>
-        <translation>闪光持续1/15秒。</translation>
+        <translation>闪光的持续时间（单位为 1/15 秒）。</translation>
     </message>
 </context>
 <context>
@@ -2569,7 +2569,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTween.qml" line="13"/>
         <source>Tween</source>
-        <translation>中间</translation>
+        <translation>补间</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTween.qml" line="73"/>
@@ -2579,7 +2579,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AnimationTween.qml" line="74"/>
         <source>Data types to tween.</source>
-        <translation>中间的数据种类。</translation>
+        <translation>要补间的数据类型。</translation>
     </message>
 </context>
 <context>
@@ -2592,7 +2592,7 @@
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="70"/>
         <source>Discard changes to RPG Maker MV tools?</source>
-        <translation>放弃RPG Maker MV 工具中的改变？</translation>
+        <translation>放弃 RPG Maker MV 工具的更改？</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="105"/>
@@ -2602,19 +2602,19 @@
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="106"/>
         <source>List of tools that have already been added.</source>
-        <translation>列表中的工具已被添加。</translation>
+        <translation>已添加的工具列表。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="121"/>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="168"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="127"/>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="174"/>
         <source>Description</source>
-        <translation>描述</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="133"/>
@@ -2635,17 +2635,17 @@
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="151"/>
         <source>Found Tools</source>
-        <translation>找到工具</translation>
+        <translation>找到的工具</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="152"/>
         <source>List of tools that have been found.</source>
-        <translation>列表中的工具已被找到。</translation>
+        <translation>已找到的工具列表。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="188"/>
         <source>Add a tool.</source>
-        <translation>新增工具。</translation>
+        <translation>添加一个工具。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="194"/>
@@ -2665,7 +2665,7 @@
     <message>
         <location filename="../qml/Main/Dialog_AppendTools.qml" line="187"/>
         <source>Add</source>
-        <translation>增加</translation>
+        <translation>添加</translation>
     </message>
 </context>
 <context>
@@ -2683,7 +2683,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_AttackMotion.qml" line="31"/>
         <source>Motion type displaying when an actor attacks with this weapon.</source>
-        <translation type="unfinished">角色用武器攻击时展示的动作种类。</translation>
+        <translation>角色用武器攻击时显示的动作类型。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_AttackMotion.qml" line="36"/>
@@ -2715,7 +2715,7 @@
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="39"/>
         <source>Turn End</source>
         <translatorcomment>comment：元翻訳「回合结束」を「结束回合」に変更しました。</translatorcomment>
-        <translation type="unfinished">结束回合</translation>
+        <translation>回合结束</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="40"/>
@@ -2730,33 +2730,33 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="51"/>
         <source>Starts when the specified turn has been surpassed. Specifies the turn count with A + B * X. If A = 1 and B = 3, the condition will be met at turn 1, 4, 7, and so on. Turn 0 means that the event starts before command entry.</source>
-        <translation>当特定的回合被超过时发生。特定的回合包括 A + B * X.当 A = 1并B = 3，条件会在回合1,4,7的时候满足，等等。回合0表示事件在命令键入前开始了。</translation>
+        <translation>到指定的回合之后开始。用公式 A + B * X 指定回合数。如果 A = 1, B = 3，那么在 1, 4, 7, ... 回合满足条件。第 0 回合表示在输入指令前开始执行事件。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="95"/>
         <source>Enemy HP</source>
-        <translation>敌人的生命值</translation>
+        <translation>敌人 HP</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="96"/>
-        <source>Starts when an enemy&apos;s HP is less than or equal to the specified percentage.&lt;br&gt;If you want to start the event just before the enemy dies, add [Immortal] state temporarily on the battle start.</source>
-        <translation>当敌人的生命值小于或等于特定的百分比时开始。&lt;br&gt;如果你想在敌人死掉前开始，在战斗开始前暂时加上[不死]状态。</translation>
+        <source>Starts when an enemy's HP is less than or equal to the specified percentage.&lt;br&gt;If you want to start the event just before the enemy dies, add [Immortal] state temporarily on the battle start.</source>
+        <translation>当敌人的 HP 小于等于指定的百分比时开始。&lt;br&gt;如果要在敌人死亡前执行事件，在战斗开始时临时给敌人加上 [不死之身] 状态。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="124"/>
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="161"/>
         <source>or below</source>
-        <translation>或低于</translation>
+        <translation>或以下</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="132"/>
         <source>Actor HP</source>
-        <translation>角色生命值</translation>
+        <translation>角色 HP</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="133"/>
-        <source>Starts when an actor&apos;s HP is less than or equal to the specified percentage.</source>
-        <translation>当角色的生命值小于或等于特定百分比时开始。</translation>
+        <source>Starts when an actor's HP is less than or equal to the specified percentage.</source>
+        <translation>当角色的生命值小于等于指定的百分比时开始。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="170"/>
@@ -2766,7 +2766,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleConditions.qml" line="171"/>
         <source>Starts when the specified switch is ON.</source>
-        <translation>当特定开关是打开时开始。</translation>
+        <translation>当指定的开关打开时开始。</translation>
     </message>
 </context>
 <context>
@@ -2799,12 +2799,12 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleTest.qml" line="86"/>
         <source>Initialize</source>
-        <translation>初始</translation>
+        <translation>初始化</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleTest.qml" line="87"/>
-        <source>Initializes the actor&apos;s level and equipment.</source>
-        <translation>角色等级和装备初始化。</translation>
+        <source>Initializes the actor's level and equipment.</source>
+        <translation>初始化角色等级和装备。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleTest.qml" line="96"/>
@@ -2814,7 +2814,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleTest.qml" line="97"/>
         <source>Weapon and armor that the actor has equipped in the battle test.</source>
-        <translation>角色在战斗测试中用的武器和盔甲。</translation>
+        <translation>角色在战斗测试中用的武器和护甲。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleTest.qml" line="112"/>
@@ -2824,7 +2824,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_BattleTest.qml" line="113"/>
         <source>Displays status computation based on the level and the equipment.</source>
-        <translation>根据等级和装备展示的状态计算。</translation>
+        <translation>根据等级和装备，显示计算出的属性值。</translation>
     </message>
 </context>
 <context>
@@ -2845,7 +2845,7 @@
         <location filename="../qml/Dialogs/Dialog_ChangeMaximum.qml" line="23"/>
         <source>Number of new data entries. When decreasing the number, any existing entries above that number will be deleted.</source>
         <translatorcomment>comment：元翻訳「新进入数据的数量。当数量减少，任何超过那个数量的现有记录都会被删除。」を「新输入数据的数量。当减少数量，任何超过那个数量的现有记录都会被删除。」に変更しました。</translatorcomment>
-        <translation type="unfinished">新输入数据的数量。当减少数量，任何超过那个数量的现有记录都会被删除。</translation>
+        <translation>新数据的数量。减少这个数时，溢出的数据会被删除。</translation>
     </message>
 </context>
 <context>
@@ -2854,7 +2854,7 @@
         <location filename="../qml/CharacterGenerator/Dialog_CharacterGenerator.qml" line="16"/>
         <source>Character Generator</source>
         <translatorcomment>comment：元翻訳「角色生产」を角色创建」に変更しました。</translatorcomment>
-        <translation type="unfinished">角色创建</translation>
+        <translation type="unfinished">角色生成器</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_CharacterGenerator.qml" line="43"/>
@@ -2869,29 +2869,29 @@
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_CharacterGenerator.qml" line="85"/>
         <source>Kid</source>
-        <translation type="unfinished"></translation>
+        <translation>儿童</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_CharacterGenerator.qml" line="588"/>
         <source>Face Image</source>
-        <translation>脸部图像</translation>
+        <translation>脸图</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_CharacterGenerator.qml" line="600"/>
         <source>Walk Character</source>
         <translatorcomment>comment：元翻訳「行走角色」の意味は歩くキャラクター。中国プレヤーから見るとちょっと意味不明ですが、キャラクターの歩いてる姿の意味を変えました。</translatorcomment>
-        <translation type="unfinished">行走姿态</translation>
+        <translation type="unfinished">行走图</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_CharacterGenerator.qml" line="612"/>
         <source>Battler</source>
-        <translation>战斗</translation>
+        <translation>战斗图</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_CharacterGenerator.qml" line="624"/>
         <source>Damage Character</source>
         <translatorcomment>comment：元翻訳「损伤角色」の意味は傷つくキャラクター。中国プレヤーから見るとちょっと意味不明ですが、傷つかれるときの姿「损伤姿态」の意味で変えました。</translatorcomment>
-        <translation type="unfinished">损伤姿态</translation>
+        <translation>受伤图</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_CharacterGenerator.qml" line="631"/>
@@ -2914,7 +2914,7 @@
     <message>
         <location filename="../qml/Main/Dialog_Copying.qml" line="38"/>
         <source>Copying files...</source>
-        <translation>复制文件...</translation>
+        <translation>正在复制文件...</translation>
     </message>
 </context>
 <context>
@@ -2932,18 +2932,18 @@
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="80"/>
         <source>Target platform of the distribution package.</source>
-        <translation>分配组件的目标平台。</translation>
+        <translation>发行包的目标平台。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="87"/>
         <source>Windows</source>
-        <translation type="unfinished">窗口</translation>
+        <translation>Windows</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="88"/>
         <source>Creates a package for Windows.</source>
         <translatorcomment>comment：元翻訳「为windows创建一个组件。」を「为windows创建一个资源包。」に変更しました。</translatorcomment>
-        <translation type="unfinished">为windows创建一个资源包。</translation>
+        <translation>为 Windows 创建资源包。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="95"/>
@@ -2954,39 +2954,39 @@
         <location filename="../qml/Main/Dialog_Deployment.qml" line="96"/>
         <source>Creates a package for Mac OS X.</source>
         <translatorcomment>comment：元翻訳「为 Mac OS X创建一个组件。」を「为 Mac OS X创建一个资源包。」に変更しました。</translatorcomment>
-        <translation type="unfinished">为 Mac OS X创建一个资源包。</translation>
+        <translation>为 Mac OS X 创建资源包。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="102"/>
         <source>Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>Linux</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="103"/>
         <source>Creates a package for Linux.</source>
-        <translation type="unfinished"></translation>
+        <translation>为 Linux 创建资源包。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="109"/>
         <source>Android / iOS</source>
-        <translation>安卓/ iOS</translation>
+        <translation>Android / iOS</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="110"/>
         <source>Creates a package for Android and iOS.</source>
         <translatorcomment>comment：元翻訳「为 安卓和iOS创建一个组件。」を「为安卓和iOS创建一个资源包。」に変更しました。</translatorcomment>
-        <translation type="unfinished">为安卓和iOS创建一个资源包。</translation>
+        <translation>为 Android 和 iOS 创建资源包。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="116"/>
         <source>Web browsers</source>
-        <translation>网络浏览器</translation>
+        <translation>浏览器</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="117"/>
         <source>Creates a package for web browsers.</source>
         <translatorcomment>comment：元翻訳「为网络浏览器创建一个组件。」を「为网络浏览器创建一个资源包。」に変更しました。</translatorcomment>
-        <translation type="unfinished">为网络浏览器创建一个资源包。</translation>
+        <translation>为浏览器创建资源包。</translation>
     </message>
     <message>
         <source>Options</source>
@@ -3003,7 +3003,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="vanished">游戏中未使用的文件将不在部署中包括。</translation>
+        <translation>游戏中未使用的文件将不会出现在部署后的文件中。</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -3019,7 +3019,7 @@
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="vanished">加密图像文件已在组件中包括。</translation>
+        <translation>加密资源包中的图像文件。</translation>
     </message>
     <message>
         <source>Audio files</source>
@@ -3036,7 +3036,7 @@
     </message>
     <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="vanished">请键入密钥。</translation>
+        <translation>请输入密钥。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="130"/>
@@ -3068,12 +3068,12 @@
         <location filename="../qml/Main/Dialog_Deployment.qml" line="172"/>
         <source>Location is empty.</source>
         <translatorcomment>comment：元翻訳「位置已空。」を「位置为空白。」に変更しました。</translatorcomment>
-        <translation type="unfinished">位置为空白。</translation>
+        <translation>位置为空。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Deployment.qml" line="175"/>
         <source>Path name is too long.</source>
-        <translation>路径名字太长。</translation>
+        <translation>路径名称过长。</translation>
     </message>
 </context>
 <context>
@@ -3092,13 +3092,13 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_DropItem.qml" line="83"/>
         <source>None</source>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_DropItem.qml" line="84"/>
         <source>Turns off the drop item spawning.</source>
         <translatorcomment>comment：元翻訳「关闭物品掉落spawning。」を「关闭出现物品掉落。」に変更しました。</translatorcomment>
-        <translation>关闭物品掉落spawning。</translation>
+        <translation>不会掉落物品。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_DropItem.qml" line="94"/>
@@ -3108,7 +3108,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_DropItem.qml" line="95"/>
         <source>Sets the specified item as the drop item.</source>
-        <translation>将特定物品设置为掉落物品。</translation>
+        <translation>将指定的物品设为掉落物品。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_DropItem.qml" line="113"/>
@@ -3118,28 +3118,28 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_DropItem.qml" line="114"/>
         <source>Sets the specified weapon as the drop item.</source>
-        <translation>将特定武器设置为掉落物品。</translation>
+        <translation>将指定的武器设为掉落物品。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_DropItem.qml" line="132"/>
         <source>Armor</source>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_DropItem.qml" line="133"/>
         <source>Sets the specified armor as the drop item.</source>
-        <translation>将特定盔甲设置为掉落物品。</translation>
+        <translation>将指定的护甲设为掉落物品。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_DropItem.qml" line="152"/>
         <source>Probability</source>
-        <translation>可能性</translation>
+        <translation>出现概率</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_DropItem.qml" line="153"/>
         <source>Spawning probability of the drop item.</source>
         <translatorcomment>comment：元翻訳「掉落物品的spawing可能性。」を「出现物品掉落的可能性。」に変更しました。</translatorcomment>
-        <translation type="unfinished">出现物品掉落的可能性。</translation>
+        <translation type="unfinished">出现物品掉落的几率。</translation>
     </message>
 </context>
 <context>
@@ -3153,39 +3153,39 @@
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="73"/>
         <source>Recover</source>
         <translatorcomment>comment：元翻訳「康复」を「治愈」に変更しました。</translatorcomment>
-        <translation type="unfinished">治愈</translation>
+        <translation type="unfinished">恢复</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="77"/>
         <source>Recover HP</source>
-        <translation>生命值恢复</translation>
+        <translation>恢复 HP</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="78"/>
         <source>Restores HP. Specify either a percentage of max HP or a set value, or both. In the case of items, the multiplier of the [Pharmacology] sp-parameter is applied.</source>
-        <translation>生命值还原。指定是生命最大值的百分比或是一个特定值，或俩者。对于物品而言，多重[药品]的特定参数会启用。</translation>
+        <translation>恢复 HP。指定最大 HP 的百分比，要恢复的 HP 值之一或两者同时指定。对于物品，该效果会乘上特殊能力值“药理知识”的倍率。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="89"/>
         <source>Recover MP</source>
         <translatorcomment>comment：元翻訳「力量值恢复」を「魔法值恢复」に変更しました。魔法值</translatorcomment>
-        <translation type="unfinished">魔法值恢复</translation>
+        <translation>恢复 MP</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="90"/>
         <source>Restores MP. Specify either a percentage of max MP or a set value, or both. In the case of items, the multiplier of the [Pharmacology] sp-parameter is applied.</source>
         <translatorcomment>comment：元翻訳力量值还原。指定是力量最大值的百分比或是一个特定值，或俩者。对于物品而言，多重[药品]的特定参数会启用。」を「魔法值还原。指定是力量最大值的百分比或是一个特定值，或俩者。对于物品而言，多重[药品]的特定参数会启用。」に変更しました。魔法值</translatorcomment>
-        <translation type="unfinished">魔法值还原。指定是力量最大值的百分比或是一个特定值，或俩者。对于物品而言，多重[药品]的特定参数会启用。</translation>
+        <translation>恢复 MP。指定最大 MP 的百分比，要恢复的 MP 值之一或两者同时指定。对于物品，该效果会乘上特殊能力值“药理知识”的倍率。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="101"/>
         <source>Gain TP</source>
-        <translation>获得TP</translation>
+        <translation>获得 TP</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="102"/>
         <source>Increases the TP by the amount specified.</source>
-        <translation>TP增加到特定数量。</translation>
+        <translation>增加指定数量的 TP。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="114"/>
@@ -3195,43 +3195,43 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="118"/>
         <source>Add State</source>
-        <translation>增加状态</translation>
+        <translation>附加状态</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="119"/>
-        <source>Adds the specified state. Specifying a value over 100% enables success at a rate higher than the target&apos;s original effectiveness.</source>
-        <translation>增加特定状态。指定一个超过100%的值，让等级高过目标初始有效性能成功。</translation>
+        <source>Adds the specified state. Specifying a value over 100% enables success at a rate higher than the target's original effectiveness.</source>
+        <translation>附加指定的状态。超过 100% 的值可以允许添加状态的成功率高于目标自身的状态有效度。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="123"/>
         <source>Normal Attack</source>
         <translatorcomment>comment：元翻訳「一般攻击」を「普通攻击」に変更しました。</translatorcomment>
-        <translation type="unfinished">普通攻击</translation>
+        <translation>普通攻击</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="128"/>
         <source>Remove State</source>
-        <translation>移除状态</translation>
+        <translation>解除状态</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="129"/>
         <source>Removes the specified state.</source>
-        <translation>移除特定的状态。</translation>
+        <translation>解除指定的状态。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="140"/>
         <source>Param</source>
-        <translation>参数</translation>
+        <translation>能力值</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="144"/>
         <source>Add Buff</source>
-        <translation>增加缓冲</translation>
+        <translation>附加强化效果</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="145"/>
         <source>Raises the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and an increase of up to two levels is possible. To raise a parameter two or more levels at one time, you can apply this effect multiple times.</source>
-        <translation>让特定参数的浮动等级上升1.每一个等级的原始值中会有一个25%的浮动值，这让上升2个等级成为可能。让参数一次能上升2级或更多，你可以应用这个效果多次。</translation>
+        <translation>将指定的能力值的变动等级提升 1 级。每一级表示相对原始值 25% 的变动，最大可以强化到 2 级。想要一次性强化 2 级以上时，可以多次附加这个效果。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="153"/>
@@ -3242,32 +3242,32 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="157"/>
         <source>Add Debuff</source>
-        <translation>增加减弱缓冲</translation>
+        <translation>增加弱化效果</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="158"/>
         <source>Lowers the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and a decrease of up to two levels is possible. To lower a parameter two or more levels at one time, you can apply this effect multiple times.</source>
-        <translation>让特定参数的浮动等级下降1.每一个等级的原始值中会有一个25%的浮动值，这让下降最多2个等级成为可能。让参数一次能下降2级或更多，你可以应用这个效果多次。</translation>
+        <translation>将指定的能力值的变动等级下降 1 级。每一级表示相对原始值 25% 的变动，最大可以弱化到 2 级。想要一次性弱化 2 级以上时，可以多次附加这个效果。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="170"/>
         <source>Remove Buff</source>
-        <translation>移除缓冲</translation>
+        <translation>解除强化效果</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="171"/>
         <source>Returns the specified parameter to its original fluctuation level if it has been buffed.</source>
-        <translation>如果有缓冲，将特定参数还到原始浮动等级中。</translation>
+        <translation>指定的能力值处于强化状态时，将其重置为 0 级。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="177"/>
         <source>Remove Debuff</source>
-        <translation>移除减弱缓冲</translation>
+        <translation>解除弱化效果</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="178"/>
         <source>Returns the specified parameter to its original fluctuation level if it has been debuffed.</source>
-        <translation>如果有减少缓冲，将特定参数还到原始浮动等级中。</translation>
+        <translation>指定的能力值处于弱化状态时，将其重置为 0 级。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="186"/>
@@ -3277,32 +3277,32 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="190"/>
         <source>Special Effect</source>
-        <translation>特效</translation>
+        <translation>特殊效果</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="191"/>
         <source>Can only be set for the [Escape] command. Allows the target to escape from a battle. No EXP will be earned.</source>
-        <translation>只能设置成[逃避]命令。允许目标逃脱战斗。不会获得经验值。</translation>
+        <translation>只能设置为“逃跑”。使目标脱离战斗，并无法获得经验值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="197"/>
         <source>Grow</source>
-        <translation>生长</translation>
+        <translation>成长</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="198"/>
         <source>Permanently raises the specified parameter. For example, this can be used in creating an item such as fruit that gives a power-up when eaten.</source>
-        <translation>永久性的上升特定参数。比如，这能用作创建像一个吃了之后能上升能力的水果。</translation>
+        <translation>永久上升指定的能力值。可以用来制作增强能力的水果之类的物品。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="209"/>
         <source>Learn Skill</source>
-        <translation>学习技能</translation>
+        <translation>习得技能</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="210"/>
         <source>Allows the character to learn the specified skill. For example, this can be used in creating an item such as a book that enables a spell to be used once it is read.</source>
-        <translation>允许角色能学习特定技能。比如，这能用作比如一本看了之后能使用魔咒的书。</translation>
+        <translation>习得指定的技能。该效果可以用来制作技能书类的物品。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="216"/>
@@ -3314,7 +3314,7 @@
         <location filename="../qml/Dialogs/Dialog_Effects.qml" line="217"/>
         <source>Triggers the specified common event. Only one call specification for common events is valid.</source>
         <translatorcomment>comment：元翻訳「触发特定的一般事件。只有一个调用细则对这个一般事件有效。」を「触发特定的公共事件。只有一个调用规范对这个公共事件有效。」に変更しました。</translatorcomment>
-        <translation type="unfinished">触发特定的公共事件。只有一个调用规范对这个公共事件有效。</translation>
+        <translation>启动指定的公共事件。公共事件指令只有一次调用是有效的。</translation>
     </message>
 </context>
 <context>
@@ -3322,27 +3322,27 @@
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="12"/>
         <source>Encounter</source>
-        <translation>遭遇</translation>
+        <translation>遇敌</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="57"/>
         <source>Troop and Weight</source>
-        <translation>部队和权重</translation>
+        <translation>敌群和权重</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="58"/>
         <source>Basic encounter settings.</source>
-        <translation>基本遭遇设置。</translation>
+        <translation>基本遇敌设置。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="63"/>
         <source>Troop</source>
-        <translation type="unfinished">部队</translation>
+        <translation type="unfinished">敌群</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="64"/>
         <source>Troop to be encountered.</source>
-        <translation>要遭遇的部队。</translation>
+        <translation>要遭遇的敌群。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="69"/>
@@ -3352,17 +3352,17 @@
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="70"/>
         <source>Value that affects the frequency at which the troop is encountered.</source>
-        <translation>会影响部队遭遇频率的值。</translation>
+        <translation>影响遇敌频率的值。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="78"/>
         <source>Range</source>
-        <translation>范围</translation>
+        <translation>出现范围</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="79"/>
         <source>Range in which the troop is encountered.</source>
-        <translation>部队遭遇的范围。</translation>
+        <translation>遇敌的范围。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="87"/>
@@ -3372,28 +3372,28 @@
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="88"/>
         <source>No limit on the encounter range.</source>
-        <translation>无限遭遇范围。</translation>
+        <translation>不限制遇敌范围。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="95"/>
         <source>Specify by Region ID</source>
-        <translation type="unfinished">指定地域ID</translation>
+        <translation>用区域 ID 指定</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="96"/>
         <source>Specifies the numbers set with the map editor.</source>
-        <translation type="unfinished">指定地图编辑器的数目。</translation>
+        <translation>指定地图编辑器上设定的编号。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="107"/>
         <source>Region ID</source>
-        <translation>地域ID</translation>
+        <translation>区域 ID</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_Encounter.qml" line="108"/>
         <source>Valid when a non-zero value is entered.</source>
         <translatorcomment>comment：元翻訳「非零值键入后无效。」を「输入非零值时有效。」に変更しました。</translatorcomment>
-        <translation type="unfinished">输入非零值时有效。</translation>
+        <translation>输入非零值时有效。</translation>
     </message>
 </context>
 <context>
@@ -3406,7 +3406,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_EquipmentItem.qml" line="28"/>
         <source>Armor</source>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_EquipmentItem.qml" line="29"/>
@@ -3420,7 +3420,7 @@
         <location filename="../qml/Event/Dialog_EventCommandSelect.qml" line="10"/>
         <source>Event Commands</source>
         <translatorcomment>comment：元翻訳「事件命令」を変更して「事件指令」になりました。</translatorcomment>
-        <translation type="unfinished">事件指令</translation>
+        <translation>事件指令</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_EventCommandSelect.qml" line="56"/>
@@ -3463,17 +3463,17 @@
     <message>
         <location filename="../qml/Event/Dialog_EventCommandSelect.qml" line="102"/>
         <source>Picture</source>
-        <translation>照片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_EventCommandSelect.qml" line="109"/>
         <source>Timing</source>
-        <translation>时间</translation>
+        <translation>计时</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_EventCommandSelect.qml" line="114"/>
         <source>Screen</source>
-        <translation>屏幕</translation>
+        <translation>画面</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_EventCommandSelect.qml" line="119"/>
@@ -3498,7 +3498,7 @@
     <message>
         <location filename="../qml/Event/Dialog_EventCommandSelect.qml" line="150"/>
         <source>Battle</source>
-        <translation>战役</translation>
+        <translation>战斗</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_EventCommandSelect.qml" line="155"/>
@@ -3517,12 +3517,12 @@
     <message>
         <location filename="../qml/Main/Dialog_EventSearcher.qml" line="79"/>
         <source>Search for</source>
-        <translation type="unfinished">搜索</translation>
+        <translation>搜索对象</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_EventSearcher.qml" line="80"/>
         <source>Specifies what to search for.</source>
-        <translation type="unfinished">指定搜索对象。</translation>
+        <translation>指定要搜索的对象。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_EventSearcher.qml" line="91"/>
@@ -3572,7 +3572,7 @@
     <message>
         <location filename="../qml/Main/Dialog_EventSearcher.qml" line="161"/>
         <source>List for the search results.</source>
-        <translation>搜索结果清单。</translation>
+        <translation>搜索结果列表。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_EventSearcher.qml" line="179"/>
@@ -3587,7 +3587,7 @@
     <message>
         <location filename="../qml/Main/Dialog_EventSearcher.qml" line="189"/>
         <source>Page</source>
-        <translation>页面</translation>
+        <translation>事件页</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_EventSearcher.qml" line="194"/>
@@ -3605,12 +3605,12 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="50"/>
         <source>To Next Level</source>
-        <translation>下一阶段</translation>
+        <translation>距离下一等级</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="54"/>
         <source>Total</source>
-        <translation>总共</translation>
+        <translation>总计</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="63"/>
@@ -3620,47 +3620,47 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="64"/>
         <source>List of EXP necessary for each level. Automatically calculated based on a combination of four parameters.</source>
-        <translation>列出每个等级需要的经验值。自动根据4个参数的结合计算。</translation>
+        <translation>每个等级需要的经验值的列表。自动根据 4 个参数的组合计算。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="84"/>
         <source>Base Value</source>
-        <translation>基础值</translation>
+        <translation>基本值</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="85"/>
         <source>Base value for calculating necessary EXP.</source>
-        <translation>计算必要经验值的基础值。</translation>
+        <translation>计算所需经验值的基本值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="100"/>
         <source>Extra Value</source>
-        <translation>附加值</translation>
+        <translation>补正值</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="101"/>
         <source>Simple extra value added to the EXP necessary for each level.</source>
-        <translation>简单附加值在每一等级加入到经验值中。</translation>
+        <translation>单纯增加到每一级所需经验中的值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="119"/>
         <source>Acceleration A</source>
-        <translation>加速A</translation>
+        <translation>增加度 A</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="120"/>
         <source>Value representing the rate at which to increase the necessary EXP. Affects the entire EXP curve.</source>
-        <translation>代表经验增长的级别的值。影响整个经验值曲线。</translation>
+        <translation>表示所需经验值增加的比例的值。影响整个经验值曲线。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="135"/>
         <source>Acceleration B</source>
-        <translation>加速B</translation>
+        <translation>增加度 B</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ExpCurve.qml" line="136"/>
         <source>Value representing the degree at which to exponentially increase the necessary EXP. Mainly affects the high-level range.</source>
-        <translation>代表经验的指数性增长程度的值。主要影响高阶范围。</translation>
+        <translation>表示所需经验值的指数增长程度的值。主要影响高等级部分。</translation>
     </message>
 </context>
 <context>
@@ -3668,7 +3668,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_FrameMaximum.qml" line="12"/>
         <source>Max Frames</source>
-        <translation>最大镜头</translation>
+        <translation>最大帧数</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_FrameMaximum.qml" line="21"/>
@@ -3678,7 +3678,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_FrameMaximum.qml" line="22"/>
         <source>Number of new frames. When decreasing the number, any existing frames above that number will be deleted.</source>
-        <translation>新镜头的数量。当数量减少时，任何超过这个数量的现存镜头会被删除。</translation>
+        <translation>新帧的数量。若减少该数字，溢出的帧会被删除。</translation>
     </message>
 </context>
 <context>
@@ -3700,16 +3700,16 @@
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="113"/>
-        <source>Uses the number of the specified item in the party&apos;s inventory.</source>
+        <source>Uses the number of the specified item in the party's inventory.</source>
         <translatorcomment>comment：元翻訳「在小组库存中使用特定数量的物品。」を「在队伍库存中使用特定数量的物品。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在队伍库存中使用特定数量的物品。</translation>
+        <translation>指定道具的持有数量。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="129"/>
         <location filename="../qml/Event/Dialog_GameData.qml" line="157"/>
         <location filename="../qml/Event/Dialog_GameData.qml" line="185"/>
         <source>(Possession Count)</source>
-        <translation>(财产数目)</translation>
+        <translation>（持有数）</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="140"/>
@@ -3718,20 +3718,20 @@
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="141"/>
-        <source>Uses the number of the specified weapon in the party&apos;s inventory without the equipped items.</source>
+        <source>Uses the number of the specified weapon in the party's inventory without the equipped items.</source>
         <translatorcomment>comment：元翻訳「使用在小组的库存中没有装备的武器数量。」を「使用在队伍的库存中的特定武器除了已装备的物品。」に変更しました。</translatorcomment>
-        <translation type="unfinished">使用在队伍的库存中的特定武器除了已装备的物品。</translation>
+        <translation>指定武器的持有数量。不包括已装备的武器。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="168"/>
         <source>Armor</source>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="169"/>
-        <source>Uses the number of the specified armor in the party&apos;s inventory without the equipped items.</source>
+        <source>Uses the number of the specified armor in the party's inventory without the equipped items.</source>
         <translatorcomment>comment：元翻訳「在小组的库存中使用特定数量的盔甲即便没有装备物品。」を「在队伍的库存中使用特定数量的盔甲除了已装备的物品。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在队伍的库存中使用特定数量的盔甲除了已装备的物品。</translation>
+        <translation>指定护甲的持有数量。不包括已装备的护甲。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="196"/>
@@ -3741,7 +3741,7 @@
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="197"/>
         <source>Uses a parameter of the specified actor.</source>
-        <translation>特定的角色使用参数。</translation>
+        <translation>指定角色的能力值。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="225"/>
@@ -3751,7 +3751,7 @@
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="226"/>
         <source>Uses a parameter of the specified enemy.</source>
-        <translation>特定的敌人使用参数。</translation>
+        <translation>指定敌人的能力值。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="254"/>
@@ -3761,7 +3761,7 @@
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="255"/>
         <source>Uses coordinates or direction of the player or event.</source>
-        <translation>对玩家或事件使用坐标或方向。</translation>
+        <translation>玩家、事件的坐标或方向。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="282"/>
@@ -3773,17 +3773,17 @@
         <location filename="../qml/Event/Dialog_GameData.qml" line="283"/>
         <source>Uses the ID of the actor at the specified position within the party.</source>
         <translatorcomment>comment：元翻訳「在小组的特定位置上使用角色ID。」を「在队伍的特定位置上使用角色ID。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在队伍的特定位置上使用角色ID。</translation>
+        <translation>在队伍指定位置的角色 ID。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="299"/>
         <source>Member #%1</source>
-        <translation>组员 #%1</translation>
+        <translation>队员 #%1</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="305"/>
         <source>(Actor ID)</source>
-        <translation>(角色ID)</translation>
+        <translation>（角色 ID）</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="316"/>
@@ -3793,7 +3793,7 @@
     <message>
         <location filename="../qml/Event/Dialog_GameData.qml" line="317"/>
         <source>Uses miscellaneous data.</source>
-        <translation>使用各类数据。</translation>
+        <translation>使用其他数据。</translation>
     </message>
 </context>
 <context>
@@ -3801,7 +3801,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="18"/>
         <source>None</source>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="28"/>
@@ -3827,7 +3827,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="212"/>
         <source>Armors</source>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="213"/>
@@ -3853,12 +3853,12 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="217"/>
         <source>Tilesets</source>
-        <translation type="unfinished">拼接设置</translation>
+        <translation type="unfinished">图块</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="218"/>
         <source>Troops</source>
-        <translation>部队</translation>
+        <translation>敌群</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="219"/>
@@ -3868,30 +3868,30 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="225"/>
         <source>Group List</source>
-        <translation>小组列表</translation>
+        <translation type="unfinished">组列表</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="226"/>
         <source>The objects in the selected range are displayed to the right.</source>
         <translatorcomment>comment：元翻訳「选择范围内的物体在右面展示。」を「在右面显示选择范围内的对象。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在右面显示选择范围内的对象。</translation>
+        <translation>列表中选中项目的内容会显示在窗口的右侧。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="259"/>
         <source>Data List</source>
         <translatorcomment>comment：元翻訳「资料清单」を「数据列表」に変更しました。</translatorcomment>
-        <translation type="unfinished">数据列表</translation>
+        <translation>数据列表</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="260"/>
         <source>List for selecting objects.</source>
         <translatorcomment>comment：元翻訳「选择物体的列表」を「选择对象的列表。」に変更しました。</translatorcomment>
-        <translation type="unfinished">选择对象的列表。</translation>
+        <translation>选择对象的列表。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GameObjectSelector.qml" line="261"/>
         <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>&lt;br&gt;[F5]选择下一物品。&lt;br&gt;[F4]选择前一物品。</translation>
+        <translation>&lt;br&gt;[F5]选择下一项。&lt;br&gt;[F4]选择前一项。</translation>
     </message>
 </context>
 <context>
@@ -3899,65 +3899,65 @@
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="13"/>
         <source>Game Share(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>分享游戏（NICONICO）</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="53"/>
         <source>Authentication(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>认证（NICONICO）</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="54"/>
         <source>If necessary to authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要认证的场合。</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="70"/>
         <source>Your acount is</source>
-        <translation type="unfinished"></translation>
+        <translation>你的账号</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="75"/>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>认证</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="76"/>
         <source>Authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>认证。</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="86"/>
         <source>Deauthorize</source>
         <comment>Deauthorize Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>解除认证</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="87"/>
         <source>Cancel authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>取消认证。</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="102"/>
         <source>Clear</source>
         <comment>Clear Game ID Button</comment>
-        <translation type="unfinished">清空</translation>
+        <translation>清空</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="103"/>
         <source>Clear the Game ID.</source>
-        <translation type="unfinished"></translation>
+        <translation>清除游戏 ID。</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="114"/>
         <source>Clear the Game ID?</source>
-        <translation type="unfinished"></translation>
+        <translation>清除游戏 ID？</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_GameShare.qml" line="146"/>
         <source>Account has not been authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation>账号没有认证。</translation>
     </message>
 </context>
 <context>
@@ -3965,53 +3965,53 @@
     <message>
         <location filename="../qml/GameShareOgc/Dialog_GameShareOgc.qml" line="13"/>
         <source>Game Share(OPEN GAME CREATORS)</source>
-        <translation type="unfinished"></translation>
+        <translation>分享游戏（OPEN GAME CREATORS）</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_GameShareOgc.qml" line="56"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>认证</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_GameShareOgc.qml" line="57"/>
         <source>If necessary to authenticate OPEN GAME CREATORS.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要认证的场合（OPEN GAME CREATORS）。</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_GameShareOgc.qml" line="73"/>
         <source>Authenticated account: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已认证账号：%1</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_GameShareOgc.qml" line="78"/>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>认证</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_GameShareOgc.qml" line="79"/>
         <source>Authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>认证。</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_GameShareOgc.qml" line="89"/>
         <source>Deauthorize</source>
-        <translation type="unfinished"></translation>
+        <translation>解除认证</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_GameShareOgc.qml" line="90"/>
         <source>Cancel authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>取消认证。</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_GameShareOgc.qml" line="215"/>
         <source>Info</source>
-        <translation type="unfinished">信息</translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_GameShareOgc.qml" line="225"/>
         <source>Account has not been authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation>账号未认证。</translation>
     </message>
 </context>
 <context>
@@ -4019,62 +4019,62 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="12"/>
         <source>Generate Curve</source>
-        <translation>曲线生成</translation>
+        <translation>生成曲线</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="26"/>
         <source>Endpoint Values</source>
-        <translation>终点值</translation>
+        <translation>端点值</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="27"/>
         <source>Parameter values of the endpoints.</source>
-        <translation>终点的参数值。</translation>
+        <translation>端点处的能力值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="30"/>
         <source>Level 1</source>
-        <translation>等级1</translation>
+        <translation>等级 1</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="31"/>
         <source>Parameter value for the level 1.</source>
-        <translation>等级1的参数值。</translation>
+        <translation>等级 1 的能力值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="39"/>
         <source>Level 99</source>
-        <translation>等级99</translation>
+        <translation>等级 99</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="40"/>
         <source>Parameter value for the level 99.</source>
-        <translation>等级99的参数值。</translation>
+        <translation>等级 99 的能力值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="51"/>
         <source>Growth Type</source>
-        <translation>成长种类</translation>
+        <translation>成长类型</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="52"/>
         <source>Curve of the parameter graph. The closer to [Fast], the lower the value added on level up. The closer to [Slow], the higher the value added on level up.</source>
-        <translation>参数表的曲线。越接近[加快]，在升级时的值加的越低。越接近[缓慢]，在升级时的值加的越高。</translation>
+        <translation>设定能力值曲线的特征。越靠近“早熟”，每次等级上升后能力值的增加会越来越小。反之，越靠近“晚熟”，每次等级上升后能力值的增加会越来越大。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="75"/>
         <source>Fast</source>
-        <translation>加快</translation>
+        <translation>早熟</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="82"/>
         <source>Normal</source>
-        <translation>正常</translation>
+        <translation>标准</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_GenerateCurve.qml" line="89"/>
         <source>Slow</source>
-        <translation>缓慢</translation>
+        <translation>晚熟</translation>
     </message>
 </context>
 <context>
@@ -4082,12 +4082,12 @@
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="13"/>
         <source>Generate Dungeon</source>
-        <translation>生成地牢</translation>
+        <translation>生成迷宫</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="97"/>
         <source>Type</source>
-        <translation>种类</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="104"/>
@@ -4097,7 +4097,7 @@
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="105"/>
         <source>Generates a dungeon consisting of rooms and passages.</source>
-        <translation type="unfinished">创建一个包含房间和通道的地牢。</translation>
+        <translation type="unfinished">生成一个带有房间和通道的地下城。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="114"/>
@@ -4107,7 +4107,7 @@
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="115"/>
         <source>Generates a maze-like dungeon which has no rooms.</source>
-        <translation type="unfinished">创建一个像迷宫一样的没有房间的地牢。</translation>
+        <translation type="unfinished">创建一个像迷宫一样的没有房间的地下城。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="126"/>
@@ -4117,12 +4117,12 @@
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="132"/>
         <source>Add Margins</source>
-        <translation>加边缘</translation>
+        <translation>留白</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="133"/>
         <source>Adds margins around the dungeon.</source>
-        <translation>给地牢加一圈边缘。</translation>
+        <translation>在地下城周围附加空白。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="141"/>
@@ -4132,12 +4132,12 @@
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="142"/>
         <source>Increases the width of passages.</source>
-        <translation>加宽通道。</translation>
+        <translation>增加通道的宽度。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="152"/>
         <source>Wall</source>
-        <translation>墙</translation>
+        <translation>墙壁</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_GenerateDungeon.qml" line="188"/>
@@ -4150,22 +4150,22 @@
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_ImageSave.qml" line="55"/>
         <source>Import</source>
-        <translation type="unfinished">导入</translation>
+        <translation>导入</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_ImageSave.qml" line="56"/>
         <source>Loads a base image from a file.</source>
-        <translation>从文件加载一个基础图像。</translation>
+        <translation>从文件中读取基本图像。</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_ImageSave.qml" line="92"/>
         <source>Export</source>
-        <translation>输出</translation>
+        <translation>导出</translation>
     </message>
     <message>
         <location filename="../qml/CharacterGenerator/Dialog_ImageSave.qml" line="93"/>
         <source>Saves the image to a file.</source>
-        <translation>把图像保存成一个文件。</translation>
+        <translation>把图像保存到一个文件。</translation>
     </message>
 </context>
 <context>
@@ -4178,12 +4178,12 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_ImageSelector.qml" line="150"/>
         <source>Hue</source>
-        <translation>色调</translation>
+        <translation>色相</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ImageSelector.qml" line="151"/>
         <source>Adjusts the hue offset for the image.</source>
-        <translation>给图像调整色调补偿。</translation>
+        <translation>调整图像的色相偏移。</translation>
     </message>
 </context>
 <context>
@@ -4217,42 +4217,42 @@
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="12"/>
         <source>Sample Maps</source>
-        <translation>地图样品</translation>
+        <translation>地图范例</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="24"/>
         <source>World 1</source>
         <comment>Fantasy</comment>
         <translatorcomment>comment：元翻訳「世界1」を変更して「世界地图1」になりました。</translatorcomment>
-        <translation type="unfinished">世界地图1</translation>
+        <translation>世界地图 1</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="25"/>
         <source>World 2</source>
         <comment>Fantasy</comment>
         <translatorcomment>comment：元翻訳「世界2」を変更して「世界地图2」になりました。</translatorcomment>
-        <translation type="unfinished">世界地图2</translation>
+        <translation>世界地图 2</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="26"/>
         <source>World 3</source>
         <comment>Fantasy</comment>
         <translatorcomment>comment：元翻訳「世界3」を変更して「世界地图3」になりました。</translatorcomment>
-        <translation type="unfinished">世界地图3</translation>
+        <translation>世界地图 3</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="27"/>
         <source>World 4</source>
         <comment>Fantasy</comment>
         <translatorcomment>comment：元翻訳「世界4」を変更して「世界地图4」になりました。</translatorcomment>
-        <translation type="unfinished">世界地图4</translation>
+        <translation>世界地图 4</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="28"/>
         <source>World 5</source>
         <comment>Fantasy</comment>
         <translatorcomment>comment：元翻訳「世界5」を変更して「世界地图5」になりました。</translatorcomment>
-        <translation type="unfinished">世界地图5</translation>
+        <translation>世界地图 5</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="29"/>
@@ -4273,7 +4273,7 @@
         <source>Abandoned Town</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>废弃的小镇</translation>
+        <translation>废墟</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="32"/>
@@ -4287,14 +4287,14 @@
         <source>Floating Temple</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>漂浮庙宇</translation>
+        <translation>空中神殿</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="34"/>
         <source>Mining City</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>矿城</translation>
+        <translation>矿山都市</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="35"/>
@@ -4336,7 +4336,7 @@
         <source>Nomad Camp</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>流浪者营地</translation>
+        <translation>游牧民营地</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="41"/>
@@ -4350,28 +4350,28 @@
         <source>Snow Castle</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>雪城</translation>
+        <translation>雪中城堡</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="43"/>
         <source>Demon Castle</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>恶鬼城堡</translation>
+        <translation>魔王城</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="44"/>
         <source>Fortress</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>堡垒</translation>
+        <translation>要塞</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="45"/>
         <source>Snow Fortress</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>雪堡垒</translation>
+        <translation>雪中要塞</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="46"/>
@@ -4385,28 +4385,28 @@
         <source>Ruins</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>废墟</translation>
+        <translation>遗迹</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="48"/>
         <source>Deserted Meadow</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>荒芜的牧场</translation>
+        <translation>草原废墟</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="49"/>
         <source>Deserted Desert</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>荒芜的沙漠</translation>
+        <translation>沙漠废墟</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="50"/>
         <source>Forest of Decay</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>腐烂森林</translation>
+        <translation type="unfinished">灭绝森林</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="51"/>
@@ -4441,132 +4441,132 @@
         <source>House 1</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>屋子1</translation>
+        <translation>民居 1</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="56"/>
         <source>House 2</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>屋子2</translation>
+        <translation>民居 2</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="57"/>
         <source>Mansion</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>大厦</translation>
+        <translation>宅邸</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="58"/>
         <source>Village House 1F</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>小村屋子1F</translation>
+        <translation>小村民居 1F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="59"/>
         <source>Village House 2F</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>小村屋子2F</translation>
+        <translation>小村民居 2F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="60"/>
         <source>Abandoned House</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>废弃的屋子</translation>
+        <translation>废墟民居</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="61"/>
         <source>Weapon Shop</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>武器店</translation>
+        <translation>武器商店</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="62"/>
         <source>Armor Shop</source>
         <comment>Fantasy</comment>
-        <translation>盔甲店</translation>
+        <translation>护甲商店</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="63"/>
         <source>Item Shop</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>物品店</translation>
+        <translation>物品商店</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="64"/>
         <source>Inn 1F</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>小旅馆1F</translation>
+        <translation>旅馆 1F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="65"/>
         <source>Inn 2F</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>小旅馆2F</translation>
+        <translation>旅馆 2F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="66"/>
         <source>Castle 1F</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>城堡1F</translation>
+        <translation>城堡 1F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="67"/>
         <source>Castle 2F</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>城堡2F</translation>
+        <translation>城堡 2F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="68"/>
         <source>Castle 3F</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>城堡3F</translation>
+        <translation>城堡 3F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="69"/>
         <source>Demon Castle 1F</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>恶鬼城堡1F</translation>
+        <translation>魔王城 1F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="70"/>
         <source>Demon Castle 2</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>恶鬼城堡2F</translation>
+        <translation>魔王城 2F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="71"/>
         <source>Demon Castle 3</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>恶鬼城堡3F</translation>
+        <translation>魔王城 3F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="72"/>
         <source>Hall of Transference</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>传递厅</translation>
+        <translation>转移空间</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="73"/>
         <source>Tower 1F</source>
         <comment>Fantasy</comment>
         <translatorcomment>幻想</translatorcomment>
-        <translation>高塔1F</translation>
+        <translation>塔 1F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="74"/>
@@ -4629,21 +4629,21 @@
         <source>Underground Town</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>地下镇</translation>
+        <translation>地下街</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="83"/>
         <source>Floating City</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>飘浮城</translation>
+        <translation>空中城市</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="84"/>
         <source>Shop District</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>商店区</translation>
+        <translation>商店街</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="85"/>
@@ -4673,7 +4673,7 @@
         <source>Military Base</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>军队基地</translation>
+        <translation>军事设施</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="89"/>
@@ -4701,7 +4701,7 @@
         <source>Labratory Facility</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>实验设施</translation>
+        <translation>研究所</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="93"/>
@@ -4722,7 +4722,7 @@
         <source>Past Battlefield</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>之前的战场</translation>
+        <translation>战场遗迹</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="96"/>
@@ -4737,7 +4737,7 @@
         <source>Ancient Ruins</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>上古遗迹</translation>
+        <translation>古代遗迹</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="98"/>
@@ -4773,97 +4773,97 @@
         <source>House 1</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>屋子1</translation>
+        <translation>民居 1</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="103"/>
         <source>House 2</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>屋子2</translation>
+        <translation>民居 2</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="104"/>
         <source>Big House 1F</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>大城市1F</translation>
+        <translation>大型民居 1F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="105"/>
         <source>Big House 2F</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>大城21F</translation>
+        <translation>大型民居 2F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="106"/>
         <source>Weapon Shop</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>武器店</translation>
+        <translation>武器商店</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="107"/>
         <source>Armor Shop</source>
         <comment>Cyberpunk</comment>
-        <translation>盔甲店</translation>
+        <translation>护甲商店</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="108"/>
         <source>Item Shop</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>物品店</translation>
+        <translation>物品商店</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="109"/>
         <source>Hotel 1F</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>酒店1F</translation>
+        <translation>酒店 1F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="110"/>
         <source>Hotel 2F</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>酒店2F</translation>
+        <translation>酒店 2F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="111"/>
         <source>Office 1F</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>办公室1F</translation>
+        <translation>办公室 1F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="112"/>
         <source>Office 2F</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>办公室2F</translation>
+        <translation>办公室 2F</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="113"/>
         <source>School Hall</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>学校大厅</translation>
+        <translation>学校 走廊</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="114"/>
         <source>School Classroom</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>学校教室</translation>
+        <translation>学校 教室</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="115"/>
         <source>Run-down House</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>破败的屋子</translation>
+        <translation>破败的民居</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="116"/>
@@ -4905,14 +4905,14 @@
         <source>Base Interior</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>内部基础</translation>
+        <translation>设施中枢</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="125"/>
         <source>Sewer Cave</source>
         <comment>Cyberpunk</comment>
         <translatorcomment>朋克</translatorcomment>
-        <translation>下水道洞穴</translation>
+        <translation>下水洞窟</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapLoader.qml" line="126"/>
@@ -4933,7 +4933,7 @@
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="35"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="36"/>
@@ -4960,69 +4960,69 @@
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="47"/>
         <source>Name displayed on the upper left part of the screen when moving to the map. Not displayed if left blank.</source>
         <translatorcomment>comment：元翻訳「移动到地图时，在左上方展示名称。不展示的时候留白。」を変更して「移动到地图时会在左上方显示名称。不填写的时不显示。」になりました。</translatorcomment>
-        <translation type="unfinished">移动到地图时会在左上方显示名称。不填写的时不显示。</translation>
+        <translation>移动到地图时会在左上方显示名称。不填写时不显示。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="53"/>
         <source>Tileset</source>
-        <translation type="unfinished">拼接设置</translation>
+        <translation>图块组</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="54"/>
         <source>Tileset used for the map.</source>
-        <translation type="unfinished">地图的拼接设置。</translation>
+        <translation>地图的图块组。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="59"/>
         <source>Width</source>
         <translatorcomment>comment：元翻訳「宽」を変更して「宽度」になりました。</translatorcomment>
-        <translation type="unfinished">宽度</translation>
+        <translation>宽</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="60"/>
         <source>Horizontal size of the map.</source>
         <translatorcomment>comment：元翻訳「地图的水平尺寸。」を「地图的横向尺寸。」に変更しました。</translatorcomment>
-        <translation type="unfinished">地图的横向尺寸。</translation>
+        <translation>地图的横向尺寸。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="66"/>
         <source>Height</source>
-        <translation>高度</translation>
+        <translation>高</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="67"/>
         <source>Vertical size of the map.</source>
         <translatorcomment>comment：元翻訳「地图的垂直尺寸。」を「地图的纵向尺寸。」に変更しました。</translatorcomment>
-        <translation type="unfinished">地图的纵向尺寸。</translation>
+        <translation>地图的纵向尺寸。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="75"/>
         <source>Scroll Type</source>
         <translatorcomment>comment：元翻訳「滚动种类」を変更して「循环种类」になりました。</translatorcomment>
-        <translation type="unfinished">循环种类</translation>
+        <translation>循环类型</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="76"/>
         <source>Whether to wrap around from one side to the other.</source>
-        <translation>是否要从一边倒另一边环绕起来。</translation>
+        <translation>设置是否将地图边缘连接并循环。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="77"/>
         <source>No Loop</source>
         <translatorcomment>comment：元翻訳「无光环」を変更して「无循环」になりました。</translatorcomment>
-        <translation type="unfinished">无循环</translation>
+        <translation>无循环</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="77"/>
         <source>Loop Vertically</source>
         <translatorcomment>comment：元翻訳「垂直的光环」を変更して「纵向循环」になりました。</translatorcomment>
-        <translation type="unfinished">纵向循环</translation>
+        <translation>纵向循环</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="77"/>
         <source>Loop Horizontally</source>
         <translatorcomment>comment：元翻訳「水平的光环」を変更して「横向循环」になりました。</translatorcomment>
-        <translation type="unfinished">横向循环</translation>
+        <translation>横向循环</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="77"/>
@@ -5035,84 +5035,84 @@
         <source>Enc. Steps</source>
         <comment>Encounter Steps</comment>
         <translatorcomment>comment：元翻訳「遭遇步骤」を変更して「遇敌步数」になりました。</translatorcomment>
-        <translation type="unfinished">遇敌步数</translation>
+        <translation>遇敌步数</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="82"/>
         <source>Average number of steps between random encounters.</source>
         <translatorcomment>comment：元翻訳「随机遭遇的平均步骤。」を変更して「随机遇敌的平均步数。」になりました。</translatorcomment>
-        <translation type="unfinished">随机遇敌的平均步数。</translation>
+        <translation>随机遇敌的平均步数。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="94"/>
         <source>Autoplay BGM</source>
         <translatorcomment>comment：元翻訳「自动播放BGM」を変更して「自动切换BGM」になりました。</translatorcomment>
-        <translation type="unfinished">自动切换BGM</translation>
+        <translation>自动切换 BGM</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="95"/>
         <source>Makes the BGM change automatically when moving to the map.</source>
         <translatorcomment>comment：元翻訳「移动到地图时把BGM的改变做成自动的。」を変更して「当在地图上移动时自动切换BGM。」になりました。</translatorcomment>
-        <translation type="unfinished">当在地图上移动时自动切换BGM。</translation>
+        <translation>移动到该地图时自动切换 BGM。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="107"/>
         <source>Autoplay BGS</source>
         <translatorcomment>comment：元翻訳「自动播放BGS」を変更して「自动切换BGS」になりました。</translatorcomment>
-        <translation type="unfinished">自动切换BGS</translation>
+        <translation>自动切换 BGS</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="108"/>
         <source>Makes the BGS change automatically when moving to the map.</source>
         <translatorcomment>comment：元翻訳「移动到地图时把BGS的改变做成自动的。」を変更して「当在地图上移动时自动切换BGS。」になりました。</translatorcomment>
-        <translation type="unfinished">当在地图上移动时自动切换BGS。</translation>
+        <translation>移动到该地图时自动切换 BGS。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="122"/>
         <source>Specify Battleback</source>
         <translatorcomment>comment：元翻訳「指定战斗背后」を「指定战斗背景图像」になりました。</translatorcomment>
-        <translation type="unfinished">指定战斗背景图像</translation>
+        <translation>指定战斗背景图像</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="123"/>
         <source>Displays the specified background when a battle occurs on this map. When not specified, a background conforming to the terrain is automatically selected for world maps, and for other maps, a processed image of the map screen will be used as a background.</source>
         <translatorcomment>元翻訳「在此地图中发生战斗的特定背景展示。当未有指定，包含地形的背景会自动选择世界地图，对于其他地图，加工过的地图图像会以背景来使用。」を変更して「当在这个地图上发生战斗是会显示指定战斗背景图像。如未有指定图像，则会从世界地图或者其它地图里自动选择符合地形的背景，地图图像的加工图将会用做背景。」になりました。</translatorcomment>
-        <translation type="unfinished">当在这个地图上发生战斗是会显示指定战斗背景图像。如未有指定图像，则会从世界地图或者其它地图里自动选择符合地形的背景，地图图像的加工图将会用做背景。</translation>
+        <translation>在地图上发生战斗时，显示特定的背景。不指定该设置时，世界地图会自动根据地形选择背景，而其他地图会将地图画面处理得到的图像用作背景。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="138"/>
         <source>Disable Dashing</source>
         <translatorcomment>元翻訳「不许奔跑」を変更した「禁止奔跑」になりました。</translatorcomment>
-        <translation type="unfinished">禁止奔跑</translation>
+        <translation>禁止跑步</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="139"/>
         <source>Makes it impossible to perform a dash on the map.</source>
         <translatorcomment>comment：元翻訳「在地图上不许奔跑。」を変更して「在地图上禁止奔跑。」になりました。</translatorcomment>
-        <translation type="unfinished">在地图上禁止奔跑。</translation>
+        <translation>在地图上禁止跑步。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="147"/>
         <source>Parallax Background</source>
         <translatorcomment>元翻訳「视差背景」を変更して「循环背景」になりました。</translatorcomment>
-        <translation type="unfinished">循环背景</translation>
+        <translation>远景</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="148"/>
         <source>Distant view image displayed in the transparent area of the map.</source>
-        <translation>在地图透明的地方展示图像远景。</translation>
+        <translation>在地图透明的部分显示远景图。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="159"/>
         <source>Show in the Editor</source>
         <translatorcomment>comment：元翻訳「在编辑器中展示」を変更して「在编辑器中显示」になりました。</translatorcomment>
-        <translation type="unfinished">在编辑器中显示</translation>
+        <translation>在编辑器中显示</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapProperties.qml" line="160"/>
         <source>Displays the parallax background in the map editor. This may appear differently than in the actual game.</source>
         <translatorcomment>comment：元翻訳「在地图编辑器中展示背景的视差。这在实际游戏中的显示会有些不同。」を変更して「在地图编辑器中展示循环背景。这与实际游戏中的显示会有些不同。」になりました。</translatorcomment>
-        <translation type="unfinished">在地图编辑器中展示循环背景。这与实际游戏中的显示会有些不同。</translation>
+        <translation>在地图编辑器中显示远景图。编辑器中的显示效果可能和游戏中有所差异。</translation>
     </message>
 </context>
 <context>
@@ -5168,7 +5168,7 @@
     <message>
         <location filename="../qml/Map/Dialog_MapShift.qml" line="31"/>
         <source>Offset</source>
-        <translation>抵消</translation>
+        <translation>偏移</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapShift.qml" line="32"/>
@@ -5184,7 +5184,7 @@
         <location filename="../qml/Map/Dialog_MapShift.qml" line="37"/>
         <source>Number of tiles to be shifted horizontally.</source>
         <translatorcomment>comment：元翻訳「水平移动的磁贴数量。」を「水平移动的图块组数。」に変更しました。</translatorcomment>
-        <translation type="unfinished">水平移动的图块组数。</translation>
+        <translation>横向移动的图块数。</translation>
     </message>
     <message>
         <location filename="../qml/Map/Dialog_MapShift.qml" line="43"/>
@@ -5195,7 +5195,7 @@
         <location filename="../qml/Map/Dialog_MapShift.qml" line="44"/>
         <source>Number of tiles to be shifted vertically.</source>
         <translatorcomment>comment：元翻訳「垂直移动的磁贴数量。」を「垂直移动的图块组数。」に変更しました。</translatorcomment>
-        <translation type="unfinished">垂直移动的图块组数。</translation>
+        <translation>纵向移动的图块数。</translation>
     </message>
 </context>
 <context>
@@ -5204,7 +5204,7 @@
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="13"/>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="97"/>
         <source>Merchandise</source>
-        <translation>商人</translation>
+        <translation>商品</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="98"/>
@@ -5219,7 +5219,7 @@
     <message>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="110"/>
         <source>Sets the specified item as merchandise.</source>
-        <translation>将特定物品设置为商品。</translation>
+        <translation>将指定的物品设置为商品。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="131"/>
@@ -5229,17 +5229,17 @@
     <message>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="132"/>
         <source>Sets the specified weapon as merchandise.</source>
-        <translation>将特定武器设置为商品。</translation>
+        <translation>将指定的武器设置为商品。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="152"/>
         <source>Armor</source>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="153"/>
         <source>Sets the specified armor as merchandise.</source>
-        <translation>将特定盔甲设置为商品。</translation>
+        <translation>将指定的护甲设置为商品。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="174"/>
@@ -5259,7 +5259,7 @@
     <message>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="188"/>
         <source>Uses the price in the database.</source>
-        <translation>在数据中使用价格。</translation>
+        <translation>使用数据库中的价格。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="197"/>
@@ -5269,7 +5269,7 @@
     <message>
         <location filename="../qml/Event/Dialog_Merchandise.qml" line="198"/>
         <source>Uses the specific price.</source>
-        <translation>使用指定价格。</translation>
+        <translation>使用指定的价格。</translation>
     </message>
 </context>
 <context>
@@ -5302,18 +5302,18 @@
         <location filename="../qml/Main/Dialog_NewProject.qml" line="69"/>
         <source>Game Title</source>
         <translatorcomment>comment：元翻訳「游戏名字」を変更した「游戏标题」になりました。</translatorcomment>
-        <translation type="unfinished">游戏标题</translation>
+        <translation>游戏标题</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_NewProject.qml" line="70"/>
         <source>Title of the game.</source>
-        <translation>游戏的名字。</translation>
+        <translation>游戏的标题。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_NewProject.qml" line="78"/>
         <source>Location</source>
         <translatorcomment>comment：元翻訳「位置」を変更した「项目位置」になりました。</translatorcomment>
-        <translation type="unfinished">项目位置</translation>
+        <translation>项目位置</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_NewProject.qml" line="79"/>
@@ -5338,12 +5338,12 @@
     <message>
         <location filename="../qml/Main/Dialog_NewProject.qml" line="120"/>
         <source>Name is empty.</source>
-        <translation>名字已空。</translation>
+        <translation>名称为空。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_NewProject.qml" line="123"/>
         <source>Location is empty.</source>
-        <translation>位置已空。</translation>
+        <translation>位置为空。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_NewProject.qml" line="126"/>
@@ -5353,7 +5353,7 @@
     <message>
         <location filename="../qml/Main/Dialog_NewProject.qml" line="129"/>
         <source>The project already exists.</source>
-        <translation>项目文件夹的名称项目已经存在。</translation>
+        <translation>项目已存在。</translation>
     </message>
 </context>
 <context>
@@ -5375,12 +5375,12 @@
         <location filename="../qml/Main/Dialog_Packaging.qml" line="95"/>
         <source>Creating a distribution package...</source>
         <translatorcomment>comment：元翻訳「创建一个分配组件...」を「创建一个分发资源包...」に変更しました。</translatorcomment>
-        <translation type="unfinished">创建一个分发资源包...</translation>
+        <translation>正在创建发行包...</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_Packaging.qml" line="263"/>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>文件压缩</translation>
     </message>
 </context>
 <context>
@@ -5398,7 +5398,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_ParameterCurves.qml" line="54"/>
         <source>Press buttons to set parameter values randomly within a predefined range.</source>
-        <translation>按键时在预设的范围内随机设置参数值。</translation>
+        <translation>在预先定义的范围内随机设置能力值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ParameterCurves.qml" line="81"/>
@@ -5408,7 +5408,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_ParameterCurves.qml" line="82"/>
         <source>Specifies a level for manual parameter changing.</source>
-        <translation>特定一个手动参数改变的等级。</translation>
+        <translation>指定要手动更改参数的角色等级。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ParameterCurves.qml" line="98"/>
@@ -5418,7 +5418,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_ParameterCurves.qml" line="99"/>
         <source>Changes the parameter value for the specified level.</source>
-        <translation>在特定等级上改变参数值。</translation>
+        <translation>在指定的等级上更改能力值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ParameterCurves.qml" line="115"/>
@@ -5428,17 +5428,17 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_ParameterCurves.qml" line="116"/>
         <source>Specifies values for level 1 and 99 and the remaining values will be filled in automatically.</source>
-        <translation>指定等级1和等级99的值，剩余的值会自动填入。</translation>
+        <translation>指定等级 1 和等级 99 的值，剩余的值会自动填入。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ParameterCurves.qml" line="133"/>
         <source>Parameter graph</source>
-        <translation>参数图表</translation>
+        <translation>能力值图像</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_ParameterCurves.qml" line="134"/>
         <source>The X axis is the level number, and the Y axis shows the parameter value at each level. Click to get the parameter value.</source>
-        <translation>X轴是级数，Y轴显示的是每一个等级的参数值。点击能得到参数值。</translation>
+        <translation>横轴为等级，纵轴为该等级上角色的各项能力值。点击后可以获取能力值。</translation>
     </message>
 </context>
 <context>
@@ -5472,22 +5472,22 @@
     <message>
         <location filename="../qml/Main/Dialog_PluginManager.qml" line="11"/>
         <source>Plugin Manager</source>
-        <translation>插件管理</translation>
+        <translation>插件管理器</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginManager.qml" line="54"/>
         <source>Discard changes to the plugins?</source>
-        <translation>放弃插件中的改变？</translation>
+        <translation>放弃插件中的更改？</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginManager.qml" line="100"/>
         <source>Plugin List</source>
-        <translation>插件清单</translation>
+        <translation>插件列表</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginManager.qml" line="101"/>
         <source>Components that extend the standard game system.</source>
-        <translation>延长标准游戏系统的部件。</translation>
+        <translation>扩展标准游戏系统的组件。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginManager.qml" line="113"/>
@@ -5502,7 +5502,7 @@
     <message>
         <location filename="../qml/Main/Dialog_PluginManager.qml" line="123"/>
         <source>Description</source>
-        <translation>描述</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginManager.qml" line="152"/>
@@ -5545,12 +5545,12 @@
     <message>
         <location filename="../qml/Main/Dialog_PluginParameter.qml" line="40"/>
         <source>Description</source>
-        <translation>描述</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginParameter.qml" line="41"/>
         <source>Description of the parameter.</source>
-        <translation>参数的描述。</translation>
+        <translation>能力值的说明。</translation>
     </message>
 </context>
 <context>
@@ -5563,7 +5563,7 @@
     <message>
         <location filename="../qml/Main/Dialog_PluginSettings.qml" line="53"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginSettings.qml" line="54"/>
@@ -5579,7 +5579,7 @@
     <message>
         <location filename="../qml/Main/Dialog_PluginSettings.qml" line="83"/>
         <source>Name of the plugin script.</source>
-        <translation>插件剧本的名称。</translation>
+        <translation>插件脚本的名称。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginSettings.qml" line="90"/>
@@ -5609,17 +5609,17 @@
     <message>
         <location filename="../qml/Main/Dialog_PluginSettings.qml" line="100"/>
         <source>Displays the help text of the plugin.</source>
-        <translation>在插件中展示帮助文本。</translation>
+        <translation>显示插件的帮助文本。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginSettings.qml" line="109"/>
         <source>Description</source>
-        <translation>描述</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginSettings.qml" line="110"/>
         <source>Description of the plugin.</source>
-        <translation>插件描述。</translation>
+        <translation>插件的说明。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginSettings.qml" line="116"/>
@@ -5639,7 +5639,7 @@
     <message>
         <location filename="../qml/Main/Dialog_PluginSettings.qml" line="127"/>
         <source>Parameters to be passed to the plugin.</source>
-        <translation>允许通过到插件中的参数。</translation>
+        <translation>传给插件的参数。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_PluginSettings.qml" line="144"/>
@@ -5662,7 +5662,7 @@
     <message>
         <location filename="../qml/Event/Dialog_QuickDoor.qml" line="100"/>
         <source>Setting for where the character should be moved.</source>
-        <translation>角色会被移动的设置。</translation>
+        <translation>设置角色要移动到的位置。</translation>
     </message>
 </context>
 <context>
@@ -5670,28 +5670,28 @@
     <message>
         <location filename="../qml/Event/Dialog_QuickInn.qml" line="11"/>
         <source>Inn</source>
-        <translation>小客栈</translation>
+        <translation>旅馆</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickInn.qml" line="30"/>
         <source>%1\G for one night. Would you like to stay?</source>
-        <translation>%1\G钱一夜。你要住吗？</translation>
+        <translation>一晚 %1\G。你要入住吗？</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickInn.qml" line="31"/>
-        <source>You don&apos;t have enough money.</source>
-        <translation>你钱不够。</translation>
+        <source>You don't have enough money.</source>
+        <translation>你的钱不够。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickInn.qml" line="32"/>
         <source>Yes</source>
-        <translation>是的</translation>
+        <translation>要</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickInn.qml" line="33"/>
         <source>No</source>
         <translatorcomment>comment：元翻訳「1不是」を「不是」に変更しました。</translatorcomment>
-        <translation type="unfinished">不是</translation>
+        <translation type="unfinished">不要</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickInn.qml" line="73"/>
@@ -5701,7 +5701,7 @@
     <message>
         <location filename="../qml/Event/Dialog_QuickInn.qml" line="74"/>
         <source>The amount of money required to stay at the inn.</source>
-        <translation>要住小客栈需要的钱。</translation>
+        <translation>入住旅馆需要的钱。</translation>
     </message>
 </context>
 <context>
@@ -5710,7 +5710,7 @@
         <location filename="../qml/Event/Dialog_QuickTransfer.qml" line="11"/>
         <source>Transfer</source>
         <translatorcomment>comment：元翻訳「转变」を「转移」に変更しました。</translatorcomment>
-        <translation type="unfinished">转移</translation>
+        <translation>移动</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTransfer.qml" line="38"/>
@@ -5720,7 +5720,7 @@
     <message>
         <location filename="../qml/Event/Dialog_QuickTransfer.qml" line="39"/>
         <source>Setting for where the character should be moved.</source>
-        <translation>角色会被移动的设置。</translation>
+        <translation>设置角色要移动到的位置。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTransfer.qml" line="47"/>
@@ -5738,20 +5738,20 @@
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="12"/>
         <source>Treasure</source>
-        <translation>宝藏</translation>
+        <translation>宝箱</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="46"/>
         <source>%1\G were found!</source>
         <translatorcomment>comment：元翻訳「%1\G找到了！」フレーズの言い方の順番は逆になったので、順番を修正しました。</translatorcomment>
-        <translation type="unfinished">找到了%1\G！</translation>
+        <translation>找到了 %1\G！</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="52"/>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="58"/>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="64"/>
         <source>%1 was found!</source>
-        <translation>%1找到了！</translation>
+        <translation>找到了 %1！</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="108"/>
@@ -5761,19 +5761,19 @@
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="109"/>
         <source>Content of the treasure chest.</source>
-        <translation>藏宝箱的内容。</translation>
+        <translation>宝箱的内容。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="120"/>
         <source>Gold</source>
         <translatorcomment>comment：元翻訳「金子」を変更して「金钱」になりました。</translatorcomment>
-        <translation type="unfinished">金钱</translation>
+        <translation>金钱</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="121"/>
         <source>Sets the specified amount of gold as the treasure.</source>
         <translatorcomment>comment：元翻訳「宝藏的金子数量。」を変更して「宝箱的金钱数量。」になりました。</translatorcomment>
-        <translation type="unfinished">宝箱的金钱数量。</translation>
+        <translation>设置指定数量的金钱。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="142"/>
@@ -5783,7 +5783,7 @@
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="143"/>
         <source>Sets the specified item as the treasure.</source>
-        <translation>宝藏中特定物品的设置。</translation>
+        <translation>设置指定的物品。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="163"/>
@@ -5793,17 +5793,17 @@
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="164"/>
         <source>Sets the specified weapon as the treasure.</source>
-        <translation>将特定武器设置为宝藏。</translation>
+        <translation>设置指定的武器。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="184"/>
         <source>Armor</source>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Event/Dialog_QuickTreasure.qml" line="185"/>
         <source>Sets the specified armor as the treasure.</source>
-        <translation>宝藏中特定盔甲的设置。</translation>
+        <translation>设置指定的护甲。</translation>
     </message>
 </context>
 <context>
@@ -5811,7 +5811,7 @@
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="19"/>
         <source>Resource Manager</source>
-        <translation>资源管理</translation>
+        <translation>素材管理</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="173"/>
@@ -5826,17 +5826,17 @@
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="182"/>
         <source>Import</source>
-        <translation>输入</translation>
+        <translation>导入</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="183"/>
         <source>Import files into the selected folder.</source>
-        <translation>输入文件到选择的文件夹。</translation>
+        <translation>把文件导入进选择的文件夹。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="191"/>
         <source>Export</source>
-        <translation>输出</translation>
+        <translation>导出</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="192"/>
@@ -5862,7 +5862,7 @@
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="211"/>
         <source>Opens the DLC folder, for steam installations.</source>
-        <translation>打开DLC文件夹，安装steam文件。</translation>
+        <translation>打开 steam DLC 文件夹。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="220"/>
@@ -5874,14 +5874,14 @@
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="221"/>
         <source>Closes this window.</source>
-        <translation>关闭这个窗口。</translation>
+        <translation>关闭当前窗口。</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="255"/>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="290"/>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="292"/>
         <source>File(s) to import</source>
-        <translation>文件输入</translation>
+        <translation>要导入的文件</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="255"/>
@@ -5894,7 +5894,7 @@
     <message>
         <location filename="../qml/Main/Dialog_ResourceManager.qml" line="281"/>
         <source>File to export to</source>
-        <translation>文件输出到</translation>
+        <translation>文件导出到</translation>
     </message>
 </context>
 <context>
@@ -5902,7 +5902,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_ResourcePreview.qml" line="16"/>
         <source>Resource Preview</source>
-        <translation>资源预览</translation>
+        <translation>预览素材</translation>
     </message>
 </context>
 <context>
@@ -5916,7 +5916,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_SkillsToLearn.qml" line="22"/>
         <source>Skills mastered at level-up for actors in this class.</source>
-        <translation>这个阶段的角色在升级时掌握技能。</translation>
+        <translation>该职业的角色在升级时习得的技能。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_SkillsToLearn.qml" line="29"/>
@@ -5926,7 +5926,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_SkillsToLearn.qml" line="30"/>
         <source>Level for learning the skill.</source>
-        <translation>要学习技能的等级。</translation>
+        <translation>习得技能的等级。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_SkillsToLearn.qml" line="37"/>
@@ -5953,7 +5953,7 @@
         <location filename="../qml/Dialogs/Dialog_StartingParty.qml" line="12"/>
         <source>Starting Party</source>
         <translatorcomment>comment：元翻訳「开始的小组」を「初始队伍」に変更しました。</translatorcomment>
-        <translation type="unfinished">初始队伍</translation>
+        <translation>初始队伍</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_StartingParty.qml" line="33"/>
@@ -5964,7 +5964,7 @@
         <location filename="../qml/Dialogs/Dialog_StartingParty.qml" line="34"/>
         <source>Actor in the starting party.</source>
         <translatorcomment>comment：元翻訳「在起始小组的角色。」を「在初始队伍的角色。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在初始队伍的角色。</translation>
+        <translation>在初始队伍中的角色。</translation>
     </message>
 </context>
 <context>
@@ -5977,7 +5977,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_SystemMessage.qml" line="24"/>
         <source>Text data for this type of message.</source>
-        <translation>这类信息的文本种类。</translation>
+        <translation>这类信息的文本数据。</translation>
     </message>
 </context>
 <context>
@@ -5993,42 +5993,42 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="13"/>
         <source>Traits</source>
-        <translation>特征</translation>
+        <translation>特性</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="71"/>
         <source>Rate</source>
-        <translation>等级</translation>
+        <translation>抗性</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="75"/>
         <source>Element Rate</source>
-        <translation>元素等级</translation>
+        <translation>属性有效度</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="76"/>
         <source>Changes the damage multiplier according to the specified element. The higher the value, the greater the weakness against the element.</source>
-        <translation>根据特定的元素改变损害加成。值越大，抵抗元素的力越小。</translation>
+        <translation>更改指定属性造成的伤害倍率。数字越大表明对该属性的抗性越弱。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="84"/>
         <source>Debuff Rate</source>
-        <translation>减弱缓冲等级</translation>
+        <translation>弱化有效度</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="85"/>
         <source>Changes the probability at which the use of a skill or item will succeed in debuffing a parameter.</source>
-        <translation>改变使用技能或物品在减缓缓冲参数的成功率。</translation>
+        <translation>更改技能和物品导致能力值弱化的成功率。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="92"/>
         <source>State Rate</source>
-        <translation>状态等级</translation>
+        <translation>状态有效度</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="93"/>
         <source>Changes the probability at which the use of a skill or item will succeed in applying a state.</source>
-        <translation>改变使用技能或物品在启用状态的成功率。</translation>
+        <translation>更改技能或物品导致附加状态的几率。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="100"/>
@@ -6038,42 +6038,42 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="101"/>
         <source>Completely negates a state. If knockouts are negated, characters will not be knocked out even when their HP falls to 0.</source>
-        <translation>状态完全无效。如果击倒无效，角色即便在生命值落到0时都不会被击倒。</translation>
+        <translation>状态完全无效。如果免疫无法战斗状态，角色或敌人即使在 HP 归零时也不会死亡。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="109"/>
         <source>Param</source>
-        <translation>参数</translation>
+        <translation>能力值</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="113"/>
         <source>Parameter</source>
-        <translation>参数</translation>
+        <translation>通常能力值</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="114"/>
         <source>Rate of change for the specified parameter.</source>
-        <translation>特定参数的等级改变。</translation>
+        <translation>指定的通常能力值的变化率。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="121"/>
         <source>Ex-Parameter</source>
-        <translation>经验参数</translation>
+        <translation>追加能力值</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="122"/>
         <source>Value added to the specified ex-parameter. The default value is 0.</source>
-        <translation>加到特定经验参数的值。默认值是0.</translation>
+        <translation>要加到指定的追加能力值的值。追加能力值的初始值为 0。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="132"/>
         <source>Sp-Parameter</source>
-        <translation>速度参数</translation>
+        <translation>特殊能力值</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="133"/>
         <source>Rate of change for the specified sp-parameter. The default value is 100%.</source>
-        <translation>特定速度参数的等级改变。默认值是100%。</translation>
+        <translation>指定的特殊能力值的变化率。特殊能力值的初始值是 100%。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="142"/>
@@ -6083,42 +6083,42 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="146"/>
         <source>Attack Element</source>
-        <translation>攻击元素</translation>
+        <translation>攻击时属性</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="147"/>
         <source>Normal attack element.</source>
-        <translation>正常攻击元素。</translation>
+        <translation>普通攻击的属性。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="154"/>
         <source>Attack State</source>
-        <translation>攻击状态</translation>
+        <translation>攻击时状态</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="155"/>
         <source>State applied as an additional effect of a normal attack.</source>
-        <translation>在一般攻击状态下启用额外效果。</translation>
+        <translation>普通攻击时附加的状态。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="164"/>
         <source>Attack Speed</source>
-        <translation>攻击速度</translation>
+        <translation>攻击速度补正</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="165"/>
         <source>Value that is added to agility when determining attack order when a normal attack has been selected.</source>
-        <translation>在正常攻击被选择后决定攻击顺序时加到敏捷度中的值。</translation>
+        <translation>选择普通攻击时，决定行动顺序时增加到敏捷度的值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="176"/>
         <source>Attack Times +</source>
-        <translation>攻击次数+</translation>
+        <translation>攻击追加次数</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="177"/>
-        <source>Increases the number of times a normal attack hits a target. Entering &quot;+1&quot; means two consecutive attacks.</source>
-        <translation>增加对目标的正常攻击次数。键入‘+1’代表2个连续性攻击。</translation>
+        <source>Increases the number of times a normal attack hits a target. Entering "+1" means two consecutive attacks.</source>
+        <translation>增加普通攻击的次数。+1 表示连续攻击两次。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="190"/>
@@ -6128,33 +6128,33 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="194"/>
         <source>Add Skill Type</source>
-        <translation>增加技能种类</translation>
+        <translation>添加技能类型</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="195"/>
         <source>Allows the specified skill type to be selected as a command.</source>
         <translatorcomment>comment：元翻訳「允许特定技能种类被选择为命令。」を「允许特定技能种类被选择为指令。」に変更しました。</translatorcomment>
-        <translation type="unfinished">允许特定技能种类被选择为指令。</translation>
+        <translation>允许选择指定的技能类型对应的指令。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="202"/>
         <source>Seal Skill Type</source>
-        <translation>封印技能种类</translation>
+        <translation>封印技能类型</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="203"/>
         <source>Temporarily disables the use of the specified type of skill.</source>
-        <translation>暂时让某些技能无法使用。</translation>
+        <translation>临时禁止使用指定技能类型。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="210"/>
         <source>Add Skill</source>
-        <translation>增加技能</translation>
+        <translation>添加技能</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="211"/>
         <source>Sets the specified skills as being learned.</source>
-        <translation>将特定技能设置为学会了。</translation>
+        <translation>将指定的技能变为习得的状态。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="217"/>
@@ -6164,7 +6164,7 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="218"/>
         <source>Temporarily disables the use of the specified skill.</source>
-        <translation>暂时让某些技能无法使用。</translation>
+        <translation>暂时禁用指定的技能。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="226"/>
@@ -6174,33 +6174,33 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="230"/>
         <source>Equip Weapon</source>
-        <translation>装备武器</translation>
+        <translation>装备武器类型</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="231"/>
         <source>Enables the equipping of the specified type of weapon.</source>
-        <translation>允许特定武器的装备。</translation>
+        <translation>允许装备指定类型的武器。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="238"/>
         <source>Equip Armor</source>
-        <translation>装备盔甲</translation>
+        <translation>装备护甲类型</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="239"/>
         <source>Enables the equipping of the specified type of armor.</source>
-        <translation>允许特定盔甲的装备。</translation>
+        <translation>允许装备指定的护甲类型。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="246"/>
         <source>Lock Equip</source>
-        <translation>锁住装备</translation>
+        <translation>固定装备</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="247"/>
         <source>Prevents the changing of equipment for the specified equipment slot. Used mainly for instances such as when you do not want the player changing the equipment of a character that has been temporarily added to the party.</source>
         <translatorcomment>comment：元翻訳「阻止装备特定装备槽。主要用于比如像当你不要让暂时加入小组的玩家改变装备。」を「阻止装备特定装备槽。主要用于当你不想让暂时加入队伍的玩家改变装备。」に変更しました。</translatorcomment>
-        <translation type="unfinished">阻止装备特定装备槽。主要用于当你不想让暂时加入队伍的玩家改变装备。</translation>
+        <translation>禁止更换指定部位的装备。主要用于不想让玩家更换临时添加到队伍的角色的装备等场合。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="254"/>
@@ -6210,17 +6210,17 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="255"/>
         <source>Prevents the equipping of any equipment for the specified equipment slot. For example, preventing the use of shields for a given weapon makes it a two-handed weapon, and preventing the wearing of a headgear for a given piece of armor results in full body armor.</source>
-        <translation>阻止特定装备槽对任何物品的装备。比如，阻止在使用盾牌和已有武器后成为双手武器，也阻止在戴上手部装备后加上原有盔甲形成全身盔甲。</translation>
+        <translation>禁止指定的部位的装备。比如说，给武器加上盾的封印就成为了双手武器，给铠甲加上头部的封印就成为了全身铠甲。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="262"/>
         <source>Slot Type</source>
-        <translation>插槽种类</translation>
+        <translation>装备槽类型</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="263"/>
         <source>Can only be set to [Dual Wield]. This enables the equipping of two weapons in exchange for not being able to equip a shield.</source>
-        <translation>只能设置为[双倍行使]。这让装备俩个武器与不能装备盾牌交换。</translation>
+        <translation>只能设定为“二刀流”。可以允许装备两件武器，但代价是不能装备盾牌。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="271"/>
@@ -6230,46 +6230,46 @@
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="275"/>
         <source>Action Times +</source>
-        <translation>行动次数+</translation>
+        <translation>添加行动次数</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="276"/>
         <source>Increases the number of times actions can be taken in battle by the specified probability. For example, entering 50% twice results in a character that has a 50% chance of acting twice and a 25% chance of acting three times.</source>
-        <translation>增加动作在战斗中的次数的特定可能性。比如，键入50%导致角色有50%的机会行动2次，25%的机会行动3次。</translation>
+        <translation>以指定的几率增加一次战斗中的行动次数。例如，输入两个 50% 会使得角色有 50% 的几率行动两次，有 25% 的几率行动三次。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="284"/>
         <source>Special Flag</source>
-        <translation>特殊旗帜</translation>
+        <translation>特殊标志</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="285"/>
         <source>Special states.&lt;br&gt;[Auto Battle] Character acts independently without accepting commands in battle. &lt;br&gt;[Guard] Reduces damage taken at a set rate. &lt;br&gt;[Substitute] Character suffers attack in place of allies with less HP.&lt;br&gt;[Preserve TP] Accumulated TP are retained for the next battle.</source>
-        <translation>特定状态&lt;br&gt;[自动战斗]战斗中角色单独行动不接受命令。&lt;br&gt;[守卫]在设置等级内减少损害。&lt;br&gt;[替代]角色在和生命值较少的盟友在一起时遭受的攻击。&lt;br&gt;[保留TP]为下场战斗保留累积的TP。</translation>
+        <translation>各种特殊的状态。&lt;br&gt;【自动战斗】战斗中不接受指令独立行动。&lt;br&gt;【防御】一定比例减少受到的伤害。&lt;br&gt;【掩护】代替 HP 较少的队友承受伤害。&lt;br&gt;【保留 TP】把积累的 TP 带入下一场战斗。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="291"/>
         <source>Collapse Effect</source>
         <translatorcomment>comment：元翻訳「崩溃」は崩壊という意味で、ゲームと合わないので、「击败」を変えました。</translatorcomment>
-        <translation type="unfinished">击败效果</translation>
+        <translation>消失效果</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="292"/>
         <source>Valid only for enemies. Changes the effect for when they are knocked out.</source>
         <translatorcomment>comment：元翻訳「在他们击败时改变效果。」は「彼らをビートする」翻訳されますので、「彼らをビートされる」の意味を変えました。</translatorcomment>
-        <translation>只对敌人有效。在他们击败时改变效果。</translation>
+        <translation>只对敌人有效。更改敌人无法战斗时的消失效果。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="298"/>
         <source>Party Ability</source>
         <translatorcomment>comment：元翻訳「小组敏捷度」を「队伍敏捷度」に変更しました。</translatorcomment>
-        <translation type="unfinished">队伍敏捷度</translation>
+        <translation>队伍能力</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_Traits.qml" line="299"/>
         <source>Valid only for actors. This is an ability that is shared by the entire party. It is enabled if at least one of the party members participating in a battle has this characteristic.</source>
         <translatorcomment>comment：元翻訳「对角色有效。这个能力为整个小组分享。这使至少一个参与战斗的组员也拥有这个特征。」を「对角色有效。这个能力为整个队伍分享。这使至少一个参与战斗的组员也拥有这个特征。」に変更しました。</translatorcomment>
-        <translation type="unfinished">对角色有效。这个能力为整个队伍分享。这使至少一个参与战斗的组员也拥有这个特征。</translation>
+        <translation>只对角色有效。队伍全体共有的能力。只要参战的角色中至少一人保有这个特性就视为有效。</translation>
     </message>
 </context>
 <context>
@@ -6293,12 +6293,12 @@
         <location filename="../qml/Main/Dialog_TutorialSelector.qml" line="108"/>
         <source>Close</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../qml/Main/Dialog_TutorialSelector.qml" line="109"/>
         <source>Closes this window.</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭当前窗口。</translation>
     </message>
 </context>
 <context>
@@ -6306,7 +6306,7 @@
     <message>
         <location filename="../qml/GameShare/Dialog_Upload.qml" line="13"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>上传</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_Upload.qml" line="102"/>
@@ -6316,23 +6316,24 @@
     <message>
         <location filename="../qml/GameShare/Dialog_Upload.qml" line="175"/>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>文件压缩</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_Upload.qml" line="182"/>
         <source>The compressed file size exceeded 300 MBytes.
 Please lower the file size of this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>压缩文件的大小超过了 300 MB。
+请减小项目文件的大小。</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_Upload.qml" line="448"/>
         <source>It exceeds the data capacity that can be posted.</source>
-        <translation type="unfinished"></translation>
+        <translation>超过了可以上传的数据上限。</translation>
     </message>
     <message>
         <location filename="../qml/GameShare/Dialog_Upload.qml" line="496"/>
         <source>File uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>上传文件</translation>
     </message>
 </context>
 <context>
@@ -6340,22 +6341,22 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_UploadOgc.qml" line="13"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>上传</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_UploadOgc.qml" line="104"/>
         <source>Creating a distribution package...</source>
-        <translation type="unfinished">创建一个分发资源包...</translation>
+        <translation>正在创建发行包…</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_UploadOgc.qml" line="177"/>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>文件压缩</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_UploadOgc.qml" line="466"/>
         <source>File uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>上传文件</translation>
     </message>
 </context>
 <context>
@@ -6383,46 +6384,46 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="227"/>
         <source>Data to be stored ON/OFF values throughout the game.</source>
-        <translation>贯穿游戏的开关值的数据储存。</translation>
+        <translation>整个游戏中保存的开/关（ON/OFF）值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="228"/>
         <source>Data to be stored integer values throughout the game.</source>
         <translatorcomment>comment：元翻訳「贯穿整个游戏的完整值的数据储存。」を「整个游戏中存储整数值的数据。」に変更しました。</translatorcomment>
-        <translation>贯穿整个游戏的完整值的数据储存。</translation>
+        <translation>整个游戏中保存的整数值。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="233"/>
         <source>Group List</source>
         <translatorcomment>comment：元翻訳「小组列表」を「队伍列表」に変更しました。</translatorcomment>
-        <translation type="unfinished">队伍列表</translation>
+        <translation type="unfinished">组列表</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="234"/>
         <source>The switches in the selected range are displayed on the right.</source>
-        <translation>在晚上展示的开关选择范围。</translation>
+        <translation>选中的开关会显示在右侧。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="235"/>
         <source>The variables in the selected range are displayed on the right.</source>
-        <translation>在晚上展示的变量选择范围。</translation>
+        <translation>选中的变量会显示在右侧。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="250"/>
         <source>Change Maximum</source>
         <translatorcomment>comment：元翻訳「改变最大化」を「更改最大值」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改最大值</translation>
+        <translation>更改最大值</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="251"/>
         <source>Changes the number of data entries.</source>
         <translatorcomment>comment：元翻訳「改变数据进入的数量。」を「更改数据输入的数量。」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改数据输入的数量。</translation>
+        <translation>更改数据的数量。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="278"/>
         <source>Data List</source>
-        <translation>资料列表</translation>
+        <translation>数据列表</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="279"/>
@@ -6432,12 +6433,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="280"/>
         <source>List for selecting variables.</source>
-        <translation>变量选择的列表。</translation>
+        <translation>选择变量的列表。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="281"/>
         <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>&lt;br&gt;[F5]选择下一物品。&lt;br&gt;[F4]选择之前的物品。</translation>
+        <translation>&lt;br&gt;[F5]选择下一项。&lt;br&gt;[F4]选择前一项。</translation>
     </message>
     <message>
         <location filename="../qml/Dialogs/Dialog_VariableSelector.qml" line="309"/>
@@ -6460,7 +6461,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/GameShare/Dialog_WebBrowser.qml" line="14"/>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览器</translation>
     </message>
 </context>
 <context>
@@ -6468,7 +6469,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_WebBrowserOgc.qml" line="15"/>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览器</translation>
     </message>
     <message>
         <location filename="../qml/GameShareOgc/Dialog_WebBrowserOgc.qml" line="256"/>
@@ -6486,7 +6487,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Dialogs/Dialog_WindowColor.qml" line="36"/>
         <source>Specifies how to change the window color.</source>
-        <translation>指定怎样改变窗口的颜色。</translation>
+        <translation>指定改变窗口颜色的方式。</translation>
     </message>
 </context>
 <context>
@@ -6494,7 +6495,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="18"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="19"/>
@@ -6514,24 +6515,24 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="30"/>
         <source>Nickname</source>
-        <translation>绰号</translation>
+        <translation>昵称</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="31"/>
         <source>Nickname displayed on the status screen. Can be left empty.</source>
-        <translation>状态屏幕中展示的绰号。可以为空。</translation>
+        <translation>状态画面中显示的昵称。可为空。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="37"/>
         <source>Class</source>
         <translatorcomment>comment：元翻訳「级别」を「职业」に変更しました。</translatorcomment>
-        <translation type="unfinished">职业</translation>
+        <translation>职业</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="38"/>
         <source>Class of the actor.</source>
         <translatorcomment>comment：元翻訳「角色的等级。」を「角色的职业。」に変更しました。</translatorcomment>
-        <translation type="unfinished">角色的职业。</translation>
+        <translation>角色的职业。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="47"/>
@@ -6546,12 +6547,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="55"/>
         <source>Max Level</source>
-        <translation>最高级</translation>
+        <translation>最高等级</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="56"/>
         <source>Maximum level that the actor can attain.</source>
-        <translation>角色能获得的最高等级。</translation>
+        <translation>角色能到达的最高等级。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="63"/>
@@ -6560,9 +6561,9 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="64"/>
-        <source>Text to be displayed on the status screen. Enter information such as the character&apos;s profile.</source>
+        <source>Text to be displayed on the status screen. Enter information such as the character's profile.</source>
         <translatorcomment>comment：元翻訳「在状态屏幕中展示的文本。键入的类似角色简介的信息。」を「在状态屏幕中展示的文本。输入类似角色简介的信息。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在状态屏幕中展示的文本。输入类似角色简介的信息。</translation>
+        <translation>在状态画面显示的文本。输入角色简介之类的信息。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="69"/>
@@ -6572,17 +6573,17 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="70"/>
         <source>Images of the actor to be displayed in the game.</source>
-        <translation>在游戏中展示的角色图像。</translation>
+        <translation>在游戏中显示的角色图像。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="96"/>
         <source>Initial Equipment</source>
-        <translation>装备初始化</translation>
+        <translation>初始装备</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Actors.qml" line="97"/>
         <source>Weapon and armor that the actor has equipped at the start of the game.</source>
-        <translation>在游戏开始时，角色拥有的武器和盔甲。</translation>
+        <translation>在游戏开始时，角色拥有的武器和护甲。</translation>
     </message>
 </context>
 <context>
@@ -6590,7 +6591,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Animations.qml" line="20"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Animations.qml" line="21"/>
@@ -6616,7 +6617,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Database/Edit_Animations.qml" line="36"/>
         <source>Cell images used for the animation.</source>
         <translatorcomment>comment：元翻訳「在动画中使用的房间图像。」を「在动画中使用的单元格图像。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在动画中使用的单元格图像。</translation>
+        <translation>在动画中使用的元件图像。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Animations.qml" line="56"/>
@@ -6626,7 +6627,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Animations.qml" line="57"/>
         <source>Display position of the animation.&lt;br&gt;[Head] Displayed using the top edge of the image as a base.&lt;br&gt;[Center] Displayed using the center line of the image as a base.&lt;br&gt;[Feet] Displayed using the bottom edge of the image as a base.&lt;br&gt;[Screen] Displays over the entire screen.</source>
-        <translation>动画展示的位置。.&lt;br&gt;[顶部]将顶部边缘作为图像基础来展示。&lt;br&gt;[中心]用图像的中心线作为基础来展示。&lt;br&gt;[底部]用底部边缘的图像作为基础展示。&lt;br&gt;[屏幕]在整个屏幕上展示。</translation>
+        <translation>动画显示的位置。.&lt;br&gt;【头部】以图像上方的线作为基准。&lt;br&gt;【中心】以图像中央的线作为基准。&lt;br&gt;【脚底】以图像下方的线作为基准。&lt;br&gt;【画面】覆盖在整个画面上。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Animations.qml" line="58"/>
@@ -6642,12 +6643,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Animations.qml" line="58"/>
         <source>Feet</source>
-        <translation>脚</translation>
+        <translation>脚底</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Animations.qml" line="58"/>
         <source>Screen</source>
-        <translation>屏幕</translation>
+        <translation>画面</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Animations.qml" line="63"/>
@@ -6658,7 +6659,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Animations.qml" line="64"/>
         <source>Number of frames used for the animation. One animation frame is 1/15 seconds.</source>
-        <translation>动画中用到的镜头数量。一个动画镜头是1/15秒。</translation>
+        <translation>动画的帧数。一帧是 1/15 秒。</translation>
     </message>
 </context>
 <context>
@@ -6666,12 +6667,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="17"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="18"/>
         <source>Basic armor settings.</source>
-        <translation>基本盔甲设置。</translation>
+        <translation>基本护甲设置。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="24"/>
@@ -6691,28 +6692,28 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="31"/>
         <source>Icon appearing to the left of the armor name in the game.</source>
-        <translation>游戏中图标在盔甲名字的左边出现。</translation>
+        <translation>游戏中显示在护甲名称左侧的图标。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="36"/>
         <source>Description</source>
-        <translation>描述</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="37"/>
         <source>Comment displayed when the armor is selected in the game.</source>
-        <translation type="unfinished">当盔甲被选择后在游戏中展示评价。</translation>
+        <translation>游戏中选中护甲时显示的说明。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="42"/>
         <source>Armor Type</source>
-        <translation>盔甲种类</translation>
+        <translation>护甲类型</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="43"/>
         <source>Type of the armor. Setting [Equip Armor] in trait lists enables to equip with them.</source>
         <translatorcomment>comment：元翻訳「盔甲种类。在特殊列表中设置[装备盔甲]允许装备他们。」を「盔甲种类。在特殊列表中设置[装备盔甲]允许进行装备。」に変更しました。</translatorcomment>
-        <translation type="unfinished">盔甲种类。在特殊列表中设置[装备盔甲]允许进行装备。</translation>
+        <translation>护甲的类型。在特性列表中设置【添加护甲类型】以装备护甲。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="50"/>
@@ -6723,17 +6724,17 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Database/Edit_Armors.qml" line="51"/>
         <source>Armor price. The player can sell the armor for half of this price when the price is greater than 0.</source>
         <translatorcomment>comment：元翻訳「盔甲价格。当价格高于0时，玩家能以这个价格的一半销售盔甲。」を「盔甲价格。当价格高于0时，玩家能以这个价格的一半出售盔甲。」に変更しました。</translatorcomment>
-        <translation type="unfinished">盔甲价格。当价格高于0时，玩家能以这个价格的一半出售盔甲。</translation>
+        <translation>护甲的价格。当价格大于 0 时，玩家能以半价出售护甲。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="59"/>
         <source>Equipment Type</source>
-        <translation>装备种类</translation>
+        <translation>装备类型</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Armors.qml" line="60"/>
         <source>Where the armor is equipped. Actors can equip different kinds of armor at the same time.</source>
-        <translation>盔甲在什么地方装备。角色能在同一时间装备不同的盔甲。</translation>
+        <translation>护甲装备的位置。角色可以同时装备不同种类的护甲。</translation>
     </message>
 </context>
 <context>
@@ -6741,12 +6742,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Classes.qml" line="17"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Classes.qml" line="18"/>
         <source>Basic class settings.</source>
-        <translation>基本等级设置。</translation>
+        <translation>基本职业设置。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Classes.qml" line="24"/>
@@ -6757,7 +6758,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Database/Edit_Classes.qml" line="25"/>
         <source>Name of the class.</source>
         <translatorcomment>comment：元翻訳「等级的名称。」を「职业的名称。」に変更しました。</translatorcomment>
-        <translation type="unfinished">职业的名称。</translation>
+        <translation>职业的名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Classes.qml" line="30"/>
@@ -6767,7 +6768,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Classes.qml" line="31"/>
         <source>Values for determining the amount of EXP for each level.</source>
-        <translation>决定每一级别经验数量的值。</translation>
+        <translation>决定每个等级的经验值。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Classes.qml" line="37"/>
@@ -6777,7 +6778,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Classes.qml" line="38"/>
         <source>Graph of parameters by level.</source>
-        <translation>等级的图表参数。</translation>
+        <translation>能力值 - 等级图。</translation>
     </message>
 </context>
 <context>
@@ -6785,7 +6786,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="17"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="18"/>
@@ -6802,33 +6803,33 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="24"/>
         <source>Name of the common event.</source>
         <translatorcomment>comment：元翻訳「普通事件名称。」を「公共事件名称。」に変更しました。</translatorcomment>
-        <translation type="unfinished">公共事件名称。</translation>
+        <translation>公共事件名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="30"/>
         <source>Trigger</source>
-        <translation>触发器</translation>
+        <translation>触发条件</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="31"/>
         <source>Conditions to start the common event. Valid only on the map screen.&lt;br&gt;[None] Starts only when explicitly called up.&lt;br&gt;[Autorun] Starts when the specified switch is ON.&lt;br&gt;[Parallel] Runs cyclically while the specified switch is ON.</source>
         <translatorcomment>comment：元翻訳「开始一般事件的条件。只在地图屏幕中有效。&lt;br&gt;[没有]只有在明确的召集后才开始。&lt;br&gt;[自动运行]在特定开关打开时会开始。&lt;br&gt;[平行]当特定开关打开后会周期性的运行。」を「开始公共事件的条件。只在地图屏幕中有效。&lt;br&gt;[没有]只有在明确的召集后才开始。&lt;br&gt;[自动运行]在特定开关打开时会开始。&lt;br&gt;[平行]当特定开关打开后会周期性的运行。」に変更しました。</translatorcomment>
-        <translation type="unfinished">开始公共事件的条件。只在地图屏幕中有效。&lt;br&gt;[没有]只有在明确的召集后才开始。&lt;br&gt;[自动运行]在特定开关打开时会开始。&lt;br&gt;[平行]当特定开关打开后会周期性的运行。</translation>
+        <translation>开始公共事件的条件。只在地图画面有效。&lt;br&gt;【无】只在显式调用时启动。&lt;br&gt;【自动执行】在“条件开关”打开时启动。&lt;br&gt;【并行处理】在”条件开关“打开时循环运行。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="32"/>
         <source>None</source>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="32"/>
         <source>Autorun</source>
-        <translation>自动运行</translation>
+        <translation>自动执行</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="32"/>
         <source>Parallel</source>
-        <translation>平行</translation>
+        <translation>并行处理</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="36"/>
@@ -6838,17 +6839,17 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="37"/>
         <source>When the trigger is [Autorun] or [Parallel], the contents will be run when the switch set here is ON.</source>
-        <translation>当触发器是[自动运行]或[平行]，当开关设置是 打开 的时候，里面的内容会运行。</translation>
+        <translation>当触发条件是【自动执行】或【并行处理】时，当且仅当在此设定的开关打开时事件才会执行。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="44"/>
         <source>Contents</source>
-        <translation>内容</translation>
+        <translation>执行内容</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_CommonEvents.qml" line="45"/>
         <source>Event commands to be run for this event. Right-click to open the popup menu.</source>
-        <translation>运行这个事件的事件命令。右击打开跳出菜单。</translation>
+        <translation>在事件中要执行的事件指令。右键点击可以打开弹出菜单。</translation>
     </message>
 </context>
 <context>
@@ -6856,7 +6857,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Enemies.qml" line="19"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Enemies.qml" line="20"/>
@@ -6882,52 +6883,52 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Database/Edit_Enemies.qml" line="34"/>
         <source>Image of the enemy to be displayed in battle.</source>
         <translatorcomment>comment：元翻訳「在战斗中展示的当然图像。」を「在战斗中展示的敌人图像。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在战斗中展示的敌人图像。</translation>
+        <translation>在战斗中显示的图像。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Enemies.qml" line="113"/>
         <source>Rewards</source>
-        <translation>奖励</translation>
+        <translation>报酬</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Enemies.qml" line="114"/>
         <source>EXP and Gold earned for defeating this enemy.</source>
         <translatorcomment>comment：元翻訳「打败这个敌人后能挣到的经验值和金子。」を変更して「打败敌人后能获得的经验值和金币。」になりました。</translatorcomment>
-        <translation type="unfinished">打败敌人后能获得的经验值和金币。</translation>
+        <translation>打败敌人后能获得的经验值和金钱。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Enemies.qml" line="119"/>
         <source>EXP</source>
-        <translation>经验</translation>
+        <translation>经验值</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Enemies.qml" line="120"/>
         <source>EXP earned by the party by winning a battle.</source>
         <translatorcomment>comment：元翻訳「赢得这场战斗后小组能挣得的经验值。」を変更して「赢得战斗后小组能获得的经验值。」になりました。</translatorcomment>
-        <translation type="unfinished">赢得战斗后小组能获得的经验值。</translation>
+        <translation>战斗胜利时队伍获得的经验值。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Enemies.qml" line="126"/>
         <source>Gold</source>
         <translatorcomment>comment：元翻訳「金子」を変更して「金币」になりました。</translatorcomment>
-        <translation type="unfinished">金币</translation>
+        <translation>金钱</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Enemies.qml" line="127"/>
         <source>Gold earned by the party by winning a battle.</source>
         <translatorcomment>comment：元翻訳「赢得这场战斗后小组能挣得的金子。」を変更して「赢得战斗后小组能获得的金币。」になりました。</translatorcomment>
-        <translation type="unfinished">赢得战斗后小组能获得的金币。</translation>
+        <translation>战斗胜利时队伍获得的金钱。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Enemies.qml" line="135"/>
         <source>Drop Items</source>
-        <translation>物品掉落</translation>
+        <translation>掉落物品</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Enemies.qml" line="136"/>
         <source>Items and equipment earned by the party by winning a battle.</source>
         <translatorcomment>comment：元翻訳「赢得这场战斗后小组能挣得的物品和装备。」を変更して「赢得战斗后小组能获得的物品和装备。」になりました。</translatorcomment>
-        <translation type="unfinished">赢得战斗后小组能获得的物品和装备。</translation>
+        <translation>战斗胜利时队伍获得的物品和装备。</translation>
     </message>
 </context>
 <context>
@@ -6935,7 +6936,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="17"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="18"/>
@@ -6960,27 +6961,27 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="31"/>
         <source>Icon appearing to the left of the item name in the game.</source>
-        <translation>游戏中图标在物品名字的左边出现。</translation>
+        <translation>游戏中显示在物品名称左侧的图标。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="36"/>
         <source>Description</source>
-        <translation>描述</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="37"/>
         <source>Comment displayed when the item is selected in the game.</source>
-        <translation>当物品被选择后在游戏中展示评价。</translation>
+        <translation>游戏中选中物品时显示的说明。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="42"/>
         <source>Item Type</source>
-        <translation>物品种类</translation>
+        <translation>物品类型</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="43"/>
         <source>Type of the item. Key items are typically related to story progression.</source>
-        <translation>物品种类。关键物品与故事发展有特定关联。</translation>
+        <translation>物品种类。关键物品通常与故事进展有关。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="49"/>
@@ -6990,7 +6991,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="50"/>
         <source>Price of the item. The player can sell the item for half of this price when the price is greater than 0.</source>
-        <translation>物品价格。当价格高于0时，玩家能以这个价格的一半出售物品。</translation>
+        <translation>物品的价格。当价格大于 0 时，玩家能以半价出售物品。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="56"/>
@@ -7006,14 +7007,14 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Database/Edit_Items.qml" line="58"/>
         <source>Yes</source>
         <comment>consumable</comment>
-        <translation>是的</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="58"/>
         <source>No</source>
         <comment>consumable</comment>
         <translatorcomment>消耗品</translatorcomment>
-        <translation>不是</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="64"/>
@@ -7023,17 +7024,17 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="65"/>
         <source>Scope of the effect.</source>
-        <translation>影响的范围。</translation>
+        <translation>效果的范围。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="70"/>
         <source>Occasion</source>
-        <translation>场合</translation>
+        <translation>使用场合</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Items.qml" line="71"/>
         <source>Screen(s) on which the item can be used.</source>
-        <translation>在可以用的物品时打开屏幕。</translation>
+        <translation>可以使用该物品的画面。</translation>
     </message>
 </context>
 <context>
@@ -7041,7 +7042,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="17"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="18"/>
@@ -7066,48 +7067,48 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="32"/>
         <source>Icon appearing to the left of the skill name in the game.</source>
-        <translation>游戏中图标在技能名字的左边出现。</translation>
+        <translation>游戏中显示在技能名称左侧的图标。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="37"/>
         <source>Description</source>
-        <translation>描述</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="38"/>
         <source>Comment displayed when the skill is selected in the game.</source>
-        <translation>当技能被选择后在游戏中展示评价。</translation>
+        <translation>游戏中选中技能时显示的说明。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="43"/>
         <source>Skill Type</source>
-        <translation>技能种类</translation>
+        <translation>技能类型</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="44"/>
         <source>Type of the skill. Skills are made available by setting [Add Skill Type] in traits.</source>
-        <translation>技能种类。根据设置将技能定为可用。[增加技能种类]在特色中。</translation>
+        <translation>技能类型。在特性中设置【添加技能类型】使技能可用。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="51"/>
         <source>MP Cost</source>
-        <translation>力量值成本</translation>
+        <translation>MP 消耗</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="52"/>
         <source>Amount of MP consumed when using the skill.</source>
         <translatorcomment>comment：元翻訳「使用这个技能消耗的力量值。」を「使用这个技能消耗的魔法值。」に変更しました。魔法值</translatorcomment>
-        <translation type="unfinished">使用这个技能消耗的魔法值。</translation>
+        <translation>使用这个技能消耗的 MP。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="58"/>
         <source>TP Cost</source>
-        <translation>TP成本</translation>
+        <translation>TP 消耗</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="59"/>
         <source>Amount of TP consumed when using the skill.</source>
-        <translation>使用这个技能消耗的TP。</translation>
+        <translation>使用这个技能消耗的 TP。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="67"/>
@@ -7117,17 +7118,17 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="68"/>
         <source>Scope of the effect.</source>
-        <translation>影响的范围。</translation>
+        <translation>效果的范围。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="73"/>
         <source>Occasion</source>
-        <translation>场合</translation>
+        <translation>使用场合</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="74"/>
         <source>Screen(s) on which the skill can be used.</source>
-        <translation>在可以用的技能时打开屏幕。</translation>
+        <translation>可以使用技能的画面。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="84"/>
@@ -7137,12 +7138,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="85"/>
         <source>Fixed phrase displayed as a message when using the skill in battle.</source>
-        <translation>当在战斗中使用技能时，固定短语作为信息的展示。</translation>
+        <translation>在战斗中使用技能时显示的信息格式。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="89"/>
         <source>(User Name)</source>
-        <translation>(使用者名称)</translation>
+        <translation>（使用者名称）</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="122"/>
@@ -7156,60 +7157,60 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="125"/>
-        <source>&quot;casts *!&quot;</source>
-        <translation type="unfinished">抛！</translation>
+        <source>"casts *!"</source>
+        <translation>“吟唱了 ~！”</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="126"/>
         <source> casts %1!</source>
-        <translation> 抛 %1!</translation>
+        <translation> 吟唱了 %1！</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="132"/>
-        <source>&quot;does *!&quot;</source>
-        <translation type="unfinished">做！</translation>
+        <source>"does *!"</source>
+        <translation>“施放了 ~！”</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="133"/>
         <source> does %1!</source>
-        <translation> 做 %1!</translation>
+        <translation> 施放了 %1！</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="139"/>
-        <source>&quot;uses *!&quot;</source>
-        <translation type="unfinished">使用！</translation>
+        <source>"uses *!"</source>
+        <translation>“使用了 ~！”</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="140"/>
         <source> uses %1!</source>
-        <translation>使用%1!</translation>
+        <translation> 使用了 %1！</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="151"/>
         <source>Required Weapon</source>
         <translatorcomment>comment：元翻訳「要求武器」中の「要求」は誤訳ですので、修正しました。</translatorcomment>
-        <translation type="unfinished">需求武器</translation>
+        <translation>需要武器</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="152"/>
-        <source>Weapon type required to use the skill. For example, this is used to prevent the selection of a &quot;Sword Skill&quot; unless a sword is equipped.</source>
-        <translation>使用这个技能的武器种类。比如，使用这个来防止‘用剑技能’除非装备了剑。</translation>
+        <source>Weapon type required to use the skill. For example, this is used to prevent the selection of a "Sword Skill" unless a sword is equipped.</source>
+        <translation>设定使用该技能所需的武器。例如，可以用来防止未装备剑的情况下使用剑技。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="156"/>
         <source>Weapon Type 1</source>
-        <translation>武器种类1</translation>
+        <translation>武器类型 1</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="157"/>
         <location filename="../qml/Database/Edit_Skills.qml" line="165"/>
         <source>When both weapon type 1 and 2 are [None], use is unconditional. When one or both are set, use is possible if either of the weapons is equipped.</source>
-        <translation>当武器种类1和2都[没有]，无条件使用。当一个或俩个都设置了，不管武器有没有装备都成为可能。</translation>
+        <translation>当武器类型 1 和武器类型 2 两者都是“无”的时候，技能可以无条件使用。否则，必须要装备设定的武器类型之一才可以使用技能。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Skills.qml" line="164"/>
         <source>Weapon Type 2</source>
-        <translation>武器种类2</translation>
+        <translation>武器类型 2</translation>
     </message>
 </context>
 <context>
@@ -7217,7 +7218,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="16"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="17"/>
@@ -7242,24 +7243,24 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="31"/>
         <source>Image for icons displayed in the game.</source>
-        <translation>游戏中图标图像的展示。</translation>
+        <translation>游戏中显示的图标的图像。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="37"/>
         <source>Restriction</source>
-        <translation>限制</translation>
+        <translation>行动限制</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="38"/>
         <source>Restriction on actions. When this is set to a state other than [None], command input will not be accepted, and only the action that has been set will be performed. When there are overlapping restrictions, the one at the bottom of the list takes precedence.</source>
-        <translation>行动的限制。当除了[没有]之外在一个状态中设置了这个，命令的输入不会被接受，只有被设置的行动才能进行。在重叠限制的情况下，在列表底部的那个居先。</translation>
+        <translation>行动的限制。除非该项设置为“无”，否则在角色被附加状态时，不会接受指令的输入，而是只执行在此设定的行动。多个限制并存时，优先使用列表下方的行动。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="39"/>
         <location filename="../qml/Database/Edit_States.qml" line="60"/>
         <location filename="../qml/Database/Edit_States.qml" line="101"/>
         <source>None</source>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="39"/>
@@ -7270,37 +7271,37 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Database/Edit_States.qml" line="39"/>
         <source>Attack anyone</source>
         <translatorcomment>comment：元翻訳「攻击任何一人」を「攻击任何人」に変更しました。</translatorcomment>
-        <translation type="unfinished">攻击任何人</translation>
+        <translation>攻击一人</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="39"/>
         <source>Attack an ally</source>
-        <translation>攻击盟友</translation>
+        <translation>攻击队友</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="39"/>
         <source>Cannot move</source>
-        <translation>不能移动</translation>
+        <translation>无法行动</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="43"/>
         <source>Priority</source>
-        <translation>优先</translation>
+        <translation>优先度</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="44"/>
         <source>Priority for displaying state icons. When multiple states have been applied, the state that has a higher value for this setting will be given display priority. When priority is the same, the one with the lower ID is given preference.</source>
-        <translation>优先展示状态图标。当多个状态启用时，对这个设置具有最高价值的状态会给予优先。当优先权一样时，最低ID的那个给予优待。</translation>
+        <translation>显示状态图标的有限度。当附加了多个状态时，优先度高的状态会优先显示。优先度相同时，ID 较低的优先显示。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="52"/>
         <source>[SV] Motion</source>
-        <translation>[SV]移动</translation>
+        <translation>[SV] 动作</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="53"/>
         <source>Motion type displaying while the state is active in side-view mode.</source>
-        <translation>当状态在侧视模式下活跃时，移动的种类将展示。</translation>
+        <translation>在 SideView 模式中，该状态下的角色显示的动作类型。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="54"/>
@@ -7310,38 +7311,38 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="54"/>
         <source>Abnormal</source>
-        <translation>不正常</translation>
+        <translation>状态异常</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="54"/>
         <location filename="../qml/Database/Edit_States.qml" line="60"/>
         <source>Sleep</source>
-        <translation>睡觉</translation>
+        <translation>睡眠</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="54"/>
         <source>Dead</source>
-        <translation>死亡</translation>
+        <translation>无法战斗</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="58"/>
         <source>[SV] Overlay</source>
-        <translation>[SV]重叠</translation>
+        <translation>[SV] 遮罩</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="59"/>
         <source>Overlay image displaying while the state is active in side-view mode.</source>
-        <translation>当状态在侧视模式下活跃时，重叠图像会展示。</translation>
+        <translation>在 SideView 模式中，覆盖在该状态的角色上方的图像。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="60"/>
         <source>Poison</source>
-        <translation>毒药</translation>
+        <translation>中毒</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="60"/>
         <source>Blind</source>
-        <translation>失明</translation>
+        <translation>黑暗</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="60"/>
@@ -7351,7 +7352,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="60"/>
         <source>Rage</source>
-        <translation>暴怒</translation>
+        <translation>激昂</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="60"/>
@@ -7361,7 +7362,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="60"/>
         <source>Fascination</source>
-        <translation>陶醉</translation>
+        <translation>魅惑</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="60"/>
@@ -7376,96 +7377,96 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="60"/>
         <source>Fear</source>
-        <translation>害怕</translation>
+        <translation>恐惧</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="66"/>
         <source>Removal Conditions</source>
-        <translation>移除条件</translation>
+        <translation>解除条件</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="67"/>
         <source>Conditions for state removal, apart from using skills and items.</source>
-        <translation>状态移除的条件，除使用技能和物品以外。</translation>
+        <translation>除了使用技能和物品以外，状态解除的条件。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="74"/>
         <source>Remove at Battle End</source>
-        <translation>在战斗结束时移除</translation>
+        <translation>战斗结束时解除</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="75"/>
         <source>Specifies that the state is valid only in battle.</source>
-        <translation>指定这个状态只在战场上有效。</translation>
+        <translation>该状态只在战斗中有效。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="80"/>
         <source>Remove by Restriction</source>
-        <translation>移除限制</translation>
+        <translation>受到行动限制时解除</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="81"/>
         <source>Will be replaced by a new state with a different action restriction.</source>
-        <translation>将被一个新的带有不同行动限制的状态取代。</translation>
+        <translation>被设有另一种行动限制的其他状态取代。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="99"/>
         <source>Auto-removal Timing</source>
-        <translation>自动移除时间</translation>
+        <translation>自动解除的时机</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="100"/>
         <source>Removal timing for the state that is effective for a set number of turns.</source>
-        <translation>移除只在设定次数下才有效的状态的时间。</translation>
+        <translation>对于只在一定的回合数内有效的状态，在这里指定解除的时机。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="101"/>
         <source>Action End</source>
-        <translation>行动结束</translation>
+        <translation>行动结束时</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="101"/>
         <source>Turn End</source>
         <translatorcomment>comment：元翻訳「轮流结束」を「结束回合」に変更しました。</translatorcomment>
-        <translation type="unfinished">结束回合</translation>
+        <translation>回合结束时</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="110"/>
         <source>Duration in Turns</source>
         <translatorcomment>comment：元翻訳「轮流的时间」を「回合持续时间」に変更しました。</translatorcomment>
-        <translation type="unfinished">回合持续时间</translation>
+        <translation>持续回合数</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="111"/>
         <source>Number of turns the effect of the state lasts. Countdown processing for the number of turns is run at the end of a turn regardless of the setting.</source>
-        <translation>被影响到的状态持续的轮流次数。不管设置如何，在一轮结束时为计轮流次数的倒计时要进行。</translation>
+        <translation>状态的效果持续的回合数。无论设定是什么，回合数的倒计时总是在回合结束时进行。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="149"/>
         <source>Remove by Damage</source>
-        <translation>由损伤去除</translation>
+        <translation>受伤时解除</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="150"/>
         <source>Removes the state at the specified probability when the target suffers some sort of damage.</source>
-        <translation>当目标遭受某种损害时在特定的可能性下移除状态。</translation>
+        <translation>在对象受到伤害时，以指定的概率解除状态。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="169"/>
         <source>Remove by Walking</source>
-        <translation>由行走移除</translation>
+        <translation>按步数解除</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="170"/>
         <source>Removes the state after walking the specified number of steps on the map screen.</source>
-        <translation>在地图屏幕上行走了特定的步数之后移除状态。</translation>
+        <translation>在地图画面行走指定步数后解除状态。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="184"/>
         <source>steps</source>
         <comment>suffix</comment>
         <translatorcomment>后缀</translatorcomment>
-        <translation>步伐 </translation>
+        <translation>步</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="194"/>
@@ -7475,47 +7476,47 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="195"/>
         <source>Messages to be displayed in battle. Not displayed if left blank.</source>
-        <translation>在战斗中展示的信息。不展示时留白。</translation>
+        <translation>在战斗中显示的信息。若留空则不显示。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="199"/>
         <source>If an actor is inflicted with the state</source>
-        <translation>如果角色被施以状态</translation>
+        <translation>角色被附加状态时</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="200"/>
         <source>Message to be displayed when the state is applied to an actor.</source>
-        <translation>当一个状态被角色启用时展示的信息。</translation>
+        <translation>角色被附加状态时显示的信息。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="204"/>
         <source>If an enemy is inflicted with the state</source>
-        <translation>如果敌人被施以状态</translation>
+        <translation>敌人被附加状态时</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="205"/>
         <source>Message to be displayed when the state is applied to an enemy.</source>
-        <translation>当一个状态被敌人启用时展示的信息。</translation>
+        <translation>敌人被附加状态时显示的信息。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="209"/>
         <source>If the state persists</source>
-        <translation>当状态持续</translation>
+        <translation>状态持续时</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="210"/>
-        <source>Message to be displayed on the target&apos;s turn while the state is active.</source>
-        <translation>当轮到目标时状态正在有效期时展示信息。</translation>
+        <source>Message to be displayed on the target's turn while the state is active.</source>
+        <translation>状态附加后，在目标的回合显示的信息。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="214"/>
         <source>If the state is removed</source>
-        <translation>如果状态被移除</translation>
+        <translation>状态解除时</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_States.qml" line="215"/>
         <source>Message to be displayed when the effects of the state disappears.</source>
-        <translation>当状态效果消失时展示的信息。</translation>
+        <translation>状态效果消失时显示的信息。</translation>
     </message>
 </context>
 <context>
@@ -7524,22 +7525,22 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="25"/>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="82"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="26"/>
         <source>Basic tileset settings.</source>
-        <translation type="unfinished">基本的拼接设置。</translation>
+        <translation>基本的图块设置。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="31"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="32"/>
         <source>Name of the tileset.</source>
-        <translation type="unfinished">拼接设置的名称。</translation>
+        <translation>图块的名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="37"/>
@@ -7549,7 +7550,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="38"/>
         <source>Behavior of terrain autotiles. As a general rule, [World Type] is applied to overworld tilesets and [Area Type] is applied to others. For more information, see the [Resource Specification] page in Help.</source>
-        <translation>地形性能的自动拼接。作为基本规则，[世界种类]被启用到整个世界的拼接设置中，[区域种类]被应用到其他上面。更多信息，参考 [资源细则]页面的帮助。</translation>
+        <translation>设定地形自动元件的行为。原则上，世界地图的图块应该使用“世界类型”，其他图块则适合“区域类型”。详情请参考帮助文档的“素材规格”页。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="39"/>
@@ -7561,51 +7562,51 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="39"/>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="82"/>
         <source>Area Type</source>
-        <translation>地域类型</translation>
+        <translation>区域类型</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="61"/>
         <source>Passage</source>
-        <translation>通道</translation>
+        <translation>通行</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="62"/>
         <source>Sets whether a normal character can pass through the tile.&lt;br&gt;○ : passable&lt;br&gt;✕ : impassable&lt;br&gt;☆ : passable under the tile</source>
         <translatorcomment>comment：元翻訳「设置一个普通角色是否能通过磁贴。&lt;br&gt;○可通过&lt;br&gt;✕不可通过&lt;br&gt;☆在磁贴下通过」を「设置一个普通角色是否能通过图块。&lt;br&gt;○可通过&lt;br&gt;✕不可通过&lt;br&gt;☆在图块下通过」に変更しました。</translatorcomment>
-        <translation type="unfinished">设置一个普通角色是否能通过图块。&lt;br&gt;○可通过&lt;br&gt;✕不可通过&lt;br&gt;☆在图块下通过</translation>
+        <translation>设置一个普通角色是否能通过图块。&lt;br&gt;○：可通行&lt;br&gt;✕：不可通行&lt;br&gt;☆：在图块下方通行</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="73"/>
         <source>Passage (4 dir)</source>
-        <translation>通道(4 dir)</translation>
+        <translation>通行（四方向）</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="74"/>
         <source>Sets the direction from which a normal character can enter the tile. Possible entries/exits are indicated by arrows.</source>
         <translatorcomment>comment：元翻訳「设置一个普通角色可以进入的磁贴。可能的 进入/出去 要由箭头指名。」を「设置一个普通角色可以进入的砖瓦。可能的 进入/出去 要由箭头指名。」に変更しました。</translatorcomment>
-        <translation type="unfinished">设置一个普通角色可以进入的图块。可能的 进入/出去 要由箭头指名。</translation>
+        <translation>设置普通的角色可以进入图块的方向。箭头标志表示可以通行。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="84"/>
         <source>Ladder</source>
-        <translation>楼梯</translation>
+        <translation>梯子</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="85"/>
         <source>Sets the character as looking upward when on this tile. This makes it look like the character is grabbing onto a ladder attached to a wall.</source>
         <translatorcomment>comment：元翻訳「设置角色在这个磁贴上时往上看。这让角色看上去像正抓着靠着墙的楼梯。」を「设置角色在这个图块上时往上看。这让角色看上去像正抓着靠着墙的楼梯。」に変更しました。</translatorcomment>
-        <translation type="unfinished">设置角色在这个图块上时往上看。这让角色看上去像正抓着靠着墙的楼梯。</translation>
+        <translation>角色在图块上固定朝向上方。可以用这一设定来表现角色正在攀爬搭在墙上的梯子。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="95"/>
         <source>Bush</source>
-        <translation>灌木丛</translation>
+        <translation>草木繁茂处</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="96"/>
-        <source>Sets as translucent the bottom some pixels of a character on the tile, which can make the character&apos;s feet seemingly hidden in a bush.</source>
+        <source>Sets as translucent the bottom some pixels of a character on the tile, which can make the character's feet seemingly hidden in a bush.</source>
         <translatorcomment>comment：元翻訳「在底下设置一些半透明的，角色站在磁贴上的像素，这会让角色看上去像躲在灌木丛里面。」を「在底下设置一些半透明的，角色站在图块上的像素，这会让角色看上去像躲在灌木丛里面。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在底下设置一些半透明的，角色站在图块上的像素，这会让角色看上去像躲在灌木丛里面。</translation>
+        <translation>站在图块上的角色下方的几个像素会显示为半透明。这个设定可以用来表现角色的脚底隐藏在草丛中。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="106"/>
@@ -7616,30 +7617,30 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="107"/>
         <source>Enables a tile to start an event that is not directly next to it. When a tile with the counter attribute is between the character and the event, the event will start as if the character is right next to it, even if it would not normally do so. When this attribute is given to a terrain autotile, it is considered to be a table and will be drawn by extending it 12 pixels downward.</source>
         <translatorcomment>comment：元翻訳「允许磁贴在开始一个事件时不是直接在旁边。当磁贴属于柜台特征时，在角色和事件之间，事件会开始，就像角色就在旁边一样，就算正常情况下不会这么做。当这个属性给到地形自动拼接时，这会被视作是一张桌子，会延伸往下画12个像素。」を「允许图块在开始一个事件时不是直接在旁边。当图块属于柜台特征时，在角色和事件之间，事件会开始，就像角色就在旁边一样，就算正常情况下不会这么做。当这个属性给到地形自动拼接时，这会被视作是一张桌子，会延伸往下画12个像素。」に変更しました。</translatorcomment>
-        <translation type="unfinished">允许图块在开始一个事件时不是直接在旁边。当图块属于柜台特征时，在角色和事件之间，事件会开始，就像角色就在旁边一样，就算正常情况下不会这么做。当这个属性给到地形自动拼接时，这会被视作是一张桌子，会延伸往下画12个像素。</translation>
+        <translation>允许跨过柜台触发事件。平时角色和事件不相邻时无法触发的事件，在中间夹着柜台属性的图块时就可以触发事件，好像角色和事件相邻一样。附加了这一属性的地形自动图块会被视为桌子，绘制时往下方延长 12 像素。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="117"/>
         <source>Damage Floor</source>
         <translatorcomment>comment：元翻訳「损坏的地板」を「地板损伤」に変更しました。</translatorcomment>
-        <translation type="unfinished">地板损伤</translation>
+        <translation>有害地形</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="118"/>
         <source>Sets a tile to deal damage when walked on. A poisonous swamp is one example of possible uses.</source>
         <translatorcomment>comment：元翻訳「当走上去时，设置磁贴处理受损。一个有毒的沼泽是一个可能使用到的例子。」を「当走到这块地时会受到损伤。毒沼泽就是能使用的其中一个例子。」に変更しました。</translatorcomment>
-        <translation type="unfinished">当走到这块地时会受到损伤。毒沼泽就是能使用的其中一个例子。</translation>
+        <translation type="unfinished">走在图块上会受到伤害，可以用来设定有毒的沼泽地等。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="128"/>
         <source>Terrain Tag</source>
-        <translation>地形标签</translation>
+        <translation>地形标志</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Tilesets.qml" line="129"/>
         <source>Assigns a numeric value between 0 and 7 to each tile. No specific uses are defined. The value can be obtained by using the [Get Location Info] event command. For terrain tags that are obtained, those in the upper layers except for 0 are prioritized.</source>
         <translatorcomment>comment：元翻訳「在磁贴上指定一个在0-7的数字值。不要定义特定的使用。这个值能在使用[得到当地信息]事件命令。对于获得的地形标签，那些在上层的，除了0之外的获得优化。」を「在图块上指定一个在0-7的数字值。不要定义特定的使用。这个值能在使用[得到当地信息]事件命令。对于获得的地形标签，那些在上层的，除了0之外的获得优化。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在图块上指定一个在0-7的数字值。不要定义特定的使用。这个值能在使用[得到当地信息]事件命令。对于获得的地形标签，那些在上层的，除了0之外的获得优化。</translation>
+        <translation>给各个图块分配一个 0~7 之间的数值。这一设置没有规定具体的用途。使用事件指令“获取指定位置的信息”可以获取地形标志。地形标志会优先获取最上层的非 0 数值。</translation>
     </message>
 </context>
 <context>
@@ -7647,12 +7648,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="20"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="21"/>
         <source>Basic troop settings.</source>
-        <translation>基本部队设置。</translation>
+        <translation>基本敌群设置。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="30"/>
@@ -7662,27 +7663,27 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="31"/>
         <source>Name of the troop.</source>
-        <translation>部队名称。</translation>
+        <translation>敌群的名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="37"/>
         <source>Auto-name</source>
-        <translation>自动命名</translation>
+        <translation>自动生成名称</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="38"/>
         <source>Gives a name based on the names of the enemies within the troop.</source>
-        <translation>根据敌人所在的部队自动命名。</translation>
+        <translation>根据敌群中的敌人自动生成名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="43"/>
         <source>Change BG</source>
-        <translation>改变BG</translation>
+        <translation>更改战斗背景</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="44"/>
         <source>Changes the background images for editing and battle tests.</source>
-        <translation>为编辑和战斗测试改变背景图像。</translation>
+        <translation>更改编辑器和战斗测试中使用的战斗背景。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="49"/>
@@ -7692,37 +7693,37 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="50"/>
         <source>Runs a battle test with the current troop.</source>
-        <translation>用当前的部队运行战斗测试。</translation>
+        <translation>于当前的敌群测试战斗。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="60"/>
         <source>Placement View</source>
-        <translation>方位一览</translation>
+        <translation>配置视图</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="61"/>
         <source>Displays the enemies in the troop. Drag an enemy to move it. Right-click to open the popup menu.</source>
-        <translation>展示在部队中的敌人。拖一个敌人来移动。右击打开跳出菜单。</translation>
+        <translation>显示构成敌群的敌人。可以拖拽移动敌人的位置。右键点击鼠标可以打开弹出菜单。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="69"/>
         <source>Add</source>
-        <translation>增加</translation>
+        <translation>&lt; 添加</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="70"/>
         <source>Places the selected enemy into the troop.</source>
-        <translation>将选择的敌人放到部队中。</translation>
+        <translation>将选择的敌人加入敌群。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="77"/>
         <source>Remove</source>
-        <translation>去除</translation>
+        <translation>删除 &gt;</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="78"/>
         <source>Removes the selected enemy from the troop.</source>
-        <translation>从部队中去除敌人。</translation>
+        <translation>从敌群中删除选定的敌人。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="84"/>
@@ -7742,7 +7743,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="92"/>
         <source>Places all the enemies automatically.</source>
-        <translation>自动放置所有敌人。</translation>
+        <translation>自动配置所有敌人。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="103"/>
@@ -7752,7 +7753,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Troops.qml" line="104"/>
         <source>Press the [Add] button on the left to add selected enemies to the troop.</source>
-        <translation>按左边的[增加]按钮选择放到部队中的敌人。</translation>
+        <translation>点击左侧的“添加”按钮将列表中选中的敌人加入敌群。</translation>
     </message>
 </context>
 <context>
@@ -7760,7 +7761,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="16"/>
         <source>General Settings</source>
-        <translation>一般设置</translation>
+        <translation>基本设置</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="17"/>
@@ -7785,28 +7786,28 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="30"/>
         <source>Icon appearing to the left of the weapon name in the game.</source>
-        <translation>游戏中图标在盔甲名字的左边出现。</translation>
+        <translation>游戏中显示在武器名称左侧的图标。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="35"/>
         <source>Description</source>
-        <translation>描述</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="36"/>
         <source>Comment displayed when the weapon is selected in the game.</source>
-        <translation>当武器被选择后在游戏中展示评价。</translation>
+        <translation>游戏中选中武器时显示的说明。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="41"/>
         <source>Weapon Type</source>
-        <translation>武器种类</translation>
+        <translation>武器类型</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="42"/>
         <source>Type of the weapon. Setting [Equip Weapon] in trait lists enables to equip with them.</source>
         <translatorcomment>comment：元翻訳「武器种类。在特色列表中设置[装备武器]允许装备他们。」を「武器种类。在特色列表中设置[装备武器]允许进行装备。」に変更しました。</translatorcomment>
-        <translation type="unfinished">武器种类。在特色列表中设置[装备武器]允许进行装备。</translation>
+        <translation>武器的类型。在特性列表中设置【添加武器类型】以装备武器。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="49"/>
@@ -7816,7 +7817,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="50"/>
         <source>Weapon price. The player can sell the weapon for half of this price when the price is greater than 0.</source>
-        <translation>武器价格。当价格高于0时，玩家能以这个价格的一半出售武器。</translation>
+        <translation>武器的价格。当价格大于 0 时，玩家能以半价出售武器。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="58"/>
@@ -7826,7 +7827,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Database/Edit_Weapons.qml" line="59"/>
         <source>Animation displayed for the target when using this weapon in battle.</source>
-        <translation>在战斗中用这个武器的时候为这个目标展示动画。</translation>
+        <translation>用该武器攻击时，攻击对象上显示的动画。</translation>
     </message>
 </context>
 <context>
@@ -7834,7 +7835,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Controls/EnemyDropItemBox.qml" line="62"/>
         <source>None</source>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
@@ -7842,7 +7843,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Controls/EquipmentListBox.qml" line="31"/>
         <source>Type</source>
-        <translation>种类</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../qml/Controls/EquipmentListBox.qml" line="37"/>
@@ -7852,7 +7853,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Controls/EquipmentListBox.qml" line="126"/>
         <source>None</source>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
@@ -7861,7 +7862,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Controls/EquipmentSelectBox.qml" line="37"/>
         <location filename="../qml/Controls/EquipmentSelectBox.qml" line="70"/>
         <source>None</source>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
@@ -7876,7 +7877,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="22"/>
         <source>Face image to be displayed to the left of the message.</source>
-        <translation>在信息左面展示的脸部图像。</translation>
+        <translation>在文字的左侧显示的脸图。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="28"/>
@@ -7886,7 +7887,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="29"/>
         <source>Text to display.</source>
-        <translation>要展示的文本。</translation>
+        <translation>显示的文字。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="76"/>
@@ -7896,7 +7897,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="77"/>
         <source>Background type of the message.</source>
-        <translation>信息的背景种类。</translation>
+        <translation>背景类型。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="84"/>
@@ -7906,7 +7907,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="85"/>
         <source>Position to display the message on the screen.</source>
-        <translation>在屏幕上展示信息的位置。</translation>
+        <translation>在画面上显示文字的位置。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="93"/>
@@ -7916,7 +7917,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="94"/>
         <source>Previews how it will be displayed on the actual screen.</source>
-        <translation>在实际屏幕上的展示预览。</translation>
+        <translation>预览在实际画面上的显示方式。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="107"/>
@@ -7928,7 +7929,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand101.qml" line="108"/>
         <source>Enables the input of more than 4 lines and inserts multiple event commands.</source>
         <translatorcomment>comment：元翻訳「运行超过4行的输入并插入多种事件命令。」を「可以输入超过4行并插入多种事件指令。」に変更しました。</translatorcomment>
-        <translation type="unfinished">可以输入超过4行并插入多种事件指令。</translation>
+        <translation>可以输入超过 4 行文字，并插入多个事件指令。</translation>
     </message>
 </context>
 <context>
@@ -7936,7 +7937,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand102.qml" line="20"/>
         <source>Text to be displayed as the choice #%1.</source>
-        <translation>展现为 #%1选项的文本。</translation>
+        <translation>显示于选项 #%1 的文字。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand102.qml" line="21"/>
@@ -7970,7 +7971,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand102.qml" line="52"/>
         <source>Background type of the choices.</source>
-        <translation>选项的背景种类。</translation>
+        <translation>选项的背景类型。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand102.qml" line="59"/>
@@ -7980,7 +7981,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand102.qml" line="60"/>
         <source>Position to display the choices on the screen.</source>
-        <translation>在屏幕上展示选择的位置。</translation>
+        <translation>在画面上显示选项的位置。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand102.qml" line="67"/>
@@ -8000,7 +8001,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand102.qml" line="76"/>
         <source>Handling method for when the cancel button is pressed.</source>
-        <translation>当点击取消按钮时的处理方式</translation>
+        <translation>当点击取消按钮时的处理方式。</translation>
     </message>
 </context>
 <context>
@@ -8013,17 +8014,17 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand103.qml" line="18"/>
         <source>Variable containing the numeric value entered by the player. The original entry is displayed in this variable as entry begins.</source>
-        <translation>变量包括玩家键入的数字值。原始的键入会在键入开始时的这个变量中展示。</translation>
+        <translation>指定要保存玩家输入的数值的变量。开始输入的时候会显示该变量原有的值。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand103.qml" line="23"/>
         <source>Digits</source>
-        <translation>数字</translation>
+        <translation>位数</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand103.qml" line="24"/>
         <source>Number of digits to be entered.</source>
-        <translation>要输入的数字数量。</translation>
+        <translation>要输入的数字位数。</translation>
     </message>
 </context>
 <context>
@@ -8036,17 +8037,17 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand104.qml" line="18"/>
         <source>Variable for storing the ID of the item the player selected. Zero is stored if the player cancels the selection.</source>
-        <translation type="unfinished">用以存储玩家选择的物品的储存ID的变量。如果玩家取消选择将存储为“0”。</translation>
+        <translation>指定要存放玩家选择的物品 ID 的变量。玩家取消时，变量会被设置为 0。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand104.qml" line="23"/>
         <source>Item Type</source>
-        <translation>物品种类</translation>
+        <translation>物品类型</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand104.qml" line="24"/>
         <source>Type of items to be listed.</source>
-        <translation>要列出的物品种类。</translation>
+        <translation>要列出的物品类型。</translation>
     </message>
 </context>
 <context>
@@ -8059,7 +8060,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand105.qml" line="22"/>
         <source>Text to display.</source>
-        <translation>要展示的文本。</translation>
+        <translation>要显示的文字。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand105.qml" line="51"/>
@@ -8069,18 +8070,18 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand105.qml" line="52"/>
         <source>Speed at which text scrolls.</source>
-        <translation type="unfinished">文本滚动的速度。</translation>
+        <translation>文本滚动的速度。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand105.qml" line="61"/>
         <source>No Fast Forward</source>
-        <translation>不能快进</translation>
+        <translation>禁止快进</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand105.qml" line="62"/>
         <source>Disables the fast-scrolling feature when the OK button is pressed.</source>
         <translatorcomment>comment：元翻訳「当摁ok按钮时，取消快速滚动特色。」を「当按ok按钮时，取消快速滚动特色。」に変更しました。</translatorcomment>
-        <translation type="unfinished">当按ok按钮时，取消快速滚动特色。</translation>
+        <translation>禁止确定键按下时快速滚动文本。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand105.qml" line="68"/>
@@ -8090,7 +8091,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand105.qml" line="69"/>
         <source>Previews how it will be displayed on the actual screen.</source>
-        <translation type="unfinished">预览在实际屏幕上将如果展示。。</translation>
+        <translation>预览在实际画面上的显示方式。</translation>
     </message>
 </context>
 <context>
@@ -8098,12 +8099,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand108.qml" line="20"/>
         <source>Comment</source>
-        <translation type="unfinished">评论</translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand108.qml" line="21"/>
         <source>Comment text. Has no effect in the game.</source>
-        <translation>评论文本。对游戏没有影响。</translation>
+        <translation>注释，对游戏没有影响。</translation>
     </message>
 </context>
 <context>
@@ -8111,7 +8112,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand111.qml" line="63"/>
         <source>Create Else Branch</source>
-        <translation>创建其他分支</translation>
+        <translation>创建不满足条件的分支</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand111.qml" line="64"/>
@@ -8125,13 +8126,13 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand117.qml" line="17"/>
         <source>Common Event</source>
         <translatorcomment>comment：元翻訳「一般事件」を「公共事件」に変更しました。</translatorcomment>
-        <translation type="unfinished">公共事件</translation>
+        <translation>公共事件</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand117.qml" line="18"/>
         <source>Common event to call up.</source>
         <translatorcomment>comment：元翻訳「一般事件的唤醒。」を「公共事件的唤醒。」に変更しました。</translatorcomment>
-        <translation type="unfinished">公共事件的唤醒。</translation>
+        <translation>要调用的公共事件。</translation>
     </message>
 </context>
 <context>
@@ -8144,7 +8145,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand118.qml" line="18"/>
         <source>Name of the label to be set.</source>
-        <translation type="unfinished">需要设置的标签的名称。</translation>
+        <translation>要设置的标签的名称。</translation>
     </message>
 </context>
 <context>
@@ -8157,7 +8158,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand119.qml" line="18"/>
         <source>Label name of the jump destination.</source>
-        <translation>跳跃终点的标签名称。</translation>
+        <translation>跳转目标的标签名称。</translation>
     </message>
 </context>
 <context>
@@ -8170,12 +8171,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand121.qml" line="18"/>
         <source>Switch(es) to operate.</source>
-        <translation>开关操作。</translation>
+        <translation>要操作的开关。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand121.qml" line="24"/>
         <source>Selects whether to turn the switch(es) ON or OFF.</source>
-        <translation>选择是否开或关。</translation>
+        <translation>选择打开还是关闭开关。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand121.qml" line="25"/>
@@ -8185,7 +8186,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand121.qml" line="26"/>
         <source>Turns the specified switch(es) ON.</source>
-        <translation>把特定开关打开。</translation>
+        <translation>打开指定的开关。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand121.qml" line="27"/>
@@ -8195,7 +8196,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand121.qml" line="28"/>
         <source>Turns the specified switch(es) OFF.</source>
-        <translation>关闭特定开关。</translation>
+        <translation>关闭指定的开关。</translation>
     </message>
 </context>
 <context>
@@ -8208,92 +8209,92 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="18"/>
         <source>Variable(s) to operate.</source>
-        <translation>变量操作。</translation>
+        <translation>要操作的变量。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="24"/>
         <source>Operation</source>
-        <translation>运算</translation>
+        <translation>操作</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="25"/>
         <source>Operation to run on the specified variable(s).</source>
-        <translation>在特定变量上的运算。</translation>
+        <translation>对指定变量执行的操作。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="36"/>
         <source>Set</source>
         <comment>Set to the variable</comment>
-        <translation>设置</translation>
+        <translation>代入</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="37"/>
         <source>Stores the operand to the specified variable(s).</source>
-        <translation>把运算对象储存到特定变量上。</translation>
+        <translation>把操作数保存到指定的变量中。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="46"/>
         <source>Add</source>
         <comment>Add to the variable</comment>
-        <translation>增加</translation>
+        <translation>加法</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="47"/>
         <source>Adds the operand to the specified variable(s).</source>
-        <translation>在特定变量上增加运算对象。</translation>
+        <translation>把操作数加到指定的变量上。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="55"/>
         <source>Sub</source>
         <comment>Subtract</comment>
         <translatorcomment>减去</translatorcomment>
-        <translation>减</translation>
+        <translation>减法</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="56"/>
         <source>Subtracts the operand from the specified variable(s).</source>
-        <translation>在变量中减去运算对象。</translation>
+        <translation>将指定变量减去操作数。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="64"/>
         <source>Mul</source>
         <comment>Multiply</comment>
         <translatorcomment>乘</translatorcomment>
-        <translation>乘</translation>
+        <translation>乘法</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="65"/>
         <source>Multiplies the specified variable(s) by the operand.</source>
-        <translation>用运算对象乘以特定变量。</translation>
+        <translation>将指定的变量乘以操作数。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="73"/>
         <source>Div</source>
         <comment>Divide</comment>
         <translatorcomment>除于</translatorcomment>
-        <translation>除</translation>
+        <translation>除法</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="74"/>
         <source>Divides the specified variable(s) by the operand.</source>
-        <translation>特定变量被运算对象相除。</translation>
+        <translation>将指定的变量除以操作数。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="82"/>
         <source>Mod</source>
         <comment>Modulo</comment>
         <translatorcomment>模数</translatorcomment>
-        <translation>模数</translation>
+        <translation>取模</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="83"/>
         <source>Divides the specified variable(s) by the operand and stores the remainder(s).</source>
-        <translation>特定变量被运算对象相除并储存剩余。</translation>
+        <translation>将指定变量除以操作数的余数保存进变量。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="116"/>
         <source>Operand</source>
-        <translation>运算对象</translation>
+        <translation>操作数</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand122.qml" line="117"/>
@@ -8306,37 +8307,37 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand123.qml" line="17"/>
         <source>Self Switch</source>
-        <translation type="unfinished">自动开关</translation>
+        <translation>独立开关</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand123.qml" line="18"/>
         <source>Self switch to operate.</source>
-        <translation>自动开关操作。</translation>
+        <translation>要操作的独立开关。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand123.qml" line="30"/>
         <source>Selects whether to turn the self switch ON or OFF.</source>
-        <translation type="unfinished">选择开启或关闭自动开关。</translation>
+        <translation>选择打开或关闭独立开关。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand123.qml" line="31"/>
         <source>ON</source>
-        <translation>开启</translation>
+        <translation>开</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand123.qml" line="32"/>
         <source>Turns the specified self switch ON.</source>
-        <translation type="unfinished">打开特定的自动开关。</translation>
+        <translation>打开指定的独立开关。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand123.qml" line="33"/>
         <source>OFF</source>
-        <translation>关闭</translation>
+        <translation>关</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand123.qml" line="34"/>
         <source>Turns the specified self switch OFF.</source>
-        <translation type="unfinished">关闭特定的自动开关。</translation>
+        <translation>关闭指定的独立开关。</translation>
     </message>
 </context>
 <context>
@@ -8344,7 +8345,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand124.qml" line="17"/>
         <source>Selects whether to start or stop the timer.</source>
-        <translation type="unfinished">选择开始或停止计时。</translation>
+        <translation>选择开始或停止计时器。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand124.qml" line="18"/>
@@ -8354,7 +8355,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand124.qml" line="19"/>
         <source>Starts the timer.</source>
-        <translation>开始计时。</translation>
+        <translation>开始计时器。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand124.qml" line="20"/>
@@ -8364,7 +8365,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand124.qml" line="21"/>
         <source>Stops the timer.</source>
-        <translation>停止计时。</translation>
+        <translation>停止计时器。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand124.qml" line="26"/>
@@ -8375,19 +8376,19 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand124.qml" line="27"/>
         <source>Time to count down on the timer.</source>
-        <translation>准时开始倒计时。</translation>
+        <translation>倒计时的时间。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand124.qml" line="37"/>
         <source>min</source>
         <comment>minutes</comment>
-        <translation>分钟</translation>
+        <translation>分</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand124.qml" line="46"/>
         <source>sec</source>
         <comment>seconds</comment>
-        <translation>秒钟</translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
@@ -8421,12 +8422,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand128.qml" line="17"/>
         <source>Armor</source>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand128.qml" line="18"/>
         <source>Armor to increase or decrease.</source>
-        <translation>要增加或减少的盔甲。</translation>
+        <translation>要增加或减少的护甲。</translation>
     </message>
 </context>
 <context>
@@ -8445,7 +8446,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand129.qml" line="24"/>
         <source>Selects whether to add or remove the actor.</source>
-        <translation type="unfinished">选择增加或去除这个角色。</translation>
+        <translation>选择增加或移除这个角色。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand129.qml" line="25"/>
@@ -8456,18 +8457,18 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand129.qml" line="26"/>
         <source>Adds the actor to the party.</source>
-        <translation>把角色加入这个组。</translation>
+        <translation>把角色加入队伍。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand129.qml" line="27"/>
         <source>Remove</source>
         <comment>Remove from the party</comment>
-        <translation>去除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand129.qml" line="28"/>
         <source>Removes the actor from the party.</source>
-        <translation>把角色从这个组中去掉。</translation>
+        <translation>使角色离开队伍。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand129.qml" line="33"/>
@@ -8477,7 +8478,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand129.qml" line="34"/>
         <source>When adding, reverts to the starting state as specified in the database.</source>
-        <translation>增加时，恢复到数据库中特定的开始状态。</translation>
+        <translation>将角色加入时，将其数据恢复到数据库中的原始状态。</translation>
     </message>
 </context>
 <context>
@@ -8485,32 +8486,32 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand134.qml" line="13"/>
         <source>Save</source>
-        <translation>保存</translation>
+        <translation>存档</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand134.qml" line="14"/>
         <source>Selects whether to enable or disable the saving of game data.</source>
-        <translation>选择激活或者取消游戏数据保存功能。</translation>
+        <translation>选择是否启用或禁用存档。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand134.qml" line="15"/>
         <source>Disable</source>
-        <translation>取消</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand134.qml" line="16"/>
         <source>Disables the saving of game data.</source>
-        <translation>取消游戏数据保存功能。</translation>
+        <translation>禁用存档。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand134.qml" line="17"/>
         <source>Enable</source>
-        <translation>激活</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand134.qml" line="18"/>
         <source>Enables the saving of game data.</source>
-        <translation>激活游戏数据保存功能。</translation>
+        <translation>启用存档。</translation>
     </message>
 </context>
 <context>
@@ -8523,27 +8524,27 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand135.qml" line="14"/>
         <source>Selects whether to enable or disable the menu screen calls.</source>
-        <translation>选择屏幕菜单调用可能与否。</translation>
+        <translation>选择启用或禁用呼出菜单。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand135.qml" line="15"/>
         <source>Disable</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand135.qml" line="16"/>
         <source>Disables the menu screen calls.</source>
-        <translation>不能调用屏幕菜单。</translation>
+        <translation>禁用呼出菜单。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand135.qml" line="17"/>
         <source>Enable</source>
-        <translation type="unfinished">打开</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand135.qml" line="18"/>
         <source>Enables the menu screen calls.</source>
-        <translation>能够调用屏幕菜单。</translation>
+        <translation>启用呼出菜单。</translation>
     </message>
 </context>
 <context>
@@ -8551,32 +8552,32 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand136.qml" line="13"/>
         <source>Encounter</source>
-        <translation>遭遇</translation>
+        <translation>遇敌</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand136.qml" line="14"/>
         <source>Selects whether to enable or disable the random encounters.</source>
-        <translation type="unfinished">选择打开还是关闭随机偶遇功能。</translation>
+        <translation>选择启用或禁用遇敌。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand136.qml" line="15"/>
         <source>Disable</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand136.qml" line="16"/>
         <source>Disables the random encounters.</source>
-        <translation type="unfinished">关闭随机遭遇。</translation>
+        <translation>禁用随机遇敌。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand136.qml" line="17"/>
         <source>Enable</source>
-        <translation type="unfinished">打开</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand136.qml" line="18"/>
         <source>Enables the random encounters.</source>
-        <translation>能够随机遭遇。</translation>
+        <translation>启用随机遇敌。</translation>
     </message>
 </context>
 <context>
@@ -8584,35 +8585,35 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand137.qml" line="13"/>
         <source>Formation</source>
-        <translation>组队</translation>
+        <translation>整队</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand137.qml" line="14"/>
         <source>Selects whether to enable or disable the formation command.</source>
         <translatorcomment>comment：元翻訳「选择打开或关闭组队命令。」を変更して「设置组队指令的能否。」になりました。</translatorcomment>
-        <translation type="unfinished">设置组队指令的能否。</translation>
+        <translation>选择启用或禁用整队。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand137.qml" line="15"/>
         <source>Disable</source>
-        <translation>不能</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand137.qml" line="16"/>
         <source>Disables the formation command.</source>
-        <translation type="unfinished">关闭组队命令。</translation>
+        <translation>禁用整队指令。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand137.qml" line="17"/>
         <source>Enable</source>
         <translatorcomment>comment：元翻訳「打开」を変更して「可以」になりました。</translatorcomment>
-        <translation type="unfinished">可以</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand137.qml" line="18"/>
         <source>Enables the formation command.</source>
         <translatorcomment>comment：元翻訳「打开组队命令。」を変更して「」になりました。</translatorcomment>
-        <translation type="unfinished">允许组队指令。</translation>
+        <translation>启用整队指令。</translation>
     </message>
 </context>
 <context>
@@ -8625,7 +8626,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand138.qml" line="18"/>
         <source>Specifies how to change the window color.</source>
-        <translation>指定怎样改变窗口的颜色。</translation>
+        <translation>指定改变窗口颜色的方式。</translation>
     </message>
 </context>
 <context>
@@ -8634,13 +8635,13 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand140.qml" line="17"/>
         <source>Vehicle</source>
         <translatorcomment>comment：元翻訳「车辆」を「载具」に変更しました。</translatorcomment>
-        <translation type="unfinished">载具</translation>
+        <translation>载具</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand140.qml" line="18"/>
         <source>Vehicle to change the BGM.</source>
         <translatorcomment>comment：元翻訳「改变BGM的车辆。」を「改变BGM的载具。」に変更しました。</translatorcomment>
-        <translation type="unfinished">改变BGM的载具。</translation>
+        <translation>要改变 BGM 的载具。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand140.qml" line="25"/>
@@ -8651,7 +8652,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand140.qml" line="26"/>
         <source>BGM to be played while riding in a vehicle.</source>
         <translatorcomment>comment：元翻訳「当乘坐车辆时需要播放的BGM。」を「当乘坐载具时需要播放的BGM。」に変更しました。</translatorcomment>
-        <translation type="unfinished">当乘坐载具时需要播放的BGM。</translation>
+        <translation>当乘坐载具时播放的BGM。</translation>
     </message>
 </context>
 <context>
@@ -8659,7 +8660,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand201.qml" line="22"/>
         <source>Direction</source>
-        <translation type="unfinished">部署</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand201.qml" line="23"/>
@@ -8669,12 +8670,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand201.qml" line="30"/>
         <source>Fade</source>
-        <translation>淡出</translation>
+        <translation>淡入淡出</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand201.qml" line="31"/>
         <source>Type of screen transition when moving.</source>
-        <translation type="unfinished">当移动时屏幕变换的种类。</translation>
+        <translation>移动时画面过渡的类型。</translation>
     </message>
 </context>
 <context>
@@ -8683,13 +8684,13 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand202.qml" line="17"/>
         <source>Vehicle</source>
         <translatorcomment>comment：元翻訳「车辆」を「载具」に変更しました。</translatorcomment>
-        <translation type="unfinished">载具</translation>
+        <translation>载具</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand202.qml" line="18"/>
         <source>Vehicle to change the location.</source>
         <translatorcomment>comment：元翻訳「需改变位置的车辆。」を「需改变位置的载具。」に変更しました。</translatorcomment>
-        <translation type="unfinished">需改变位置的载具。</translation>
+        <translation>要改变位置的载具。</translation>
     </message>
 </context>
 <context>
@@ -8702,7 +8703,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand203.qml" line="18"/>
         <source>Event character to change the location.</source>
-        <translation type="unfinished">改变位置的事件特点。</translation>
+        <translation>要改变位置的事件。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand203.qml" line="30"/>
@@ -8736,7 +8737,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand204.qml" line="26"/>
         <source>Number of tiles to scroll.</source>
         <translatorcomment>comment：元翻訳「要滚动的磁贴的数量。」を「要滚动的图块的数量。」に変更しました。</translatorcomment>
-        <translation type="unfinished">要滚动的图块的数量。</translation>
+        <translation>要滚动的图块的数量。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand204.qml" line="36"/>
@@ -8759,7 +8760,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand211.qml" line="14"/>
         <source>Selects whether to show or hide the the player.</source>
-        <translation type="unfinished">选择显示或隐藏玩家。</translation>
+        <translation>选择显示或隐藏玩家。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand211.qml" line="15"/>
@@ -8769,7 +8770,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand211.qml" line="16"/>
         <source>Hides the player character.</source>
-        <translation type="unfinished">隐藏玩家角色。</translation>
+        <translation>隐藏玩家角色。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand211.qml" line="17"/>
@@ -8780,7 +8781,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand211.qml" line="18"/>
         <source>Shows the player character.</source>
         <translatorcomment>comment：元翻訳「显示角色性格。」を「显示玩家角色。」に変更しました。</translatorcomment>
-        <translation type="unfinished">显示玩家角色。</translation>
+        <translation>显示玩家角色。</translation>
     </message>
 </context>
 <context>
@@ -8794,7 +8795,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand212.qml" line="18"/>
         <source>Character to be the target.</source>
         <translatorcomment>comment：元翻訳「要瞄准的角色。」を「目标角色。」に変更しました。</translatorcomment>
-        <translation type="unfinished">目标角色。</translation>
+        <translation>目标角色。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand212.qml" line="23"/>
@@ -8804,7 +8805,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand212.qml" line="24"/>
         <source>Type of animation to be displayed.</source>
-        <translation>要展示的动画种类。</translation>
+        <translation>要显示的动画类型。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand212.qml" line="30"/>
@@ -8828,7 +8829,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand213.qml" line="18"/>
         <source>Character to be the target.</source>
         <translatorcomment>comment：元翻訳「要瞄准的角色。」を「目标角色。」に変更しました。</translatorcomment>
-        <translation type="unfinished">目标角色。</translation>
+        <translation>目标角色。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand213.qml" line="23"/>
@@ -8838,7 +8839,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand213.qml" line="24"/>
         <source>Type of balloon icon to be displayed.</source>
-        <translation>要展示的气球图标。</translation>
+        <translation>要显示的气球图标。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand213.qml" line="30"/>
@@ -8857,13 +8858,13 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand216.qml" line="13"/>
         <source>Player Followers</source>
         <translatorcomment>comment：元翻訳「玩家追随者」を「更改队伍行进运行」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改队伍行进运行</translation>
+        <translation>队列步行</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand216.qml" line="14"/>
         <source>Selects whether to show or hide the party members that follow behind the player.</source>
         <translatorcomment>comment：元翻訳「选择是展示还是隐藏跟着玩家后面的追随者。」を「选择是展示还是隐藏跟着玩家队列成员。」に変更しました。</translatorcomment>
-        <translation type="unfinished">选择是展示还是隐藏跟着玩家队列成员。</translation>
+        <translation>选择是显示还是隐藏跟在玩家身后的队员。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand216.qml" line="15"/>
@@ -8874,7 +8875,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand216.qml" line="16"/>
         <source>Displays all the party members on the map.</source>
         <translatorcomment>comment：元翻訳「在地图上展示所有组员。」を「在地图上展示所有队员。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在地图上展示所有队员。</translation>
+        <translation>在地图上显示所有队员。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand216.qml" line="17"/>
@@ -8885,7 +8886,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand216.qml" line="18"/>
         <source>Displays only the actor at the head of the party on the map.</source>
         <translatorcomment>comment：元翻訳「只在地图上展示小组头领角色。」を「只在地图上展示队伍队长角色。」に変更しました。</translatorcomment>
-        <translation type="unfinished">只在地图上展示队伍队长角色。</translation>
+        <translation>地图上只显示队长。</translation>
     </message>
 </context>
 <context>
@@ -8898,7 +8899,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand223.qml" line="18"/>
         <source>Specifies how to change the color.</source>
-        <translation>指定如何改颜色。</translation>
+        <translation>指定改变色调的方式。</translation>
     </message>
 </context>
 <context>
@@ -8911,7 +8912,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand224.qml" line="18"/>
         <source>Specifies what color to flash with.</source>
-        <translation>指定用那种颜色来闪光。</translation>
+        <translation>指定闪光的颜色。</translation>
     </message>
 </context>
 <context>
@@ -8924,17 +8925,17 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand225.qml" line="18"/>
         <source>Specifies how the screen should shake.</source>
-        <translation>指定屏幕会怎样震动。</translation>
+        <translation>指定画面震动的方式。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand225.qml" line="22"/>
         <source>Power</source>
-        <translation>力度</translation>
+        <translation>强度</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand225.qml" line="23"/>
         <source>Power of the shake.</source>
-        <translation>震动的力度。</translation>
+        <translation>震动的强度。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand225.qml" line="31"/>
@@ -8952,7 +8953,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand230.qml" line="17"/>
         <source>Duration of the wait in frames.</source>
-        <translation>在镜头中等候的时间。</translation>
+        <translation>等待时间（帧）。</translation>
     </message>
 </context>
 <context>
@@ -8960,7 +8961,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand231.qml" line="17"/>
         <source>Picture to show.</source>
-        <translation>要展示的照片。</translation>
+        <translation>要显示的图片。</translation>
     </message>
 </context>
 <context>
@@ -8968,7 +8969,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand232.qml" line="18"/>
         <source>Picture to move or change properties.</source>
-        <translation>要移走的照片或道具。</translation>
+        <translation>要移动或更改设置的图片。</translation>
     </message>
 </context>
 <context>
@@ -8976,7 +8977,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand233.qml" line="19"/>
         <source>Picture to rotate.</source>
-        <translation>要旋转的照片。</translation>
+        <translation>要旋转的图片。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand233.qml" line="23"/>
@@ -8986,7 +8987,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand233.qml" line="24"/>
         <source>Rotation setting of the picture.</source>
-        <translation>照片旋转的设置。</translation>
+        <translation>图片旋转设置。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand233.qml" line="27"/>
@@ -8996,7 +8997,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand233.qml" line="28"/>
         <source>Value by which to increase/decrease the angle. Positive values mean counterclockwise rotation.</source>
-        <translation type="unfinished">用以增加或减少角度的值。正值指的是反时针旋转。</translation>
+        <translation>增加/减少角度的值。正值表示逆时针旋转。</translation>
     </message>
 </context>
 <context>
@@ -9004,7 +9005,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand234.qml" line="18"/>
         <source>Picture to tint.</source>
-        <translation>要染色的照片。</translation>
+        <translation>要更改色调的图片。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand234.qml" line="23"/>
@@ -9014,7 +9015,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand234.qml" line="24"/>
         <source>Specifies how to change the color.</source>
-        <translation>指定如何改颜色。</translation>
+        <translation>指定更改色调的方式。</translation>
     </message>
 </context>
 <context>
@@ -9022,7 +9023,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand235.qml" line="18"/>
         <source>Picture to erase.</source>
-        <translation>要擦掉的照片。</translation>
+        <translation>要消除的图片。</translation>
     </message>
 </context>
 <context>
@@ -9036,29 +9037,29 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand236.qml" line="18"/>
         <source>Settings for the weather effect to be displayed.</source>
         <translatorcomment>comment：元翻訳「要展示的天气影响的设置。」を「设置显示的天气效果。」に変更しました。</translatorcomment>
-        <translation type="unfinished">设置显示的天气效果。</translation>
+        <translation>设置显示的天气效果。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand236.qml" line="23"/>
         <source>Type</source>
-        <translation>种类</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand236.qml" line="24"/>
         <source>Type of the weather effect.</source>
         <translatorcomment>comment：元翻訳「天气影响的种类。」を「天气效果的种类。」に変更しました。</translatorcomment>
-        <translation type="unfinished">天气效果的种类。</translation>
+        <translation>天气效果的类型。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand236.qml" line="32"/>
         <source>Power</source>
-        <translation>力度</translation>
+        <translation>强度</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand236.qml" line="33"/>
         <source>Amount of the weather effect images to be displayed at once.</source>
         <translatorcomment>comment：元翻訳「一次同时展示的天气影响图像的数量。」を「同时显示的天气效果图像的数量。」に変更しました。</translatorcomment>
-        <translation type="unfinished">同时显示的天气效果图像的数量。</translation>
+        <translation>同时显示的天气效果图像的数量。</translation>
     </message>
 </context>
 <context>
@@ -9066,7 +9067,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand242.qml" line="17"/>
         <source>Duration of the fadeout in seconds.</source>
-        <translation>淡出的持续秒钟。</translation>
+        <translation>淡出的时间（秒）。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand242.qml" line="18"/>
@@ -9079,7 +9080,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand246.qml" line="17"/>
         <source>Duration of the fadeout in seconds.</source>
-        <translation>淡出的持续秒钟。</translation>
+        <translation>淡出的时间（秒）。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand246.qml" line="18"/>
@@ -9092,12 +9093,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand281.qml" line="13"/>
         <source>Map Name Display</source>
-        <translation type="unfinished">地图名称展示</translation>
+        <translation>显示地图名称</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand281.qml" line="14"/>
         <source>Selects whether to display the map name when changing the current map.</source>
-        <translation type="unfinished">选择当改变当前地图时是否要展示地图名称。</translation>
+        <translation>选择切换地图时是否显示地图名称。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand281.qml" line="15"/>
@@ -9107,7 +9108,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand281.qml" line="16"/>
         <source>Displays the map name when changing the current map.</source>
-        <translation>当改变目前的地图时展示地图名称。</translation>
+        <translation>切换地图时显示地图名称。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand281.qml" line="17"/>
@@ -9117,7 +9118,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand281.qml" line="18"/>
         <source>Does not display the map name when changing the current map.</source>
-        <translation type="unfinished">当改变目前地图时不展示地图名称。</translation>
+        <translation>切换地图时不显示地图名称。</translation>
     </message>
 </context>
 <context>
@@ -9125,12 +9126,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand282.qml" line="17"/>
         <source>Tileset</source>
-        <translation>拼接设置</translation>
+        <translation>图块</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand282.qml" line="18"/>
         <source>Tileset to change to.</source>
-        <translation type="unfinished">即将替换成的拼接设置。</translation>
+        <translation>要切换到的图块。</translation>
     </message>
 </context>
 <context>
@@ -9139,13 +9140,13 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand283.qml" line="17"/>
         <source>Battle Background</source>
         <translatorcomment>comment：元翻訳「战争背景」を「战斗背景」に変更しました。</translatorcomment>
-        <translation type="unfinished">战斗背景</translation>
+        <translation>战斗背景</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand283.qml" line="18"/>
         <source>Battle background images to change to.</source>
         <translatorcomment>comment：元翻訳「将替换到的战役背景图像。」を「将替换到的战斗背景图像。」に変更しました。</translatorcomment>
-        <translation type="unfinished">将替换到的战斗背景图像。</translation>
+        <translation>要使用的战斗背景图。</translation>
     </message>
 </context>
 <context>
@@ -9154,13 +9155,13 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand284.qml" line="16"/>
         <source>Parallax Background</source>
         <translatorcomment>comment：元翻訳「视差背景」を変更して「循环背景」になりました。</translatorcomment>
-        <translation type="unfinished">循环背景</translation>
+        <translation>远景</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand284.qml" line="17"/>
         <source>Parallax background settings to change to.</source>
         <translatorcomment>comment：元翻訳「可替换到的视差设置。」を変更して「循环背景设置可更改为。」になりました。</translatorcomment>
-        <translation type="unfinished">循环背景设置可更改为。</translation>
+        <translation>要使用的远景设置。</translation>
     </message>
 </context>
 <context>
@@ -9173,22 +9174,22 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand285.qml" line="18"/>
         <source>Variable for storing information that was obtained.</source>
-        <translation type="unfinished">存贮已经获得的信息的变量。</translation>
+        <translation>用来存储取得的信息的变量。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand285.qml" line="23"/>
         <source>Info Type</source>
-        <translation>信息种类</translation>
+        <translation>信息类型</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand285.qml" line="24"/>
         <source>Type of information to obtain.</source>
-        <translation type="unfinished">将要获取的信息的种类。</translation>
+        <translation>要获取的信息的类型。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand285.qml" line="30"/>
         <source>Location of information to obtain.</source>
-        <translation type="unfinished">将要获取的信息的位置。</translation>
+        <translation>要获取的信息的位置。</translation>
     </message>
 </context>
 <context>
@@ -9196,23 +9197,23 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand301.qml" line="27"/>
         <source>Can Escape</source>
-        <translation>能逃避</translation>
+        <translation>允许逃跑</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand301.qml" line="28"/>
         <source>Enables the [Escape] command and creates a branch defining [If Escape] handling.</source>
-        <translation>启用[逃脱]命令并创建一个分支来定义[如果逃脱]允许。</translation>
+        <translation>启用“逃跑”指令，并创建逃跑时的分支处理。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand301.qml" line="32"/>
         <source>Can Lose</source>
-        <translation type="unfinished">能够失败</translation>
+        <translation>允许失败</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand301.qml" line="33"/>
         <source>Even if the party is defeated, the game does not end, but a branch is created defining [If Lose] handling.</source>
         <translatorcomment>comment：元翻訳「但呀创建一个分支以定义[如果走失]处理。」は誤字がありと翻訳内容はちょっと間違っているので、修正しました。</translatorcomment>
-        <translation type="unfinished">就算小组被击败，游戏也不会终结，但是会创建一个分支来明确[如果丢失]处理。</translation>
+        <translation>即使队伍被击败时也不结束游戏，而是创建一个失败时的分支处理。</translation>
     </message>
 </context>
 <context>
@@ -9220,7 +9221,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand302.qml" line="29"/>
         <source>Merchandise List</source>
-        <translation>商品清单</translation>
+        <translation>商品列表</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand302.qml" line="30"/>
@@ -9230,7 +9231,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand302.qml" line="35"/>
         <source>Merchandise</source>
-        <translation>商人</translation>
+        <translation>商品</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand302.qml" line="40"/>
@@ -9245,7 +9246,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand302.qml" line="86"/>
         <source>Makes it impossible to sell items in the shop.</source>
-        <translation>不让商品在商店中销售。</translation>
+        <translation>禁止出售。</translation>
     </message>
 </context>
 <context>
@@ -9264,12 +9265,12 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand303.qml" line="24"/>
         <source>Max characters</source>
         <translatorcomment>comment：元翻訳「最多角色」を「角色数量上限」に変更しました。</translatorcomment>
-        <translation type="unfinished">角色数量上限</translation>
+        <translation>最大字符数</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand303.qml" line="25"/>
         <source>Maximum number of characters for name input.</source>
-        <translation>输入名字的角色数量最大值。</translation>
+        <translation>名称输入的最大字符数。</translation>
     </message>
 </context>
 <context>
@@ -9277,31 +9278,31 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand313.qml" line="21"/>
         <source>Selects whether to add or remove the state.</source>
-        <translation type="unfinished">选择增加或减少状态。</translation>
+        <translation>选择时附加还是解除状态。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand313.qml" line="22"/>
         <source>Add</source>
         <comment>Add the state</comment>
         <translatorcomment>增加状态</translatorcomment>
-        <translation type="unfinished">添加</translation>
+        <translation>附加</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand313.qml" line="23"/>
         <source>Adds the state to the actor.</source>
-        <translation type="unfinished">将状态添加到角色身上。</translation>
+        <translation>将状态附加到角色身上。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand313.qml" line="24"/>
         <source>Remove</source>
         <comment>Remove the state</comment>
         <translatorcomment>去除状态</translatorcomment>
-        <translation type="unfinished">删除</translation>
+        <translation>解除</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand313.qml" line="25"/>
         <source>Removes the state from the actor.</source>
-        <translation type="unfinished">将角色的状态删除。</translation>
+        <translation>将角色的状态解除。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand313.qml" line="30"/>
@@ -9311,7 +9312,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand313.qml" line="31"/>
         <source>State to add or remove.</source>
-        <translation type="unfinished">要添加或删除的状态。</translation>
+        <translation>要附加或解除的状态。</translation>
     </message>
 </context>
 <context>
@@ -9319,12 +9320,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand317.qml" line="21"/>
         <source>Parameter</source>
-        <translation>参数</translation>
+        <translation>能力值</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand317.qml" line="22"/>
         <source>Parameter type to increase or decrease.</source>
-        <translation type="unfinished">增加或减少的参数种类。</translation>
+        <translation>要增加或减少的能力值种类。</translation>
     </message>
 </context>
 <context>
@@ -9332,7 +9333,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand318.qml" line="21"/>
         <source>Selects whether to learn or forget the skill.</source>
-        <translation>选择学习或遗忘这个技能。</translation>
+        <translation>选择学习或遗忘技能。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand318.qml" line="22"/>
@@ -9352,7 +9353,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand318.qml" line="25"/>
         <source>Removes the skill from the actor.</source>
-        <translation>从角色技能中去除。</translation>
+        <translation>使角色失去技能。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand318.qml" line="30"/>
@@ -9362,7 +9363,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand318.qml" line="31"/>
         <source>Skill to learn or forget.</source>
-        <translation type="unfinished">学习或遗忘的技能。</translation>
+        <translation>学习或遗忘的技能。</translation>
     </message>
 </context>
 <context>
@@ -9370,22 +9371,22 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand319.qml" line="21"/>
         <source>Actor</source>
-        <translation type="unfinished">角色</translation>
+        <translation>角色</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand319.qml" line="22"/>
         <source>Actor to change the equipment.</source>
-        <translation>要改变装备的角色。</translation>
+        <translation>要更改装备的角色。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand319.qml" line="28"/>
         <source>Equipment Type</source>
-        <translation>装备种类</translation>
+        <translation>装备类型</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand319.qml" line="29"/>
         <source>Type of the equipment to be changed.</source>
-        <translation type="unfinished">要改变的装备的种类。</translation>
+        <translation>要更改的装备类型。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand319.qml" line="36"/>
@@ -9396,7 +9397,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand319.qml" line="37"/>
         <source>Item to be newly equipped. The party must have the specified item.</source>
         <translatorcomment>comment：元翻訳「最新装备 物品。小组必须要拥有的特定物品。」を「最新装备物品。队伍必须要拥有的特定物品。」に変更しました。</translatorcomment>
-        <translation type="unfinished">最新装备物品。队伍必须要拥有的特定物品。</translation>
+        <translation>要新装备的物品。队伍必须持有指定的物品。</translation>
     </message>
 </context>
 <context>
@@ -9409,17 +9410,17 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand320.qml" line="18"/>
         <source>Actor to change the name.</source>
-        <translation>要改变名称的角色。</translation>
+        <translation>要改变名字的角色。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand320.qml" line="24"/>
         <source>Name</source>
-        <translation>名称</translation>
+        <translation>名字</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand320.qml" line="25"/>
         <source>New name of the actor.</source>
-        <translation>角色的新名称。</translation>
+        <translation>角色的新名字。</translation>
     </message>
 </context>
 <context>
@@ -9433,7 +9434,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand321.qml" line="18"/>
         <source>Actor to change the class.</source>
         <translatorcomment>comment：元翻訳「要改变等级的角色。」を「更改角色职业。」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改角色职业。</translation>
+        <translation>更改角色职业。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand321.qml" line="24"/>
@@ -9445,7 +9446,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand321.qml" line="25"/>
         <source>New class of the actor.</source>
         <translatorcomment>comment：元翻訳「角色的新等级」を「角色的新职业。」に変更しました。</translatorcomment>
-        <translation type="unfinished">角色的新职业。</translation>
+        <translation>角色的新职业。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand321.qml" line="31"/>
@@ -9478,7 +9479,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand322.qml" line="25"/>
         <source>Images of the actor to be displayed in the game.</source>
-        <translation type="unfinished">在游戏中展示的角色的图像。</translation>
+        <translation>在游戏中显示的角色的图像。</translation>
     </message>
 </context>
 <context>
@@ -9487,13 +9488,13 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand323.qml" line="17"/>
         <source>Vehicle</source>
         <translatorcomment>comment：元翻訳「车辆」を「载具」に変更しました。</translatorcomment>
-        <translation type="unfinished">载具</translation>
+        <translation>载具</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand323.qml" line="18"/>
         <source>Vehicle to change the image.</source>
         <translatorcomment>comment：元翻訳「要改变图像的车辆。」を「更改图像的载具。」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改图像的载具。</translation>
+        <translation>要更改图像的载具。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand323.qml" line="25"/>
@@ -9503,7 +9504,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand323.qml" line="26"/>
         <source>Image to be displayed on the map screen.</source>
-        <translation type="unfinished">在地图屏幕上展示的图像。</translation>
+        <translation>要显示在地图画面的图像。</translation>
     </message>
 </context>
 <context>
@@ -9517,7 +9518,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand324.qml" line="18"/>
         <source>Actor to change the nickname.</source>
         <translatorcomment>comment：元翻訳「要改变昵称的角色。」を「更改角色的昵称。」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改角色的昵称。</translation>
+        <translation>要更改昵称的角色。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand324.qml" line="24"/>
@@ -9541,17 +9542,17 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand325.qml" line="18"/>
         <source>Actor to change the profile.</source>
         <translatorcomment>comment：元翻訳「要改变简介的角色。」を「更改角色简介。」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改角色简介。</translation>
+        <translation>更改角色简介。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand325.qml" line="24"/>
         <source>Profile</source>
-        <translation type="unfinished">简介</translation>
+        <translation>简介</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand325.qml" line="25"/>
         <source>New profile of the actor.</source>
-        <translation type="unfinished">角色的新介绍。</translation>
+        <translation>角色的新简介。</translation>
     </message>
 </context>
 <context>
@@ -9559,13 +9560,13 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand333.qml" line="22"/>
         <source>Selects whether to add or remove the state.</source>
-        <translation>选择增加或减少状态。</translation>
+        <translation>选择附加或解除状态。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand333.qml" line="23"/>
         <source>Add</source>
         <comment>Add the state</comment>
-        <translation type="unfinished">添加</translation>
+        <translation>附加</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand333.qml" line="24"/>
@@ -9576,12 +9577,12 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand333.qml" line="25"/>
         <source>Remove</source>
         <comment>Remove the state</comment>
-        <translation>删除</translation>
+        <translation>解除</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand333.qml" line="26"/>
         <source>Removes the state from the enemy.</source>
-        <translation>将敌人的状态删除。</translation>
+        <translation>将敌人的状态解除。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand333.qml" line="31"/>
@@ -9591,7 +9592,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand333.qml" line="32"/>
         <source>State to add or remove.</source>
-        <translation>要增加或删除的状态。</translation>
+        <translation>要附加或解除的状态。</translation>
     </message>
 </context>
 <context>
@@ -9599,7 +9600,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand335.qml" line="19"/>
         <source>Enemy to appear.</source>
-        <translation>敌人出现。</translation>
+        <translation>要出现的敌人。</translation>
     </message>
 </context>
 <context>
@@ -9608,19 +9609,19 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Event/EventCommands/EventCommand336.qml" line="19"/>
         <source>Enemy to transform.</source>
         <translatorcomment>comment：元翻訳「要转变的敌人。」を「转移敌人。」に変更しました。</translatorcomment>
-        <translation type="unfinished">转移敌人。</translation>
+        <translation>要变身的敌人。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand336.qml" line="24"/>
         <source>Transform to</source>
         <translatorcomment>comment：元翻訳「转变到」を「转移到」に変更しました。</translatorcomment>
-        <translation type="unfinished">转移到</translation>
+        <translation>变身为</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand336.qml" line="25"/>
         <source>Specifies which enemy to transform into.</source>
         <translatorcomment>comment：元翻訳「指定要转变成的敌人。」を「指定要转移成的敌人。」に変更しました。</translatorcomment>
-        <translation type="unfinished">指定要转移成的敌人。</translation>
+        <translation>指定要变身成哪个敌人。</translation>
     </message>
 </context>
 <context>
@@ -9628,17 +9629,17 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand337.qml" line="19"/>
         <source>Enemy to be the target.</source>
-        <translation>要瞄准的敌人。</translation>
+        <translation>目标敌人。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand337.qml" line="24"/>
         <source>Target all enemies in the troop.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">以敌方全体为目标。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand337.qml" line="25"/>
         <source>Target all enemies in the troop?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">以敌方全体为目标？</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand337.qml" line="37"/>
@@ -9648,7 +9649,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand337.qml" line="38"/>
         <source>Type of animation to be displayed.</source>
-        <translation>要展示的动画种类。</translation>
+        <translation>要显示的动画的类型。</translation>
     </message>
 </context>
 <context>
@@ -9656,32 +9657,32 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand339.qml" line="21"/>
         <source>Subject</source>
-        <translation>主题</translation>
+        <translation>行动主体</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand339.qml" line="22"/>
         <source>Battle character to be forced the action.</source>
-        <translation>要迫使到行为中的战斗特征。</translation>
+        <translation>要强制行动的战斗者。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand339.qml" line="23"/>
         <source>Forces the action of the specified enemy.</source>
-        <translation>特定敌人的武力行为。</translation>
+        <translation>强制指定敌人的行动。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand339.qml" line="24"/>
         <source>Forces the action of the specified actor.</source>
-        <translation>特定角色的武力行为。</translation>
+        <translation>强制指定角色的行动。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand339.qml" line="28"/>
         <source>Action</source>
-        <translation>动作</translation>
+        <translation>行动</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand339.qml" line="29"/>
         <source>Contents of the forced action.</source>
-        <translation>武力动作的内容。</translation>
+        <translation>强制行动的内容。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand339.qml" line="35"/>
@@ -9691,7 +9692,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand339.qml" line="36"/>
         <source>Skill that will be used as the action.</source>
-        <translation>在动作中会使用的技能。</translation>
+        <translation>用于行动的技能。</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand339.qml" line="44"/>
@@ -9701,7 +9702,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand339.qml" line="45"/>
         <source>Target of the action when the selection is required.</source>
-        <translation type="unfinished">当需要选择时的动作的目标。</translation>
+        <translation>当需要选择时的行动的目标。</translation>
     </message>
 </context>
 <context>
@@ -9709,12 +9710,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand355.qml" line="20"/>
         <source>Script</source>
-        <translation>剧本</translation>
+        <translation>脚本</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand355.qml" line="21"/>
         <source>JavaScript code to be evaluated.</source>
-        <translation>要评估的Java剧本代码。</translation>
+        <translation>要求值的 JavaScript 代码。</translation>
     </message>
 </context>
 <context>
@@ -9722,12 +9723,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand356.qml" line="17"/>
         <source>Plugin Command</source>
-        <translation>命令插件</translation>
+        <translation>插件指令</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommands/EventCommand356.qml" line="18"/>
         <source>Command to be executed by plugins.</source>
-        <translation>要插件执行的命令。</translation>
+        <translation>由插件执行的指令。</translation>
     </message>
 </context>
 <context>
@@ -9735,12 +9736,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommandListBox.qml" line="210"/>
         <source>Copy as Text</source>
-        <translation>拷贝成文本</translation>
+        <translation>复制为文本</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandListBox.qml" line="220"/>
         <source>Copy as HTML</source>
-        <translation>拷贝成HTML</translation>
+        <translation>复制为 HTML</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandListBox.qml" line="233"/>
@@ -9753,59 +9754,59 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="13"/>
         <source>Wait</source>
-        <translation>等候</translation>
+        <translation>等待</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="124"/>
         <source>Entire Party</source>
-        <translation>整个小组</translation>
+        <translation>整个队伍</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="135"/>
         <source>Entire Troop</source>
-        <translation>整个部队</translation>
+        <translation>整个敌群</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="150"/>
         <source>%1 min %2 sec</source>
-        <translation>%1分钟 %2秒</translation>
+        <translation>%1 分 %2 秒</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="154"/>
         <source>The number of %1</source>
-        <translation>%1的数字</translation>
+        <translation>%1 数</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="155"/>
         <source>%1 of %2</source>
-        <translation> %2的%1 </translation>
+        <translation>%2 的 %1</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="181"/>
         <source>the party member #%1</source>
-        <translation>组员 #%1</translation>
+        <translation>队伍成员 #%1</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="182"/>
         <source>Actor ID</source>
-        <translation>角色ID</translation>
+        <translation>角色 ID</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="196"/>
         <source>Disable</source>
-        <translation>不能</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="196"/>
         <source>Enable</source>
-        <translation>能够</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="264"/>
         <source>When </source>
         <comment>When ** (before the text)</comment>
         <translatorcomment>当** (在文本前)</translatorcomment>
-        <translation>当</translation>
+        <translation>当 </translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="265"/>
@@ -9816,12 +9817,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="280"/>
         <source> digits</source>
-        <translation>数字</translation>
+        <translation> 位</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="280"/>
         <source> digit</source>
-        <translation>数字</translation>
+        <translation> 位</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="295"/>
@@ -9831,18 +9832,18 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="297"/>
         <source>No Fast Forward</source>
-        <translation>没有快进</translation>
+        <translation>禁止快进</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="324"/>
         <location filename="../qml/Event/EventCommandTexts.qml" line="337"/>
         <source>%1 is %2</source>
-        <translation>%1是 %2</translation>
+        <translation>%1 是 %2</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="336"/>
         <source>Self Switch</source>
-        <translation>自我转变</translation>
+        <translation>独立开关</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="340"/>
@@ -9852,74 +9853,74 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="348"/>
         <source>%1 is in the party</source>
-        <translation>%1在小组里面</translation>
+        <translation>%1 在队伍中</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="351"/>
         <source>Name of %1 is %2</source>
-        <translation type="unfinished"> %1是的名字是 %2字</translation>
+        <translation>%1 的名字是 %2</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="355"/>
         <source>Class of %1 is %2</source>
-        <translation> %1是 %2的等级</translation>
+        <translation>%1 的职业是 %2</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="359"/>
         <source>%1 has learned %2</source>
-        <translation>%1已经学了 %2</translation>
+        <translation>%1 已学会 %2</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="363"/>
         <location filename="../qml/Event/EventCommandTexts.qml" line="367"/>
         <source>%1 has equipped %2</source>
-        <translation>%1已经装备了 %2</translation>
+        <translation>%1 装备了 %2</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="371"/>
         <location filename="../qml/Event/EventCommandTexts.qml" line="383"/>
         <source>%1 is affected by %2</source>
-        <translation>%1被 %2影响到</translation>
+        <translation>%1 在 %2 状态中</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="379"/>
         <source>%1 is appeared</source>
-        <translation>%1出现了</translation>
+        <translation>%1 已经出现</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="389"/>
         <source>%1 is facing %2</source>
-        <translation>%1 面对 %2时</translation>
+        <translation>%1 朝向 %2</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="392"/>
         <source>Gold</source>
         <translatorcomment>comment：元翻訳「金子」を変更して「金币」になりました。</translatorcomment>
-        <translation type="unfinished">金币</translation>
+        <translation>金钱</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="397"/>
         <location filename="../qml/Event/EventCommandTexts.qml" line="400"/>
         <location filename="../qml/Event/EventCommandTexts.qml" line="406"/>
         <source>Party has %1</source>
-        <translation>小组有 %1</translation>
+        <translation>队伍持有 %1</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="413"/>
         <source>Button [%1] is pressed down</source>
-        <translation>[%1]键被按动了</translation>
+        <translation>[%1] 键正在按下的状态</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="416"/>
         <source>Script</source>
-        <translation>剧本</translation>
+        <translation>脚本</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="419"/>
         <source>%1 is driven</source>
         <comment>Vehicle</comment>
         <translatorcomment>车辆</translatorcomment>
-        <translation>%1是司机</translation>
+        <translation>乘坐 %1</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="459"/>
@@ -9933,7 +9934,7 @@ Please lower the file size of this project.</source>
         <source>Start</source>
         <comment>Timer</comment>
         <translatorcomment>计时器</translatorcomment>
-        <translation type="unfinished">开始</translation>
+        <translation>开始</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="485"/>
@@ -9947,19 +9948,19 @@ Please lower the file size of this project.</source>
         <source>Add %1</source>
         <comment>Add to the party</comment>
         <translatorcomment>增加到小组</translatorcomment>
-        <translation>增加 %1</translation>
+        <translation>添加 %1</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="538"/>
         <source>Initialize</source>
-        <translation>初始</translation>
+        <translation>初始化</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="541"/>
         <source>Remove %1</source>
         <comment>Remove from the party</comment>
         <translatorcomment>从小组中去除</translatorcomment>
-        <translation>去除 %1</translation>
+        <translation>移除 %1</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="607"/>
@@ -9970,12 +9971,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="611"/>
         <source>Fade</source>
-        <translation>淡出</translation>
+        <translation>淡入淡出</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="641"/>
         <source>Exchange with %1</source>
-        <translation>和 %1交换</translation>
+        <translation>与 %1 交换</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="663"/>
@@ -9994,24 +9995,24 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="888"/>
         <source>Same as Random Encounter</source>
-        <translation>和随机遭遇一样</translation>
+        <translation>与随机遇敌相同</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="920"/>
         <source> characters</source>
         <comment>Text string count</comment>
-        <translation>角色</translation>
+        <translation> 字</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="921"/>
         <source> character</source>
         <comment>Text string count</comment>
-        <translation>角色</translation>
+        <translation> 字</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventCommandTexts.qml" line="1016"/>
         <source>None</source>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
@@ -10025,19 +10026,19 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="7"/>
         <source>Show Text</source>
-        <translation>显示文本</translation>
+        <translation>显示文字</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="9"/>
         <source>Show Choices</source>
         <translatorcomment>comment：元翻訳「显示选择」を変更して「显示选项」になりました。</translatorcomment>
-        <translation type="unfinished">显示选项</translation>
+        <translation>显示选项</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="10"/>
         <source>Input Number</source>
         <translatorcomment>comment：元翻訳「输入数字」を「输入数值」に変更しました。</translatorcomment>
-        <translation type="unfinished">输入数值</translation>
+        <translation>数值输入处理</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="12"/>
@@ -10056,7 +10057,7 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Singletons/EventCommands.qml" line="14"/>
         <source>Select Item</source>
         <translatorcomment>comment：元翻訳「选择物品」を変更して「物品选择」になりました。</translatorcomment>
-        <translation type="unfinished">物品选择</translation>
+        <translation>物品选择处理</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="15"/>
@@ -10067,13 +10068,13 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="15"/>
         <source>Show Scrolling Text</source>
-        <translation>显示滚动文本</translation>
+        <translation>显示滚动文字</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="17"/>
         <location filename="../qml/Singletons/EventCommands.qml" line="18"/>
         <source>Comment</source>
-        <translation type="unfinished">注释</translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="19"/>
@@ -10084,12 +10085,12 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Singletons/EventCommands.qml" line="19"/>
         <source>Conditional Branch</source>
         <translatorcomment>comment：元翻訳「条件性分支」を変更して「分支条件」になりました。</translatorcomment>
-        <translation type="unfinished">分支条件</translation>
+        <translation>分支条件</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="20"/>
         <source>Else</source>
-        <translation>其他</translation>
+        <translation>否则</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="22"/>
@@ -10100,31 +10101,31 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="23"/>
         <source>Repeat Above</source>
-        <translation>重复以上的</translation>
+        <translation>重复上述内容</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="24"/>
         <source>Break Loop</source>
         <translatorcomment>comment：元翻訳「打断光环」を変更して「终止循环」になりました。</translatorcomment>
-        <translation type="unfinished">终止循环</translation>
+        <translation>跳出循环</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="25"/>
         <source>Continue Loop</source>
         <translatorcomment>comment：元翻訳「继续光环」を変更して「循环继续」になりました。</translatorcomment>
-        <translation type="unfinished">循环继续</translation>
+        <translation>继续循环</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="26"/>
         <source>Exit Event Processing</source>
         <translatorcomment>comment：元翻訳「事件进程退出」を変更して「」になりました。</translatorcomment>
-        <translation type="unfinished">中止事件处理</translation>
+        <translation>中止事件处理</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="27"/>
         <source>Common Event</source>
         <translatorcomment>comment：元翻訳「普通事件」を変更して「公共事件」になりました。</translatorcomment>
-        <translation type="unfinished">公共事件</translation>
+        <translation>公共事件</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="28"/>
@@ -10135,119 +10136,119 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Singletons/EventCommands.qml" line="29"/>
         <source>Jump to Label</source>
         <translatorcomment>comment：元翻訳「跳到标签」を変更して「」になりました。</translatorcomment>
-        <translation type="unfinished">转到标签</translation>
+        <translation>转到标签</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="30"/>
         <source>Control Switches</source>
         <translatorcomment>comment：元翻訳「控制开关」を変更して「开关操作」になりました。</translatorcomment>
-        <translation type="unfinished">开关操作</translation>
+        <translation>开关操作</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="31"/>
         <source>Control Variables</source>
         <translatorcomment>comment：元翻訳「控制变量」を変更して「变量操作」になりました。</translatorcomment>
-        <translation type="unfinished">变量操作</translation>
+        <translation>变量操作</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="32"/>
         <source>Control Self Switch</source>
         <translatorcomment>comment：元翻訳「控制自动开关」を変更して「独立开关操作」になりました。</translatorcomment>
-        <translation type="unfinished">独立开关操作</translation>
+        <translation>独立开关操作</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="33"/>
         <source>Control Timer</source>
         <translatorcomment>comment：元翻訳「控制计时器」を変更して「计时器操作」になりました。</translatorcomment>
-        <translation type="unfinished">计时器操作</translation>
+        <translation>计时器操作</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="34"/>
         <source>Change Gold</source>
         <translatorcomment>comment：元翻訳「改变金子」を変更して「增减金币」になりました。</translatorcomment>
-        <translation type="unfinished">增减金币</translation>
+        <translation>增减金钱</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="35"/>
         <source>Change Items</source>
         <translatorcomment>comment：元翻訳「改变物品」を変更して「增减物品」になりました。</translatorcomment>
-        <translation type="unfinished">增减物品</translation>
+        <translation>增减物品</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="36"/>
         <source>Change Weapons</source>
         <translatorcomment>comment：元翻訳「改变武器」を変更して「增减武器」になりました。</translatorcomment>
-        <translation type="unfinished">增减武器</translation>
+        <translation>增减武器</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="37"/>
         <source>Change Armors</source>
         <translatorcomment>comment：元翻訳「改变盔甲」を変更して「增减盔甲」になりました。</translatorcomment>
-        <translation type="unfinished">增减盔甲</translation>
+        <translation>增减护甲</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="38"/>
         <source>Change Party Member</source>
         <translatorcomment>comment：元翻訳「改变组员」を変更して「组员管理」になりました。</translatorcomment>
-        <translation type="unfinished">组员管理</translation>
+        <translation>队伍管理</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="39"/>
         <source>Change Battle BGM</source>
         <translatorcomment>comment：元翻訳「改变战斗BGM」を変更して「更改战斗BGM」になりました。</translatorcomment>
-        <translation type="unfinished">更改战斗BGM</translation>
+        <translation>更改战斗 BGM</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="40"/>
         <source>Change Victory ME</source>
         <translatorcomment>comment：元翻訳「改变胜利ME」を変更して「更改胜利ME」になりました。</translatorcomment>
-        <translation type="unfinished">更改胜利ME</translation>
+        <translation>更改胜利 ME</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="41"/>
         <source>Change Save Access</source>
-        <translation type="unfinished">改变保存方式</translation>
+        <translation>启用/禁用存档</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="42"/>
         <source>Change Menu Access</source>
-        <translation>改变菜单接口</translation>
+        <translation>启用/禁用菜单</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="43"/>
         <source>Change Encounter</source>
-        <translation>改变遭遇</translation>
+        <translation>启用/禁用遇敌</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="44"/>
         <source>Change Formation Access</source>
-        <translation>改变列队接口</translation>
+        <translation>启用/禁用整队</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="45"/>
         <source>Change Window Color</source>
-        <translation>改变窗口颜色</translation>
+        <translation>更改窗口颜色</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="46"/>
         <source>Change Defeat ME</source>
-        <translation>改变失败ME</translation>
+        <translation>更改战败 ME</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="47"/>
         <source>Change Vehicle BGM</source>
         <translatorcomment>comment：元翻訳「改变车辆BGM」を変更して「改变载具BGM」になりました。</translatorcomment>
-        <translation type="unfinished">改变载具BGM</translation>
+        <translation>更改载具 BGM</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="48"/>
         <source>Transfer Player</source>
-        <translation>转移玩家</translation>
+        <translation>场所移动</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="49"/>
         <source>Set Vehicle Location</source>
-        <translation>设置车辆位置</translation>
+        <translation>设置载具位置</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="50"/>
@@ -10269,29 +10270,29 @@ Please lower the file size of this project.</source>
         <location filename="../qml/Singletons/EventCommands.qml" line="54"/>
         <source>Get on/off Vehicle</source>
         <translatorcomment>comment：元翻訳「上/下车辆」を変更して「乘/下船」になりました。</translatorcomment>
-        <translation type="unfinished">乘/下船</translation>
+        <translation>载具乘降</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="55"/>
         <source>Change Transparency</source>
-        <translation>改变透明度</translation>
+        <translation>更改透明状态</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="56"/>
         <source>Change Player Followers</source>
         <translatorcomment>comment：元翻訳「改变玩家追随者」を「更改队伍行进」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改队伍行进</translation>
+        <translation>更改队列行进</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="57"/>
         <source>Gather Followers</source>
         <translatorcomment>comment：元翻訳「聚集追随者」を「集合队伍成员」に変更しました。</translatorcomment>
-        <translation type="unfinished">集合队伍成员</translation>
+        <translation>集合队列成员</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="58"/>
         <source>Show Animation</source>
-        <translation>展示动画</translation>
+        <translation>显示动画</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="59"/>
@@ -10301,113 +10302,113 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="60"/>
         <source>Erase Event</source>
-        <translation>去除事件</translation>
+        <translation>暂时消除事件</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="61"/>
         <source>Fadeout Screen</source>
-        <translation>淡出屏幕</translation>
+        <translation>淡出画面</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="62"/>
         <source>Fadein Screen</source>
-        <translation>淡入屏幕</translation>
+        <translation>淡入画面</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="63"/>
         <source>Tint Screen</source>
-        <translation>屏幕染色</translation>
+        <translation>更改画面色调</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="64"/>
         <source>Flash Screen</source>
         <translatorcomment>comment：元翻訳「屏幕闪光」を変更して「闪光屏」になりました。</translatorcomment>
-        <translation type="unfinished">闪光屏</translation>
+        <translation>闪烁画面</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="65"/>
         <source>Shake Screen</source>
-        <translation type="unfinished">摇晃屏幕</translation>
+        <translation>震动屏幕</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="66"/>
         <source>Wait</source>
-        <translation>等候</translation>
+        <translation>等待</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="67"/>
         <source>Show Picture</source>
-        <translation>展示照片</translation>
+        <translation>显示图片</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="68"/>
         <source>Move Picture</source>
-        <translation>照片移动</translation>
+        <translation>移动图片</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="69"/>
         <source>Rotate Picture</source>
-        <translation>照片旋转</translation>
+        <translation>旋转图片</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="70"/>
         <source>Tint Picture</source>
-        <translation>照片染色</translation>
+        <translation>更改图片色调</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="71"/>
         <source>Erase Picture</source>
-        <translation>去除照片</translation>
+        <translation>消除图片</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="72"/>
         <source>Set Weather Effect</source>
-        <translation>设置天气影响</translation>
+        <translation>设置天气</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="73"/>
         <source>Play BGM</source>
-        <translation>播放BGM</translation>
+        <translation>播放 BGM</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="74"/>
         <source>Fadeout BGM</source>
-        <translation>淡出BGM</translation>
+        <translation>淡出 BGM</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="75"/>
         <source>Save BGM</source>
-        <translation>保存BGM</translation>
+        <translation>保存 BGM</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="76"/>
         <source>Replay BGM</source>
-        <translation>重放BGM</translation>
+        <translation>还原 BGM</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="77"/>
         <source>Play BGS</source>
-        <translation>播放BGS</translation>
+        <translation>播放 BGS</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="78"/>
         <source>Fadeout BGS</source>
-        <translation>淡出BGS</translation>
+        <translation>淡出 BGS</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="79"/>
         <source>Play ME</source>
-        <translation>播完ME</translation>
+        <translation>播放 ME</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="80"/>
         <source>Play SE</source>
-        <translation>播放SE</translation>
+        <translation>播放 SE</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="81"/>
         <source>Stop SE</source>
-        <translation>停止SE</translation>
+        <translation>停止 SE</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="82"/>
@@ -10417,167 +10418,167 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="83"/>
         <source>Change Map Name Display</source>
-        <translation>改变地图的名字展示</translation>
+        <translation>启用/禁用显示地图名称</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="84"/>
         <source>Change Tileset</source>
-        <translation>改变磁贴设置</translation>
+        <translation>更改地图图块</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="85"/>
         <source>Change Battle Back</source>
-        <translation>改变战斗背面</translation>
+        <translation>更改战斗背景</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="86"/>
         <source>Change Parallax</source>
-        <translation>改变视差</translation>
+        <translation>更改远景</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="87"/>
         <source>Get Location Info</source>
-        <translation>获得位置信息</translation>
+        <translation>获取指定位置的信息</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="88"/>
         <source>Battle Processing</source>
-        <translation>战斗进行</translation>
+        <translation>战斗处理</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="89"/>
         <source>If Win</source>
-        <translation>如果大胜</translation>
+        <translation>胜利时</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="90"/>
         <source>If Escape</source>
-        <translation>如果去除</translation>
+        <translation>逃跑时</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="91"/>
         <source>If Lose</source>
-        <translation>如果失败</translation>
+        <translation>战败时</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="93"/>
         <location filename="../qml/Singletons/EventCommands.qml" line="94"/>
         <source>Shop Processing</source>
-        <translation type="unfinished">购物进程</translation>
+        <translation>商店处理</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="95"/>
         <source>Name Input Processing</source>
-        <translation>名称输入进程</translation>
+        <translation>名字输入处理</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="96"/>
         <source>Change HP</source>
-        <translation>改变生命值</translation>
+        <translation>增减 HP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="97"/>
         <source>Change MP</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation type="unfinished">改变魔法值</translation>
+        <translation>增减 MP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="98"/>
         <source>Change TP</source>
-        <translation>改变TP</translation>
+        <translation>增减 TP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="99"/>
         <source>Change State</source>
-        <translation>改变状态</translation>
+        <translation>更改状态</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="100"/>
         <source>Recover All</source>
         <translatorcomment>comment：元翻訳「恢复全部」を変更して「完全恢复」になりました。</translatorcomment>
-        <translation type="unfinished">完全恢复</translation>
+        <translation>完全恢复</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="101"/>
         <source>Change EXP</source>
-        <translation>改变经验值</translation>
+        <translation>增减经验值</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="102"/>
         <source>Change Level</source>
-        <translation>改变等级</translation>
+        <translation>增减等级</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="103"/>
         <source>Change Parameter</source>
-        <translation>改变参数</translation>
+        <translation>增减能力值</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="104"/>
         <source>Change Skill</source>
-        <translation>改变技能</translation>
+        <translation>增减技能</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="105"/>
         <source>Change Equipment</source>
-        <translation>改变装备</translation>
+        <translation>更改装备</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="106"/>
         <source>Change Name</source>
-        <translation>改变名字</translation>
+        <translation>更改名字</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="107"/>
         <source>Change Class</source>
-        <translation>改变等级</translation>
+        <translation>更改职业</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="108"/>
         <source>Change Actor Images</source>
-        <translation>改变角色图像</translation>
+        <translation>更改角色图像</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="109"/>
         <source>Change Vehicle Image</source>
         <translatorcomment>comment：元翻訳「改变车辆图像」を変更して「改变船类图像」になりました。</translatorcomment>
-        <translation type="unfinished">改变船类图像</translation>
+        <translation>更改载具图像</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="110"/>
         <source>Change Nickname</source>
-        <translation type="unfinished">改变昵称</translation>
+        <translation>更改昵称</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="111"/>
         <source>Change Profile</source>
-        <translation>改变简介</translation>
+        <translation>更改简介</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="112"/>
         <source>Change Enemy HP</source>
-        <translation>改变敌人生命值</translation>
+        <translation>增减敌人 HP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="113"/>
         <source>Change Enemy MP</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation type="unfinished">改变敌人魔法值</translation>
+        <translation>增减敌人 MP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="114"/>
         <source>Change Enemy TP</source>
-        <translation>改变敌人TP</translation>
+        <translation>增减敌人 TP</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="115"/>
         <source>Change Enemy State</source>
-        <translation>改变敌人状态</translation>
+        <translation>更改敌人状态</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="116"/>
         <source>Enemy Recover All</source>
-        <translation>敌人全部康复</translation>
+        <translation>敌人完全恢复</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="117"/>
@@ -10587,33 +10588,33 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="118"/>
         <source>Enemy Transform</source>
-        <translation>敌人转变</translation>
+        <translation>敌人变身</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="119"/>
         <source>Show Battle Animation</source>
-        <translation>展示战斗动画</translation>
+        <translation>显示战斗动画</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="120"/>
         <source>Force Action</source>
         <translatorcomment>comment：元翻訳「武力行为」を変更して「强制操作」になりました。</translatorcomment>
-        <translation type="unfinished">强制操作</translation>
+        <translation>强制战斗行动</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="121"/>
         <source>Abort Battle</source>
-        <translation>放弃战斗</translation>
+        <translation>战斗中断</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="122"/>
         <source>Open Menu Screen</source>
-        <translation>打开菜单屏幕</translation>
+        <translation>打开菜单画面</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="123"/>
         <source>Open Save Screen</source>
-        <translation>打开保存屏幕</translation>
+        <translation>打开存档画面</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="124"/>
@@ -10623,64 +10624,64 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="125"/>
         <source>Return to Title Screen</source>
-        <translation>回到标题屏幕</translation>
+        <translation>返回标题画面</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="126"/>
         <location filename="../qml/Singletons/EventCommands.qml" line="127"/>
         <source>Script</source>
-        <translation>剧本</translation>
+        <translation>脚本</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="128"/>
         <source>Plugin Command</source>
-        <translation type="unfinished">插命令件</translation>
+        <translation>插件指令</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="129"/>
         <source>Undefined Command</source>
-        <translation>未定义命令</translation>
+        <translation>未定义指令</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="133"/>
         <source>Opens the message window and displays text.</source>
-        <translation>打开信息窗口展示文本。</translation>
+        <translation>打开消息窗口并显示文字。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="134"/>
         <source>Displays a list of choices and branches handling.</source>
-        <translation>展示选择列表和分支处理。</translation>
+        <translation>显示选项列表，并根据选项进行分支。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="135"/>
         <source>Enters a natural number and stores it in a variable.</source>
         <translatorcomment>comment：元翻訳「键入一个自然数并将其存入一个变量。」中に誤字がありましたので、修正致しました。</translatorcomment>
-        <translation type="unfinished">输入一个自然数并将其存入一个变量。</translation>
+        <translation>输入一个自然数并将其存入一个变量。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="136"/>
         <source>Selects an item possessed by the party and stores its item ID in a variable.</source>
-        <translation>选择一个被小组拥有的物品并在变量中储存这个物品的ID。</translation>
+        <translation>选择一个队伍持有的物品，并将物品 ID 存入变量。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="137"/>
         <source>Displays text that scrolls from the bottom of the screen to the top.</source>
-        <translation type="unfinished">展示文本从屏幕底部滚动到顶部。</translation>
+        <translation>显示从画面顶部滚动到顶部的文字。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="138"/>
         <source>Turns a switch ON/OFF.</source>
-        <translation>把一个开关打开/关闭。</translation>
+        <translation>打开/关闭开关。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="139"/>
         <source>Changes the numeric value stored in the variable.</source>
-        <translation>改变储存在变量中的数字值。</translation>
+        <translation>更改变量中存储的数值。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="140"/>
         <source>Turns a self switch ON/OFF. Used only on the map screen.</source>
-        <translation>把自动开关打开/关闭。是仅用在地图屏幕上的。</translation>
+        <translation>打开/关闭独立开关。只能在地图画面使用。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="141"/>
@@ -10690,307 +10691,307 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="142"/>
         <source>Creates a portion to be run only when specific conditions are met.</source>
-        <translation type="unfinished">创建一个只有当特定条件满足时才会运行的部分。</translation>
+        <translation>创建只在满足特定条件下才会执行的处理。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="143"/>
         <source>Creates a portion to be run repeatedly.</source>
-        <translation>创建一个会重复运行的部分。</translation>
+        <translation>创建反复运行的部分。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="144"/>
         <source>Escapes the innermost loop.</source>
         <translatorcomment>comment：元翻訳「逃脱最里面的光环。」を変更して「退出最内层循环。」になりました。</translatorcomment>
-        <translation type="unfinished">退出最内层循环。</translation>
+        <translation>跳出最内层循环。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="145"/>
         <source>Ends running events.</source>
-        <translation>结束事件运行。</translation>
+        <translation>结束当前事件。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="146"/>
         <source>Calls up a common event. When the called event is complete, moves onto the next command.</source>
-        <translation>调用一个一般事件。当调用事件完成时，移动到下一个命令。</translation>
+        <translation>调用公共事件。公共事件执行结束后，执行下一条指令。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="147"/>
         <source>Sets the label name for jump.</source>
-        <translation>为跳跃设置标签名称。</translation>
+        <translation>设置跳转用的标签名称。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="148"/>
         <source>Moves to the specified label name. Only valid within this event list.</source>
-        <translation>移动到特定的标签名称。只在这个事件列表中有效。</translation>
+        <translation>跳转到指定的标签名称。只在同一事件页中有效。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="149"/>
         <source>Sets the comments displayed in the list. Has no effect in the game.</source>
-        <translation type="unfinished">设置评价展示在列表中。对游戏没有影响。</translation>
+        <translation>设置事件页中显示的注释。对游戏没有影响。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="150"/>
-        <source>Changes the amount of money in the party&apos;s inventory.</source>
-        <translation>改变小组库存中的金额数量。</translation>
+        <source>Changes the amount of money in the party's inventory.</source>
+        <translation>更改队伍持有的金钱数。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="151"/>
-        <source>Changes the item in the party&apos;s inventory.</source>
-        <translation>改变小组库存中的物品数量。</translation>
+        <source>Changes the item in the party's inventory.</source>
+        <translation>更改队伍持有的物品数量。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="152"/>
-        <source>Changes the weapon in the party&apos;s inventory.</source>
-        <translation>改变小组库存中的武器数量。</translation>
+        <source>Changes the weapon in the party's inventory.</source>
+        <translation>更改队伍持有的武器。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="153"/>
-        <source>Changes the armor in the party&apos;s inventory.</source>
-        <translation>改变小组库存中的盔甲数量。</translation>
+        <source>Changes the armor in the party's inventory.</source>
+        <translation>更改队伍持有的护甲。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="154"/>
         <source>Changes the actor in the party.</source>
-        <translation>改变小组的角色。</translation>
+        <translation>更改队伍中的角色。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="155"/>
         <source>Changes the HP of the actor.</source>
-        <translation>改变角色的生命值。</translation>
+        <translation>更改角色的 HP。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="156"/>
         <source>Changes the MP of the actor.</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation>改变角色的力量值。</translation>
+        <translation>更改角色的 MP。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="157"/>
         <source>Changes the TP of the actor.</source>
-        <translation>改变角色的TP。</translation>
+        <translation>更改角色的 TP。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="158"/>
         <source>Changes the state of the actor.</source>
-        <translation>改变角色的状态。</translation>
+        <translation>更改角色的状态。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="159"/>
         <source>Clears all states and fully recovers HP and MP.</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation>清空所有状态，加满生命值和力量值。</translation>
+        <translation>清空所有状态，恢复全部 HP 和 MP。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="160"/>
         <source>Changes the EXP of the actor.</source>
-        <translation>改变角色的经验值。</translation>
+        <translation>更改角色的经验值。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="161"/>
         <source>Changes the level of the actor.</source>
-        <translation>改变角色的等级。</translation>
+        <translation>更改角色的等级。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="162"/>
         <source>Changes the parameter of the actor.</source>
-        <translation>改变角色的参数。</translation>
+        <translation>更改角色的能力值。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="163"/>
         <source>Changes the skill of the actor.</source>
-        <translation>改变角色的技能。</translation>
+        <translation>更改角色的技能。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="164"/>
         <source>Changes the equipment of the actor.</source>
-        <translation>改变角色的装备。</translation>
+        <translation>更改角色的装备。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="165"/>
         <source>Changes the name of the actor.</source>
-        <translation>改变角色的名字。</translation>
+        <translation>更改角色的名字。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="166"/>
         <source>Changes the class of the actor.</source>
-        <translation>改变角色的级别。</translation>
+        <translation>更改角色的等级。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="167"/>
         <source>Changes the nickname of the actor.</source>
-        <translation type="unfinished">改变角色的昵称。</translation>
+        <translation>更改角色的昵称。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="168"/>
         <source>Changes the profile of the actor.</source>
-        <translation>改变角色的简介。</translation>
+        <translation>更改角色的简介。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="169"/>
         <source>Changes the current location of the player. Used only on the map screen.</source>
-        <translation>改变角色当前的位置。只在地图屏幕中使用。</translation>
+        <translation>更改角色当前的位置。只能在地图画面使用。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="170"/>
         <source>Changes the current location of the specified vehicle.</source>
-        <translation>改变特定车辆的当前位置。</translation>
+        <translation>更改指定载具的当前位置。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="171"/>
         <source>Changes the current location of the specified event. Cannot move the event to a different map.</source>
-        <translation>改变特定事件的当前位置。不能移动事件到不同的地图。</translation>
+        <translation>更改指定事件的当前位置。不能把事件移动到其他地图上。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="172"/>
-        <source>Scrolls the map without changing the player&apos;s location. Used only on the map screen.</source>
-        <translation type="unfinished">滚动地图但不改变角色的位置。只在地图屏幕上使用。</translation>
+        <source>Scrolls the map without changing the player's location. Used only on the map screen.</source>
+        <translation>滚动地图但不改变角色的位置。只能在地图画面上使用。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="173"/>
         <source>Forces the player or event to move. If a route already exists, it will be overwritten.</source>
         <translatorcomment>comment：元翻訳「迫使玩家或事件移动。如果路线已经存在，会被覆盖。」を変更して「强制玩家或事件运行。如果路线已经存在，会被覆盖。」になりました。</translatorcomment>
-        <translation type="unfinished">强制玩家或事件运行。如果路线已经存在，会被覆盖。</translation>
+        <translation>强制玩家或事件移动。已有的移动路线会被覆盖。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="174"/>
         <source>Puts the player on a vehicle. If the player is already on a vehicle, puts him on the ground.</source>
-        <translation>将玩家放到车上。如果玩家已经在车上，把他放到地面上。</translation>
+        <translation>使玩家乘上载具。如果玩家已在载具上，则使玩家回到地面上。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="175"/>
         <source>Changes whether to show or hide the player on the map.</source>
-        <translation>改变是否要在地图上显示或隐藏玩家。</translation>
+        <translation>更改是否在地图上显示玩家。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="176"/>
         <source>Changes whether to show or hide the party members that follow behind the player.</source>
         <translatorcomment>comment：元翻訳「选择是展示还是隐藏跟着玩家后面的追随者。」を「选择是展示还是隐藏跟着玩家队列成员。」に変更しました。</translatorcomment>
-        <translation type="unfinished">选择是展示还是隐藏跟着玩家队列成员。</translation>
+        <translation>更改是否显示玩家身后的队员。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="177"/>
         <source>Moves all party members to the same position as the lead character.</source>
-        <translation>把所有组员移动到和领袖角色一样的位置。</translation>
+        <translation>将所有队员移动到队长的位置。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="178"/>
         <source>Displays the specified animation to the character on the map.</source>
-        <translation>给地图上的角色展示特定的动画。</translation>
+        <translation>在地图上的角色上显示指定的动画。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="179"/>
-        <source>Displays the specified balloon icon above the character&apos;s head.</source>
-        <translation>在角色头上展示特定的气球图标。</translation>
+        <source>Displays the specified balloon icon above the character's head.</source>
+        <translation>在角色头上显示指定的气球图标。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="180"/>
         <source>Temporarily removes the current event on the map. If the player moves off of the map and returns, the event will reappear.</source>
-        <translation>在地图上暂时移除一般事件。如果玩家在地图上消失又回来，事件会再次出现。</translation>
+        <translation>在地图上暂时移除当前事件。如果玩家离开当前地图之后返回，事件会重新出现。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="181"/>
         <source>Fades out the entire screen.</source>
-        <translation>淡出整个屏幕。</translation>
+        <translation>淡出整个画面。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="182"/>
         <source>Fades in the entire screen.</source>
-        <translation>淡入整个屏幕。</translation>
+        <translation>淡入整个画面。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="183"/>
         <source>Changes the color tone of the entire screen. Also affects the battle screen.</source>
-        <translation>改变整个屏幕的色调。同样会影响战斗屏幕。</translation>
+        <translation>改变整个画面的色调。同样会影响战斗画面。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="184"/>
         <source>Temporarily fill the entire screen with a color, then gradually revert to the original color.</source>
-        <translation>暂时用一个颜色填满屏幕，然后逐渐回到原来的颜色。</translation>
+        <translation>暂时用一种颜色填充整个画面，然后逐渐恢复到原来的状态。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="185"/>
         <source>Shakes the entire screen from side to side.</source>
-        <translation type="unfinished">从一边到另一边摇晃整个屏幕。</translation>
+        <translation>左右摇晃整个画面。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="186"/>
         <source>Waits for a certain period of time.</source>
-        <translation type="unfinished">等候一段时间。</translation>
+        <translation>等待一段时间。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="187"/>
         <source>Displays the specified picture on top of the screen.</source>
-        <translation>在屏幕上方展示特定照片。</translation>
+        <translation>在画面顶部显示指定的图片。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="188"/>
         <source>Changes the properties of the picture.</source>
-        <translation type="unfinished">改变照片的属性。</translation>
+        <translation>更改图片的设置。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="189"/>
         <source>Changes the rotation speed of the picture.</source>
-        <translation>改变照片旋转的速度。</translation>
+        <translation>更改图片旋转的速度。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="190"/>
         <source>Changes the color tone of the picture.</source>
-        <translation>改变照片的色调。</translation>
+        <translation>更改图片的色调。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="191"/>
         <source>Removes the picture.</source>
-        <translation type="unfinished">删除照片。</translation>
+        <translation>移除图片。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="192"/>
         <source>Changes the weather effect such as rain and snow.</source>
-        <translation>改变天气影响比如下雨或下雪。</translation>
+        <translation>更改天气效果，如下雨和下雪。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="193"/>
         <source>Plays the specified BGM.</source>
-        <translation>播放特定的BGM。</translation>
+        <translation>播放指定 BGM。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="194"/>
         <source>Fades out the current BGM.</source>
-        <translation>淡出当前的BGM。</translation>
+        <translation>淡出当前的 BGM。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="195"/>
         <source>Saves the current BGM.</source>
-        <translation>保存当前的BGM。</translation>
+        <translation>保存当前的 BGM。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="196"/>
         <source>Replays the saved BGM.</source>
-        <translation>重放保存的BGM。</translation>
+        <translation>重放保存的 BGM。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="197"/>
         <source>Plays the specified BGS.</source>
-        <translation>播放特定的BGS。</translation>
+        <translation>播放指定的 BGS。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="198"/>
         <source>Fades out the current BGS.</source>
-        <translation>淡出当前的BGS。</translation>
+        <translation>淡出当前的 BGS。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="199"/>
         <source>Plays the specified ME.</source>
-        <translation>播放特定的ME。</translation>
+        <translation>播放指定的 ME。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="200"/>
         <source>Plays the specified SE.</source>
-        <translation>播放特定的SE。</translation>
+        <translation>播放指定的 SE。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="201"/>
         <source>Stop all the SE.</source>
-        <translation>停止所有的SE。</translation>
+        <translation>停止所有的 SE。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="202"/>
@@ -11000,166 +11001,166 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="203"/>
         <source>Calls up the shop screen.</source>
-        <translation>唤起停止屏幕。</translation>
+        <translation>呼出商店画面。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="204"/>
         <source>Calls up the name input screen.</source>
-        <translation>唤起名字输入屏幕。</translation>
+        <translation>呼出名字输入画面。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="205"/>
         <source>Calls up the menu screen.</source>
-        <translation>唤起菜单屏幕。</translation>
+        <translation>呼出菜单画面。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="206"/>
         <source>Calls up the save screen.</source>
-        <translation>唤起保存屏幕。</translation>
+        <translation>呼出存档画面。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="207"/>
         <source>Forces Game Over.</source>
         <translatorcomment>comment：元翻訳「迫使游戏结束。」を変更して「强制结束游戏。」になりました。</translatorcomment>
-        <translation type="unfinished">强制结束游戏。</translation>
+        <translation>强制结束游戏。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="208"/>
         <source>Returns to the title screen.</source>
-        <translation>回到标题屏幕。</translation>
+        <translation>回到标题画面。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="209"/>
         <source>Changes the BGM to be played during a battle.</source>
-        <translation>改变战斗中播放的BGM。</translation>
+        <translation>更改战斗中播放的 BGM。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="210"/>
         <source>Changes the ME to be played at winning a battle.</source>
-        <translation>改变在战斗获胜时播放的ME。</translation>
+        <translation>更改在战斗获胜时播放的 ME。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="211"/>
         <source>Enables or disables the saving of game data.</source>
-        <translation>允许或不许保存游戏数据。</translation>
+        <translation>启用或禁用存档。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="212"/>
         <source>Enables or disables menu screen calls.</source>
-        <translation>允许或不许调用屏幕菜单。</translation>
+        <translation>启用或禁用呼出菜单。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="213"/>
         <source>Enables or disables random encounters.</source>
-        <translation>允许或不许随机遭遇。</translation>
+        <translation>启用或禁用随机遇敌。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="214"/>
         <source>Enables or disables the formation command.</source>
-        <translation>允许或不许组队命令。</translation>
+        <translation>启用或禁用整队指令。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="215"/>
         <source>Changes the window background color.</source>
-        <translation>改变窗口背景颜色。</translation>
+        <translation>更改窗口背景颜色。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="216"/>
         <source>Changes the ME to be played at losing a battle.</source>
-        <translation>改变在败北时播放的ME。</translation>
+        <translation>更改在败北时播放的 ME。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="217"/>
         <source>Changes the BGM to be played while riding in a vehicle.</source>
-        <translation>改变在车上时播放的BGM。</translation>
+        <translation>更改乘坐载具时播放的 BGM。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="218"/>
         <source>Changes the image of the actor.</source>
-        <translation>改变角色的图像。</translation>
+        <translation>更改角色的图像。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="219"/>
         <source>Changes the image of the specified vehicle.</source>
-        <translation>改变特定车辆的图像。</translation>
+        <translation>更改指定载具的图像。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="220"/>
         <source>Plays the specified movie. Event processing is stopped until the movie ends.</source>
-        <translation>播放特定电影。事件进程停止直到电影结束。</translation>
+        <translation>播放指定的电影。电影结束后继续事件处理。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="221"/>
         <source>Changes whether to display the map name when changing the current map.</source>
-        <translation>改变是否要展示地图名称当改变当前地图时。</translation>
+        <translation>更改切换地图时是否显示地图名称。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="222"/>
         <source>Changes the tileset used by the current map temporarily.</source>
-        <translation>暂时改变磁贴在当前地图中的使用。</translation>
+        <translation>暂时更改当前地图的图块。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="223"/>
         <source>Changes the battle background associated with the current map temporarily.</source>
-        <translation>暂时改变和当前地图相关的战斗背景。</translation>
+        <translation>暂时更改当前地图的战斗背景。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="224"/>
         <source>Changes the parallax background associated with the current map temporarily.</source>
         <translatorcomment>comment：元翻訳「暂时改变和当前地图相关的视差背景。」を変更して「暂时改变和当前地图相关的循环背景。」になりました。</translatorcomment>
-        <translation type="unfinished">暂时改变和当前地图相关的循环背景。</translation>
+        <translation>暂时更改当前地图的远景。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="225"/>
         <source>Gets information related to specific coordinates on the current map.</source>
-        <translation>获得在当前地图上的特定坐标相关的信息。</translation>
+        <translation>获取与当前地图上指定的坐标相关的信息。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="226"/>
         <source>Changes the HP of the enemy.</source>
-        <translation>改变敌人的生命值。</translation>
+        <translation>更改敌人的 HP。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="227"/>
         <source>Changes the MP of the enemy.</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation>改变敌人的力量值。</translation>
+        <translation>更改敌人的 MP。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="228"/>
         <source>Changes the TP of the enemy.</source>
-        <translation>改变敌人的TP值。</translation>
+        <translation>更改敌人的 TP。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="229"/>
         <source>Changes the state of the enemy.</source>
-        <translation>改变敌人的状态。</translation>
+        <translation>更改敌人的状态。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="230"/>
         <source>Clears all states and fully recovers the HP and MP of the enemy.</source>
-        <translation>清空所有状态，给敌人加满生命值和力量值。</translation>
+        <translation>清空敌人的所有状态，并完全恢复 HP 和 MP。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="231"/>
         <source>Makes the enemy who has the [Appear Halfway] option to appear.</source>
-        <translation>让有[半路杀出]选项的敌人出现。</translation>
+        <translation>使选中“中途出现”选项的敌人出现。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="232"/>
         <source>Transforms the enemy. HP and MP will not be changed.</source>
-        <translation>转变敌人。生命值和力量值不变。</translation>
+        <translation>敌人变身，不改变 HP 和 MP。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="233"/>
         <source>Displays the specified animation on the battle screen.</source>
-        <translation>在战斗屏幕中展示特定的动画。</translation>
+        <translation>在战斗画面显示指定的动画。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="234"/>
         <source>Forces the specified action.</source>
         <translatorcomment>comment：元翻訳「迫使特定的行动。」を変更して「」になりました。</translatorcomment>
-        <translation type="unfinished">强制指定动作。</translation>
+        <translation>强制指定的战斗行动。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="235"/>
@@ -11169,12 +11170,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="236"/>
         <source>Evaluates text as JavaScript.</source>
-        <translation>以Java剧本评估文本。</translation>
+        <translation>将文本作为 JavaScript 代码求值。</translation>
     </message>
     <message>
         <location filename="../qml/Singletons/EventCommands.qml" line="237"/>
         <source>Send a command to a plugin.</source>
-        <translation>把一个命令发到插件。</translation>
+        <translation>向插件发送指令。</translation>
     </message>
 </context>
 <context>
@@ -11182,12 +11183,12 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Event/EventEditorMain.qml" line="12"/>
         <source>Event Editor</source>
-        <translation>事件编辑</translation>
+        <translation>事件编辑器</translation>
     </message>
     <message>
         <location filename="../qml/Event/EventEditorMain.qml" line="54"/>
         <source>Discard changes to this event?</source>
-        <translation type="unfinished">放弃对此事件的改变？</translation>
+        <translation>放弃对此事件的更改？</translation>
     </message>
 </context>
 <context>
@@ -11195,7 +11196,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Controls/EventImageBox.qml" line="148"/>
         <source>Tileset</source>
-        <translation>拼接设置</translation>
+        <translation>图块</translation>
     </message>
 </context>
 <context>
@@ -11203,7 +11204,7 @@ Please lower the file size of this project.</source>
     <message>
         <location filename="../qml/Controls/FileListBox.qml" line="98"/>
         <source>(None)</source>
-        <translation>(没有)</translation>
+        <translation>(无)</translation>
     </message>
 </context>
 <context>
@@ -11580,7 +11581,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Database/Group_BattleEvent.qml" line="197"/>
-        <source>Don&apos;t Run</source>
+        <source>Don't Run</source>
         <translation>不进行</translation>
     </message>
 </context>
@@ -11704,7 +11705,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Database/Group_Damage.qml" line="31"/>
-        <source>Element of the damage. Final damage varies depending on the target&apos;s resistance to the element in question.</source>
+        <source>Element of the damage. Final damage varies depending on the target's resistance to the element in question.</source>
         <translation type="unfinished">损害的元素。根据目标是否对提到的元素免疫，最终的损害会有变化。</translation>
     </message>
     <message>
@@ -11719,8 +11720,8 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Database/Group_Damage.qml" line="44"/>
-        <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, &quot;a.atk&quot; stands for user&apos;s attack power.</source>
-        <translation>用来计算基本损害的公式。玩家由a，目标由b表示，2者都由之后的一个点来让状态作为参考。比如， &quot;a.atk&quot;表示玩家的攻击力度。</translation>
+        <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, "a.atk" stands for user's attack power.</source>
+        <translation>用来计算基本损害的公式。玩家由a，目标由b表示，2者都由之后的一个点来让状态作为参考。比如， "a.atk"表示玩家的攻击力度。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Group_Damage.qml" line="58"/>
@@ -11739,7 +11740,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Database/Group_Damage.qml" line="68"/>
-        <source>Whether to enable critical hits. When enabled, critical hits will be determined based on the user&apos;s critical rate and the target&apos;s critical evasion rate.</source>
+        <source>Whether to enable critical hits. When enabled, critical hits will be determined based on the user's critical rate and the target's critical evasion rate.</source>
         <translation type="unfinished">是否允许致命打击。当允许后，致命打击由玩家的致命等级和目标的致命躲避等级决定。</translation>
     </message>
     <message>
@@ -12010,7 +12011,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Database/Group_Invocation.qml" line="19"/>
-        <source>Value that is added to the character&apos;s agility when determining action order. This allows you to create actions that are powerful but take a long time to perform.</source>
+        <source>Value that is added to the character's agility when determining action order. This allows you to create actions that are powerful but take a long time to perform.</source>
         <translation>当决定行为指令时的那个用来增加角色灵敏度的值。这会允许你创建出一个动作很强大，但需要很长的时间去完成。</translation>
     </message>
     <message>
@@ -12050,7 +12051,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Database/Group_Invocation.qml" line="50"/>
-        <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user&apos;s hit rate and target&apos;s evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target&apos;s magic evasion rate.</source>
+        <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user's hit rate and target's evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target's magic evasion rate.</source>
         <translation>用来决定打击的方法。 &lt;br&gt;[某些打击]当做成功使用该动作打击。.&lt;br&gt;[自然攻击]基于玩家的打击等级和目标的躲避等级来决定打击分数。&lt;br&gt;[魔法攻击]基于目标的魔法躲避等级来决定打击分数。</translation>
     </message>
     <message>
@@ -12413,7 +12414,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Database/Group_ParameterChanges.qml" line="14"/>
-        <source>Set how much the actor&apos;s parameters will increase by equipping this item.</source>
+        <source>Set how much the actor's parameters will increase by equipping this item.</source>
         <translation>设置增加装备物品后角色的参数增加量。</translation>
     </message>
 </context>
@@ -12904,7 +12905,7 @@ Please complete the post with follow this link.</source>
     <message>
         <location filename="../qml/Database/Group_SystemMessages.qml" line="107"/>
         <source>Substitute</source>
-        <translation>替代</translation>
+        <translation>掩护</translation>
     </message>
     <message>
         <location filename="../qml/Database/Group_SystemMessages.qml" line="108"/>
@@ -12996,7 +12997,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Database/Group_SystemOptions.qml" line="25"/>
-        <source>Starts the game with the player&apos;s transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
+        <source>Starts the game with the player's transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
         <translation>以玩家的透明旗帜打开的设置开始游戏。这能用[改变透明]的事件命令来关闭。</translation>
     </message>
     <message>
@@ -13038,7 +13039,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Database/Group_SystemOptions.qml" line="45"/>
-        <source>Displays the TP of each party member in the status window during battles. Uncheck this option if you don&apos;t use TP system.</source>
+        <source>Displays the TP of each party member in the status window during battles. Uncheck this option if you don't use TP system.</source>
         <translation>在战斗中展示每个组员的TP状态窗口。如果未使用TP系统的话不要选这项选择。</translation>
     </message>
     <message>
@@ -16465,8 +16466,8 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="214"/>
-        <source>%1&apos;s Party</source>
-        <translatorcomment>comment：元翻訳「%1&apos;的小组」を「%1队伍」に変更しました。</translatorcomment>
+        <source>%1's Party</source>
+        <translatorcomment>comment：元翻訳「%1'的小组」を「%1队伍」に変更しました。</translatorcomment>
         <translation type="unfinished">%1队伍</translation>
     </message>
     <message>
@@ -16675,18 +16676,18 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="249"/>
-        <source>%1&apos;s %2 went up!</source>
+        <source>%1's %2 went up!</source>
         <translation>%1 的%2 上升了!</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="250"/>
-        <source>%1&apos;s %2 went down!</source>
+        <source>%1's %2 went down!</source>
         <translation>%1 的%2 下降了!</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="251"/>
-        <source>%1&apos;s %2 returned to normal!</source>
-        <translation type="unfinished">%1&apos;的 %2恢复正常了！</translation>
+        <source>%1's %2 returned to normal!</source>
+        <translation type="unfinished">%1'的 %2恢复正常了！</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="252"/>
@@ -17678,7 +17679,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="243"/>
         <source>Project Description</source>
-        <translation>项目描述</translation>
+        <translation>项目说明</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="263"/>
@@ -18161,7 +18162,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="24"/>
-        <source>Based on the party&apos;s money.</source>
+        <source>Based on the party's money.</source>
         <translatorcomment>comment：元翻訳「根据小组的钱袋子。」を「根据队伍的金钱数量。」に変更しました。</translatorcomment>
         <translation type="unfinished">根据队伍的金钱数量。</translation>
     </message>
@@ -18655,7 +18656,7 @@ HP reaches 0.</source>
     <name>TutorialManager</name>
     <message>
         <location filename="../components/Tutorial.cpp" line="619"/>
-        <source>unterminated &quot;...&quot;: </source>
+        <source>unterminated "...": </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18821,7 +18822,7 @@ and in Event Mode you can place events.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="112"/>
-        <source>Since we&apos;re currently in Event Mode, you can edit events. 
+        <source>Since we're currently in Event Mode, you can edit events. 
 Events will be further explained later.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18883,7 +18884,7 @@ Give it a try.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="177"/>
-        <source>Now we&apos;re done with map zooming. 
+        <source>Now we're done with map zooming. 
 Next is an explanation of the map tree on the lower left.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18909,7 +18910,7 @@ Next is an explanation of the map tree on the lower left.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="204"/>
-        <source>Change the name to &quot;Field Map&quot;.</source>
+        <source>Change the name to "Field Map".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18919,7 +18920,7 @@ Next is an explanation of the map tree on the lower left.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="227"/>
-        <source>&gt; Let&apos;s put a town and a cave on the field map.</source>
+        <source>&gt; Let's put a town and a cave on the field map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18955,7 +18956,7 @@ Next is an explanation of the map tree on the lower left.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="278"/>
         <source>Next we will create town and cave maps. 
-This time we&apos;ll use a sample map.</source>
+This time we'll use a sample map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18978,7 +18979,7 @@ This time we&apos;ll use a sample map.</source>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="303"/>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="403"/>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="686"/>
-        <source>Click &quot;Normal Town&quot;.</source>
+        <source>Click "Normal Town".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18990,12 +18991,12 @@ This time we&apos;ll use a sample map.</source>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="335"/>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="580"/>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="612"/>
-        <source>Click &quot;Stone Cave&quot;.</source>
+        <source>Click "Stone Cave".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="351"/>
-        <source>Next we&apos;ll link each map to the field using events
+        <source>Next we'll link each map to the field using events
 so they can be entered and exited freely.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19021,7 +19022,7 @@ so they can be entered and exited freely.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="376"/>
-        <source>- It&apos;s easy to connect maps.</source>
+        <source>- It's easy to connect maps.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19060,7 +19061,7 @@ so they can be entered and exited freely.</source>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="467"/>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="548"/>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="644"/>
-        <source>Click &quot;Field Map&quot;.</source>
+        <source>Click "Field Map".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19122,8 +19123,8 @@ so they can be entered and exited freely.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="676"/>
-        <source>Now we&apos;re done placing our transfer events. 
-Next we will determine the player&apos;s initial position.</source>
+        <source>Now we're done placing our transfer events. 
+Next we will determine the player's initial position.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19158,7 +19159,7 @@ Next we will determine the player&apos;s initial position.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep1.js" line="721"/>
-        <source>That&apos;s it! Click Playtest.</source>
+        <source>That's it! Click Playtest.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19222,12 +19223,12 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="102"/>
-        <source>This time we&apos;re going to create a dungeon setup: rocks that move when pushed.</source>
+        <source>This time we're going to create a dungeon setup: rocks that move when pushed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="111"/>
-        <source>Click &quot;Stone Cave&quot; from the tree view.</source>
+        <source>Click "Stone Cave" from the tree view.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19238,14 +19239,14 @@ placed in the passage 3 tiles in width a bit above the entrance. </source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="127"/>
-        <source>The placement coordinate will be (16,18). It&apos;s 12 spaces above the entrance. 
-After making the event, we&apos;ll copy and paste it to the coordinates to the left and right of this space. 
+        <source>The placement coordinate will be (16,18). It's 12 spaces above the entrance. 
+After making the event, we'll copy and paste it to the coordinates to the left and right of this space. 
 First, find (16,18).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="135"/>
-        <source>We&apos;ll create the event. Double click (16,18).</source>
+        <source>We'll create the event. Double click (16,18).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19276,17 +19277,17 @@ the middle image (downward facing) in the first row of the group second from the
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="184"/>
-        <source>Check off &quot;Direction Fix&quot;.</source>
+        <source>Check off "Direction Fix".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="192"/>
-        <source>Set the trigger to &quot;Player Touch&quot;.</source>
+        <source>Set the trigger to "Player Touch".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="201"/>
-        <source>Next we&apos;ll set up the content. 
+        <source>Next we'll set up the content. 
 Double click the first line.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19298,12 +19299,12 @@ Double click the first line.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="217"/>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="274"/>
-        <source>Click &quot;Set Movement Route&quot;.</source>
+        <source>Click "Set Movement Route".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="225"/>
-        <source>Set the target to This Event. Now we&apos;ll set up the rock movement.</source>
+        <source>Set the target to This Event. Now we'll set up the rock movement.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19316,13 +19317,13 @@ Direction Fix ON</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="241"/>
-        <source>Check off &quot;Skip If Cannot Move&quot;. 
-Otherwise, if the rock can&apos;t be moved because of an obstacle, it&apos;ll freeze.</source>
+        <source>Check off "Skip If Cannot Move". 
+Otherwise, if the rock can't be moved because of an obstacle, it'll freeze.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="249"/>
-        <source>Remove the check from &quot;Wait for Completion&quot;. 
+        <source>Remove the check from "Wait for Completion". 
 This so the next movement event will run concurrently. </source>
         <translation type="unfinished"></translation>
     </message>
@@ -19357,12 +19358,12 @@ During the time the rock is moving, it will be the speed of the rock (3).</sourc
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="306"/>
-        <source>Check off &quot;Skip If Cannot Move&quot;.</source>
+        <source>Check off "Skip If Cannot Move".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="314"/>
-        <source>Leave the check on for &quot;Wait for Completion&quot;. 
+        <source>Leave the check on for "Wait for Completion". 
 This is so that the event waits for both the rock and player movements to finish.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19378,29 +19379,29 @@ This is so that the event waits for both the rock and player movements to finish
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="339"/>
-        <source>We&apos;ll copy the completed rock event to the left and right. 
+        <source>We'll copy the completed rock event to the left and right. 
 Click the completed rock.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="347"/>
-        <source>Right click the rock and select &quot;Copy&quot;.</source>
+        <source>Right click the rock and select "Copy".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="355"/>
-        <source>Right click on (15,18) to the left and select &quot;Paste&quot;.</source>
+        <source>Right click on (15,18) to the left and select "Paste".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="363"/>
-        <source>In the same way, right click on (17,18) to the right and select &quot;Paste&quot;.</source>
+        <source>In the same way, right click on (17,18) to the right and select "Paste".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="372"/>
         <source>Now three rocks have been placed. 
-In order to playtest, let&apos;s make the player starting position near the entrance.</source>
+In order to playtest, let's make the player starting position near the entrance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19422,22 +19423,22 @@ and select Set Starting Position &gt; Player.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="405"/>
         <source>Start a playtest. 
-Check that the rocks move, and that everything is all right even if they&apos;re pushed where they can&apos;t be moved.</source>
+Check that the rocks move, and that everything is all right even if they're pushed where they can't be moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="413"/>
-        <source>Once you&apos;re done with the playtest there will be a short explanation.</source>
+        <source>Once you're done with the playtest there will be a short explanation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="421"/>
-        <source>Did the rocks move properly? If it didn&apos;t go well, let&apos;s do the step over again.</source>
+        <source>Did the rocks move properly? If it didn't go well, let's do the step over again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep10.js" line="429"/>
-        <source>If it went well, let&apos;s try thinking about why they moved. 
+        <source>If it went well, let's try thinking about why they moved. 
 Well then, nicely done.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19502,25 +19503,25 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="102"/>
-        <source>In step 11, we&apos;re going to make a setup
+        <source>In step 11, we're going to make a setup
 that opens a door when a lever is operated.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="110"/>
-        <source>We&apos;ll place the door in the narrow path immediately to the right of the entrance (19,25),
+        <source>We'll place the door in the narrow path immediately to the right of the entrance (19,25),
 and the lever in a nearby corner (17,24).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="119"/>
-        <source>First, let&apos;s place the lever. Put your cursor over the corner to the upper right of the entrance (17,24)
+        <source>First, let's place the lever. Put your cursor over the corner to the upper right of the entrance (17,24)
 and double click there.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="127"/>
-        <source>Enter &quot;Door Lever&quot; as the name.</source>
+        <source>Enter "Door Lever" as the name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19551,12 +19552,12 @@ and click !Switch1.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="167"/>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="539"/>
-        <source>Check off &quot;Direction Fix&quot;.</source>
+        <source>Check off "Direction Fix".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="176"/>
-        <source>Next we&apos;ll set up the content. 
+        <source>Next we'll set up the content. 
 The content will be the door opening operation. 
 Double click the first line.</source>
         <translation type="unfinished"></translation>
@@ -19564,7 +19565,7 @@ Double click the first line.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="184"/>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="426"/>
-        <source>Click &quot;Control Switches...&quot;.</source>
+        <source>Click "Control Switches...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19576,7 +19577,7 @@ Double click the first line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="200"/>
-        <source>We&apos;ll be handling the second switch here. 
+        <source>We'll be handling the second switch here. 
 Click on 0002 from the list.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19594,14 +19595,14 @@ Dungeon Door.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="224"/>
-        <source>Make sure that the Switch is set to &quot;Single&quot;, &quot;0002 Dungeon Door&quot;,
+        <source>Make sure that the Switch is set to "Single", "0002 Dungeon Door",
 and that the Operation is set to on,
 and click OK.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="232"/>
-        <source>Next we&apos;ll set the noise when the door opens. 
+        <source>Next we'll set the noise when the door opens. 
 Double click the next line.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19613,7 +19614,7 @@ Double click the next line.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="248"/>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="386"/>
-        <source>Click &quot;Play SE...&quot;.</source>
+        <source>Click "Play SE...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19629,19 +19630,19 @@ and click it.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="273"/>
-        <source>Now we&apos;re done with setup for page 1. 
-Click &quot;New Event Page&quot; and create page 2.</source>
+        <source>Now we're done with setup for page 1. 
+Click "New Event Page" and create page 2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="281"/>
         <source>We will set up page 2. 
-Click &quot;Switch&quot; in Condition.</source>
+Click "Switch" in Condition.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="289"/>
-        <source>We&apos;ll change the switch number. 
+        <source>We'll change the switch number. 
 Click the switch number.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19663,7 +19664,7 @@ This is the lever pushed to the opposite direction of the one in page 1.</source
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="337"/>
-        <source>Just like with page 1, check off &quot;Direction Fix&quot;.</source>
+        <source>Just like with page 1, check off "Direction Fix".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19675,17 +19676,17 @@ Double click the first line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="354"/>
-        <source>Make sure you&apos;re on the page 2 tab.</source>
+        <source>Make sure you're on the page 2 tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="362"/>
-        <source>Click &quot;Gather Followers&quot;.</source>
+        <source>Click "Gather Followers".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="370"/>
-        <source>&quot;Gather Followers&quot; is a command that will gather the party members to the leader. We&apos;ll execute this to prevent party members from getting trapped in the door that appears.</source>
+        <source>"Gather Followers" is a command that will gather the party members to the leader. We'll execute this to prevent party members from getting trapped in the door that appears.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19712,20 +19713,20 @@ and click OK.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="450"/>
-        <source>Click &quot;OFF&quot; in Operation.</source>
+        <source>Click "OFF" in Operation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="458"/>
-        <source>Make sure that the switch is set to &quot;Single&quot; &quot;0002&quot;, and that the Operation is &quot;OFF&quot;
+        <source>Make sure that the switch is set to "Single" "0002", and that the Operation is "OFF"
 and click OK.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="466"/>
         <source>Now the on and off switch is complete. 
-&quot;Play SE&quot; and &quot;Control Switch&quot; are in reverse order,
-but the order doesn&apos;t matter for this.</source>
+"Play SE" and "Control Switch" are in reverse order,
+but the order doesn't matter for this.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19746,7 +19747,7 @@ but the order doesn&apos;t matter for this.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="499"/>
-        <source>Enter &quot;Lever-Operated Door&quot; for the name.</source>
+        <source>Enter "Lever-Operated Door" for the name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19761,18 +19762,18 @@ but the order doesn&apos;t matter for this.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="547"/>
-        <source>Double click the first line in &quot;Contents&quot;.</source>
+        <source>Double click the first line in "Contents".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="555"/>
-        <source>Select &quot;Show Text...&quot;.</source>
+        <source>Select "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="563"/>
         <source>Simply enter: 
-&quot;You cannot pass.&quot;</source>
+"You cannot pass."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19782,14 +19783,14 @@ but the order doesn&apos;t matter for this.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="580"/>
-        <source>Now we&apos;re done with setup for page 1. 
-With &quot;New Event Page&quot;, create page 2.</source>
+        <source>Now we're done with setup for page 1. 
+With "New Event Page", create page 2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="588"/>
         <source>This will be the opened door. 
-Check off &quot;Switch&quot; in Condition.</source>
+Check off "Switch" in Condition.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19800,8 +19801,8 @@ and click OK.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep11.js" line="612"/>
-        <source>That&apos;s all we need to do for page 2&apos;s setup. 
-This is because this is a &quot;nothing&quot; state, where the door has disappeared. 
+        <source>That's all we need to do for page 2's setup. 
+This is because this is a "nothing" state, where the door has disappeared. 
 Click OK and set the event.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19884,7 +19885,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="102"/>
-        <source>From this step onward we&apos;ll be handling a &quot;database&quot;. 
+        <source>From this step onward we'll be handling a "database". 
 Within the database there are a very large number of items for the configuration of various things in the game,
  so we will explain them in order. </source>
         <translation type="unfinished"></translation>
@@ -19893,69 +19894,69 @@ Within the database there are a very large number of items for the configuration
         <location filename="../qml/Tutorial/TutorialStep12.js" line="111"/>
         <source>In this step we will focus on getting acquainted with the main character and enemies,
 as well as battle. 
-First, we&apos;ll open the database.</source>
+First, we'll open the database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="120"/>
-        <source>The first tab is &quot;Actors&quot;. 
+        <source>The first tab is "Actors". 
 Actors refers to the main character and his allies,
 and is a very important term in RPG Maker MV.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="128"/>
-        <source>In this tutorial, we&apos;ll use
-the word &quot;actor&quot; to describe these.</source>
+        <source>In this tutorial, we'll use
+the word "actor" to describe these.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="136"/>
-        <source>We&apos;ll also call the collection of actors the &quot;party&quot;. 
+        <source>We'll also call the collection of actors the "party". 
 Now for the explanation of actors.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="144"/>
-        <source>Note that in the actor configuration there is a &quot;class&quot; setting. 
+        <source>Note that in the actor configuration there is a "class" setting. 
 Within a class, various abilities are configured. 
-For example, Harold is a &quot;Hero&quot;.</source>
+For example, Harold is a "Hero".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="152"/>
-        <source>Click the &quot;Classes&quot; tab.</source>
+        <source>Click the "Classes" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="160"/>
         <source>Here, you can set class abilities in detail. 
-Currently &quot;Hero&quot; is selected from the list,
-so Harold&apos;s ability values are being shown.</source>
+Currently "Hero" is selected from the list,
+so Harold's ability values are being shown.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="168"/>
-        <source>In &quot;Parameter Curves&quot;, you can set how a value
+        <source>In "Parameter Curves", you can set how a value
 will grow with each level up.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="176"/>
-        <source>What&apos;s important here is &quot;Traits&quot;. 
+        <source>What's important here is "Traits". 
 This is a setting peculiar to RPG Maker MV so there will be a detailed explanation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="185"/>
-        <source>In &quot;Traits&quot;, you can configure various components such as
+        <source>In "Traits", you can configure various components such as
 basic hit and evasion rate values in addition to types of equipment that can be used,
 usable skill types, and more.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="194"/>
-        <source>In short, you can list various factors in &quot;Traits&quot; and by setting them, those traits will be the actor&apos;s traits.</source>
+        <source>In short, you can list various factors in "Traits" and by setting them, those traits will be the actor's traits.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19967,7 +19968,7 @@ and no attacks will land, so be careful.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="212"/>
-        <source>Traits can also be added to weapons and armor, as well as states. Click on the &quot;Weapons&quot; tab to give it a try.</source>
+        <source>Traits can also be added to weapons and armor, as well as states. Click on the "Weapons" tab to give it a try.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19978,19 +19979,19 @@ They will be appended to an actor only when they have the equipment on. </source
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="228"/>
-        <source>For example, while the trait here is &quot;Hit Rate +0%&quot;,
-the hit rate for the actor&apos;s class is 95%,
+        <source>For example, while the trait here is "Hit Rate +0%",
+the hit rate for the actor's class is 95%,
 so in total, hit rate will be 95%. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="236"/>
-        <source>Please click the &quot;States&quot; tab.</source>
+        <source>Please click the "States" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="244"/>
-        <source>&quot;States&quot; are temporary status changes such as &quot;Poison&quot; or &quot;Paralyze&quot;.</source>
+        <source>"States" are temporary status changes such as "Poison" or "Paralyze".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20000,24 +20001,24 @@ so in total, hit rate will be 95%. </source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="260"/>
-        <source>Now let&apos;s go back to &quot;Classes&quot; for a moment.</source>
+        <source>Now let's go back to "Classes" for a moment.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="269"/>
-        <source>Next, take a look at &quot;Skills to Learn&quot;. 
-&quot;Skills&quot; are a general name for &quot;Magic&quot; or &quot;Special Moves&quot;.</source>
+        <source>Next, take a look at "Skills to Learn". 
+"Skills" are a general name for "Magic" or "Special Moves".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="277"/>
-        <source>Learned skills can be created/configured in the &quot;Skills&quot; tab. Click the &quot;Skills&quot; tab.</source>
+        <source>Learned skills can be created/configured in the "Skills" tab. Click the "Skills" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="286"/>
-        <source>&quot;Attack&quot; and &quot;Guard&quot; are configured as skills,
-but there&apos;s no need to worry about those right now.</source>
+        <source>"Attack" and "Guard" are configured as skills,
+but there's no need to worry about those right now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20027,12 +20028,12 @@ but there&apos;s no need to worry about those right now.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="302"/>
-        <source>Currently, the skill descriptions are blank, so why don&apos;t we add a description.</source>
+        <source>Currently, the skill descriptions are blank, so why don't we add a description.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="310"/>
-        <source>Click #8, &quot;Heal&quot;. 
+        <source>Click #8, "Heal". 
 The settings for Heal are displayed.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20044,7 +20045,7 @@ The settings for Heal are displayed.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="326"/>
-        <source>Click #9, &quot;Fire&quot;.</source>
+        <source>Click #9, "Fire".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20055,7 +20056,7 @@ The settings for Heal are displayed.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="342"/>
-        <source>Click #10, &quot;Spark&quot;.</source>
+        <source>Click #10, "Spark".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20072,8 +20073,8 @@ Next, click the Item tab.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="367"/>
-        <source>We&apos;re going to fill in the blank descriptions like we did with skills. 
-Make sure #1, &quot;Potion&quot;, is selected.</source>
+        <source>We're going to fill in the blank descriptions like we did with skills. 
+Make sure #1, "Potion", is selected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20084,7 +20085,7 @@ Make sure #1, &quot;Potion&quot;, is selected.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="383"/>
-        <source>Click #2, &quot;Magic Water&quot;.</source>
+        <source>Click #2, "Magic Water".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20095,7 +20096,7 @@ Make sure #1, &quot;Potion&quot;, is selected.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="399"/>
-        <source>Click #3, &quot;Dispel Herb&quot;.</source>
+        <source>Click #3, "Dispel Herb".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20106,7 +20107,7 @@ in the description.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="415"/>
-        <source>Click #4, &quot;Stimulant&quot;.</source>
+        <source>Click #4, "Stimulant".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20119,7 +20120,7 @@ in the description.</source>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="432"/>
         <source>Item descriptions will now appear. 
 Next up, an explanation of enemies the party will fight. 
-Click the &quot;Enemies&quot; tab.</source>
+Click the "Enemies" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20135,14 +20136,14 @@ you can set ability values and traits, like with Actors.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="456"/>
-        <source>When you change the &quot;Action Pattern&quot;,
+        <source>When you change the "Action Pattern",
 you can make them use skills, and set the skills
 they can use depending on a condition.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="465"/>
-        <source>Now, just making an enemy isn&apos;t enough for them to show up in battle. You&apos;ll need to make &quot;Troops&quot;, and add them there. Click the &quot;Troops&quot; tab.</source>
+        <source>Now, just making an enemy isn't enough for them to show up in battle. You'll need to make "Troops", and add them there. Click the "Troops" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20153,25 +20154,25 @@ Enemies are added alone, or in groups.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="481"/>
-        <source>These &quot;troops&quot; are the groups of enemies the party will actually battle.</source>
+        <source>These "troops" are the groups of enemies the party will actually battle.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="489"/>
-        <source>You can add and remove enemies from troops here. In the second half of this step, we&apos;ll actually create a troop.</source>
+        <source>You can add and remove enemies from troops here. In the second half of this step, we'll actually create a troop.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="498"/>
         <source>Also, it is possible to test battles here without actually launching the game. 
-Click &quot;Battle Test...&quot;.</source>
+Click "Battle Test...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="506"/>
         <source>A window where you can configure each actor has appeared. 
 Here, you can set your hypothetical level and equipment, and run a test where you battle the troop. 
-This time, there&apos;s no need to change anything.</source>
+This time, there's no need to change anything.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20185,12 +20186,12 @@ so you can check item effects.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="523"/>
         <source>You likely noticed a few things in battle. 
-For example, there is an unfamiliar value called &quot;TP&quot;, but that will be explained in the next step.</source>
+For example, there is an unfamiliar value called "TP", but that will be explained in the next step.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="532"/>
-        <source>Also, if you choose &quot;Escape&quot;, even if you fail, the success rate
+        <source>Also, if you choose "Escape", even if you fail, the success rate
 will increase slightly with each turn.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20201,7 +20202,7 @@ will increase slightly with each turn.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="550"/>
-        <source>Click &quot;Battle Test&quot;.</source>
+        <source>Click "Battle Test".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20211,24 +20212,24 @@ will increase slightly with each turn.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="567"/>
-        <source>Like this, in &quot;Battle Test&quot; you can playtest battles in an almost identical environment as an actual battle.</source>
+        <source>Like this, in "Battle Test" you can playtest battles in an almost identical environment as an actual battle.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="578"/>
         <source>Alright. Until now the battles have been front-view,
 but you can also make them side-view. 
-Click the &quot;System&quot; tab. </source>
+Click the "System" tab. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="586"/>
-        <source>Check &quot;Use Side-view Battle&quot;.</source>
+        <source>Check "Use Side-view Battle".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="594"/>
-        <source>Let&apos;s try a battle test under these conditions. 
+        <source>Let's try a battle test under these conditions. 
 Click the Troops tab.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20250,8 +20251,8 @@ From now on in this tutorial, it will be assumed that side-view battle is being 
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="628"/>
-        <source>Now then, let&apos;s try making a new troop. 
-Click &quot;Change Maximum...&quot;.</source>
+        <source>Now then, let's try making a new troop. 
+Click "Change Maximum...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20271,13 +20272,13 @@ Click &quot;Change Maximum...&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="660"/>
-        <source>We&apos;re going to make a troop of Slime*2, and Bat*2. 
+        <source>We're going to make a troop of Slime*2, and Bat*2. 
 First, click Slime.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="668"/>
-        <source>Click &quot;&lt; Add&quot; twice. Two slimes will be added.</source>
+        <source>Click "&lt; Add" twice. Two slimes will be added.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20287,7 +20288,7 @@ First, click Slime.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="684"/>
-        <source>Click &quot;&lt; Add&quot; twice. Two bats will be added.</source>
+        <source>Click "&lt; Add" twice. Two bats will be added.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20299,42 +20300,42 @@ it would be ideal if we could move the enemies slightly to the left.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="700"/>
         <source>If you drag the enemies to the left, you can change their position
-so let&apos;s slide them all over.</source>
+so let's slide them all over.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="708"/>
-        <source>Next we&apos;ll name the troop. Click &quot;Auto-name&quot;. 
+        <source>Next we'll name the troop. Click "Auto-name". 
 An appropriate name will be generated.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="717"/>
-        <source>Now let&apos;s run a battle test.</source>
+        <source>Now let's run a battle test.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="725"/>
         <source>Click OK and start the battle test. 
-There&apos;s a large number of enemies, so use Harold&apos;s &quot;Spark&quot; wisely.</source>
+There's a large number of enemies, so use Harold's "Spark" wisely.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="733"/>
-        <source>When you&apos;re done with the battle test, this step is complete. 
+        <source>When you're done with the battle test, this step is complete. 
 Click OK and set the database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="742"/>
-        <source>Click &quot;Save&quot;.</source>
+        <source>Click "Save".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep12.js" line="750"/>
-        <source>Now we&apos;re done with this step. 
+        <source>Now we're done with this step. 
 Well done. 
-Next time we&apos;ll handle the database again.</source>
+Next time we'll handle the database again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -20414,13 +20415,13 @@ Projects are in the Games folder in My Documents.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="128"/>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="317"/>
-        <source>Click &quot;Change Maximum...&quot;.</source>
+        <source>Click "Change Maximum...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="136"/>
         <source>Change the maximum from 4 to 6. 
-We&apos;ll make 2 new items.</source>
+We'll make 2 new items.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20431,20 +20432,20 @@ We&apos;ll make 2 new items.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="153"/>
-        <source>First let&apos;s create an &quot;Elixir&quot;. 
-Its effect will be restoration of HP and MP to the maximum value. We&apos;re going to make it by tweaking the settings of a
-pre-existing item, the &quot;Potion&quot;.</source>
+        <source>First let's create an "Elixir". 
+Its effect will be restoration of HP and MP to the maximum value. We're going to make it by tweaking the settings of a
+pre-existing item, the "Potion".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="161"/>
-        <source>Left click on #1, &quot;Potion&quot;.</source>
+        <source>Left click on #1, "Potion".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="169"/>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="638"/>
-        <source>Right click and select &quot;Copy&quot;.</source>
+        <source>Right click and select "Copy".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20454,7 +20455,7 @@ pre-existing item, the &quot;Potion&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="185"/>
-        <source>Right click and select &quot;Paste&quot;. 
+        <source>Right click and select "Paste". 
 Now the configuration for the potion is copied to #5.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20477,54 +20478,54 @@ fully restores HP and MP.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="219"/>
         <source>Next we will set up the effect. 
-Click &quot;Recover HP 500&quot;</source>
+Click "Recover HP 500"</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="227"/>
-        <source>Right click and select &quot;Edit...&quot;.</source>
+        <source>Right click and select "Edit...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="235"/>
-        <source>Change &quot;0%&quot; to &quot;100%&quot;.</source>
+        <source>Change "0%" to "100%".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="243"/>
-        <source>Change &quot;500&quot; to &quot;0&quot;.</source>
+        <source>Change "500" to "0".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="251"/>
-        <source>Now we&apos;re done configuring it to restore HP to its max. Click OK to set the effect.</source>
+        <source>Now we're done configuring it to restore HP to its max. Click OK to set the effect.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="259"/>
-        <source>We&apos;re also going to set up the full MP recovery. 
+        <source>We're also going to set up the full MP recovery. 
 Double click the next line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="267"/>
-        <source>Check off &quot;Recover MP&quot;.</source>
+        <source>Check off "Recover MP".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="275"/>
-        <source>Make sure the effect is &quot;100%&quot;+&quot;0&quot;
+        <source>Make sure the effect is "100%"+"0"
 and click OK.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="283"/>
-        <source>We&apos;re also going to change the animation when it is used in battle.</source>
+        <source>We're also going to change the animation when it is used in battle.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="291"/>
-        <source>Open the Animation menu, and change it to #42 &quot;Heal One 2&quot;.</source>
+        <source>Open the Animation menu, and change it to #42 "Heal One 2".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20537,7 +20538,7 @@ Of course you can also use it in a battle test.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="309"/>
         <source>Next is the creation of a new skill. 
-We&apos;ll make it the special move of Therese, who doesn&apos;t have any skills. 
+We'll make it the special move of Therese, who doesn't have any skills. 
 Click the Skills tab.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20548,8 +20549,8 @@ Click the Skills tab.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="342"/>
-        <source>We&apos;ll make it a skill called Triple Strike. Once again we will transform an existing skill to create it. 
-Click #5, &quot;Triple Attack&quot;.</source>
+        <source>We'll make it a skill called Triple Strike. Once again we will transform an existing skill to create it. 
+Click #5, "Triple Attack".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20564,8 +20565,8 @@ Click #5, &quot;Triple Attack&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="366"/>
-        <source>Right click and select &quot;Paste&quot;. 
-It&apos;s been copied to #11.</source>
+        <source>Right click and select "Paste". 
+It's been copied to #11.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20582,31 +20583,31 @@ It&apos;s been copied to #11.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="391"/>
         <source>We will change the message when the skill is used. 
-Click &quot;uses!&quot;.</source>
+Click "uses!".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="399"/>
-        <source>Change the Skill Type to &quot;Special&quot;.</source>
+        <source>Change the Skill Type to "Special".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="407"/>
-        <source>Let&apos;s go into more detail about skill types.</source>
+        <source>Let's go into more detail about skill types.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="415"/>
         <source>The only skill types that actors may use
-are skills of the type listed in their &quot;traits&quot;.</source>
+are skills of the type listed in their "traits".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="424"/>
-        <source>In short, for a &quot;Special&quot; skill type, if
-&quot;special&quot; is not set as a skill type in the actor&apos;s traits,
-they cannot use the skill even if they&apos;ve learned it. 
-Also, if their skill type is &quot;None&quot;, the actor would be unable to use it.</source>
+        <source>In short, for a "Special" skill type, if
+"special" is not set as a skill type in the actor's traits,
+they cannot use the skill even if they've learned it. 
+Also, if their skill type is "None", the actor would be unable to use it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20618,24 +20619,24 @@ Additionally, enemies can use skills regardless of skill type.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="440"/>
-        <source>That&apos;s all. Would you like to read the explanation again?</source>
+        <source>That's all. Would you like to read the explanation again?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="449"/>
-        <source>Then we can continue the explanation. Therese doesn&apos;t have &quot;Special&quot; as her skill type,
-so we need to deal with this. Click the &quot;Actor&quot; tab.</source>
+        <source>Then we can continue the explanation. Therese doesn't have "Special" as her skill type,
+so we need to deal with this. Click the "Actor" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="457"/>
-        <source>Click the tab for #2, &quot;Therese&quot;.</source>
+        <source>Click the tab for #2, "Therese".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="465"/>
-        <source>Therese&apos;s class is #2, &quot;Warrior&quot;. 
-We will change the &quot;Traits&quot; for &quot;Warrior&quot;.</source>
+        <source>Therese's class is #2, "Warrior". 
+We will change the "Traits" for "Warrior".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20645,24 +20646,24 @@ We will change the &quot;Traits&quot; for &quot;Warrior&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="481"/>
-        <source>Click #2 from the list, &quot;Warrior&quot;.</source>
+        <source>Click #2 from the list, "Warrior".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="489"/>
-        <source>&quot;Add Skill Type Magic&quot; is there, but not Special. 
+        <source>"Add Skill Type Magic" is there, but not Special. 
 It seems natural that a warrior would use special moves.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="497"/>
-        <source>Double click &quot;Add Skill Type Magic&quot;.</source>
+        <source>Double click "Add Skill Type Magic".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="505"/>
-        <source>Make sure that &quot;Add Skill Type&quot; is checked off,
-click &quot;Magic&quot; and change it to &quot;Special&quot;.</source>
+        <source>Make sure that "Add Skill Type" is checked off,
+click "Magic" and change it to "Special".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20672,7 +20673,7 @@ click &quot;Magic&quot; and change it to &quot;Special&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="521"/>
-        <source>Now Theresa is able to use special moves instead of magic. Let&apos;s go back to skill editing. 
+        <source>Now Theresa is able to use special moves instead of magic. Let's go back to skill editing. 
 Click Skills.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20685,14 +20686,14 @@ Set the TP Cost to 5.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="538"/>
-        <source>Since it costs TP, we&apos;ll set the TP Gain to 0. 
+        <source>Since it costs TP, we'll set the TP Gain to 0. 
 The TP Gain is how much TP is gained when a skill/item is used.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="547"/>
-        <source>Now we&apos;re done creating the skill. 
-Here we&apos;ll give an explanation of TP.</source>
+        <source>Now we're done creating the skill. 
+Here we'll give an explanation of TP.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20705,54 +20706,54 @@ and when specific actions are taken.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="564"/>
         <source>The value at the start of battle will be from 0 to 25,
-but if the actor has the &quot;Preserve TP&quot; trait,
+but if the actor has the "Preserve TP" trait,
 the TP value at the end of the battle will be carried over.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="572"/>
         <source>The primary use is for creating powerful skills that cost TP. 
-That&apos;s all. Would you like to hear the explanation again?</source>
+That's all. Would you like to hear the explanation again?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="581"/>
-        <source>Then let&apos;s move on. 
-We&apos;re going to make Therese learn the skill. 
+        <source>Then let's move on. 
+We're going to make Therese learn the skill. 
 Click the Classes tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="589"/>
-        <source>Make sure #2, &quot;Warrior&quot;, is selected.</source>
+        <source>Make sure #2, "Warrior", is selected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="597"/>
-        <source>Double click the topmost line in &quot;Skills to Learn&quot;.</source>
+        <source>Double click the topmost line in "Skills to Learn".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="605"/>
-        <source>We won&apos;t change the level or the note. 
-Click on the Skill and select #11, &quot;Triple Strike&quot;.</source>
+        <source>We won't change the level or the note. 
+Click on the Skill and select #11, "Triple Strike".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="613"/>
         <source>Click OK and it will be set. 
-Therese has learned &quot;Triple Strike&quot;.</source>
+Therese has learned "Triple Strike".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="622"/>
-        <source>Next, we&apos;ll make an item that boosts TP. 
+        <source>Next, we'll make an item that boosts TP. 
 Click the Item tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="630"/>
-        <source>We&apos;ll make item #6 based on #1, the potion. 
+        <source>We'll make item #6 based on #1, the potion. 
 Click Potion.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20763,7 +20764,7 @@ Click Potion.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="654"/>
-        <source>Right click and select &quot;Paste&quot;. 
+        <source>Right click and select "Paste". 
 Now the configuration for the potion is copied to #6.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20780,12 +20781,12 @@ Restores 50 TP.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="679"/>
-        <source>Change the occasion from &quot;Always&quot; to &quot;Battle Screen&quot;.</source>
+        <source>Change the occasion from "Always" to "Battle Screen".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="687"/>
-        <source>Double click the line under Effects that says &quot;Recover HP 500&quot;.</source>
+        <source>Double click the line under Effects that says "Recover HP 500".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20801,12 +20802,12 @@ Restores 50 TP.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="711"/>
         <source>Click OK to set the effect. 
-With this, we&apos;ve created the TP Charge.</source>
+With this, we've created the TP Charge.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="720"/>
-        <source>In these steps, we&apos;ve finished creating items and a skill. 
+        <source>In these steps, we've finished creating items and a skill. 
 Click OK and set the database update.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20817,7 +20818,7 @@ Click OK and set the database update.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="737"/>
-        <source>Lastly, in order to test the effects of the items and skill we created, let&apos;s run a battle test. 
+        <source>Lastly, in order to test the effects of the items and skill we created, let's run a battle test. 
 Please open the database once more.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20839,7 +20840,7 @@ Please open the database once more.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="770"/>
         <source>Click OK and conduct the battle test. 
-Test out Therese&apos;s skill and the new items.</source>
+Test out Therese's skill and the new items.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20850,12 +20851,12 @@ Test out Therese&apos;s skill and the new items.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="786"/>
         <source>Then we will close the database. 
-There were no changes, so click &quot;Cancel&quot;.</source>
+There were no changes, so click "Cancel".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep13.js" line="794"/>
-        <source>Well done. In these 2 steps you&apos;ve been
+        <source>Well done. In these 2 steps you've been
 introduced to the database. There are still unexplained settings,
 but please familiarize yourself with them bit by bit.</source>
         <translation type="unfinished"></translation>
@@ -20921,7 +20922,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="102"/>
-        <source>This time, we&apos;ll make damage floors and a skill to avoid them.</source>
+        <source>This time, we'll make damage floors and a skill to avoid them.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20932,28 +20933,28 @@ Please open the database.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="119"/>
-        <source>Click the &quot;Tileset&quot; tab.</source>
+        <source>Click the "Tileset" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="127"/>
-        <source>Click #4, &quot;Dungeon&quot;.</source>
+        <source>Click #4, "Dungeon".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="135"/>
-        <source>Click &quot;Damage Floors&quot;.</source>
+        <source>Click "Damage Floors".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="143"/>
         <source>The tiles with a double triangle mark are damage floors. 
-You can change them by clicking, but we won&apos;t be changing them this time.</source>
+You can change them by clicking, but we won't be changing them this time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="151"/>
-        <source>When the party leader walks over &quot;damage floor&quot; tiles, all party members will lose 10 HP.</source>
+        <source>When the party leader walks over "damage floor" tiles, all party members will lose 10 HP.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20969,7 +20970,7 @@ We will place damage floors on the dungeon map.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="176"/>
-        <source>Click on &quot;Stone Cave&quot; from the map tree.</source>
+        <source>Click on "Stone Cave" from the map tree.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20979,8 +20980,8 @@ We will place damage floors on the dungeon map.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="192"/>
-        <source>Place the damage floor wherever you&apos;d like. 
-When you&apos;re done, we&apos;ll move on.</source>
+        <source>Place the damage floor wherever you'd like. 
+When you're done, we'll move on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21003,13 +21004,13 @@ and then create a skill that applies that state when cast.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="226"/>
         <source>So let us first create the state. 
-Click the &quot;States&quot; tab.</source>
+Click the "States" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="235"/>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="380"/>
-        <source>Click &quot;Change Maximum...&quot;.</source>
+        <source>Click "Change Maximum...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21063,7 +21064,7 @@ Double click the image area.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="315"/>
-        <source>Check off &quot;Sp-Parameter&quot;.</source>
+        <source>Check off "Sp-Parameter".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21078,13 +21079,13 @@ Double click the image area.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="339"/>
-        <source>Now we&apos;re done setting the traits for &quot;Floor Damage Immunity&quot;. 
+        <source>Now we're done setting the traits for "Floor Damage Immunity". 
 Click OK and it will be set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="347"/>
-        <source>Check off &quot;Remove by Walking&quot; under Removal Conditions.</source>
+        <source>Check off "Remove by Walking" under Removal Conditions.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21094,15 +21095,15 @@ Click OK and it will be set.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="363"/>
-        <source>Under &quot;If the state is removed&quot;,
+        <source>Under "If the state is removed",
 enter: 
-&quot;You are vulnerable to floor damage again.&quot;</source>
+"You are vulnerable to floor damage again."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="372"/>
-        <source>Now we&apos;re done configuring the state. 
-Next, click the &quot;Skill&quot; tab.</source>
+        <source>Now we're done configuring the state. 
+Next, click the "Skill" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21117,13 +21118,13 @@ Next, click the &quot;Skill&quot; tab.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="404"/>
-        <source>This time we don&apos;t have any similar skills, so we&apos;ll start from scratch. 
+        <source>This time we don't have any similar skills, so we'll start from scratch. 
 Click on blank #12.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="412"/>
-        <source>Let&apos;s give it a skill name. 
+        <source>Let's give it a skill name. 
 Enter:
 Cancel Floor Damage</source>
         <translation type="unfinished"></translation>
@@ -21166,7 +21167,7 @@ Cancel Floor Damage</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="476"/>
-        <source>Click &quot;casts *!&quot; as the message.</source>
+        <source>Click "casts *!" as the message.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21176,39 +21177,39 @@ Cancel Floor Damage</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="492"/>
-        <source>Click the &quot;State&quot; tab.</source>
+        <source>Click the "State" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="500"/>
-        <source>Check off &quot;Add State&quot;.</source>
+        <source>Check off "Add State".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="508"/>
-        <source>Select &quot;Floor Damage Immunity&quot; from the states.</source>
+        <source>Select "Floor Damage Immunity" from the states.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="516"/>
-        <source>Make sure it&apos;s set to 100%,
+        <source>Make sure it's set to 100%,
 click OK and set it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="525"/>
-        <source>Now the skill is complete. We&apos;ll make someone learn it. 
-Click the &quot;Classes&quot; tab.</source>
+        <source>Now the skill is complete. We'll make someone learn it. 
+Click the "Classes" tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="533"/>
-        <source>Click #4, &quot;Priest&quot;.</source>
+        <source>Click #4, "Priest".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="541"/>
-        <source>Click the next line in &quot;Skills to Learn&quot;.</source>
+        <source>Click the next line in "Skills to Learn".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21220,20 +21221,20 @@ and select #12, Cancel Floor Damage. </source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="566"/>
         <source>Now Lucius has learned floor damage magic. 
-Here&apos;s one more explanation. 
+Here's one more explanation. 
 Click the System tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="574"/>
-        <source>If the option &quot;Knockout by Floor Damage&quot;
+        <source>If the option "Knockout by Floor Damage"
 is not checked off, the HP of the actors will not go below 1 even if they are hit by a damage floor. 
 This time we will leave it unchecked.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep14.js" line="582"/>
-        <source>Now we&apos;re done configuring the database. 
+        <source>Now we're done configuring the database. 
 Click OK and it will be set.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21322,12 +21323,12 @@ in the dungeon where the player can save and heal.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="111"/>
-        <source>Click on &quot;Stone Cave&quot; from the map tree.</source>
+        <source>Click on "Stone Cave" from the map tree.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="119"/>
-        <source>Having a spot where you can save and heal right before a boss is par for the course in RPGs these days, and we&apos;ll be using the same plan here.</source>
+        <source>Having a spot where you can save and heal right before a boss is par for the course in RPGs these days, and we'll be using the same plan here.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21342,7 +21343,7 @@ in the dungeon where the player can save and heal.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="143"/>
-        <source>This time, we&apos;ll place a restore point on the floor nearby (30,11). 
+        <source>This time, we'll place a restore point on the floor nearby (30,11). 
 Find (30,11).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21378,23 +21379,23 @@ Find (30,11).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="200"/>
-        <source>Check off &quot;Direction Fix&quot;.</source>
+        <source>Check off "Direction Fix".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="208"/>
-        <source>Change the priority to &quot;Below characters&quot;.</source>
+        <source>Change the priority to "Below characters".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="216"/>
-        <source>Set the trigger to &quot;Player Touch&quot;. 
-Now we&apos;ve made it so the event will be launched when the player stands on it.</source>
+        <source>Set the trigger to "Player Touch". 
+Now we've made it so the event will be launched when the player stands on it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="225"/>
-        <source>Double click the topmost line in &quot;Contents&quot;.</source>
+        <source>Double click the topmost line in "Contents".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21404,7 +21405,7 @@ Now we&apos;ve made it so the event will be launched when the player stands on i
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="241"/>
-        <source>Click &quot;Gather Followers&quot;.</source>
+        <source>Click "Gather Followers".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21418,7 +21419,7 @@ Now we&apos;ve made it so the event will be launched when the player stands on i
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="257"/>
-        <source>Click &quot;Play SE...&quot;.</source>
+        <source>Click "Play SE...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21433,7 +21434,7 @@ Now we&apos;ve made it so the event will be launched when the player stands on i
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="289"/>
-        <source>Click &quot;Flash Screen...&quot;.</source>
+        <source>Click "Flash Screen...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21455,25 +21456,25 @@ Double click the next line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="322"/>
-        <source>Note: We will not be using &quot;Recover All&quot; this time. 
+        <source>Note: We will not be using "Recover All" this time. 
 This is for removing all states, so even positive states
 like floor damage immunity will be removed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="330"/>
-        <source>Instead we will combine &quot;Change State&quot;, &quot;Change HP&quot; and &quot;Change MP&quot;.</source>
+        <source>Instead we will combine "Change State", "Change HP" and "Change MP".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="338"/>
         <source>First we will remove Knockout. 
-Click &quot;Change State...&quot;.</source>
+Click "Change State...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="346"/>
-        <source>Make sure that the Actor is set to Entire Party, and that the State is set to Knockout. Then click &quot;Remove&quot;.</source>
+        <source>Make sure that the Actor is set to Entire Party, and that the State is set to Knockout. Then click "Remove".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21485,13 +21486,13 @@ Click OK and it will be set.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="370"/>
-        <source>Click &quot;Change HP...&quot;.</source>
+        <source>Click "Change HP...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="378"/>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="410"/>
-        <source>Make sure that the Actor is set to &quot;Entire Party&quot; and that the Operation is &quot;Increase&quot;, and then enter 9999 as the constant.</source>
+        <source>Make sure that the Actor is set to "Entire Party" and that the Operation is "Increase", and then enter 9999 as the constant.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21502,7 +21503,7 @@ Click OK and it will be set.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="402"/>
-        <source>Click &quot;Change MP...&quot;.</source>
+        <source>Click "Change MP...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21513,7 +21514,7 @@ Double click the next line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="435"/>
-        <source>Click &quot;Show Text...&quot;.</source>
+        <source>Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21529,7 +21530,7 @@ Double click the next line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="467"/>
-        <source>Click &quot;Show Choices...&quot;.</source>
+        <source>Click "Show Choices...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21539,8 +21540,8 @@ Double click the next line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="483"/>
-        <source>&quot;When Yes&quot; will perform the save process, while &quot;When No&quot; will do nothing. 
-Double click the line under &quot;When Yes&quot;.</source>
+        <source>"When Yes" will perform the save process, while "When No" will do nothing. 
+Double click the line under "When Yes".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21557,7 +21558,7 @@ Double click the line under &quot;When Yes&quot;.</source>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="508"/>
         <source>Here we will have a brief explanation on saves. 
 You can always save from the menu,
-but if you use the &quot;Change Save Access&quot; event command,
+but if you use the "Change Save Access" event command,
 the player will be unable to save from the menu.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21569,7 +21570,7 @@ but urging the player to save before an important part of the game like this wou
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="525"/>
-        <source>Now we&apos;re done making the restore point. 
+        <source>Now we're done making the restore point. 
 Click OK.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21589,7 +21590,7 @@ making sure your HP was actually recovered by checking on the menu.</source>
         <location filename="../qml/Tutorial/TutorialStep15.js" line="550"/>
         <source>Well done. Step 15 is done here. 
 This tutorial uses configuration with the minimum number of components,
-so there&apos;s lots of room for improvement. When you make your own projects,
+so there's lots of room for improvement. When you make your own projects,
 try adding even more components.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21654,12 +21655,12 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="102"/>
-        <source>In this step, we will place treasure chests and enemy troops in the dungeon. For battle, we&apos;ll be using symbol encounters.</source>
+        <source>In this step, we will place treasure chests and enemy troops in the dungeon. For battle, we'll be using symbol encounters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="110"/>
-        <source>Click &quot;Stone Cave&quot; from the tree view.</source>
+        <source>Click "Stone Cave" from the tree view.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21674,7 +21675,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="135"/>
-        <source>We&apos;ll use the grotto to the left of the entrance. 
+        <source>We'll use the grotto to the left of the entrance. 
 Find the coordinates (3,23).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21693,7 +21694,7 @@ Click Item.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="159"/>
-        <source>Select &quot;TP Charge&quot; from the item list.</source>
+        <source>Select "TP Charge" from the item list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21705,18 +21706,18 @@ Click Item.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="176"/>
         <source>Placing chests at dead ends
-makes it worth the player&apos;s while to explore them.</source>
+makes it worth the player's while to explore them.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="184"/>
-        <source>Now we&apos;ll place our second treasure. 
+        <source>Now we'll place our second treasure. 
 Scroll to the bottom right.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="192"/>
-        <source>It&apos;s just south of the room with the boss. 
+        <source>It's just south of the room with the boss. 
 Find (36,24).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21729,18 +21730,18 @@ Quick Event Creation &gt; Treasure.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="208"/>
-        <source>Check off &quot;Item&quot;.</source>
+        <source>Check off "Item".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="216"/>
         <source>Select #5, Elixir, from the item list. 
-This item can&apos;t be bought, and it&apos;s useful for bosses.</source>
+This item can't be bought, and it's useful for bosses.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="233"/>
-        <source>Now we&apos;ve placed 2 treasure chests. 
+        <source>Now we've placed 2 treasure chests. 
 For a cave of this size, 3 to 5 would be appropriate. 
 So we will place a few more chests.</source>
         <translation type="unfinished"></translation>
@@ -21749,12 +21750,12 @@ So we will place a few more chests.</source>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="241"/>
         <source>Place another 1 to 3 chests. 
 Where you place them and their contents is up to you. 
-Once you&apos;ve placed them, we&apos;ll move on.</source>
+Once you've placed them, we'll move on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="251"/>
-        <source>Next we will place enemy troops. They will be the typical weaklings that you&apos;d find in a dungeon.</source>
+        <source>Next we will place enemy troops. They will be the typical weaklings that you'd find in a dungeon.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21765,8 +21766,8 @@ and when touched, battle will start.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="268"/>
-        <source>Now, the opposite of a &quot;symbol encounter&quot; is a &quot;random encounter&quot;. 
-First we&apos;ll explain random encounters.</source>
+        <source>Now, the opposite of a "symbol encounter" is a "random encounter". 
+First we'll explain random encounters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21776,8 +21777,8 @@ First we&apos;ll explain random encounters.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="284"/>
-        <source>Let&apos;s explain how to set up random encounters. 
-Right click &quot;Stone Cave&quot; from the map tree and select &quot;Edit&quot;.</source>
+        <source>Let's explain how to set up random encounters. 
+Right click "Stone Cave" from the map tree and select "Edit".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21789,7 +21790,7 @@ in the Encounters list.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="300"/>
         <source>You can set the troops that will appear in that map (or a specified area of the map) and their weight (likelihood to be chosen as the encounter). 
-We won&apos;t be configuring this so click cancel.</source>
+We won't be configuring this so click cancel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21800,42 +21801,42 @@ This is a reference value for how many steps on average will be walked before a 
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="316"/>
-        <source>That&apos;s it for the random encounter explanation. 
-The main feature of random encounters is that you get the thrill of never knowing when a battle will happen, because you can&apos;t see the enemies. Click cancel and close the window.</source>
+        <source>That's it for the random encounter explanation. 
+The main feature of random encounters is that you get the thrill of never knowing when a battle will happen, because you can't see the enemies. Click cancel and close the window.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="325"/>
-        <source>Now let&apos;s return to symbol encounters. 
+        <source>Now let's return to symbol encounters. 
 Where should we put the enemy symbols?
 As an example, this time we will plan to put them near the treasures we placed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="333"/>
-        <source>If they&apos;re near treasure, players who wish to take the shortest route can avoid excessive battles,
+        <source>If they're near treasure, players who wish to take the shortest route can avoid excessive battles,
 and it also provides player incentive as they can open the treasures if they do battle.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="341"/>
-        <source>This time we&apos;ll keep it simple and place 3 enemy symbols.</source>
+        <source>This time we'll keep it simple and place 3 enemy symbols.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="350"/>
-        <source>Let&apos;s get to creating the event that will serve as an enemy symbol. If you make one, there&apos;s no issue if you duplicate by copying and pasting and then fine tune.</source>
+        <source>Let's get to creating the event that will serve as an enemy symbol. If you make one, there's no issue if you duplicate by copying and pasting and then fine tune.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="358"/>
-        <source>First, let&apos;s place troop #1 near our first treasure. 
+        <source>First, let's place troop #1 near our first treasure. 
 Scroll the map to display the lower left of the dungeon.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="367"/>
-        <source>We&apos;ll place them on (8,24). Find those coordinates.</source>
+        <source>We'll place them on (8,24). Find those coordinates.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21866,7 +21867,7 @@ Scroll the map to display the lower left of the dungeon.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="408"/>
         <source>From the bats on the leftmost side of the top half,
-we&apos;ll select the center of the right-facing sprites.</source>
+we'll select the center of the right-facing sprites.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21889,12 +21890,12 @@ we&apos;ll select the center of the right-facing sprites.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="440"/>
-        <source>We won&apos;t change the speed or frequency this time.</source>
+        <source>We won't change the speed or frequency this time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="449"/>
-        <source>Next, double click the first line in &quot;Contents&quot;.</source>
+        <source>Next, double click the first line in "Contents".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21910,7 +21911,7 @@ we&apos;ll select the center of the right-facing sprites.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="473"/>
         <source>Make sure that the
-Troop is set to &quot;Direct designation&quot;, and that #1, &quot;Bat*2&quot;, is selected.</source>
+Troop is set to "Direct designation", and that #1, "Bat*2", is selected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21936,7 +21937,7 @@ Troop is set to &quot;Direct designation&quot;, and that #1, &quot;Bat*2&quot;, 
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="497"/>
         <source>We will describe the process for when the player wins. 
-Double click the line under &quot;If Win&quot;.</source>
+Double click the line under "If Win".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21946,7 +21947,7 @@ Double click the line under &quot;If Win&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="513"/>
-        <source>Click &quot;Play SE...&quot;. 
+        <source>Click "Play SE...". 
 We will set the sound effect for when the enemy symbol disappears.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21973,7 +21974,7 @@ We will set the sound effect for when the enemy symbol disappears.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="554"/>
-        <source>When &quot;Erase Event&quot; is performed, that event will be changed to a non-existent state. 
+        <source>When "Erase Event" is performed, that event will be changed to a non-existent state. 
 But if you change maps, it will be restored.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21984,7 +21985,7 @@ But if you change maps, it will be restored.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="571"/>
-        <source>Next, double click the line under &quot;If Escape&quot;.</source>
+        <source>Next, double click the line under "If Escape".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21996,7 +21997,7 @@ But if you change maps, it will be restored.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="587"/>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="814"/>
-        <source>Click &quot;Control Self Switch...&quot;.</source>
+        <source>Click "Control Self Switch...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22007,19 +22008,19 @@ to ON, click OK and set it.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="603"/>
-        <source>We&apos;ll make it so that self switch A will be used as the condition
+        <source>We'll make it so that self switch A will be used as the condition
 to switch to page 2 when the player escapes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="612"/>
-        <source>Now we&apos;re done with setup for page 1. 
-Click &quot;New Event Page&quot;.</source>
+        <source>Now we're done with setup for page 1. 
+Click "New Event Page".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="620"/>
-        <source>We&apos;ll check off Self Switch as the Condition.</source>
+        <source>We'll check off Self Switch as the Condition.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22057,7 +22058,7 @@ Parallel will be described later.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="694"/>
-        <source>Double click the first line in &quot;Contents&quot;.</source>
+        <source>Double click the first line in "Contents".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22069,7 +22070,7 @@ Parallel will be described later.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="710"/>
-        <source>Click &quot;Set Movement Route&quot;.</source>
+        <source>Click "Set Movement Route".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22111,7 +22112,7 @@ Opacity: 128
 Wait: 120 frames
 Opacity: 255
 
-If there&apos;s no issue, click OK and set it.</source>
+If there's no issue, click OK and set it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22128,16 +22129,16 @@ it will return to its state in page 1 where it goes after the player.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="847"/>
-        <source>Now we will explain &quot;parallel processing&quot;. 
+        <source>Now we will explain "parallel processing". 
 Usually during event execution, the player
-can&apos;t move, however when the event is set to &quot;parallel&quot;,
+can't move, however when the event is set to "parallel",
 players and other events can move.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="855"/>
         <source>Parallel processing is a feature aimed at advanced users,
-so it&apos;s best not to use it too much while you&apos;re unfamiliar with it. 
+so it's best not to use it too much while you're unfamiliar with it. 
 Parallel processing takes up a particularly large amount of time,
 so if there are multiple events using parallel processing,
 you need to be careful as processing may slow down.</source>
@@ -22151,20 +22152,20 @@ Click OK and it will be set.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="872"/>
-        <source>Now, let&apos;s duplicate our enemy symbol. 
+        <source>Now, let's duplicate our enemy symbol. 
 Right click the symbol we created
 and select Copy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="880"/>
-        <source>We&apos;ll put our second symbol at the entrance of the stairs on the upper left. 
+        <source>We'll put our second symbol at the entrance of the stairs on the upper left. 
 Find (9,16).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="889"/>
-        <source>Right click on (9,16) and select &quot;Paste&quot;.</source>
+        <source>Right click on (9,16) and select "Paste".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22206,13 +22207,13 @@ Click OK and it will be set.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="993"/>
-        <source>We&apos;ll place the third one at the entrance of the space below the boss. 
+        <source>We'll place the third one at the entrance of the space below the boss. 
 Show around the middle of the right side of the map and find (32,19).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1002"/>
-        <source>Right click on (32,19) and select &quot;Paste&quot;.</source>
+        <source>Right click on (32,19) and select "Paste".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22222,7 +22223,7 @@ Show around the middle of the right side of the map and find (32,19).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1026"/>
-        <source>We&apos;ll make it troop #5.</source>
+        <source>We'll make it troop #5.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22242,7 +22243,7 @@ Show around the middle of the right side of the map and find (32,19).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1107"/>
-        <source>Now we&apos;re done placing the enemy symbols. 
+        <source>Now we're done placing the enemy symbols. 
 Next, click Database.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22254,13 +22255,13 @@ Next, click Database.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1123"/>
         <source>The EXP and Gold from bats and slimes is still 0,
-so let&apos;s enter some appropriate values. 
-First, we&apos;ll change the EXP from bats to 50.</source>
+so let's enter some appropriate values. 
+First, we'll change the EXP from bats to 50.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1131"/>
-        <source>We&apos;ll set their Gold to 20.</source>
+        <source>We'll set their Gold to 20.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22271,7 +22272,7 @@ First, we&apos;ll change the EXP from bats to 50.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1147"/>
-        <source>Click Item, and make sure it&apos;s set to #1, &quot;Potion&quot;,</source>
+        <source>Click Item, and make sure it's set to #1, "Potion",</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22291,12 +22292,12 @@ Click the second line.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1179"/>
         <source>Check off Item,
-and select #6, &quot;TP Charge&quot;.</source>
+and select #6, "TP Charge".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1203"/>
-        <source>Click #2 from the list, &quot;Slime&quot;.</source>
+        <source>Click #2 from the list, "Slime".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22308,7 +22309,7 @@ and Gold to 40.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1227"/>
         <source>Check off Item,
-and select #2, &quot;Magic Water&quot;.</source>
+and select #2, "Magic Water".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22319,18 +22320,18 @@ and select #2, &quot;Magic Water&quot;.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1259"/>
         <source>Check off Item,
-and select #4, &quot;Stimulant&quot;.</source>
+and select #4, "Stimulant".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1283"/>
-        <source>Now we&apos;re done configuring the database. 
+        <source>Now we're done configuring the database. 
 Click OK and it will be set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1292"/>
-        <source>Let&apos;s change the player&apos;s initial position. 
+        <source>Let's change the player's initial position. 
 Click Normal Town.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22349,7 +22350,7 @@ Set Starting Position &gt; Player.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1318"/>
-        <source>Now we&apos;re all set. 
+        <source>Now we're all set. 
 Save the project.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22362,13 +22363,13 @@ battle and escape from enemies, and be careful of damage floors.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1335"/>
-        <source>Once you&apos;re done with the playtest there will be a simple explanation.</source>
+        <source>Once you're done with the playtest there will be a simple explanation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1343"/>
         <source>You may have noticed certain aspects of RPG Maker MV,
-like how moving enemies don&apos;t stop even when you&apos;re investigating treasure, and that enemy symbols don&apos;t take damage from damage floors.</source>
+like how moving enemies don't stop even when you're investigating treasure, and that enemy symbols don't take damage from damage floors.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22379,7 +22380,7 @@ like how moving enemies don&apos;t stop even when you&apos;re investigating trea
     <message>
         <location filename="../qml/Tutorial/TutorialStep16.js" line="1359"/>
         <source>Well then, nicely done. 
-In the next step we&apos;ll place our boss.</source>
+In the next step we'll place our boss.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -22443,8 +22444,8 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="102"/>
-        <source>In this step, we&apos;ll create the cave boss. 
-We&apos;ll configure the database and adjust it to have strength suitable for a boss.</source>
+        <source>In this step, we'll create the cave boss. 
+We'll configure the database and adjust it to have strength suitable for a boss.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22459,52 +22460,52 @@ We&apos;ll configure the database and adjust it to have strength suitable for a 
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="127"/>
-        <source>Click #3 from the list, &quot;Orc&quot;. 
-We&apos;ll make this enemy the boss.</source>
+        <source>Click #3 from the list, "Orc". 
+We'll make this enemy the boss.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="136"/>
-        <source>Here&apos;s an example of how to adjust balance:
-Consider the player&apos;s assumed level and equipment
+        <source>Here's an example of how to adjust balance:
+Consider the player's assumed level and equipment
 to determine an initial strength, and after that make small adjustments with playtesting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="144"/>
-        <source>This time we&apos;ll assume a player level of 4. 
-We&apos;ll start our adjustments based on this.</source>
+        <source>This time we'll assume a player level of 4. 
+We'll start our adjustments based on this.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="153"/>
-        <source>Let&apos;s look at the regular attack combat formula. 
+        <source>Let's look at the regular attack combat formula. 
 Click the Skills tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="161"/>
-        <source>Make sure #1, &quot;Attack&quot;, is selected.</source>
+        <source>Make sure #1, "Attack", is selected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="169"/>
         <source>The damage formula is configured here. 
-This means &quot;Attack*4 - Defense*2&quot;.</source>
+This means "Attack*4 - Defense*2".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="177"/>
-        <source>&quot;Critical Hits&quot; are set to &quot;Yes&quot;. 
+        <source>"Critical Hits" are set to "Yes". 
 Critical hits deal 3 times the amount of damage. 
-It&apos;s very important to keep these in mind when setting your values, and to adjust
+It's very important to keep these in mind when setting your values, and to adjust
 using playtesting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="185"/>
-        <source>Additionally, there&apos;s no need to always make enemy attacks skill #1. It&apos;s also possible to create enemy-exclusive attack skills with different formulas and other settings. 
-We&apos;ll be proceeding in this tutorial without any additional changes.</source>
+        <source>Additionally, there's no need to always make enemy attacks skill #1. It's also possible to create enemy-exclusive attack skills with different formulas and other settings. 
+We'll be proceeding in this tutorial without any additional changes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22523,17 +22524,17 @@ Click Battle Test.</source>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="210"/>
         <source>Here we can see the ability values of
 actors at each level. 
-First, let&apos;s make Harold level 4.</source>
+First, let's make Harold level 4.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="218"/>
-        <source>Harold&apos;s level 4 stats will be shown.</source>
+        <source>Harold's level 4 stats will be shown.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="226"/>
-        <source>We&apos;ll make the other members level 4 in the same way. 
+        <source>We'll make the other members level 4 in the same way. 
 Switch to the page 2 tab.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22565,14 +22566,14 @@ Switch to the page 2 tab.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="274"/>
-        <source>Everyone&apos;s level 4 stats will be shown. 
+        <source>Everyone's level 4 stats will be shown. 
 While generally there would be a need to test equipment
-in addition to this, we won&apos;t be changing equipment this time so it&apos;s fine as-is.</source>
+in addition to this, we won't be changing equipment this time so it's fine as-is.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="283"/>
-        <source>Additionally, we will configure the enemy&apos;s initial values
+        <source>Additionally, we will configure the enemy's initial values
 while taking the skills that the actors can use into consideration.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22586,13 +22587,13 @@ so next time we can conduct the battle test with all members at level 4.</source
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="301"/>
-        <source>Now let&apos;s actually configure the boss parameters. 
+        <source>Now let's actually configure the boss parameters. 
 Click the Enemies tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="309"/>
-        <source>Make sure #3, &quot;Orc&quot;, is selected. 
+        <source>Make sure #3, "Orc", is selected. 
 This time, enter the following values
 as an example.</source>
         <translation type="unfinished"></translation>
@@ -22635,8 +22636,8 @@ so you can leave the EXP and Gold at 0.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="374"/>
-        <source>Next, we&apos;ll edit his action patterns. 
-We&apos;ll set the actions that can be taken and their conditions.</source>
+        <source>Next, we'll edit his action patterns. 
+We'll set the actions that can be taken and their conditions.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22648,18 +22649,18 @@ If a condition is not set, the action can always occur. (Excluding cases such as
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="390"/>
         <source>R refers to rating, which pertains to the rate at which the action is taken. 
-While you&apos;re still getting used to things, it&apos;s fine to leave them all at 5.</source>
+While you're still getting used to things, it's fine to leave them all at 5.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="399"/>
-        <source>First, we&apos;ll make him attack twice in one turn. 
-Double click the &quot;Attack&quot; line.</source>
+        <source>First, we'll make him attack twice in one turn. 
+Double click the "Attack" line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="407"/>
-        <source>Change the skill from #1, &quot;Attack&quot;, to #4, &quot;Double Attack&quot;.</source>
+        <source>Change the skill from #1, "Attack", to #4, "Double Attack".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22684,7 +22685,7 @@ Double click the &quot;Attack&quot; line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="431"/>
-        <source>Set it to skill #8, &quot;Heal&quot;.</source>
+        <source>Set it to skill #8, "Heal".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22702,7 +22703,7 @@ so change the 100 on the right to 35.</source>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="455"/>
         <source>Change the rating from 5 to 6. 
 Now when his HP is low,
-there&apos;s a higher chance of him using Heal instead of Double Attack.</source>
+there's a higher chance of him using Heal instead of Double Attack.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22712,7 +22713,7 @@ there&apos;s a higher chance of him using Heal instead of Double Attack.</source
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="479"/>
-        <source>Set it to skill #10, &quot;Spark&quot;.</source>
+        <source>Set it to skill #10, "Spark".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22727,9 +22728,9 @@ there&apos;s a higher chance of him using Heal instead of Double Attack.</source
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="503"/>
-        <source>We&apos;ll change the rating from 5 to 6. 
+        <source>We'll change the rating from 5 to 6. 
 Now when the condition is filled,
-there&apos;s a higher chance of him choosing Spark instead of Double Attack.</source>
+there's a higher chance of him choosing Spark instead of Double Attack.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22742,7 +22743,7 @@ he will use only Double Attack.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="528"/>
-        <source>Next we&apos;ll set his Traits. 
+        <source>Next we'll set his Traits. 
 Double click the next blank line.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22759,46 +22760,46 @@ Double click the next blank line.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="552"/>
         <source>Select Boss. 
-Now when he&apos;s defeated, his collapse animation will be more impressive.</source>
+Now when he's defeated, his collapse animation will be more impressive.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="568"/>
-        <source>Now, we&apos;re done configuring the Orc unit. 
+        <source>Now, we're done configuring the Orc unit. 
 Next, click the Troops tab.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="576"/>
-        <source>Select #3, &quot;Orc&quot;.</source>
+        <source>Select #3, "Orc".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="585"/>
-        <source>Now the preparation is complete. Let&apos;s battle test.</source>
+        <source>Now the preparation is complete. Let's battle test.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="593"/>
-        <source>Make sure each actor&apos;s level is 4
+        <source>Make sure each actor's level is 4
 and click OK.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="601"/>
-        <source>How was it? It was a bit tough, wasn&apos;t it? 
-We&apos;ll go with this strength.</source>
+        <source>How was it? It was a bit tough, wasn't it? 
+We'll go with this strength.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="611"/>
-        <source>Let&apos;s place the boss in the dungeon. 
+        <source>Let's place the boss in the dungeon. 
 Click OK and set the database changes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="619"/>
-        <source>Click &quot;Stone Cave&quot; from the tree view.</source>
+        <source>Click "Stone Cave" from the tree view.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22844,21 +22845,21 @@ Find those coordinates.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="693"/>
-        <source>Now let&apos;s set the contents. 
+        <source>Now let's set the contents. 
 Double click the first empty line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="701"/>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="789"/>
-        <source>Click &quot;Show Text...&quot;.</source>
+        <source>Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="709"/>
         <source>Enter in two lines: 
-&quot;You&apos;ve come far, humans. 
-But your judgment is nigh!&quot;
+"You've come far, humans. 
+But your judgment is nigh!"
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -22879,12 +22880,12 @@ But your judgment is nigh!&quot;
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="757"/>
-        <source>Since he&apos;s the boss, we won&apos;t check off &quot;Can Escape&quot;.</source>
+        <source>Since he's the boss, we won't check off "Can Escape".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="773"/>
-        <source>Now we&apos;ll describe the processing for after the battle is won. 
+        <source>Now we'll describe the processing for after the battle is won. 
 Double click the next line.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22896,7 +22897,7 @@ Double click the next line.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="797"/>
         <source>Enter: Curses...
- These are the orc&apos;s last words.</source>
+ These are the orc's last words.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22913,7 +22914,7 @@ Double click the next line.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="821"/>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1130"/>
-        <source>Click &quot;Control Self Switch...&quot;.</source>
+        <source>Click "Control Self Switch...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22925,14 +22926,14 @@ to ON, click OK and set it.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="838"/>
-        <source>Now we&apos;re done with setup for page 1. 
-Click &quot;New Event Page&quot;.</source>
+        <source>Now we're done with setup for page 1. 
+Click "New Event Page".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="846"/>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1155"/>
-        <source>We&apos;ll check off Self Switch as the Condition.</source>
+        <source>We'll check off Self Switch as the Condition.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22944,18 +22945,18 @@ Click &quot;New Event Page&quot;.</source>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="862"/>
         <source>Now the boss event is complete. 
 Click OK and set the event. 
-We&apos;ll make the ending in the next step.</source>
+We'll make the ending in the next step.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="871"/>
         <source>Run a playtest. For the sake of simplicity,
-we&apos;ll start right in front of the boss.</source>
+we'll start right in front of the boss.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="879"/>
-        <source>We&apos;ll make the player&apos;s initial coordinates close to the boss, at (34,11). Find those coordinates.</source>
+        <source>We'll make the player's initial coordinates close to the boss, at (34,11). Find those coordinates.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22967,14 +22968,14 @@ Set Starting Position &gt; Player.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="895"/>
-        <source>However, if we do it like this, the party&apos;s level will be at 1
-and they won&apos;t have any items. Thus we will make a
+        <source>However, if we do it like this, the party's level will be at 1
+and they won't have any items. Thus we will make a
 temporary event for playtesting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="904"/>
-        <source>We&apos;ll place the venue outside of the map, in a place like (28,9). 
+        <source>We'll place the venue outside of the map, in a place like (28,9). 
 Find (28,9).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22995,7 +22996,7 @@ Find (28,9).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="937"/>
-        <source>&quot;Autorun&quot; events will execute automatically
+        <source>"Autorun" events will execute automatically
 no matter where they are on the map when their condition is met. 
 This time, it will be executed as soon as the map is loaded.</source>
         <translation type="unfinished"></translation>
@@ -23008,23 +23009,23 @@ Double click the first line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="954"/>
-        <source>Click &quot;Change EXP...&quot;.</source>
+        <source>Click "Change EXP...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="962"/>
-        <source>Make sure that the Actor is set to &quot;Entire Party&quot; and that the Operation is &quot;Increase&quot;. 
+        <source>Make sure that the Actor is set to "Entire Party" and that the Operation is "Increase". 
 Set the Operand to a Constant of 400.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="986"/>
-        <source>Click &quot;Recover All...&quot;.</source>
+        <source>Click "Recover All...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="994"/>
-        <source>Make sure that the Actor is set to &quot;Entire Party&quot;
+        <source>Make sure that the Actor is set to "Entire Party"
 and click OK.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23032,18 +23033,18 @@ and click OK.</source>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1010"/>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1050"/>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1090"/>
-        <source>Click &quot;Change Items...&quot;.</source>
+        <source>Click "Change Items...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1018"/>
-        <source>Select item #4, &quot;Stimulant&quot;.</source>
+        <source>Select item #4, "Stimulant".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1026"/>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1066"/>
-        <source>Make sure that the Operation is &quot;Increase&quot;,
+        <source>Make sure that the Operation is "Increase",
 and set the Operand to 5.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23055,24 +23056,24 @@ and set the Operand to 5.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1058"/>
-        <source>Select item #5, &quot;Elixir&quot;.</source>
+        <source>Select item #5, "Elixir".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1098"/>
-        <source>Select item #6, &quot;TP Charge&quot;.</source>
+        <source>Select item #6, "TP Charge".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1106"/>
-        <source>Make sure that the Operation is &quot;Increase&quot;. 
+        <source>Make sure that the Operation is "Increase". 
 Set the Operand to a Constant of 5.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1114"/>
         <source>Click OK and it will be set. 
-Now we&apos;re all set for a boss battle.</source>
+Now we're all set for a boss battle.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23085,7 +23086,7 @@ Double click the next line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1147"/>
-        <source>With &quot;New Event Page&quot;, create page 2. 
+        <source>With "New Event Page", create page 2. 
 This is the page that will be switched to when autorun is done.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23101,7 +23102,7 @@ This is the page that will be switched to when autorun is done.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1180"/>
-        <source>We&apos;ll run our playtest in these conditions. 
+        <source>We'll run our playtest in these conditions. 
 First, save the project.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23112,14 +23113,14 @@ First, save the project.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1196"/>
-        <source>When you&apos;re done playtesting, we&apos;ll do postprocessing.</source>
+        <source>When you're done playtesting, we'll do postprocessing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1205"/>
-        <source>We&apos;ll stop our event for test use from launching during actual play. 
+        <source>We'll stop our event for test use from launching during actual play. 
 While deleting it is one solution,
-let&apos;s make it so we can use it as necessary. 
+let's make it so we can use it as necessary. 
 Double click the event for test use on (28,9).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23130,13 +23131,13 @@ Double click the event for test use on (28,9).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1221"/>
-        <source>Click &quot;New Event Page&quot;. 
+        <source>Click "New Event Page". 
 Page 3 has been created.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1229"/>
-        <source>We won&apos;t do any configuration on page 3. 
+        <source>We won't do any configuration on page 3. 
 Now page 3 will always be shown,
 and it will no longer switch to pages 1 and 2.</source>
         <translation type="unfinished"></translation>
@@ -23145,7 +23146,7 @@ and it will no longer switch to pages 1 and 2.</source>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1237"/>
         <source>From now on, if you want to enable this event for testing,
 change to the page 3 tab and use
-&quot;Delete Event Page&quot;.</source>
+"Delete Event Page".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23161,8 +23162,8 @@ change to the page 3 tab and use
     <message>
         <location filename="../qml/Tutorial/TutorialStep17.js" line="1261"/>
         <source>Well done. This is the end of Step 17. 
-In the next step we&apos;ll create
-and ending, so we&apos;ll leave the player starting position as it is.</source>
+In the next step we'll create
+and ending, so we'll leave the player starting position as it is.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -23226,26 +23227,26 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="102"/>
-        <source>In this step, we&apos;ll make an ending. 
-After that, we&apos;ll add some necessary flavor,
+        <source>In this step, we'll make an ending. 
+After that, we'll add some necessary flavor,
 including adding BGM to the maps.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="111"/>
         <source>On the top row of the map tree view, right click
-and select &quot;New...&quot;.</source>
+and select "New...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="119"/>
-        <source>Enter the map name as &quot;Ending&quot;.</source>
+        <source>Enter the map name as "Ending".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="127"/>
         <source>Click Autoplay BGM. 
-We&apos;ll specify the BGM that is played
+We'll specify the BGM that is played
 when this map is entered (i.e. when the ending starts).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23259,8 +23260,8 @@ when this map is entered (i.e. when the ending starts).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="143"/>
-        <source>We&apos;ll pick a song that&apos;s fitting for an ending. 
-Let&apos;s click Theme2.</source>
+        <source>We'll pick a song that's fitting for an ending. 
+Let's click Theme2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23279,8 +23280,8 @@ A new map has been created.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="168"/>
-        <source>Let&apos;s make an event for when the boss is defeated. 
-Click on &quot;Stone Cave&quot;.</source>
+        <source>Let's make an event for when the boss is defeated. 
+Click on "Stone Cave".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23312,7 +23313,7 @@ and double click.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="216"/>
         <source>Choose Fadeout Screen. 
-This command will darken the screen until the &quot;Fadein Screen&quot; is executed later.</source>
+This command will darken the screen until the "Fadein Screen" is executed later.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23335,13 +23336,13 @@ and click OK.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="256"/>
-        <source>Click &quot;Transfer Player...&quot;.</source>
+        <source>Click "Transfer Player...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="264"/>
         <source>Set the Fade to None. 
-We&apos;ll be using &quot;Fadeout Screen&quot; and &quot;Fadein Screen&quot;
+We'll be using "Fadeout Screen" and "Fadein Screen"
 for fade processing instead.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23383,15 +23384,15 @@ Click OK.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="321"/>
-        <source>Next we&apos;ll create an event on the ending map. 
+        <source>Next we'll create an event on the ending map. 
 Select Ending from the list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="329"/>
-        <source>We&apos;ll create an event. 
+        <source>We'll create an event. 
 Anywhere is fine,
-but in this tutorial we&apos;ll use the top left. 
+but in this tutorial we'll use the top left. 
 Double click (0,0).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23407,20 +23408,20 @@ Double click (0,0).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="353"/>
-        <source>Let&apos;s enter the content. 
+        <source>Let's enter the content. 
 Double click the first line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="361"/>
-        <source>Click &quot;Fadein Screen&quot;. 
+        <source>Click "Fadein Screen". 
 Just like this, always make sure to
 run Fadein Screen after running Fadeout Screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="369"/>
-        <source>Next we&apos;ll make something like a credit roll. 
+        <source>Next we'll make something like a credit roll. 
 Double click the next line.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23431,12 +23432,12 @@ Double click the next line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="385"/>
-        <source>Click &quot;Show Scrolling Text...&quot;.</source>
+        <source>Click "Show Scrolling Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="393"/>
-        <source>It&apos;s a bit long, but enter the text as follows:
+        <source>It's a bit long, but enter the text as follows:
 And thus, Harold and his allies
 
 defeated the boss of the caves,
@@ -23464,13 +23465,13 @@ with your own name.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="417"/>
-        <source>We&apos;ll show &quot;The End&quot; at the end. 
+        <source>We'll show "The End" at the end. 
 Double click the next line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="425"/>
-        <source>Click &quot;Show Text...&quot;.</source>
+        <source>Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23482,7 +23483,7 @@ Now it will be shown in the middle of the screen.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="441"/>
         <source>Set the Background to Transparent. 
-Now it won&apos;t show the window frame.</source>
+Now it won't show the window frame.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23505,13 +23506,13 @@ Double click the next line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="481"/>
-        <source>Click &quot;Return to Title Screen&quot;. 
-Now we&apos;re done setting up this event.</source>
+        <source>Click "Return to Title Screen". 
+Now we're done setting up this event.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="490"/>
-        <source>Before we playtest, we&apos;ll test within the event. You can select multiple lines, right click and select &quot;Test...&quot;.</source>
+        <source>Before we playtest, we'll test within the event. You can select multiple lines, right click and select "Test...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23527,20 +23528,20 @@ and click on Text.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="514"/>
-        <source>Right click and select &quot;Test...&quot;.</source>
+        <source>Right click and select "Test...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="522"/>
         <source>Now you have an idea of what the scrolling text and message look like. The players were shown,
-but they won&apos;t be in the actual game.</source>
+but they won't be in the actual game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="540"/>
         <source>Now, usually we would playtest here,
 but beating the boss again is a nuisance that takes time. 
-So this time, we&apos;ll use a temporary trick for debugging,
+So this time, we'll use a temporary trick for debugging,
 different from last time. 
 Please open the database.</source>
         <translation type="unfinished"></translation>
@@ -23552,12 +23553,12 @@ Please open the database.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="556"/>
-        <source>Select #3, &quot;Orc&quot;.</source>
+        <source>Select #3, "Orc".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="564"/>
-        <source>We&apos;ll use a battle event
+        <source>We'll use a battle event
 to make the battle start and end simultaneously. 
 Click Conditions.</source>
         <translation type="unfinished"></translation>
@@ -23582,18 +23583,18 @@ It is possible to launch events during battle in this way.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="596"/>
-        <source>We&apos;ll describe the event so that the battle ends instantly. 
+        <source>We'll describe the event so that the battle ends instantly. 
 Double click the first line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="604"/>
-        <source>Click &quot;Change Enemy State...&quot;.</source>
+        <source>Click "Change Enemy State...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="612"/>
-        <source>Make sure that the &quot;Entire Troop&quot; is selected so that &quot;Knockout&quot; will be Added. 
+        <source>Make sure that the "Entire Troop" is selected so that "Knockout" will be Added. 
 Click OK and set the event.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23624,18 +23625,18 @@ Click OK and it will be set.</source>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="654"/>
         <source>Start a playtest. 
 If you can talk to the boss, watch the ending,
-and return to the title screen, it&apos;s a success.</source>
+and return to the title screen, it's a success.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="662"/>
-        <source>When you&apos;re done playtesting,
-we&apos;ll continue our finalization work.</source>
+        <source>When you're done playtesting,
+we'll continue our finalization work.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="671"/>
-        <source>We&apos;ll delete the debug event we created. 
+        <source>We'll delete the debug event we created. 
 Click Database.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23647,31 +23648,31 @@ Click Database.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="687"/>
         <source>Remove the check from Turn. 
-Now the battle event won&apos;t occur.</source>
+Now the battle event won't occur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="695"/>
         <source>Click OK. 
 Unlike map events, when no condition
-is set for battle events, they won&apos;t occur.</source>
+is set for battle events, they won't occur.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="703"/>
-        <source>This time we just barely touched on battle events but it&apos;s possible to use them in more complex ways.</source>
+        <source>This time we just barely touched on battle events but it's possible to use them in more complex ways.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="720"/>
-        <source>Next, we&apos;ll return the player starting position
+        <source>Next, we'll return the player starting position
 to the original start place. 
 Click Normal Town.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="728"/>
-        <source>We&apos;ll place the player at the town entrance. 
+        <source>We'll place the player at the town entrance. 
 Scroll along the map
 and find the coordinates (19,36).</source>
         <translation type="unfinished"></translation>
@@ -23685,8 +23686,8 @@ Set Starting Position &gt; Player.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="744"/>
-        <source>Now we&apos;ve completed a minimal game. 
-But we&apos;ll do one more important thing.</source>
+        <source>Now we've completed a minimal game. 
+But we'll do one more important thing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23716,7 +23717,7 @@ and select Edit.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="801"/>
-        <source>Click on &quot;Stone Cave&quot;.</source>
+        <source>Click on "Stone Cave".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23749,7 +23750,7 @@ and select Edit.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="905"/>
         <source>Click OK and set the map. 
-Now we&apos;re done configuring the BGM.</source>
+Now we're done configuring the BGM.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23760,7 +23761,7 @@ Make sure the BGM is playing in each map.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep18.js" line="931"/>
-        <source>Well done. Now we&apos;re done making the game content. 
+        <source>Well done. Now we're done making the game content. 
 The next step will finally be the last one.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23826,42 +23827,42 @@ Projects are in the Games folder in My Documents.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="102"/>
         <source>In this step, as a final touch,
-we&apos;ll deal with the title screen. 
+we'll deal with the title screen. 
 We will also deal with plugins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="111"/>
-        <source>First, let&apos;s adjust the game title screen. 
+        <source>First, let's adjust the game title screen. 
 Please open the database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="119"/>
-        <source>Click the &quot;System&quot; tab. </source>
+        <source>Click the "System" tab. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="127"/>
-        <source>First we&apos;ll edit the game title. 
+        <source>First we'll edit the game title. 
 Enter a title that you like.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="135"/>
-        <source>Make sure not to edit the game title after you&apos;ve released your game. 
+        <source>Make sure not to edit the game title after you've released your game. 
 When you release it online and change the title, the game will be unable to read save data from before the change.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="144"/>
-        <source>Next, let&apos;s change the title screen image. 
+        <source>Next, let's change the title screen image. 
 Click Images.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="152"/>
-        <source>For title screens, you can combine two images. We&apos;ll select an image from the list on the left as a base,
+        <source>For title screens, you can combine two images. We'll select an image from the list on the left as a base,
 and an accent from the list on the right. 
 Combine whatever images you like.</source>
         <translation type="unfinished"></translation>
@@ -23898,8 +23899,8 @@ and close the database.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="204"/>
-        <source>Next, we&apos;ll change the position of the title screen
-command window. We&apos;ll be using a plugin to do this. 
+        <source>Next, we'll change the position of the title screen
+command window. We'll be using a plugin to do this. 
 Click the puzzle piece icon.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23922,7 +23923,7 @@ as well as its parameters are displayed.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="238"/>
-        <source>We&apos;ve done all kinds of things using event commands and the database,
+        <source>We've done all kinds of things using event commands and the database,
 but there are some things that are hard to accomplish using those alone. 
 What makes these things possible is a plugin.</source>
         <translation type="unfinished"></translation>
@@ -23936,34 +23937,34 @@ aside from those included initially.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="256"/>
         <source>There are some that require configuration. 
-This one requires configuration of &quot;parameters&quot;. 
+This one requires configuration of "parameters". 
 There are also plugins that require
-configuration via notes and plugin commands, but we&apos;ll skip that explanation for now.</source>
+configuration via notes and plugin commands, but we'll skip that explanation for now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="265"/>
-        <source>Now let us configure the title command position for ourselves. We&apos;re going to shift it to the bottom right. 
+        <source>Now let us configure the title command position for ourselves. We're going to shift it to the bottom right. 
 Double click the Offset X parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="273"/>
         <source>The name and description of the parameter will appear. 
-&quot;The offset value for the X coordinate&quot; is difficult to understand,
+"The offset value for the X coordinate" is difficult to understand,
 but a positive value will shift it to the right and a negative value will shift it to the left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="281"/>
-        <source>This time we&apos;ll move it 200 pixels to the right. 
+        <source>This time we'll move it 200 pixels to the right. 
 Enter 200.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="289"/>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="321"/>
-        <source>When you&apos;re done with the input, click OK and set it.</source>
+        <source>When you're done with the input, click OK and set it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23979,25 +23980,25 @@ means that a positive value will move it down, and a negative will move it up.</
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="313"/>
-        <source>This time we&apos;ll move it down 40 pixels. 
+        <source>This time we'll move it down 40 pixels. 
 Enter 40.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="329"/>
-        <source>There are other parameters, but for now we&apos;ve just changed the two above. 
+        <source>There are other parameters, but for now we've just changed the two above. 
 Click OK and set the map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="337"/>
-        <source>Now we&apos;re done editing the title screen using a plugin. 
+        <source>Now we're done editing the title screen using a plugin. 
 Click OK and set the map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="346"/>
-        <source>Now we&apos;ll run a playtest,
+        <source>Now we'll run a playtest,
 so please save the project first.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24010,7 +24011,7 @@ how the title screen has changed.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep19.js" line="363"/>
-        <source>Well done. You&apos;ve now completed this tutorial. Like a house with no doors or an empty field,
+        <source>Well done. You've now completed this tutorial. Like a house with no doors or an empty field,
 there is still room to grow. 
 Please try to come up with ways to innovate on your own.</source>
         <translation type="unfinished"></translation>
@@ -24086,25 +24087,25 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="103"/>
-        <source>Character and conversation development is done using &quot;events&quot;. 
-This time we&apos;ll create a character event.</source>
+        <source>Character and conversation development is done using "events". 
+This time we'll create a character event.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="111"/>
-        <source>Click &quot;Normal Town&quot;.</source>
+        <source>Click "Normal Town".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="120"/>
-        <source>First let&apos;s determine where the character will be placed. 
+        <source>First let's determine where the character will be placed. 
 The coordinates are shown on this taskbar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="128"/>
         <source>We will place her on the crossroads near the town entrance. 
-Let&apos;s place her on (19,33). 
+Let's place her on (19,33). 
 Check the coordinates while clicking on the map and find (19,33).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24116,7 +24117,7 @@ The event editor will launch.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="145"/>
-        <source>First let&apos;s choose her appearance. 
+        <source>First let's choose her appearance. 
 Double click Image.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24133,19 +24134,19 @@ Click Actor1.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="169"/>
-        <source>Once you&apos;ve selected her, press OK to confirm.</source>
+        <source>Once you've selected her, press OK to confirm.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="177"/>
-        <source>Notice that the &quot;Priority&quot; has changed from &quot;Below characters&quot; to &quot;Same as characters&quot;. 
+        <source>Notice that the "Priority" has changed from "Below characters" to "Same as characters". 
 If the priority is set to below, then it will display under the player. 
-If it&apos;s the same, they won&apos;t overlap.</source>
+If it's the same, they won't overlap.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="185"/>
-        <source>Next let&apos;s name the event &quot;Villager1&quot;.</source>
+        <source>Next let's name the event "Villager1".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24156,50 +24157,50 @@ In this tutorial, we will give real examples using names later.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="202"/>
-        <source>Check that the Trigger is set to &quot;Action Button&quot;.</source>
+        <source>Check that the Trigger is set to "Action Button".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="210"/>
         <source>This is the condition required to activate the event. 
-If set to &quot;Action Button&quot;, it will activate when the button is pressed. If it&apos;s &quot;Player Touch&quot;, it will activate when touched.</source>
+If set to "Action Button", it will activate when the button is pressed. If it's "Player Touch", it will activate when touched.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="219"/>
-        <source>Now let&apos;s set the contents. Double click the first line in &quot;Contents&quot;.</source>
+        <source>Now let's set the contents. Double click the first line in "Contents".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="227"/>
-        <source>Click &quot;Show Text...&quot;.</source>
+        <source>Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="235"/>
-        <source>Type &quot;Villager:&quot; on the first line,
-and &quot;Hello&quot; on the second line.</source>
+        <source>Type "Villager:" on the first line,
+and "Hello" on the second line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="243"/>
-        <source>You can check how the text you&apos;ve input will be shown with &quot;Preview...&quot;.</source>
+        <source>You can check how the text you've input will be shown with "Preview...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="251"/>
-        <source>Hit &quot;Close&quot; after previewing.</source>
+        <source>Hit "Close" after previewing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="259"/>
-        <source>Now, there are things called &quot;control characters &quot; that allow you to do various things such as change text color and size.
+        <source>Now, there are things called "control characters " that allow you to do various things such as change text color and size.
 
-Let&apos;s try displaying &quot;Villager:&quot; in a different color. 
-Rewrite the text as &quot;\C[2]Villager: \C[0]&quot;. 
+Let's try displaying "Villager:" in a different color. 
+Rewrite the text as "\C[2]Villager: \C[0]". 
 Make sure the control characters are written in single byte characters.
 
-Let&apos;s change &quot;Hello&quot; to
+Let's change "Hello" to
 Hello, \N[1]　.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24219,46 +24220,46 @@ There are other control characters as well.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="283"/>
-        <source>Now we&apos;re done with text display. 
+        <source>Now we're done with text display. 
 Click OK to set the text.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="292"/>
-        <source>Next, we&apos;ll show choices. 
+        <source>Next, we'll show choices. 
 Double click the next empty line after the text.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="300"/>
-        <source>First, we&apos;ll open &quot;Show Text...&quot; once more to write a question.</source>
+        <source>First, we'll open "Show Text..." once more to write a question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="308"/>
         <source>Input the question text:
- something like &quot;Please get rid of the beasts in the neighboring cave.&quot; 
+ something like "Please get rid of the beasts in the neighboring cave." 
 will do.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="316"/>
-        <source>When you&apos;re done entering the text, click OK to confirm.</source>
+        <source>When you're done entering the text, click OK to confirm.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="324"/>
-        <source>Double click the lowest empty line in &quot;Contents&quot;.</source>
+        <source>Double click the lowest empty line in "Contents".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="332"/>
-        <source>Click &quot;Show Choices...&quot;.</source>
+        <source>Click "Show Choices...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="340"/>
-        <source>You can choose up to 6 choices, but this time we will make them just &quot;Yes&quot; and &quot;No&quot;. There are other options, but they&apos;re fine as-is for now.</source>
+        <source>You can choose up to 6 choices, but this time we will make them just "Yes" and "No". There are other options, but they're fine as-is for now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24270,7 +24271,7 @@ will do.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="356"/>
-        <source>Now fields labeled &quot;When Yes&quot; and &quot;When No&quot; have appeared. 
+        <source>Now fields labeled "When Yes" and "When No" have appeared. 
 You can describe the event for each case within these fields.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24278,12 +24279,12 @@ You can describe the event for each case within these fields.</source>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="365"/>
         <source>Now for an explanation about Balloon Icons. 
 These are music notes, hearts, and other symbols that display above the event. 
-This time we&apos;ll use them in place of dialogue.</source>
+This time we'll use them in place of dialogue.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="374"/>
-        <source>Double click the line under &quot;When Yes&quot;.</source>
+        <source>Double click the line under "When Yes".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24294,38 +24295,38 @@ This time we&apos;ll use them in place of dialogue.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="390"/>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="430"/>
-        <source>Click &quot;Show Balloon Icon...&quot;.</source>
+        <source>Click "Show Balloon Icon...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="398"/>
-        <source>Choose &quot;This Event&quot; for the &quot;Character&quot;, and &quot;Heart&quot; for the &quot;Balloon Icon&quot;.</source>
+        <source>Choose "This Event" for the "Character", and "Heart" for the "Balloon Icon".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="406"/>
-        <source>Please check off &quot;Wait for Completion&quot;.</source>
+        <source>Please check off "Wait for Completion".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="422"/>
-        <source>Double click the line under &quot;When No&quot;.</source>
+        <source>Double click the line under "When No".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="438"/>
-        <source>Choose &quot;This Event&quot; for the &quot;Character&quot;, and &quot;Cobweb&quot; for the &quot;Balloon Icon&quot;.</source>
+        <source>Choose "This Event" for the "Character", and "Cobweb" for the "Balloon Icon".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="454"/>
-        <source>You can add dialogue after a balloon icon, but even if you don&apos;t the sentiment should be clear. 
+        <source>You can add dialogue after a balloon icon, but even if you don't the sentiment should be clear. 
 Click OK and set the event.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep2.js" line="463"/>
-        <source>Now Step 2&apos;s preparations are complete. 
+        <source>Now Step 2's preparations are complete. 
 Save the project.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24406,35 +24407,35 @@ Projects are in the Games folder in My Documents.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="119"/>
         <source> There are two ways to move an event:
-you can set &quot;Autonomous Movement&quot; or use the event command &quot;Set Movement Route&quot;. 
-We&apos;ll deal with the former this time.</source>
+you can set "Autonomous Movement" or use the event command "Set Movement Route". 
+We'll deal with the former this time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="128"/>
-        <source>Let&apos;s set &quot;Autonomous Movement&quot; for the character we created in Step 2. To do this, we will first find where the character is placed.　</source>
+        <source>Let's set "Autonomous Movement" for the character we created in Step 2. To do this, we will first find where the character is placed.　</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="136"/>
-        <source>Click &quot;Event Searcher&quot;. 
+        <source>Click "Event Searcher". 
 Here you can search for various events.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="144"/>
-        <source>The character we want to look for was called &quot;Villager1&quot;. 
+        <source>The character we want to look for was called "Villager1". 
 Click Event Name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="152"/>
-        <source>Enter &quot;Villager1&quot;.</source>
+        <source>Enter "Villager1".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="160"/>
-        <source>When you&apos;re done, click Search. 
+        <source>When you're done, click Search. 
 Their position will be shown.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24442,7 +24443,7 @@ Their position will be shown.</source>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="168"/>
         <source>As you can see, a benefit of naming your events
 is that you can easily search for them. 
-Click &quot;Close&quot;.</source>
+Click "Close".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24453,13 +24454,13 @@ and open the event.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="186"/>
-        <source>Here we&apos;ll set the autonomous movement. 
-You can specify frequency and speed, but we&apos;ll leave those how they are for now.</source>
+        <source>Here we'll set the autonomous movement. 
+You can specify frequency and speed, but we'll leave those how they are for now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="194"/>
-        <source>Select &quot;Random&quot; from &quot;Type&quot;.</source>
+        <source>Select "Random" from "Type".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24470,7 +24471,7 @@ Click OK and it will be set.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="211"/>
-        <source>Let&apos;s playtest here. 
+        <source>Let's playtest here. 
 Save the project.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24482,12 +24483,12 @@ Check that Villager1 is moving randomly.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="227"/>
-        <source>When the playtest is over, let&apos;s move on.</source>
+        <source>When the playtest is over, let's move on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="236"/>
-        <source>Next we&apos;ll make a character that repeatedly moves in the same places. As an example, let&apos;s make a character that walks around the statue in the town center.</source>
+        <source>Next we'll make a character that repeatedly moves in the same places. As an example, let's make a character that walks around the statue in the town center.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24503,7 +24504,7 @@ Make sure the coordinate is (19,23).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="261"/>
-        <source>We&apos;ll do the various basic settings for the event. 
+        <source>We'll do the various basic settings for the event. 
 Double click Image.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24529,18 +24530,18 @@ Double click Image.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="301"/>
-        <source>Double click the first line in &quot;Contents&quot;.</source>
+        <source>Double click the first line in "Contents".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="309"/>
-        <source>Click &quot;Show Text...&quot;.</source>
+        <source>Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="317"/>
         <source>Enter some simple text, like: 
-&quot;I&apos;m circling the statue.&quot;</source>
+"I'm circling the statue."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24550,34 +24551,34 @@ Double click Image.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="333"/>
-        <source>We&apos;ll make this event walk the perimeter of the statue.</source>
+        <source>We'll make this event walk the perimeter of the statue.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="341"/>
-        <source>First let&apos;s change the movement speed and frequency. 
-Set the speed to &quot;4: Normal&quot;.</source>
+        <source>First let's change the movement speed and frequency. 
+Set the speed to "4: Normal".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="349"/>
-        <source>Set the freq to &quot;5: Highest&quot;.</source>
+        <source>Set the freq to "5: Highest".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="358"/>
-        <source>Now we&apos;ll set her to walk around the statue. 
-Set the &quot;Type&quot; to &quot;Custom&quot;.</source>
+        <source>Now we'll set her to walk around the statue. 
+Set the "Type" to "Custom".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="366"/>
-        <source>Click &quot;Route...&quot; and you can set the movement route.</source>
+        <source>Click "Route..." and you can set the movement route.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="375"/>
-        <source>If you click a &quot;Movement Command&quot; on the right
+        <source>If you click a "Movement Command" on the right
 it will be added to the list on the left.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24604,12 +24605,12 @@ Move Right</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="399"/>
-        <source>Make sure that &quot;Repeat Movements&quot; is checked. Now she&apos;ll circle the statue endlessly.</source>
+        <source>Make sure that "Repeat Movements" is checked. Now she'll circle the statue endlessly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="407"/>
-        <source>Do not check off &quot;Skip If Cannot Move&quot;. We don&apos;t want her route to change on us.</source>
+        <source>Do not check off "Skip If Cannot Move". We don't want her route to change on us.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24640,7 +24641,7 @@ Save the project.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep3.js" line="456"/>
-        <source>Then let&apos;s review the event. 
+        <source>Then let's review the event. 
 Double click the event under the statue.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24716,12 +24717,12 @@ Projects are in the Games folder in My Documents.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="102"/>
         <source>In this step we will learn how to make an event move
-using the event command &quot;Set Movement Route&quot;.</source>
+using the event command "Set Movement Route".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="111"/>
-        <source>First let&apos;s make a new character event. 
+        <source>First let's make a new character event. 
 In the northern road of the town, click near the middle
 of the long path that runs from left to right (at the T junction).</source>
         <translation type="unfinished"></translation>
@@ -24761,19 +24762,19 @@ Open the event window.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="167"/>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="396"/>
-        <source>Double click the first blank line in &quot;Contents&quot;.</source>
+        <source>Double click the first blank line in "Contents".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="175"/>
-        <source>First she&apos;ll talk about where she&apos;s going to move. 
-Click &quot;Show Text...&quot;.</source>
+        <source>First she'll talk about where she's going to move. 
+Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="183"/>
         <source>Type in: 
-&quot;I&apos;m moving 4 steps to the right now.&quot;</source>
+"I'm moving 4 steps to the right now."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24784,7 +24785,7 @@ Click &quot;Show Text...&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="200"/>
-        <source>Up until now has just been a review. Now we&apos;re going to &quot;Set Movement Route&quot;. Double click the blank line.</source>
+        <source>Up until now has just been a review. Now we're going to "Set Movement Route". Double click the blank line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24794,23 +24795,23 @@ Click &quot;Show Text...&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="216"/>
-        <source>Click &quot;Set Movement Route&quot;.</source>
+        <source>Click "Set Movement Route".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="224"/>
-        <source>The movement target is currently set to &quot;Player&quot;. 
-Please change it to &quot;This Event&quot;.</source>
+        <source>The movement target is currently set to "Player". 
+Please change it to "This Event".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="232"/>
-        <source>Check off &quot;Skip If Cannot Move&quot;.</source>
+        <source>Check off "Skip If Cannot Move".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="240"/>
-        <source>Remove the check from &quot;Wait for Completion&quot;.</source>
+        <source>Remove the check from "Wait for Completion".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24824,7 +24825,7 @@ Move Right</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="256"/>
-        <source>Make sure that there are four instances of &quot;Move Right&quot; in the list.</source>
+        <source>Make sure that there are four instances of "Move Right" in the list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24839,7 +24840,7 @@ Move Right</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="281"/>
-        <source>Now the event preparation is ready. Let&apos;s change the player&apos;s initial position to make playtesting easier. 
+        <source>Now the event preparation is ready. Let's change the player's initial position to make playtesting easier. 
 After clicking a few squares away from the event, right click.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -24850,7 +24851,7 @@ After clicking a few squares away from the event, right click.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="298"/>
-        <source>First we&apos;ll save the project.</source>
+        <source>First we'll save the project.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24861,13 +24862,13 @@ Talk to the NPC a few times and check the movement.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="315"/>
-        <source>Once you&apos;re done, there&apos;s some more explanation.</source>
+        <source>Once you're done, there's some more explanation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="323"/>
         <source>If the player character talks to her from their right or the path is blocked, her movement will be stopped. 
-This is the effect of &quot;Skip If Cannot Move&quot;.</source>
+This is the effect of "Skip If Cannot Move".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24877,13 +24878,13 @@ This is the effect of &quot;Skip If Cannot Move&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="340"/>
-        <source>Next, we&apos;ll make two events move simultaneously.</source>
+        <source>Next, we'll make two events move simultaneously.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="348"/>
-        <source>Let&apos;s make a male NPC event parallel to the woman. 
-Double-click the coordinate (19,9) above &quot;MovingLady&quot;.</source>
+        <source>Let's make a male NPC event parallel to the woman. 
+Double-click the coordinate (19,9) above "MovingLady".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24913,13 +24914,13 @@ Double-click the coordinate (19,9) above &quot;MovingLady&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="412"/>
-        <source>Click &quot;Show Text...&quot;.</source>
+        <source>Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="420"/>
         <source>Type in: 
-&quot;I&apos;m going to move with that lady.&quot;</source>
+"I'm going to move with that lady."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24929,28 +24930,28 @@ Double-click the coordinate (19,9) above &quot;MovingLady&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="445"/>
-        <source>Now we&apos;ll make it so the man moves with the lady when you talk to her. 
+        <source>Now we'll make it so the man moves with the lady when you talk to her. 
 Double click MovingLady.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="453"/>
-        <source>If we add an event to make the man move in the same way as the lady after her event, it&apos;ll look like they&apos;re walking together.</source>
+        <source>If we add an event to make the man move in the same way as the lady after her event, it'll look like they're walking together.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="461"/>
-        <source>But it&apos;s a pain to do the setup all over again. Here we will take advantage of copying &amp; pasting.</source>
+        <source>But it's a pain to do the setup all over again. Here we will take advantage of copying &amp; pasting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="469"/>
-        <source>Click &quot;Set Movement Route...&quot; so it&apos;s selected.</source>
+        <source>Click "Set Movement Route..." so it's selected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="477"/>
-        <source>While it&apos;s selected, right click and choose &quot;Copy&quot;.</source>
+        <source>While it's selected, right click and choose "Copy".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24960,18 +24961,18 @@ Double click MovingLady.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="493"/>
-        <source>Choose &quot;Paste&quot;.</source>
+        <source>Choose "Paste".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="501"/>
-        <source>We&apos;ll edit the event command you just pasted. 
-Right click and select &quot;Edit...&quot;.</source>
+        <source>We'll edit the event command you just pasted. 
+Right click and select "Edit...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="509"/>
-        <source>Change &quot;This Event&quot; to &quot;MovingDude&quot;.</source>
+        <source>Change "This Event" to "MovingDude".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24997,22 +24998,22 @@ Also, check to see that if you block one of their paths that they will no longer
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="550"/>
-        <source>Once you&apos;re done with the playtest we have a quick note.</source>
+        <source>Once you're done with the playtest we have a quick note.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="559"/>
-        <source>Although this time we removed the check from &quot;Wait for Completion&quot;, when you want one to move after the other, check it off.</source>
+        <source>Although this time we removed the check from "Wait for Completion", when you want one to move after the other, check it off.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="567"/>
-        <source>However, sometimes when you use &quot;Wait for Completion&quot; and the path is blocked by an obstacle, you may no longer be able to progress in the game, so be careful.</source>
+        <source>However, sometimes when you use "Wait for Completion" and the path is blocked by an obstacle, you may no longer be able to progress in the game, so be careful.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep4.js" line="575"/>
-        <source>That&apos;s it for this explanation. Well done.</source>
+        <source>That's it for this explanation. Well done.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -25076,7 +25077,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="102"/>
-        <source>In this step we&apos;ll learn how to create events using switches and conditional branching.</source>
+        <source>In this step we'll learn how to create events using switches and conditional branching.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25086,13 +25087,13 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="118"/>
-        <source>We&apos;re going to make three people lined up horizontally. 
+        <source>We're going to make three people lined up horizontally. 
 The location will be by the right side of statue in the center (25,22).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="127"/>
-        <source>First, we&apos;re going to make an event where an NPC will give you a potion once.</source>
+        <source>First, we're going to make an event where an NPC will give you a potion once.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25102,7 +25103,7 @@ The location will be by the right side of statue in the center (25,22).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="144"/>
-        <source>Let&apos;s call the event PotionWoman.</source>
+        <source>Let's call the event PotionWoman.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25134,19 +25135,19 @@ The location will be by the right side of statue in the center (25,22).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="185"/>
-        <source>Let&apos;s make the contents. Double click the first empty line.</source>
+        <source>Let's make the contents. Double click the first empty line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="193"/>
-        <source>First let&apos;s make a message saying an item has been received. 
-Click &quot;Show Text...&quot;.</source>
+        <source>First let's make a message saying an item has been received. 
+Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="201"/>
         <source>Enter: 
-&quot;I&apos;ll give you a potion.&quot;</source>
+"I'll give you a potion."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25164,12 +25165,12 @@ Click &quot;Show Text...&quot;.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="225"/>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="751"/>
-        <source>Click &quot;Change Items...&quot;.</source>
+        <source>Click "Change Items...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="233"/>
-        <source>Check that the Item is &quot;Potion&quot;, the Operation is &quot;Increase&quot; and that the Operand is &quot;Constant&quot; at &quot;1&quot;, and click OK.</source>
+        <source>Check that the Item is "Potion", the Operation is "Increase" and that the Operand is "Constant" at "1", and click OK.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25179,18 +25180,18 @@ Click &quot;Show Text...&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="250"/>
-        <source>Here we&apos;re going to add a switch that contains the information that a potion was received. 
+        <source>Here we're going to add a switch that contains the information that a potion was received. 
 Double click the blank line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="258"/>
-        <source>Click &quot;Control Switches...&quot;.</source>
+        <source>Click "Control Switches...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="266"/>
-        <source>This time we&apos;ll use the first switch. You can name switches so they&apos;re easy to distinguish. Click the switch.</source>
+        <source>This time we'll use the first switch. You can name switches so they're easy to distinguish. Click the switch.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25211,18 +25212,18 @@ as GetPotion.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="298"/>
-        <source>Make sure that the switch is set to &quot;Single&quot; &quot;0001: GetPotion&quot;, and that Operation is set to ON, then click OK.</source>
+        <source>Make sure that the switch is set to "Single" "0001: GetPotion", and that Operation is set to ON, then click OK.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="307"/>
-        <source>We&apos;ll use this switch to create a reaction for the NPC after they&apos;ve given a potion. Click &quot;New Event Page&quot;.</source>
+        <source>We'll use this switch to create a reaction for the NPC after they've given a potion. Click "New Event Page".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="315"/>
-        <source>We&apos;ve created a second page. 
-We&apos;ll set it up just like page 1.</source>
+        <source>We've created a second page. 
+We'll set it up just like page 1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25238,17 +25239,17 @@ Double click.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="355"/>
-        <source>Next we&apos;ll set the conditions for this event to appear. Put a check next to &quot;Switch&quot;.</source>
+        <source>Next we'll set the conditions for this event to appear. Put a check next to "Switch".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="363"/>
-        <source>Make sure the switch number is set to &quot;0001 GetPotion&quot;.</source>
+        <source>Make sure the switch number is set to "0001 GetPotion".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="371"/>
-        <source>Now we&apos;ll create the content for after she&apos;s given us a potion. 
+        <source>Now we'll create the content for after she's given us a potion. 
 Double click the top line.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25257,13 +25258,13 @@ Double click the top line.</source>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="570"/>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="602"/>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="719"/>
-        <source>Click &quot;Show Text...&quot;.</source>
+        <source>Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="387"/>
         <source>Enter: 
-&quot;Use that potion wisely, okay?&quot;</source>
+"Use that potion wisely, okay?"</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25273,7 +25274,7 @@ Double click the top line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="403"/>
-        <source>Now we&apos;re done setting up this event.</source>
+        <source>Now we're done setting up this event.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25301,24 +25302,24 @@ On the other hand, if two or more conditions are specified, the page will be con
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="447"/>
-        <source>Let&apos;s consider our current case. 
--When switch 1 is ON, the &quot;condition&quot; of page 2 is met, and the event is changed to the page 2 event. 
+        <source>Let's consider our current case. 
+-When switch 1 is ON, the "condition" of page 2 is met, and the event is changed to the page 2 event. 
 -When switch 1 is not ON, the event will be the page 1 event, which has no condition set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="455"/>
-        <source>That&apos;s all. This is pretty important, so would you like to read the explanation again?</source>
+        <source>That's all. This is pretty important, so would you like to read the explanation again?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="464"/>
-        <source>Let&apos;s move on. Click OK.</source>
+        <source>Let's move on. Click OK.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="473"/>
-        <source>Next we&apos;re going to create someone whose dialogue changes depending on whether or not you&apos;ve gotten a potion. Double click (25,22).</source>
+        <source>Next we're going to create someone whose dialogue changes depending on whether or not you've gotten a potion. Double click (25,22).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25328,29 +25329,29 @@ On the other hand, if two or more conditions are specified, the page will be con
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="505"/>
-        <source>We&apos;ll use the man with a hood, second from the right in the bottom row. 
+        <source>We'll use the man with a hood, second from the right in the bottom row. 
 Choose the sprite of him facing downward.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="522"/>
-        <source>This time we&apos;re going to use a &quot;Conditional Branch&quot; to determine whether or not the player has gotten the potion. 
-Double click the first line in &quot;Contents&quot;.</source>
+        <source>This time we're going to use a "Conditional Branch" to determine whether or not the player has gotten the potion. 
+Double click the first line in "Contents".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="530"/>
-        <source>Click &quot;Conditional Branch...&quot;.</source>
+        <source>Click "Conditional Branch...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="538"/>
-        <source>Check that &quot;Switch&quot; is checked off and that &quot;0001 GetPotion&quot; is set to ON.</source>
+        <source>Check that "Switch" is checked off and that "0001 GetPotion" is set to ON.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="546"/>
-        <source>Check off &quot;Create Else Branch&quot;.</source>
+        <source>Check off "Create Else Branch".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25362,41 +25363,41 @@ Double click the first line in &quot;Contents&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="562"/>
-        <source>We&apos;ll enter the dialogue for when you have a potion and for when you don&apos;t. First, let&apos;s do it for when you have one. Double click.</source>
+        <source>We'll enter the dialogue for when you have a potion and for when you don't. First, let's do it for when you have one. Double click.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="578"/>
         <source>Enter: 
-&quot;Use potions wisely!&quot; This is the dialogue after you&apos;ve gotten a potion.</source>
+"Use potions wisely!" This is the dialogue after you've gotten a potion.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="594"/>
-        <source>Double click the line under &quot;Else&quot;,</source>
+        <source>Double click the line under "Else",</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="610"/>
         <source>Enter: 
-&quot;You need potions if you&apos;re going adventuring.&quot; This is the dialogue before you&apos;ve gotten a potion.</source>
+"You need potions if you're going adventuring." This is the dialogue before you've gotten a potion.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="627"/>
-        <source>Now we&apos;re done setting up this event. 
+        <source>Now we're done setting up this event. 
 Switches record conditions such as completing actions, and are useful for dividing processes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="636"/>
-        <source>Also, it&apos;s possible to achieve the same results without conditional branching by increasing event pages like you did with PotionWoman. 
+        <source>Also, it's possible to achieve the same results without conditional branching by increasing event pages like you did with PotionWoman. 
 You could also use conditional branching with PotionWoman.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="645"/>
-        <source>When images or other conditions need to change, you&apos;ll have to use event pages, but in cases like this you are free to choose.</source>
+        <source>When images or other conditions need to change, you'll have to use event pages, but in cases like this you are free to choose.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25406,7 +25407,7 @@ You could also use conditional branching with PotionWoman.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="663"/>
-        <source>Next we&apos;ll make an event where you lose a potion. 
+        <source>Next we'll make an event where you lose a potion. 
 Double click two spaces right of the man (27,22).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25427,14 +25428,14 @@ Double click two spaces right of the man (27,22).</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="711"/>
-        <source>Let&apos;s enter the content. 
+        <source>Let's enter the content. 
 Double click the first line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="727"/>
-        <source>Enter: &quot;Gimme a potion!&quot;
- Now we&apos;ll enter the process that will forcibly take a potion from the player.</source>
+        <source>Enter: "Gimme a potion!"
+ Now we'll enter the process that will forcibly take a potion from the player.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25444,14 +25445,14 @@ Double click the first line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="759"/>
-        <source>Check that the Item is &quot;Potion&quot; and that the Operand is &quot;Constant&quot; at &quot;1&quot;. 
-Click &quot;Decrease&quot; as the Operation.</source>
+        <source>Check that the Item is "Potion" and that the Operand is "Constant" at "1". 
+Click "Decrease" as the Operation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="775"/>
         <source>Now the process for losing a potion has been made. 
-If you don&apos;t have one, nothing will happen.</source>
+If you don't have one, nothing will happen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25467,7 +25468,7 @@ Please save your work up until now.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="800"/>
-        <source>After you get a potion, it will be lost when you talk to the kid, but PotionWoman won&apos;t give you any more. Keep this in mind and conduct a playtest.</source>
+        <source>After you get a potion, it will be lost when you talk to the kid, but PotionWoman won't give you any more. Keep this in mind and conduct a playtest.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25482,7 +25483,7 @@ Please save your work up until now.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep5.js" line="825"/>
-        <source>Well done. Now we&apos;ll move onto the next step (part 2).</source>
+        <source>Well done. Now we'll move onto the next step (part 2).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -25546,14 +25547,14 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="102"/>
-        <source>In this step, we&apos;ll change up the previous step and learn more about conditional branching.</source>
+        <source>In this step, we'll change up the previous step and learn more about conditional branching.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="110"/>
         <source>In Step 5 we used a switch to determine if conditions were met. 
-However, it&apos;s also possible to determine if the player has a potion or not without using switches. 
-Let&apos;s try it for ourselves.</source>
+However, it's also possible to determine if the player has a potion or not without using switches. 
+Let's try it for ourselves.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25568,7 +25569,7 @@ Let&apos;s try it for ourselves.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="135"/>
-        <source>We&apos;re going to change the appearance condition from Switch to Item. 
+        <source>We're going to change the appearance condition from Switch to Item. 
 Remove the check from Switch.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25579,7 +25580,7 @@ Remove the check from Switch.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="151"/>
-        <source>Make sure it is set to &quot;Potion&quot;. 
+        <source>Make sure it is set to "Potion". 
 It will be fulfilled when you have the item in question.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25590,13 +25591,13 @@ It will be fulfilled when you have the item in question.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="167"/>
-        <source>Now we no longer need the &quot;Control Switch&quot;, so we&apos;ll delete it. 
-This can be done by right clicking and selecting &quot;Delete&quot;.</source>
+        <source>Now we no longer need the "Control Switch", so we'll delete it. 
+This can be done by right clicking and selecting "Delete".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="175"/>
-        <source>Now we&apos;ve set her to give you a potion any time that you don&apos;t have one. 
+        <source>Now we've set her to give you a potion any time that you don't have one. 
 Click OK and it will be set.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25607,8 +25608,8 @@ Click OK and it will be set.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="192"/>
-        <source>We&apos;ll change the condition in the conditional branch. 
-Right click and select &quot;Edit...&quot;.</source>
+        <source>We'll change the condition in the conditional branch. 
+Right click and select "Edit...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25618,12 +25619,12 @@ Right click and select &quot;Edit...&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="208"/>
-        <source>Check off &quot;Item&quot;.</source>
+        <source>Check off "Item".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="216"/>
-        <source>Please make sure that the item is set to &quot;Potion&quot;.</source>
+        <source>Please make sure that the item is set to "Potion".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25633,12 +25634,12 @@ Right click and select &quot;Edit...&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="232"/>
-        <source>Now the condition is &quot;the party possesses a potion&quot;.</source>
+        <source>Now the condition is "the party possesses a potion".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="240"/>
-        <source>Now we&apos;re done editing the event. 
+        <source>Now we're done editing the event. 
 Click OK and it will be set.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25656,7 +25657,7 @@ after getting a potion and losing it by talking to the child.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="265"/>
-        <source>Once you&apos;re done with the playtest, there&apos;s some more explanation.</source>
+        <source>Once you're done with the playtest, there's some more explanation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25667,7 +25668,7 @@ after getting a potion and losing it by talking to the child.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep6.js" line="281"/>
         <source>To create a situation where once you get an item you can never get it again, we use switches,
-and for a situation where you can receive the item continually it&apos;s best to branch using items.</source>
+and for a situation where you can receive the item continually it's best to branch using items.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25738,7 +25739,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="102"/>
-        <source>This time we&apos;re going to learn about self-switches.</source>
+        <source>This time we're going to learn about self-switches.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25748,19 +25749,19 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="118"/>
-        <source>We&apos;re going to make 2 events in the grass in the corner, when you go left from the town entrance. 
+        <source>We're going to make 2 events in the grass in the corner, when you go left from the town entrance. 
 Scroll along the map until the area is displayed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="127"/>
-        <source>First we&apos;ll make a chest in the grass. 
-Since the player initially has no money, we&apos;ll make it a treasure chest of money.</source>
+        <source>First we'll make a chest in the grass. 
+Since the player initially has no money, we'll make it a treasure chest of money.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="135"/>
-        <source>Let&apos;s place the treasure below the wooden crate (4,31). 
+        <source>Let's place the treasure below the wooden crate (4,31). 
 Click on the map and find (4,31).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25772,7 +25773,7 @@ and select Quick Event Creation &gt; Treasure...</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="151"/>
-        <source>Make sure that the &quot;Content&quot; is checked off as &quot;Gold&quot;
+        <source>Make sure that the "Content" is checked off as "Gold"
 and enter 1000 as the amount.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25788,7 +25789,7 @@ and enter 1000 as the amount.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="176"/>
-        <source>Check for &quot;Control Self Switch: A&quot; in the content list.</source>
+        <source>Check for "Control Self Switch: A" in the content list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25803,7 +25804,7 @@ and enter 1000 as the amount.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="200"/>
-        <source>Check that the appearance condition is set to &quot;Self Switch A&quot;.</source>
+        <source>Check that the appearance condition is set to "Self Switch A".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25821,7 +25822,7 @@ But unlike switches, they cannot be referred to by other events.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="228"/>
         <source>Each event can have self switches from A to D. 
-Since they&apos;re unaffected by other events, one benefit is that they&apos;re easy to understand.</source>
+Since they're unaffected by other events, one benefit is that they're easy to understand.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25842,24 +25843,24 @@ Would you like to read the explanation again?</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="264"/>
-        <source>We&apos;re going to make an event using self switches. Let&apos;s make it so you get gold if you investigate something sparkling in a patch of grass.</source>
+        <source>We're going to make an event using self switches. Let's make it so you get gold if you investigate something sparkling in a patch of grass.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="272"/>
-        <source>We&apos;ll make the event so that page 1 is for before you get the gold
+        <source>We'll make the event so that page 1 is for before you get the gold
 and page 2 is for after you get the gold.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="280"/>
-        <source>Let&apos;s place the gold on (2,33). Double click (2,33).</source>
+        <source>Let's place the gold on (2,33). Double click (2,33).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="290"/>
         <source>Name the event. 
-Type in &quot;Dropped Gold&quot;.</source>
+Type in "Dropped Gold".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25870,13 +25871,13 @@ Type in &quot;Dropped Gold&quot;.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="306"/>
         <source>Select !Flame from the list. 
-It&apos;s near the bottom, so scroll down to find it.</source>
+It's near the bottom, so scroll down to find it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="314"/>
         <source>Select the topmost sparkle in the bottom half, 5th column from the right. 
-We&apos;ll make this animate vertically.</source>
+We'll make this animate vertically.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25886,13 +25887,13 @@ We&apos;ll make this animate vertically.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="330"/>
-        <source>We&apos;ll get things set up to animate the sparkle. 
-Set the Autonomous Movement type to &quot;Custom&quot;.</source>
+        <source>We'll get things set up to animate the sparkle. 
+Set the Autonomous Movement type to "Custom".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="338"/>
-        <source>Click &quot;Route...&quot;.</source>
+        <source>Click "Route...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25906,19 +25907,19 @@ Turn Down</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="354"/>
-        <source>Now we&apos;ve set the light to animate. 
+        <source>Now we've set the light to animate. 
 Click OK to set the movement route.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="362"/>
         <source>We will set the animation speed. 
-Set the autonomous movement frequency to &quot;4: Higher&quot;.</source>
+Set the autonomous movement frequency to "4: Higher".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="370"/>
-        <source>Change the priority to &quot;Below characters&quot; and make sure the condition for the event to launch is to press the action button.</source>
+        <source>Change the priority to "Below characters" and make sure the condition for the event to launch is to press the action button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25928,7 +25929,7 @@ Set the autonomous movement frequency to &quot;4: Higher&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="387"/>
-        <source>Next, let&apos;s make the contents.</source>
+        <source>Next, let's make the contents.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25938,12 +25939,12 @@ Set the autonomous movement frequency to &quot;4: Higher&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="403"/>
-        <source>Click &quot;Control Self Switch...&quot;.</source>
+        <source>Click "Control Self Switch...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="411"/>
-        <source>Check that the Self Switch is &quot;A&quot; and that Operation is set to &quot;ON&quot;, then click OK.</source>
+        <source>Check that the Self Switch is "A" and that Operation is set to "ON", then click OK.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25953,12 +25954,12 @@ Set the autonomous movement frequency to &quot;4: Higher&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="427"/>
-        <source>Click &quot;Change Gold...&quot;.</source>
+        <source>Click "Change Gold...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="435"/>
-        <source>Check that the Operation is set to &quot;Increase&quot;, and that the Operand is &quot;Constant&quot;.
+        <source>Check that the Operation is set to "Increase", and that the Operand is "Constant".
 Enter the value as 1000.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25974,13 +25975,13 @@ Enter the value as 1000.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="459"/>
-        <source>Click &quot;Show Text...&quot;.</source>
+        <source>Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="467"/>
         <source>Enter: 
-&quot;Picked up 1000\G in the grass.&quot; \G will be converted into the currency unit.</source>
+"Picked up 1000\G in the grass." \G will be converted into the currency unit.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25990,25 +25991,25 @@ Enter the value as 1000.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="484"/>
-        <source>Next we&apos;ll make a second page. 
-Click &quot;New Event Page&quot;.</source>
+        <source>Next we'll make a second page. 
+Click "New Event Page".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="492"/>
-        <source>Make sure you&apos;re on page 2.</source>
+        <source>Make sure you're on page 2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="500"/>
-        <source>Check &quot;Self Switch&quot; under Conditions.</source>
+        <source>Check "Self Switch" under Conditions.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="508"/>
         <source>Make sure that A is selected. 
-That&apos;s all for page 2. 
-This is because after you get the gold, there&apos;s nothing left.</source>
+That's all for page 2. 
+This is because after you get the gold, there's nothing left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26046,8 +26047,8 @@ Basically, even if the content on page 1 is still being executed, this is where 
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="567"/>
-        <source>Let&apos;s change the player&apos;s initial position for playtesting. 
-Let&apos;s make it (8,33), near the grass.</source>
+        <source>Let's change the player's initial position for playtesting. 
+Let's make it (8,33), near the grass.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26070,7 +26071,7 @@ Investigate both events, and check the menu to see if your gold has increased. <
     <message>
         <location filename="../qml/Tutorial/TutorialStep7.js" line="601"/>
         <source>This is the end of Step 7. Well done. 
-We&apos;ll reuse the gold spot later, so don&apos;t forget about it.</source>
+We'll reuse the gold spot later, so don't forget about it.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -26145,18 +26146,18 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="119"/>
-        <source>We&apos;ll make the inn the red-roofed building to the left of the town entrance.</source>
+        <source>We'll make the inn the red-roofed building to the left of the town entrance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="127"/>
-        <source>As in Step 1, we&apos;ll use a sample map for the interior map of the inn. 
-Right click Normal Town and select &quot;Load...&quot;.</source>
+        <source>As in Step 1, we'll use a sample map for the interior map of the inn. 
+Right click Normal Town and select "Load...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="135"/>
-        <source>Scroll a bit down the list to find and click &quot;Inn 1F&quot;.</source>
+        <source>Scroll a bit down the list to find and click "Inn 1F".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26166,14 +26167,14 @@ Right click Normal Town and select &quot;Load...&quot;.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="151"/>
-        <source>Now a map has been created a level under &quot;Normal Town&quot;. 
+        <source>Now a map has been created a level under "Normal Town". 
 You can created a layered map structure like this.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="159"/>
-        <source>Next let&apos;s connect the maps. 
-Right click the inn&apos;s entrance (10,19)
+        <source>Next let's connect the maps. 
+Right click the inn's entrance (10,19)
 and select Quick Event Creation &gt; Transfer.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -26200,7 +26201,7 @@ and select Quick Event Creation &gt; Transfer.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="208"/>
-        <source>Then let&apos;s redo the location settings.</source>
+        <source>Then let's redo the location settings.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26227,7 +26228,7 @@ and select Quick Event Creation &gt; Door.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="250"/>
-        <source>Let&apos;s set the location. Click.</source>
+        <source>Let's set the location. Click.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26254,13 +26255,13 @@ Click tileset B.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="299"/>
-        <source>Click the inn sign that says &quot;INN&quot;. 
-It&apos;s second from the right in the top row of the tile palette. </source>
+        <source>Click the inn sign that says "INN". 
+It's second from the right in the top row of the tile palette. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="307"/>
-        <source>We&apos;ll switch to map mode.</source>
+        <source>We'll switch to map mode.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26280,7 +26281,7 @@ It&apos;s second from the right in the top row of the tile palette. </source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="340"/>
-        <source>First we&apos;ll make an inn event. 
+        <source>First we'll make an inn event. 
 Look for the counter to the right of the entrance (11,10).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -26293,7 +26294,7 @@ Quick Event Creation &gt; Inn.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="356"/>
-        <source>This time we won&apos;t change the image or price. 
+        <source>This time we won't change the image or price. 
 Click OK and it will be set.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -26305,12 +26306,12 @@ Next is the item shop.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="373"/>
-        <source>For this, we&apos;ll make a traveling merchant staying at the inn into an item shop.</source>
+        <source>For this, we'll make a traveling merchant staying at the inn into an item shop.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="381"/>
-        <source>We&apos;ll make the merchant&apos;s coordinates in the guest room (7,7). 
+        <source>We'll make the merchant's coordinates in the guest room (7,7). 
 Click to find those coordinates.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -26331,7 +26332,7 @@ Click to find those coordinates.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="413"/>
-        <source>Let&apos;s pick someone who looks like a merchant. 
+        <source>Let's pick someone who looks like a merchant. 
 Click People3.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -26347,20 +26348,20 @@ Click People3.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="438"/>
-        <source>For the event content, we&apos;re going to set it so that you can shop after he greets you. 
-Double click the first line in &quot;Contents&quot;.</source>
+        <source>For the event content, we're going to set it so that you can shop after he greets you. 
+Double click the first line in "Contents".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="446"/>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="630"/>
-        <source>Click &quot;Show Text...&quot;.</source>
+        <source>Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="454"/>
-        <source>Enter: &quot;I&apos;m a traveling merchant. 
-Please buy something.&quot;</source>
+        <source>Enter: "I'm a traveling merchant. 
+Please buy something."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26384,25 +26385,25 @@ Please buy something.&quot;</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="486"/>
-        <source>Click &quot;Shop Processing&quot;.</source>
+        <source>Click "Shop Processing".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="494"/>
-        <source>We&apos;re going to add merchandise for sale to this list. 
+        <source>We're going to add merchandise for sale to this list. 
 Double click the first line. 
 The merchandise selection window will appear.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="502"/>
-        <source>Check that &quot;Item&quot; is checked and set to &quot;Potion&quot;
+        <source>Check that "Item" is checked and set to "Potion"
 and click OK.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="518"/>
-        <source>We&apos;ll make the second item Magic Water.</source>
+        <source>We'll make the second item Magic Water.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26413,12 +26414,12 @@ and click OK.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="542"/>
-        <source>We&apos;ll make the third item Dispel Herb.</source>
+        <source>We'll make the third item Dispel Herb.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="566"/>
-        <source>We&apos;ll make the 4th item Stimulant.</source>
+        <source>We'll make the 4th item Stimulant.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26428,14 +26429,14 @@ and click OK.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="582"/>
-        <source>We&apos;re done adding goods to sell. 
+        <source>We're done adding goods to sell. 
 Click OK and it will be set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="590"/>
         <source>The items and equipment you can select here for the shop
-are registered in a &quot;database&quot;, which will be explained later.</source>
+are registered in a "database", which will be explained later.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26447,12 +26448,12 @@ If the price is zero, the merchant will not buy the item.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="606"/>
-        <source>That&apos;s it for this explanation. We can get back to work.</source>
+        <source>That's it for this explanation. We can get back to work.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="614"/>
-        <source>Lastly, let&apos;s make a message for after the player is done shopping. 
+        <source>Lastly, let's make a message for after the player is done shopping. 
 Double click the next line.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -26463,8 +26464,8 @@ Double click the next line.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="638"/>
-        <source>Enter: &quot;Thank you. 
-Come by again sometime.&quot;</source>
+        <source>Enter: "Thank you. 
+Come by again sometime."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26481,7 +26482,7 @@ Save the project.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep8.js" line="671"/>
-        <source>Now let&apos;s run a playtest. 
+        <source>Now let's run a playtest. 
 Since your starting gold will be zero, test it out after you get the gold from the chest and grass patch we made in the last step.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -26551,18 +26552,18 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="102"/>
-        <source>Next, we&apos;ll take several steps and using event commands,
+        <source>Next, we'll take several steps and using event commands,
 create a somewhat elaborate setup.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="110"/>
-        <source>In this step we&apos;re going to make a noticeboard in the town.</source>
+        <source>In this step we're going to make a noticeboard in the town.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="119"/>
-        <source>Select &quot;Normal Town&quot; from the map tree.</source>
+        <source>Select "Normal Town" from the map tree.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26577,7 +26578,7 @@ create a somewhat elaborate setup.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="143"/>
-        <source>Enter &quot;Noticeboard&quot; as the event name.</source>
+        <source>Enter "Noticeboard" as the event name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26607,17 +26608,17 @@ create a somewhat elaborate setup.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="191"/>
-        <source>Set the priority to &quot;Same as characters&quot;.</source>
+        <source>Set the priority to "Same as characters".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="200"/>
-        <source>Next we&apos;ll set up the content. Double click the first line.</source>
+        <source>Next we'll set up the content. Double click the first line.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="208"/>
-        <source>First we want to determine which way the character is facing when they investigate the board. Click &quot;Conditional Branch...&quot;</source>
+        <source>First we want to determine which way the character is facing when they investigate the board. Click "Conditional Branch..."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26628,17 +26629,17 @@ Click the page 3 tab.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="224"/>
-        <source>Check off &quot;Character&quot;.</source>
+        <source>Check off "Character".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="232"/>
-        <source>Make sure that the &quot;Player&quot; is facing &quot;Down&quot;.</source>
+        <source>Make sure that the "Player" is facing "Down".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="240"/>
-        <source>Check off &quot;Create Else Branch&quot;.</source>
+        <source>Check off "Create Else Branch".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26648,24 +26649,24 @@ Click the page 3 tab.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="256"/>
-        <source>Since you can&apos;t read a noticeboard from the back, we&apos;ll set it up so that it can&apos;t be read when the player is facing down, but it will be read in all other cases.</source>
+        <source>Since you can't read a noticeboard from the back, we'll set it up so that it can't be read when the player is facing down, but it will be read in all other cases.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="265"/>
-        <source>Double click the blank line under &quot;Else&quot;,</source>
+        <source>Double click the blank line under "Else",</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="273"/>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="314"/>
-        <source>Click &quot;Show Text...&quot;.</source>
+        <source>Click "Show Text...".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="281"/>
         <source>Enter: 
-&quot;\&gt;Someone, get rid of the monsters in the eastern cave.&quot;</source>
+"\&gt;Someone, get rid of the monsters in the eastern cave."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26681,24 +26682,24 @@ Click the page 3 tab.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="306"/>
-        <source>Next, we&apos;ll enter the text for when the noticeboard is read from behind. Double click the line under &quot;If: Player is facing Down&quot;.</source>
+        <source>Next, we'll enter the text for when the noticeboard is read from behind. Double click the line under "If: Player is facing Down".</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="322"/>
         <source>Enter: 
-&quot;\&gt;You can&apos;t read it from the back.&quot;</source>
+"\&gt;You can't read it from the back."</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="338"/>
-        <source>Now we&apos;re done creating the noticeboard event. 
+        <source>Now we're done creating the noticeboard event. 
 Click OK and set the event.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="347"/>
-        <source>Now let&apos;s run a playtest. 
+        <source>Now let's run a playtest. 
 First, save the project.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -26710,12 +26711,12 @@ and read the noticeboard from the top, sides, and bottom.</source>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="363"/>
-        <source>When you&apos;re done, there will be a short explanation.</source>
+        <source>When you're done, there will be a short explanation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="371"/>
-        <source>We&apos;ve set up a noticeboard as the event image,
+        <source>We've set up a noticeboard as the event image,
 but you can place the noticeboard on the map, and then place
 an event with no image above that as well.</source>
         <translation type="unfinished"></translation>
@@ -26723,7 +26724,7 @@ an event with no image above that as well.</source>
     <message>
         <location filename="../qml/Tutorial/TutorialStep9.js" line="379"/>
         <source>A noticeboard event has various applications. 
-That&apos;s the end of the explanation of Step 9.</source>
+That's the end of the explanation of Step 9.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
