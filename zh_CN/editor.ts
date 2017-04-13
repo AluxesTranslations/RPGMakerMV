@@ -17302,7 +17302,7 @@ Please complete the post with follow this link.</source>
         <source> is sleeping.</source>
         <comment>Sleep-persist</comment>
         <translatorcomment>睡眠持续</translatorcomment>
-        <translation type="unfinished">沉睡中。</translation>
+        <translation>正在沉睡中。</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="383"/>
