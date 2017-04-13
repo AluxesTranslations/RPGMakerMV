@@ -17347,63 +17347,63 @@ HP reaches 0.</source>
         <source> flees.</source>
         <comment>skill message</comment>
         <translatorcomment>技能信息</translatorcomment>
-        <translation>逃走。</translation>
+        <translation>逃跑了。</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="395"/>
         <source> waits.</source>
         <comment>skill message</comment>
         <translatorcomment>技能信息</translatorcomment>
-        <translation>等候。</translation>
+        <translation>正在观望。</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="396"/>
         <source> casts %1!</source>
         <comment>skill message</comment>
         <translatorcomment>技能信息</translatorcomment>
-        <translation>掷 %1!</translation>
+        <translation>吟唱了 %1！</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="404"/>
         <source>Overworld</source>
         <comment>tileset</comment>
         <translatorcomment>comment：元翻訳「整个世界」を変更して「世界地图」になりました。</translatorcomment>
-        <translation type="unfinished">世界地图</translation>
+        <translation>世界</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="405"/>
         <source>Outside</source>
         <comment>tileset</comment>
         <translatorcomment>comment：元翻訳「外面」を変更して「外观地图」になりました。</translatorcomment>
-        <translation type="unfinished">外观地图</translation>
+        <translation>外观</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="406"/>
         <source>Inside</source>
         <comment>tileset</comment>
         <translatorcomment>comment：元翻訳「里面」を変更して「内部地图」になりました。</translatorcomment>
-        <translation type="unfinished">内部地图</translation>
+        <translation>内部</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="407"/>
         <source>Dungeon</source>
         <comment>tileset</comment>
         <translatorcomment>comment：元翻訳「地牢」を変更して「地牢地图」になりました。</translatorcomment>
-        <translation type="unfinished">地牢地图</translation>
+        <translation>地下城</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="408"/>
         <source>SF Outside</source>
         <comment>tileset (cyberpunk)</comment>
         <translatorcomment>comment：元翻訳「SF 外面」を変更して「SF 外观世界」になりました。</translatorcomment>
-        <translation type="unfinished">SF 外观世界</translation>
+        <translation>近未来外观</translation>
     </message>
     <message>
         <location filename="../qml/Main/NewDataMaker.qml" line="409"/>
         <source>SF Inside</source>
         <comment>tileset (cyberpunk)</comment>
         <translatorcomment>comment：元翻訳「SF 里面」を変更して「SF 内部世界」になりました。</translatorcomment>
-        <translation type="unfinished">SF 内部世界</translation>
+        <translation>近未来内部</translation>
     </message>
 </context>
 <context>
@@ -17416,7 +17416,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/ObjControls/ObjIconImageBox.qml" line="58"/>
         <source>Index number of the selected icon.</source>
-        <translation>选择图标的索引数字。</translation>
+        <translation>所选图标的编号。</translation>
     </message>
 </context>
 <context>
@@ -17432,7 +17432,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/ObjControls/ObjTroopMemberBox.qml" line="31"/>
         <source>Entire Troop</source>
-        <translation>整个部队</translation>
+        <translation>敌方全体</translation>
     </message>
 </context>
 <context>
@@ -17440,12 +17440,12 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/ObjControls/ObjYesNoBox.qml" line="17"/>
         <source>Yes</source>
-        <translation type="unfinished">是</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../qml/ObjControls/ObjYesNoBox.qml" line="17"/>
         <source>No</source>
-        <translation type="unfinished">否</translation>
+        <translation>否</translation>
     </message>
 </context>
 <context>
@@ -17459,13 +17459,13 @@ HP reaches 0.</source>
         <location filename="../qml/Main/ProjectManager.qml" line="85"/>
         <source>Succeeded to create a distribution package.</source>
         <translatorcomment>comment：元翻訳「成功创建分配组件。」を「成功创建分发资源包。」に変更しました。</translatorcomment>
-        <translation type="unfinished">成功创建分发资源包。</translation>
+        <translation>成功创建发行包。</translation>
     </message>
     <message>
         <location filename="../qml/Main/ProjectManager.qml" line="89"/>
         <source>Failed to create a distribution package.</source>
         <translatorcomment>comment：元翻訳「创建分配组件失败。」を「创建分发资源包失败。」に変更しました。</translatorcomment>
-        <translation type="unfinished">创建分发资源包失败。</translation>
+        <translation>创建发行包失败。</translation>
     </message>
     <message>
         <location filename="../qml/Main/ProjectManager.qml" line="95"/>
@@ -17475,12 +17475,12 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/ProjectManager.qml" line="135"/>
         <source>Save changes to the game?</source>
-        <translation>把改变存入游戏吗？</translation>
+        <translation>保存对游戏的更改？</translation>
     </message>
     <message>
         <location filename="../qml/Main/ProjectManager.qml" line="164"/>
         <source>The output folder already exists. Overwrite?</source>
-        <translation type="unfinished">输出文件夹已经存在，要覆盖吗？</translation>
+        <translation>输出文件夹已经存在，要覆盖吗？</translation>
     </message>
     <message>
         <location filename="../qml/Main/ProjectManager.qml" line="338"/>
@@ -17490,7 +17490,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/ProjectManager.qml" line="390"/>
         <source>Failed to write database.</source>
-        <translation type="unfinished">读写数据库失败。</translation>
+        <translation>写入数据库失败。</translation>
     </message>
     <message>
         <location filename="../qml/Main/ProjectManager.qml" line="435"/>
@@ -17509,7 +17509,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/ProjectManager.qml" line="508"/>
         <source>Unexpected file format.</source>
-        <translation>未知文件格式。</translation>
+        <translation>非预期的文件格式。</translation>
     </message>
     <message>
         <location filename="../qml/Main/ProjectManager.qml" line="512"/>
@@ -17528,12 +17528,12 @@ HP reaches 0.</source>
         <location filename="../qml/Controls/StandardPopupMenu.qml" line="49"/>
         <source>New</source>
         <translatorcomment>comment：元翻訳「新的」を「新建」に変更しました。</translatorcomment>
-        <translation type="unfinished">新建</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="../qml/Controls/StandardPopupMenu.qml" line="68"/>
         <source>Edit</source>
-        <translation type="unfinished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <location filename="../qml/Controls/StandardPopupMenu.qml" line="91"/>
@@ -17568,12 +17568,12 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Controls/StandardPopupMenu.qml" line="174"/>
         <source>Undo</source>
-        <translation>取消</translation>
+        <translation>撤销</translation>
     </message>
     <message>
         <location filename="../qml/Controls/StandardPopupMenu.qml" line="187"/>
         <source>Redo</source>
-        <translation type="unfinished">重做</translation>
+        <translation>重做</translation>
     </message>
 </context>
 <context>
@@ -17581,19 +17581,19 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="18"/>
         <source>Steam Management</source>
-        <translation>steam管理</translation>
+        <translation>Steam 管理</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="67"/>
         <location filename="../qml/Main/SteamWindow.qml" line="135"/>
         <source>Yes</source>
-        <translation>是的</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="67"/>
         <location filename="../qml/Main/SteamWindow.qml" line="135"/>
         <source>No</source>
-        <translation>不是</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="75"/>
@@ -17603,7 +17603,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="81"/>
         <source>Subscribed</source>
-        <translation>订阅</translation>
+        <translation type="unfinished">已订阅</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="100"/>
@@ -17623,48 +17623,48 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="101"/>
         <source>Failed to obtain owned Workshop Items data.</source>
-        <translation>获取拥有工作室条款数据失败。</translation>
+        <translation>无法获得创意工坊的数据。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="116"/>
         <location filename="../qml/Main/SteamWindow.qml" line="159"/>
         <source>Unable to update Steam Workshop Item, you are banned from the community.</source>
-        <translation type="unfinished">steam工作室条款无法升级，你被社区禁止。</translation>
+        <translation>无法更新 Steam 创意工坊中的物品，因为你被社区封禁。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="120"/>
         <location filename="../qml/Main/SteamWindow.qml" line="163"/>
         <location filename="../qml/Main/SteamWindow.qml" line="180"/>
         <source>A Timeout occurred when sharing or updating your Workshop Item.</source>
-        <translation>当你分享或升级你的工作室条款时出现过期。</translation>
+        <translation>分享或更新创意工坊中的物品时发生超时。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="124"/>
         <location filename="../qml/Main/SteamWindow.qml" line="167"/>
         <source>Unabled to create Workshop Item, you are not logged onto steam!</source>
-        <translation type="unfinished">无法创建工作室条款，你未登录steam！</translation>
+        <translation type="unfinished">无法创建创意工坊物品，因为你没有登录 Steam。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="128"/>
         <location filename="../qml/Main/SteamWindow.qml" line="171"/>
         <source>You still need to accept the Steamwork Shop Agreement in order for this Workshop Item to not appear only private.</source>
-        <translation type="unfinished">隐藏此工作室条款，你需要同意steamwork shop协议。</translation>
+        <translation>要公开这件创意工坊的物品，你必须同意 Steam 创意工坊商店的使用协议。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="140"/>
         <source>Creating</source>
-        <translation>创建</translation>
+        <translation>正在创建</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="184"/>
         <source>An unknown error occurred when attempting to update the Workshop Item.</source>
-        <translation>在升级工作室条款时出现一个未知错误。</translation>
+        <translation>在更新创意工坊的物品时发生未知错误。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="193"/>
         <source>It appears the currently loaded local project is not saved to the cloud, you can choose to save it to the cloud in the Steam Management Window.</source>
         <translatorcomment>comment：元翻訳「当前加载的当地项目没有存到云里，你可以在Steam管理窗口选择保存。」を「当前加载的当地项目没有存到云端里，你可以在Steam管理窗口选择保存。」に変更しました。</translatorcomment>
-        <translation type="unfinished">当前加载的当地项目没有存到云端里，你可以在Steam管理窗口选择保存。</translation>
+        <translation>当前的本地项目似乎没有保存到云端。你可以在 Steam 管理窗口中将其保存到云端。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="215"/>
@@ -17690,7 +17690,7 @@ HP reaches 0.</source>
         <location filename="../qml/Main/SteamWindow.qml" line="279"/>
         <source>Select Thumbnail</source>
         <translatorcomment>comment：元翻訳「选择拇指甲」を「选择缩略图」に変更しました。</translatorcomment>
-        <translation type="unfinished">选择缩略图</translation>
+        <translation>选择缩略图</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="282"/>
@@ -17705,37 +17705,37 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="298"/>
         <source>Steam Workshop:</source>
-        <translation>Steam工作室：</translation>
+        <translation>Steam 创意工坊：</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="302"/>
         <source>Category</source>
-        <translation>类型</translation>
+        <translation>类别</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="305"/>
         <source>Edit And Play</source>
-        <translation>编辑和播放</translation>
+        <translation>Edit And Play</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="314"/>
         <source>Resources</source>
-        <translation>资源</translation>
+        <translation>Resources</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="324"/>
         <source>Game Genre/Resource Type</source>
-        <translation>游戏类型/资源类型</translation>
+        <translation>Game Genre/Resource 类型</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="330"/>
         <source>Game/Resource Flavor</source>
-        <translation>游戏/资源偏好</translation>
+        <translation>Game/Resource Flavor</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="336"/>
         <source>Visibility</source>
-        <translation>可视性</translation>
+        <translation>可见性</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="342"/>
@@ -17744,28 +17744,27 @@ HP reaches 0.</source>
         <translatorcomment>comment：元翻訳「提交这个条框，
 你同意成为」を「提交这个条框，
 你同意」に変更しました。</translatorcomment>
-        <translation>提交这个条框，
-你同意成为</translation>
+        <translation>提交此物品，你同意接受</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="345"/>
         <source>Steam Workshop Agreement</source>
-        <translation>Steam工作室协议</translation>
+        <translation>Steam 创意工坊用户协议</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="358"/>
         <source>Share on Workshop</source>
-        <translation>在工作室里分享</translation>
+        <translation>分享到创意工坊</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="373"/>
         <source>You need to agree to the Steam Workshop User Agreement.</source>
-        <translation>你需要同意Steam 工作室玩家协议。</translation>
+        <translation>你需要同意 Steam 创意工坊用户协议。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="379"/>
         <source>Progress</source>
-        <translation>进程</translation>
+        <translation>进度</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="397"/>
@@ -17775,32 +17774,32 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="406"/>
         <source>Storage Used:</source>
-        <translation>存储使用了：</translation>
+        <translation>已储存：</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="412"/>
         <source>Storage Available:</source>
-        <translation>存储可用：</translation>
+        <translation>可用：</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="419"/>
         <source>Steam API Available:</source>
-        <translation>Steam API可用：</translation>
+        <translation>Steam API 可用：</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="454"/>
         <source>Workshop Item</source>
-        <translation>工作室条款</translation>
+        <translation>创意工坊物品</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="459"/>
         <source>Local</source>
-        <translation>当地</translation>
+        <translation>本地</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="464"/>
         <source>Workshop</source>
-        <translation>工作室</translation>
+        <translation>创意工坊</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="469"/>
@@ -17810,7 +17809,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="475"/>
         <source>Owned</source>
-        <translation>所有的</translation>
+        <translation>已拥有</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="481"/>
@@ -17820,22 +17819,22 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="497"/>
         <source>Load Project</source>
-        <translation>加载项目</translation>
+        <translation type="unfinished">读取项目</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="507"/>
         <source>Could not find the project file associated with this workshop item.</source>
-        <translation>无法找到与这个工作条目相关的项目文件。</translation>
+        <translation>无法找到与该创意工坊物品关联的项目。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="516"/>
         <source>Update</source>
-        <translation>升级</translation>
+        <translation>更新</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="538"/>
         <source>Update Info</source>
-        <translation>升级信息</translation>
+        <translation>更新信息</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="560"/>
@@ -17850,72 +17849,72 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="588"/>
         <source>You must input a valid Project Name for the Workshop Item.</source>
-        <translation>你需要输入有效的项目名称到工作室条款中。</translation>
+        <translation>你必须为创意工坊物品输入一个有效的项目名称。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="593"/>
         <source>You must input a valid Project Description for the Workshop Item.</source>
-        <translation>你需要输入有效的项目描述到工作室条款中。</translation>
+        <translation>你必须为创意工坊物品输入一个有效的项目说明。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="598"/>
         <source>You must select a valid Thumbnail Image for the Workshop Item.</source>
         <translatorcomment>comment：元翻訳「你需要选择一个有效的拇指甲图像到工作室条款中。」を「你需要选择一个有效的缩略图图像到工作室条款中。」に変更しました。</translatorcomment>
-        <translation type="unfinished">你需要选择一个有效的缩略图图像到工作室条款中。</translation>
+        <translation>你必须为创意工坊物品选择一个有效的缩略图。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="603"/>
         <source>You must select a valid Thumbnail Image other than the default for the Workshop Item.</source>
         <translatorcomment>comment：元翻訳「你需要在默认之外选择一个有效的拇指甲图像到工作组条款中。」を「你需要在默认之外选择一个有效的缩略图图像到工作组条款中。」に変更しました。</translatorcomment>
-        <translation type="unfinished">你需要在默认之外选择一个有效的缩略图图像到工作组条款中。</translation>
+        <translation>你必须为创意工坊物品选择一个默认以外的有效缩略图。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="608"/>
         <source>The Thumbnail Image must be less than 1mb.</source>
         <translatorcomment>comment：元翻訳「拇指甲图像必须小于1MB。」を「缩略图像必须小于1MB。」に変更しました。</translatorcomment>
-        <translation type="unfinished">缩略图像必须小于1MB。</translation>
+        <translation>缩略图不能超过 1MB。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="613"/>
         <source>You must select a valid Item Type for the Workshop Item.</source>
-        <translation>你需要选择一个有效的条款种类到工作室条款中。</translation>
+        <translation>你必须为创意工坊物品选择一个有效的物品类型。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="618"/>
         <source>You must select a valid Genre/Resource Type for the Workshop Item.</source>
-        <translation>你需要选择一个有效的类型/资源种类到工作室条款中。</translation>
+        <translation>你必须为创意创意工坊选择一个有效的 Genre/Resource 类型。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="623"/>
         <source>You must select a valid Genre/Resource Flavor for the Workshop Item.</source>
-        <translation>你需要选择一个有效的类型/资源偏好到工作室条款中。</translation>
+        <translation>你必须为创意工坊物品选择一个有效的 Genre/Resource Flavor。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="628"/>
         <source>You must select a valid Visibility Level for the Workshop Item.</source>
-        <translation>你需要选择一个有效的可视性等级到工作室条款中。</translation>
+        <translation>你必须为创意工坊物品选择一个有效的可见性级别。</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="666"/>
         <source>Steam API Available: Yes</source>
-        <translation>Steam API可用：是的</translation>
+        <translation>Steam API 可用：是</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="668"/>
         <location filename="../qml/Main/SteamWindow.qml" line="680"/>
         <source>Storage Available: </source>
-        <translation>存储可用：</translation>
+        <translation>可用：</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="669"/>
         <location filename="../qml/Main/SteamWindow.qml" line="681"/>
         <source>Storage Used: </source>
-        <translation>存储使用了：</translation>
+        <translation>已存储：</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="679"/>
         <source>Steam API Available: No</source>
-        <translation>Steam API可用：不行</translation>
+        <translation>Steam API 可用：否</translation>
     </message>
     <message>
         <location filename="../qml/Main/SteamWindow.qml" line="680"/>
@@ -17934,7 +17933,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="26"/>
         <source>Based on the state of the specified switch.</source>
-        <translation>根据特定的开关状态。</translation>
+        <translation>以指定开关的状态作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="45"/>
@@ -17951,32 +17950,32 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="60"/>
         <source>Based on the value of the specified variable.</source>
-        <translation>根据特定的变量值。</translation>
+        <translation>以指定变量的值作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="86"/>
         <source>Constant</source>
-        <translation>不变的</translation>
+        <translation>常量</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="87"/>
         <source>Compares with the constant value.</source>
-        <translation>与定值相比。</translation>
+        <translation>与常量比较。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="107"/>
         <source>Compares with the value of the specified variable.</source>
-        <translation>与特定值相比。</translation>
+        <translation>与指定的变量比较。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="126"/>
         <source>Self Switch</source>
-        <translation>自动开关</translation>
+        <translation>独立开关</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="127"/>
         <source>Based on the state of the specified self switch. Vaild only in the map event.</source>
-        <translation>根据特定自动开关的状态。只在地图事件中有效。</translation>
+        <translation>以独立开关的状态作为基准。只在地图事件中有效。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="159"/>
@@ -17986,17 +17985,17 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="160"/>
         <source>Based on the remaining time of the timer.</source>
-        <translation>根据计时器上的剩余时间。</translation>
+        <translation>以计时器的剩余时间作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="181"/>
         <source>min</source>
-        <translation>分钟</translation>
+        <translation>分</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch1.qml" line="190"/>
         <source>sec</source>
-        <translation>秒钟</translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
@@ -18009,41 +18008,41 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="26"/>
         <source>Based on the specified actor.</source>
-        <translation>根据特定角色。</translation>
+        <translation>以指定的角色作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="45"/>
         <source>In the party</source>
         <translatorcomment>comment：元翻訳「在小组中」を「队伍中」に変更しました。</translatorcomment>
-        <translation type="unfinished">队伍中</translation>
+        <translation>在队伍中</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="46"/>
         <source>Based on whether or not the specified actor is in the party.</source>
         <translatorcomment>comment：元翻訳「根据特定的角色是否在小组中。」を「根据特定的角色是否在队伍中。」に変更しました。</translatorcomment>
-        <translation type="unfinished">根据特定的角色是否在队伍中。</translation>
+        <translation>以指定的角色是否在队伍中作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="57"/>
         <source>Name</source>
-        <translation>名称</translation>
+        <translation>名字</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="58"/>
         <source>Based on the name of the specified actor.</source>
-        <translation>根据特定角色的名称。</translation>
+        <translation>以指定角色的名字作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="75"/>
         <source>Class</source>
         <translatorcomment>comment：元翻訳「级别」を「职业」に変更しました。</translatorcomment>
-        <translation type="unfinished">职业</translation>
+        <translation>职业</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="76"/>
         <source>Based on the class of the specified actor.</source>
         <translatorcomment>comment：元翻訳「根据特定角色的等级。」を「根据特定角色的职业。」に変更しました。</translatorcomment>
-        <translation type="unfinished">根据特定角色的职业。</translation>
+        <translation>以指定角色的职业作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="94"/>
@@ -18053,7 +18052,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="95"/>
         <source>Based on whether or not the specified actor can use a particular skill.</source>
-        <translation>根据特定的角色能否使用特定技能。</translation>
+        <translation>以角色是否能使用特定的技能作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="113"/>
@@ -18063,17 +18062,17 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="114"/>
         <source>Based on whether or not the specified actor has a particular weapon equipped.</source>
-        <translation>根据特定的角色能否装备了特定武器。</translation>
+        <translation>以角色是否装备了特定的武器作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="132"/>
         <source>Armor</source>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="133"/>
         <source>Based on whether or not the specified actor has a particular armor equipped.</source>
-        <translation>根据特定的角色能否使用特定装备。</translation>
+        <translation>以角色是否装备特定的护甲作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="151"/>
@@ -18083,7 +18082,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch2.qml" line="152"/>
         <source>Based on whether or not the specified actor has a particular state.</source>
-        <translation>根据特定的角色是否在特定的状态上。</translation>
+        <translation>以角色是否有特定的状态作为基准。</translation>
     </message>
 </context>
 <context>
@@ -18096,17 +18095,17 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="27"/>
         <source>Based on the specified enemy.</source>
-        <translation>根据特定的敌人。</translation>
+        <translation>以指定的敌人作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="46"/>
         <source>Appeared</source>
-        <translation>出现了</translation>
+        <translation>已经出现</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="47"/>
         <source>Based on whether or not the specified enemy is participating in battle.</source>
-        <translation>根据这个特定的敌人是否参与了战斗。</translation>
+        <translation>以指定的敌人是否正在参战作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="58"/>
@@ -18116,40 +18115,40 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="59"/>
         <source>Based on whether or not the specified enemy has a particular state.</source>
-        <translation>根据特定的敌人是否在特定的状态上。</translation>
+        <translation>以敌人是否拥有状态作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="80"/>
         <source>Character</source>
-        <translation>角色</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="81"/>
         <source>Based on the direction the player or event is facing.</source>
-        <translation>根据玩家或事件面临的方向。</translation>
+        <translation>以玩家或事件的朝向作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="100"/>
         <source>is facing</source>
-        <translation>面对着</translation>
+        <translation>朝向</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="115"/>
         <source>Vehicle</source>
         <translatorcomment>comment：元翻訳「车辆」を「载具」に変更しました。</translatorcomment>
-        <translation type="unfinished">载具</translation>
+        <translation>载具</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="116"/>
         <source>Based on whether or not the party is riding in the specified vehicle.</source>
         <translatorcomment>comment：元翻訳「根据这个小组是否在特定的车子上。」を「根据这个队伍是否在特定的载具上。」に変更しました。</translatorcomment>
-        <translation type="unfinished">根据这个队伍是否在特定的载具上。</translation>
+        <translation>以队伍是否乘坐指定的载具作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch3.qml" line="135"/>
         <source>is driven</source>
         <translatorcomment>comment：元翻訳「被驱使」を「被驾驶」に変更しました。</translatorcomment>
-        <translation type="unfinished">被驾驶</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -18158,13 +18157,13 @@ HP reaches 0.</source>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="23"/>
         <source>Gold</source>
         <translatorcomment>comment：元翻訳「金子」を変更して「金币」になりました</translatorcomment>
-        <translation type="unfinished">金币</translation>
+        <translation>金钱</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="24"/>
         <source>Based on the party's money.</source>
         <translatorcomment>comment：元翻訳「根据小组的钱袋子。」を「根据队伍的金钱数量。」に変更しました。</translatorcomment>
-        <translation type="unfinished">根据队伍的金钱数量。</translation>
+        <translation>以队伍持有的金钱数作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="52"/>
@@ -18175,7 +18174,7 @@ HP reaches 0.</source>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="53"/>
         <source>Based on whether or not the party has a particular item.</source>
         <translatorcomment>comment：元翻訳「根据这个小组是否有特定的物品。」を「根据这个队伍是否有特定的物品。」に変更しました。</translatorcomment>
-        <translation type="unfinished">根据这个队伍是否有特定的物品。</translation>
+        <translation>以队伍是否持有特定的物品作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="74"/>
@@ -18186,18 +18185,18 @@ HP reaches 0.</source>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="75"/>
         <source>Based on whether or not the party has a particular weapon.</source>
         <translatorcomment>comment：元翻訳「根据这个小组是否有特定的武器。」を「根据这个队伍是否有特定的武器。」に変更しました。</translatorcomment>
-        <translation type="unfinished">根据这个队伍是否有特定的武器。</translation>
+        <translation>以队伍是否持有特定的武器作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="101"/>
         <source>Armor</source>
-        <translation>盔甲</translation>
+        <translation>护甲</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="102"/>
         <source>Based on whether or not the party has a particular armor.</source>
         <translatorcomment>comment：元翻訳「根据这个小组是否有特定的盔甲。」を「根据这个队伍是否有特定的盔甲。」に変更しました。</translatorcomment>
-        <translation type="unfinished">根据这个队伍是否有特定的盔甲。</translation>
+        <translation>以队伍是否持有特定的护甲作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="128"/>
@@ -18207,22 +18206,22 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="129"/>
         <source>Based on whether or not a particular button is being pressed.</source>
-        <translation>根据特定的按钮是否被按动。</translation>
+        <translation>以特定的按钮是否处于按下的状态作为基准。</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="148"/>
         <source>is pressed down</source>
-        <translation>被按下了</translation>
+        <translation>正在按下的状态</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="156"/>
         <source>Script</source>
-        <translation>剧本</translation>
+        <translation>脚本</translation>
     </message>
     <message>
         <location filename="../qml/Event/Tab_ConditionalBranch4.qml" line="157"/>
         <source>For advanced users: Based on the evaluation result of the script.</source>
-        <translation type="unfinished">高级别玩家：根据对剧本结局的评估。</translation>
+        <translation>面向高级用户：以脚本的求值结果作为基准。</translation>
     </message>
 </context>
 <context>
@@ -18240,31 +18239,31 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="44"/>
         <source>Currency</source>
-        <translation>货币</translation>
+        <translation>货币单位</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="45"/>
         <source>Unit of currency in the game world.</source>
-        <translation>游戏世界中的货币。</translation>
+        <translation>游戏世界中的货币单位。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="57"/>
         <source>Vehicle Images</source>
         <translatorcomment>comment：元翻訳「车辆图像」を「载具图像」に変更しました。</translatorcomment>
-        <translation type="unfinished">载具图像</translation>
+        <translation>载具图像</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="58"/>
         <source>Images of the vehicles to be displayed on the map screen.</source>
         <translatorcomment>comment：元翻訳「在地图屏幕中展示的车辆图像。」を「在地图屏幕中展示的载具图像。」に変更しました。</translatorcomment>
-        <translation type="unfinished">在地图屏幕中展示的载具图像。</translation>
+        <translation>在地图画面中显示的载具图像。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="64"/>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="70"/>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="76"/>
         <source>Image of the %1.</source>
-        <translation> %1的图像。</translation>
+        <translation>%1 的图像。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="82"/>
@@ -18274,17 +18273,17 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="83"/>
         <source>Background color of windows used in the game.</source>
-        <translation>窗口的背景色在游戏中使用。</translation>
+        <translation>游戏中窗口的背景颜色。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="120"/>
         <source>Title Screen</source>
-        <translation>标题屏幕</translation>
+        <translation>标题画面</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="121"/>
         <source>Screen to display at game startup.</source>
-        <translation>游戏开始时在屏幕上的展示。</translation>
+        <translation>游戏开始时显示的画面。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="127"/>
@@ -18294,17 +18293,17 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="128"/>
         <source>Background and frame images to be displayed on the title screen.</source>
-        <translation>背景和镜头图像在标题屏幕上展示。</translation>
+        <translation>在标题画面显示的背景和边框图像。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="136"/>
         <source>Draw Game Title</source>
-        <translation>画游戏标题</translation>
+        <translation>绘制游戏标题</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBSystem.qml" line="137"/>
         <source>Draws the game title string on the title screen. Uncheck this option if you want to use your own title logo.</source>
-        <translation type="unfinished">在标题屏幕上画游戏标题线。如果要选择自己的标题图形，请取消选中。</translation>
+        <translation>在标题画面绘制游戏的标题文字。如果你想要用自己的 Logo，请不要勾选此选项。</translation>
     </message>
 </context>
 <context>
@@ -18312,12 +18311,12 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="30"/>
         <source>Basic Statuses</source>
-        <translation>基本状况</translation>
+        <translation>基本状态</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="31"/>
         <source>Various basic statuses displayed in the game.</source>
-        <translation>游戏中展示的各种基本状况。</translation>
+        <translation>游戏中显示的基本状态。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="33"/>
@@ -18327,29 +18326,29 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="33"/>
         <source>Level (abbr.)</source>
-        <translation>等级(缩写)</translation>
+        <translation>等级（缩写）</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="34"/>
         <source>HP</source>
-        <translation>生命值</translation>
+        <translation>HP</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="34"/>
         <source>HP (abbr.)</source>
-        <translation>生命值(缩写)</translation>
+        <translation>HP（缩写）</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="35"/>
         <source>MP</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation>力量值</translation>
+        <translation>MP</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="35"/>
         <source>MP (abbr.)</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation>力量值(缩写)</translation>
+        <translation>MP（缩写）</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="36"/>
@@ -18359,37 +18358,37 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="36"/>
         <source>TP (abbr.)</source>
-        <translation>TP(缩写)</translation>
+        <translation>TP（缩写）</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="37"/>
         <source>EXP</source>
-        <translation>经验</translation>
+        <translation>经验值</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="37"/>
         <source>EXP (abbr.)</source>
-        <translation>经验(缩写)</translation>
+        <translation>经验值（缩写）</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="56"/>
         <source>Parameters</source>
-        <translation>参数</translation>
+        <translation>能力值</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="57"/>
         <source>Various parameter names displayed in the game.</source>
-        <translation>游戏中展示的各种参数名称。</translation>
+        <translation>游戏中显示的各种能力值的名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="88"/>
         <source>Commands</source>
-        <translation>命令</translation>
+        <translation>指令</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTerms.qml" line="89"/>
         <source>Command names displayed in the game.</source>
-        <translation>游戏中展示的命令名称。</translation>
+        <translation>游戏中显示的指令名称。</translation>
     </message>
 </context>
 <context>
@@ -18397,102 +18396,102 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="33"/>
         <source>Elements</source>
-        <translation>元素</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="34"/>
         <source>Data for representing the special characteristics given to skills and items.</source>
-        <translation>代表特定技能和物品特色的数据。</translation>
+        <translation>表示赋予技能和物品特征的数据。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="35"/>
         <source>Name of the element.</source>
-        <translation>元素名称。</translation>
+        <translation>属性名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="36"/>
         <source>Changes the number of elements.</source>
-        <translation>改变元素的数量。</translation>
+        <translation>更改属性的数量。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="42"/>
         <source>Skill Types</source>
-        <translation>技能种类</translation>
+        <translation>技能类型</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="43"/>
         <source>Data for representing skill types. Each type of skill is treated as a separate command.</source>
-        <translation type="unfinished">代表技能种类的数据。每一个种类的技能被视为单独发布的的命令。</translation>
+        <translation>代表技能类型的数据。每一类的技能会用一个单独的指令。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="44"/>
         <source>Name of the skill type. Displayed as a command in the game.</source>
-        <translation>技能种类的名称。在游戏中以命令展示。</translation>
+        <translation>技能类型的名称，在游戏中显示为命令。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="45"/>
         <source>Changes the number of skill types.</source>
-        <translation>改变技能种类的数量。</translation>
+        <translation>更改技能类型的数量。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="51"/>
         <source>Weapon Types</source>
-        <translation>武器种类</translation>
+        <translation>武器类型</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="52"/>
         <source>Data for representing weapon types. Sets whether each weapon type can be equipped.</source>
-        <translation>代表武器种类的数据。设置是否每个可以装备的武器种类。</translation>
+        <translation>代表武器类型的数据。这是能否装备武器的设定单位。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="53"/>
         <source>Name of the weapon type.</source>
-        <translation>武器种类的名称。</translation>
+        <translation>武器类型的名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="54"/>
         <source>Changes the number of weapon types.</source>
-        <translation>改变武器种类的数量。</translation>
+        <translation>更改武器类型的数量。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="60"/>
         <source>Armor Types</source>
-        <translation>盔甲种类</translation>
+        <translation>护甲类型</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="61"/>
         <source>Data for representing armor types. Sets whether each armor type can be equipped.</source>
-        <translation type="unfinished">代表盔甲种类的数据。设置是否每种盔甲种类都能被装备。</translation>
+        <translation>代表护甲类型的数据。这是能否装备护甲的设定单位。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="62"/>
         <source>Name of the armor type.</source>
-        <translation>盔甲种类的名称。</translation>
+        <translation>护甲类型的名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="63"/>
         <source>Changes the number of armor types.</source>
-        <translation>改变盔甲种类的数量。</translation>
+        <translation>更改护甲类型的数量。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="69"/>
         <source>Equipment Types</source>
-        <translation>装备种类</translation>
+        <translation>装备类型</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="70"/>
         <source>Data for representing equipment types such as body armor and head armor.</source>
-        <translation>代表装备种类的数据，比如像甲胄和头盔。</translation>
+        <translation>代表装备部位的数据，比如身体护甲和头部护甲。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="71"/>
         <source>Name of the equipment type.</source>
-        <translation>武器种类的名称。</translation>
+        <translation>装备类型的名称。</translation>
     </message>
     <message>
         <location filename="../qml/Database/Tab_DBTypes.qml" line="72"/>
         <source>Changes the number of equipment types.</source>
-        <translation>改变装备种类的数量。</translation>
+        <translation>更改装备类型的数量。</translation>
     </message>
 </context>
 <context>
@@ -18505,7 +18504,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Event/TargetEnemyBox.qml" line="12"/>
         <source>Enemy to change the status.</source>
-        <translation>敌人来改变状态。</translation>
+        <translation>要更改状态的敌人。</translation>
     </message>
 </context>
 <context>
@@ -18538,12 +18537,12 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/BasicControls/TextEditPopupMenu.qml" line="74"/>
         <source>Undo</source>
-        <translation>取消</translation>
+        <translation>撤销</translation>
     </message>
     <message>
         <location filename="../qml/BasicControls/TextEditPopupMenu.qml" line="85"/>
         <source>Redo</source>
-        <translation type="unfinished">重做</translation>
+        <translation>重做</translation>
     </message>
 </context>
 <context>
@@ -18551,7 +18550,7 @@ HP reaches 0.</source>
     <message>
         <location filename="../qml/Controls/TroopScreen.qml" line="173"/>
         <source>Appear Halfway</source>
-        <translation>半路杀出</translation>
+        <translation>中途出现</translation>
     </message>
 </context>
 <context>
