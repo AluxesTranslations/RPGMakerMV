@@ -1286,7 +1286,7 @@
         <source>Missile</source>
         <comment>Long-range Weapon</comment>
         <translatorcomment>comment：元翻訳「导弹」を「投射物」に変更しました。远距离攻击</translatorcomment>
-        <translation>导弹</translation>
+        <translation>飞行道具</translation>
     </message>
     <message>
         <source>Dagger</source>
@@ -2286,7 +2286,7 @@
     <message>
         <source>Character Generator</source>
         <translatorcomment>comment：元翻訳「角色生产」を角色创建」に変更しました。</translatorcomment>
-        <translation type="unfinished">角色生成器</translation>
+        <translation>人物生成器</translation>
     </message>
     <message>
         <source>Male</source>
@@ -5340,7 +5340,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Text to be displayed on the status screen. Enter information such as the character&apos;s profile.</source>
         <translatorcomment>comment：元翻訳「在状态屏幕中展示的文本。键入的类似角色简介的信息。」を「在状态屏幕中展示的文本。输入类似角色简介的信息。」に変更しました。</translatorcomment>
-        <translation>在状态画面显示的文本。输入角色简介之类的信息。</translation>
+        <translation>在状态画面显示的文本。输入人物简介之类的信息。</translation>
     </message>
     <message>
         <source>Images</source>
@@ -5545,7 +5545,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Conditions to start the common event. Valid only on the map screen.&lt;br&gt;[None] Starts only when explicitly called up.&lt;br&gt;[Autorun] Starts when the specified switch is ON.&lt;br&gt;[Parallel] Runs cyclically while the specified switch is ON.</source>
         <translatorcomment>comment：元翻訳「开始一般事件的条件。只在地图屏幕中有效。&lt;br&gt;[没有]只有在明确的召集后才开始。&lt;br&gt;[自动运行]在特定开关打开时会开始。&lt;br&gt;[平行]当特定开关打开后会周期性的运行。」を「开始公共事件的条件。只在地图屏幕中有效。&lt;br&gt;[没有]只有在明确的召集后才开始。&lt;br&gt;[自动运行]在特定开关打开时会开始。&lt;br&gt;[平行]当特定开关打开后会周期性的运行。」に変更しました。</translatorcomment>
-        <translation>开始公共事件的条件。只在地图画面有效。&lt;br&gt;【无】只在显式调用时启动。&lt;br&gt;【自动执行】在“条件开关”打开时启动。&lt;br&gt;【并行处理】在”条件开关“打开时循环运行。</translation>
+        <translation>开始公共事件的条件。只在地图画面有效。&lt;br&gt;【无】只在显式调用时启动。&lt;br&gt;【自动执行】在“开关”打开时启动。&lt;br&gt;【并行处理】在”开关“的时间内周期性地反复执行。</translation>
     </message>
     <message>
         <source>None</source>
@@ -6153,7 +6153,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Sets whether a normal character can pass through the tile.&lt;br&gt;○ : passable&lt;br&gt;✕ : impassable&lt;br&gt;☆ : passable under the tile</source>
         <translatorcomment>comment：元翻訳「设置一个普通角色是否能通过磁贴。&lt;br&gt;○可通过&lt;br&gt;✕不可通过&lt;br&gt;☆在磁贴下通过」を「设置一个普通角色是否能通过图块。&lt;br&gt;○可通过&lt;br&gt;✕不可通过&lt;br&gt;☆在图块下通过」に変更しました。</translatorcomment>
-        <translation>设置一个普通角色是否能通过图块。&lt;br&gt;○：可通行&lt;br&gt;✕：不可通行&lt;br&gt;☆：在图块下方通行</translation>
+        <translation>设置一个普通人物是否能通过图块。&lt;br&gt;○：可通行&lt;br&gt;✕：不可通行&lt;br&gt;☆：在图块下方通行</translation>
     </message>
     <message>
         <source>Passage (4 dir)</source>
@@ -6162,7 +6162,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Sets the direction from which a normal character can enter the tile. Possible entries/exits are indicated by arrows.</source>
         <translatorcomment>comment：元翻訳「设置一个普通角色可以进入的磁贴。可能的 进入/出去 要由箭头指名。」を「设置一个普通角色可以进入的砖瓦。可能的 进入/出去 要由箭头指名。」に変更しました。</translatorcomment>
-        <translation>设置普通的角色可以进入图块的方向。箭头标志表示可以通行。</translation>
+        <translation>设置普通人物可以进入图块的方向。箭头标志表示可以通行。</translation>
     </message>
     <message>
         <source>Ladder</source>
@@ -6171,7 +6171,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Sets the character as looking upward when on this tile. This makes it look like the character is grabbing onto a ladder attached to a wall.</source>
         <translatorcomment>comment：元翻訳「设置角色在这个磁贴上时往上看。这让角色看上去像正抓着靠着墙的楼梯。」を「设置角色在这个图块上时往上看。这让角色看上去像正抓着靠着墙的楼梯。」に変更しました。</translatorcomment>
-        <translation>角色在图块上固定朝向上方。可以用这一设定来表现角色正在攀爬搭在墙上的梯子。</translation>
+        <translation>人物在图块上固定朝向上方。可以用这一设定来表现人物正在攀爬搭在墙上的梯子。</translation>
     </message>
     <message>
         <source>Bush</source>
@@ -6180,7 +6180,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Sets as translucent the bottom some pixels of a character on the tile, which can make the character&apos;s feet seemingly hidden in a bush.</source>
         <translatorcomment>comment：元翻訳「在底下设置一些半透明的，角色站在磁贴上的像素，这会让角色看上去像躲在灌木丛里面。」を「在底下设置一些半透明的，角色站在图块上的像素，这会让角色看上去像躲在灌木丛里面。」に変更しました。</translatorcomment>
-        <translation>站在图块上的角色下方的几个像素会显示为半透明。这个设定可以用来表现角色的脚底隐藏在草丛中。</translation>
+        <translation>站在图块上的人物下方的几个像素会显示为半透明。这个设定可以用来表现人物的脚底隐藏在草丛中。</translation>
     </message>
     <message>
         <source>Counter</source>
@@ -7148,19 +7148,19 @@ Please lower the file size of this project.</source>
     <message>
         <source>Shows the player character.</source>
         <translatorcomment>comment：元翻訳「显示角色性格。」を「显示玩家角色。」に変更しました。</translatorcomment>
-        <translation>显示玩家角色。</translation>
+        <translation>显示玩家人物。</translation>
     </message>
 </context>
 <context>
     <name>EventCommand212</name>
     <message>
         <source>Character</source>
-        <translation>角色</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Character to be the target.</source>
         <translatorcomment>comment：元翻訳「要瞄准的角色。」を「目标角色。」に変更しました。</translatorcomment>
-        <translation>目标角色。</translation>
+        <translation>目标人物。</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -7183,12 +7183,12 @@ Please lower the file size of this project.</source>
     <name>EventCommand213</name>
     <message>
         <source>Character</source>
-        <translation>角色</translation>
+        <translation>人物</translation>
     </message>
     <message>
         <source>Character to be the target.</source>
         <translatorcomment>comment：元翻訳「要瞄准的角色。」を「目标角色。」に変更しました。</translatorcomment>
-        <translation>目标角色。</translation>
+        <translation>目标人物。</translation>
     </message>
     <message>
         <source>Balloon Icon</source>
@@ -9187,11 +9187,11 @@ Please complete the post with follow this link.</source>
         <source>R</source>
         <comment>Rating</comment>
         <translatorcomment>等级</translatorcomment>
-        <translation>等级</translation>
+        <translation>R</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>总是</translation>
+        <translation>平时</translation>
     </message>
     <message>
         <source>Turn</source>
@@ -9199,12 +9199,12 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>HP</source>
-        <translation>生命值</translation>
+        <translation>HP</translation>
     </message>
     <message>
         <source>MP</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation type="unfinished">魔法值</translation>
+        <translation>MP</translation>
     </message>
     <message>
         <source>State</source>
@@ -9298,40 +9298,40 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Range to apply this operation.</source>
-        <translation>启用这个操作的范围。</translation>
+        <translation>该操作应用的范围。</translation>
     </message>
     <message>
         <source>Frames</source>
-        <translation>镜头</translation>
+        <translation>帧</translation>
     </message>
     <message>
         <source>Range of the frame numbers.</source>
-        <translation>镜头的数量范围。</translation>
+        <translation>帧数范围。</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation>房间</translation>
+        <translation>元件</translation>
     </message>
     <message>
         <source>Range of the cell numbers.</source>
-        <translation type="unfinished">单元格的数量范围。</translation>
+        <translation>元件编号范围。</translation>
     </message>
 </context>
 <context>
     <name>Group_AnimationTimings</name>
     <message>
         <source>SE and Flash Timing</source>
-        <translation>SE和闪光的时间</translation>
+        <translation>SE 和闪光的时机</translation>
     </message>
     <message>
         <source>SE and flash colors, etc. used when a frame is displayed.</source>
-        <translation>SE和闪光颜色，等等。当镜头展示时使用。</translation>
+        <translation>帧在显示时使用的 SE 和闪光颜色等。</translation>
     </message>
     <message>
         <source>No.</source>
         <comment>Frame Number</comment>
         <translatorcomment>镜头数量</translatorcomment>
-        <translation>第几个。</translation>
+        <translation>No.</translation>
     </message>
     <message>
         <source>SE</source>
@@ -9476,103 +9476,103 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shows how the transparent color looks like.</source>
-        <translation>展示透明颜色看起来的样子。</translation>
+        <translation>显示透明色所呈现的效果。</translation>
     </message>
 </context>
 <context>
     <name>Group_Damage</name>
     <message>
         <source>Damage</source>
-        <translation>损害</translation>
+        <translation>伤害</translation>
     </message>
     <message>
         <source>Amount of damage or recovery applied to the target.</source>
-        <translation>对目标的损害或恢复的数量。</translation>
+        <translation>应用到目标上的伤害或恢复量。</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>种类</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Type of damage.</source>
-        <translation>损害的种类。</translation>
+        <translation>伤害的类型</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>没有</translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>HP Damage</source>
-        <translation>生命值损害</translation>
+        <translation>HP 伤害</translation>
     </message>
     <message>
         <source>MP Damage</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation type="unfinished">魔法值损害</translation>
+        <translation>MP 伤害</translation>
     </message>
     <message>
         <source>HP Recover</source>
-        <translation>生命值恢复</translation>
+        <translation>HP 恢复</translation>
     </message>
     <message>
         <source>MP Recover</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation type="unfinished">魔法值恢复</translation>
+        <translation>MP 恢复</translation>
     </message>
     <message>
         <source>HP Drain</source>
-        <translation>生命值耗尽</translation>
+        <translation>HP 吸收</translation>
     </message>
     <message>
         <source>MP Drain</source>
         <translatorcomment>魔法值</translatorcomment>
-        <translation type="unfinished">魔法值耗尽</translation>
+        <translation>MP 吸收</translation>
     </message>
     <message>
         <source>Element</source>
-        <translation>元素</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Element of the damage. Final damage varies depending on the target&apos;s resistance to the element in question.</source>
-        <translation type="unfinished">损害的元素。根据目标是否对提到的元素免疫，最终的损害会有变化。</translation>
+        <translation>伤害的属性。最终的伤害会依据目标对属性的抗性而变动。</translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation>一般攻击</translation>
+        <translation>普通攻击</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation>公式</translation>
+        <translation>计算公式</translation>
     </message>
     <message>
         <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, &quot;a.atk&quot; stands for user&apos;s attack power.</source>
-        <translation>用来计算基本损害的公式。玩家由a，目标由b表示，2者都由之后的一个点来让状态作为参考。比如， &quot;a.atk&quot;表示玩家的攻击力度。</translation>
+        <translation>用来计算基本伤害的公式。用 a 表示使用者，b 表示目标。在其后加上点号可以获取下方列出的属性。比如说 a.atk 表示使用者的攻击力。</translation>
     </message>
     <message>
         <source>Variance</source>
-        <translation>变化</translation>
+        <translation>分散度</translation>
     </message>
     <message>
         <source>Degree of variability. The value of the final damage will vary by this percentage value.</source>
-        <translation type="unfinished">变化的程度。最终损害的值会根据这个百分比值而变化。</translation>
+        <translation>伤害量分散的程度。根据这项数值，最终的伤害值会上下浮动。</translation>
     </message>
     <message>
         <source>Critical Hits</source>
-        <translation>致命打击</translation>
+        <translation>暴击</translation>
     </message>
     <message>
         <source>Whether to enable critical hits. When enabled, critical hits will be determined based on the user&apos;s critical rate and the target&apos;s critical evasion rate.</source>
-        <translation type="unfinished">是否允许致命打击。当允许后，致命打击由玩家的致命等级和目标的致命躲避等级决定。</translation>
+        <translation>是否启用暴击。启用时，暴击率会根据使用者的暴击率和目标的暴击回避来决定。</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>critical</comment>
-        <translation>是的</translation>
+        <translation>是</translation>
     </message>
     <message>
         <source>No</source>
         <comment>critical</comment>
-        <translation>不是</translation>
+        <translation>否</translation>
     </message>
 </context>
 <context>
@@ -9618,32 +9618,32 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Recover HP</source>
-        <translation>生命值恢复</translation>
+        <translation>HP 恢复</translation>
     </message>
     <message>
         <source>Recover MP</source>
         <translatorcomment>恢复comment：元翻訳「力量值恢复」を「魔法值恢复」に変更しました。魔法值</translatorcomment>
-        <translation type="unfinished">魔法值恢复</translation>
+        <translation>MP 恢复</translation>
     </message>
     <message>
         <source>Gain TP</source>
-        <translation>获得TP</translation>
+        <translation>TP 增加</translation>
     </message>
     <message>
         <source>Add State</source>
-        <translation>增加状态</translation>
+        <translation>附加状态</translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation>一般攻击</translation>
+        <translation>普通攻击</translation>
     </message>
     <message>
         <source>Remove State</source>
-        <translation>移除状态</translation>
+        <translation>解除状态</translation>
     </message>
     <message>
         <source>Add Buff</source>
-        <translation>增加缓冲</translation>
+        <translation>强化</translation>
     </message>
     <message>
         <source>turns</source>
@@ -9734,15 +9734,15 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Appears when the specified variable is greater than or equal to the given value.</source>
         <translatorcomment>comment：元翻訳「当特定的变量大于或等于给到的值时出现。」を「当特定的变量大于或等于指定的值时出现。」に変更しました。</translatorcomment>
-        <translation type="unfinished">当特定的变量大于或等于指定的值时出现。</translation>
+        <translation>当指定变量大于等于给定的值时出现。</translation>
     </message>
     <message>
         <source>Self Switch</source>
-        <translation>自动开关</translation>
+        <translation>独立开关</translation>
     </message>
     <message>
         <source>Appears when the specified self switch is ON.</source>
-        <translation>当特定自动开关是打开是出现。</translation>
+        <translation>当独立开关打开时出现。</translation>
     </message>
     <message>
         <source>Item</source>
@@ -9751,7 +9751,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Appears when the party has the specified item.</source>
         <translatorcomment>comment：元翻訳「当小组有特定物品时出现。」を「当队伍有特定物品时出现。」に変更しました。</translatorcomment>
-        <translation type="unfinished">当队伍有特定物品时出现。</translation>
+        <translation>当队伍持有指定物品时出现。</translation>
     </message>
     <message>
         <source>Actor</source>
@@ -9760,7 +9760,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Appears when the specified actor is in the party.</source>
         <translatorcomment>comment：元翻訳「当特定角色在小组中时出现。」を「当特定角色在队伍中时出现。」に変更しました。</translatorcomment>
-        <translation type="unfinished">当特定角色在队伍中时出现。</translation>
+        <translation>当指定的角色在队伍中时出现。</translation>
     </message>
 </context>
 <context>
@@ -9768,60 +9768,60 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Invocation</source>
         <translatorcomment>comment：元の翻訳「符咒」を消して「启用」に変更致しました。</translatorcomment>
-        <translation type="unfinished">启用</translation>
+        <translation>调用</translation>
     </message>
     <message>
         <source>Settings related to action invocation.</source>
         <translatorcomment>comment：元翻訳「符咒相关的设置。」を「动作启动相关的设置。」に変更しました。</translatorcomment>
-        <translation type="unfinished">动作启动相关的设置。</translation>
+        <translation>与行动的发动相关的设置。</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation>速度</translation>
+        <translation>速度补正</translation>
     </message>
     <message>
         <source>Value that is added to the character&apos;s agility when determining action order. This allows you to create actions that are powerful but take a long time to perform.</source>
-        <translation>当决定行为指令时的那个用来增加角色灵敏度的值。这会允许你创建出一个动作很强大，但需要很长的时间去完成。</translation>
+        <translation>在决定行动顺序时增加到角色敏捷的值。这使得你可以创建强力但耗时的行动。</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>成功</translation>
+        <translation>成功率</translation>
     </message>
     <message>
         <source>Probability that the use of the action succeeds.</source>
-        <translation>使用动作成功的可能性。</translation>
+        <translation>行动成功的概率。</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation>重复</translation>
+        <translation>连续次数</translation>
     </message>
     <message>
         <source>Number of times the effect is applied to the target.</source>
-        <translation>对目标使用效果的次数。</translation>
+        <translation>效果应用到目标的次数。</translation>
     </message>
     <message>
         <source>TP Gain</source>
-        <translation>获得TP</translation>
+        <translation>获得 TP</translation>
     </message>
     <message>
         <source>Amount of TP the user gains per hit.</source>
-        <translation>玩家每次打击获得的TP数目。</translation>
+        <translation>玩家每次攻击得到的 TP。</translation>
     </message>
     <message>
         <source>Hit Type</source>
-        <translation>打击种类</translation>
+        <translation>命中类型</translation>
     </message>
     <message>
         <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user&apos;s hit rate and target&apos;s evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target&apos;s magic evasion rate.</source>
-        <translation>用来决定打击的方法。 &lt;br&gt;[某些打击]当做成功使用该动作打击。.&lt;br&gt;[自然攻击]基于玩家的打击等级和目标的躲避等级来决定打击分数。&lt;br&gt;[魔法攻击]基于目标的魔法躲避等级来决定打击分数。</translation>
+        <translation>判定命中的方式。&lt;br&gt;【必定命中】行动成功即视为命中。&lt;br&gt;【物理攻击】根据使用者的命中率和目标的回避率进行判定。&lt;br&gt;【魔法攻击】根据目标的魔法回避率进行判定。</translation>
     </message>
     <message>
         <source>Certain Hit</source>
-        <translation>某些打击</translation>
+        <translation>必定命中</translation>
     </message>
     <message>
         <source>Physical Attack</source>
-        <translation>自然攻击</translation>
+        <translation>物理攻击</translation>
     </message>
     <message>
         <source>Magical Attack</source>
@@ -9904,74 +9904,74 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Event character to swap the location.</source>
-        <translation>角色交换事件的位置。</translation>
+        <translation>要交换的人物。</translation>
     </message>
 </context>
 <context>
     <name>Group_MagicSkills</name>
     <message>
         <source>[SV] Magic Skills</source>
-        <translation>[SV]魔法技能</translation>
+        <translation>[SV] 魔法技能</translation>
     </message>
     <message>
         <source>List of the skill types which require a chanting motion in side-view mode.</source>
-        <translation>在侧视模式中需要咒语动作的技能种类清单。</translation>
+        <translation>在 SideView 模式中，需要施法动作的技能类型列表。</translation>
     </message>
     <message>
         <source>Skill Type</source>
-        <translation>技能种类</translation>
+        <translation>技能类型</translation>
     </message>
 </context>
 <context>
     <name>Group_MapGrid</name>
     <message>
         <source>Map Grid</source>
-        <translation>地图格子</translation>
+        <translation>地图网格</translation>
     </message>
     <message>
         <source>Turns the Map Editor grid display on/off.</source>
-        <translation>地图编辑各种的开关。</translation>
+        <translation>打开或关闭地图编辑器中的网格。</translation>
     </message>
     <message>
         <source>Show</source>
         <comment>Map Grid Visible</comment>
         <translatorcomment>地图格子可见</translatorcomment>
-        <translation>展示</translation>
+        <translation>显示</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>水平的</translation>
+        <translation>横向</translation>
     </message>
     <message>
         <source>Sets the horizontal spacing between grid tiles.</source>
         <translatorcomment>comment：元翻訳「在格子磁贴之间设置水平空间。」を「在格子图块之间设置水平空间。」に変更しました。</translatorcomment>
-        <translation>在格子磁贴之间设置水平空间。</translation>
+        <translation>设定网格的横向间距。</translation>
     </message>
     <message>
         <source>tiles</source>
         <comment>unit</comment>
         <translatorcomment>comment：元翻訳「磁贴」を「图块」に変更しました。单位</translatorcomment>
-        <translation type="unfinished">图块</translation>
+        <translation>图块</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>垂直的</translation>
+        <translation>纵向</translation>
     </message>
     <message>
         <source>Sets the vertical spacing between grid tiles.</source>
         <translatorcomment>comment：元翻訳「格子磁贴的垂直空间。」を「格子图块的垂直空间。」に変更しました。</translatorcomment>
-        <translation type="unfinished">格子图块的垂直空间。</translation>
+        <translation>设定网格的纵向间距。</translation>
     </message>
 </context>
 <context>
     <name>Group_MenuCommands</name>
     <message>
         <source>Menu Commands</source>
-        <translation>菜单命令</translation>
+        <translation>菜单指令</translation>
     </message>
     <message>
         <source>ON/OFF settings of the commands in the menu screen.</source>
-        <translation>在屏幕菜单上的开关设置。</translation>
+        <translation>开启/关闭菜单画面上的指令。</translation>
     </message>
     <message>
         <source>Item</source>
@@ -10210,55 +10210,55 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Displays at the position determined by the variables.</source>
-        <translation>展示由变量决定的位置。</translation>
+        <translation>显示在由变量确定的位置。</translation>
     </message>
     <message>
         <source>Variable containing the X coordinate of the picture.</source>
-        <translation>包含照片X坐标的变量。</translation>
+        <translation>包含图片 X 坐标的变量。</translation>
     </message>
     <message>
         <source>Variable containing the Y coordinate of the picture.</source>
-        <translation>包含照片Y坐标的变量。</translation>
+        <translation>包含图片 Y 坐标的变量。</translation>
     </message>
 </context>
 <context>
     <name>Group_PictureZoom</name>
     <message>
         <source>Scale</source>
-        <translation>范围</translation>
+        <translation>缩放率</translation>
     </message>
     <message>
         <source>Scale of the picture.</source>
-        <translation>照片的范围。</translation>
+        <translation>图片的缩放比例</translation>
     </message>
     <message>
         <source>Width</source>
         <translatorcomment>comment：元翻訳「宽」を「宽度」に変更しました。</translatorcomment>
-        <translation type="unfinished">宽度</translation>
+        <translation>宽</translation>
     </message>
     <message>
         <source>Horizontal scale.</source>
-        <translation>水平范围。</translation>
+        <translation>水平缩放率。</translation>
     </message>
     <message>
         <source>Height</source>
         <translatorcomment>comment：元翻訳「高」を「高度」に変更しました。</translatorcomment>
-        <translation type="unfinished">高度</translation>
+        <translation>高</translation>
     </message>
     <message>
         <source>Vertical scale.</source>
-        <translation>垂直高度。</translation>
+        <translation>纵向缩放率。</translation>
     </message>
 </context>
 <context>
     <name>Group_SkillsToLearn</name>
     <message>
         <source>Skills to Learn</source>
-        <translation>要学习的技能</translation>
+        <translation>要习得的技能</translation>
     </message>
     <message>
         <source>Skills mastered at level-up for actors in this class.</source>
-        <translation>这个阶段的角色在升级时掌握技能。</translation>
+        <translation>该职业的角色在升级时习得的技能。</translation>
     </message>
     <message>
         <source>Level</source>
@@ -10270,7 +10270,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Note</source>
-        <translation>注释</translation>
+        <translation>备注</translation>
     </message>
 </context>
 <context>
@@ -10278,11 +10278,11 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Starting Party</source>
         <translatorcomment>comment：元翻訳「开始的小组」を「初始队伍」に変更しました。</translatorcomment>
-        <translation type="unfinished">初始队伍</translation>
+        <translation>初始队伍</translation>
     </message>
     <message>
         <source>Party members at the start of the game.</source>
-        <translation>游戏开始时的组员。</translation>
+        <translation>游戏开始时的队员。</translation>
     </message>
     <message>
         <source>Actor</source>
@@ -10400,12 +10400,12 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Obtain EXP</source>
-        <translation>获得经验</translation>
+        <translation>获得经验值</translation>
     </message>
     <message>
         <source>Obtain Gold</source>
         <translatorcomment>comment：元翻訳「获得金子」を変更して「获得金币」になりました。</translatorcomment>
-        <translation type="unfinished">获得金币</translation>
+        <translation>获得金钱</translation>
     </message>
     <message>
         <source>Obtain Item</source>
@@ -10533,7 +10533,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Music resources to be used throughout the game.</source>
         <translatorcomment>comment：元翻訳「贯穿游戏的音乐资源。」を「整个游戏的音乐资源。」に変更しました。</translatorcomment>
-        <translation type="unfinished">整个游戏的音乐资源。</translation>
+        <translation>整个游戏使用的音乐资源。</translation>
     </message>
     <message>
         <source>Title</source>
@@ -10554,7 +10554,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Game Over</source>
         <translatorcomment>comment：元翻訳「游戏终结」はちょっとこのゲームは永遠に終わってみたいな言い方ので、「游戏结束」を変えました</translatorcomment>
-        <translation type="unfinished">游戏结束</translation>
+        <translation>游戏结束</translation>
     </message>
 </context>
 <context>
@@ -10569,73 +10569,73 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Use Side-view Battle</source>
-        <translation>使用侧视战斗</translation>
+        <translation>使用 SideView 战斗</translation>
     </message>
     <message>
         <source>Show the battle screen in side-view. If unchecked, the front-view mode will be used.</source>
-        <translation>以侧视方式展示战斗屏幕。如果未选，会使用前视模式。</translation>
+        <translation>用 SideView 模式显示战斗画面。</translation>
     </message>
     <message>
         <source>Start Transparent</source>
-        <translation>开始透明</translation>
+        <translation>以透明状态开始游戏</translation>
     </message>
     <message>
         <source>Starts the game with the player&apos;s transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
-        <translation>以玩家的透明旗帜打开的设置开始游戏。这能用[改变透明]的事件命令来关闭。</translation>
+        <translation>开始游戏时将玩家设为透明。可以用事件指令【更改透明状态】来关闭。</translation>
     </message>
     <message>
         <source>Show Player Followers</source>
         <translatorcomment>comment：元翻訳「展示玩家的追随者」を「更改队伍行进」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改队伍行进</translation>
+        <translation>队列行进</translation>
     </message>
     <message>
         <source>Enables the display of party members walking behind the player. This can be changed using the [Change Player Followers] event command.</source>
         <translatorcomment>comment：元翻訳「运行组员跟在玩家后面。这能够通过[改变玩家追随者]的事件命令来改变。」を「组员跟在玩家后面。这能够通过[更改队伍行进运行]的事件命令来改变。」に変更しました。</translatorcomment>
-        <translation type="unfinished">组员跟在玩家后面。这能够通过[更改队伍行进运行]的事件命令来改变。</translation>
+        <translation>启用队员跟随在玩家身后。可以用事件指令【更改队列行进】来更改。</translation>
     </message>
     <message>
         <source>Knockout by Slip Damage</source>
-        <translation>偷袭损害的击倒</translation>
+        <translation>地形伤害可导致无法战斗</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0 by slip damage, such as poison. If unchecked, stops at 1 HP.</source>
-        <translation>允许生命值在偷袭损害中降至0，比如像投毒。如果未选，在生命值1的时候停止。</translation>
+        <translation>允许毒之类的慢性伤害导致 HP 归零。未选中时会保留 1 点 HP。</translation>
     </message>
     <message>
         <source>Knockout by Floor Damage</source>
-        <translation>场地损害的击倒</translation>
+        <translation>地形伤害可导致无法战斗</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0 by damage caused by map terrain. If unchecked, stops at 1 HP.</source>
-        <translation>允许生命值在场地损害中降至0，比如像地图的地形。如果未选，在生命值1的时候停止。</translation>
+        <translation>允许地图的地形伤害导致 HP 归零。未选中时会保留 1 点 HP。</translation>
     </message>
     <message>
         <source>Display TP in Battle</source>
-        <translation>在战斗中展示TP</translation>
+        <translation>战斗画面中显示 TP</translation>
     </message>
     <message>
         <source>Displays the TP of each party member in the status window during battles. Uncheck this option if you don&apos;t use TP system.</source>
-        <translation>在战斗中展示每个组员的TP状态窗口。如果未使用TP系统的话不要选这项选择。</translation>
+        <translation>在战斗画面的状态窗口中显示每个队员的 TP。如果你不想使用 TP 系统，可以取消勾选这一选项。</translation>
     </message>
     <message>
         <source>EXP for Reserve Members</source>
-        <translation>预留成员的经验值</translation>
+        <translation>替补队员可获得经验值</translation>
     </message>
     <message>
         <source>When there are more than four characters in the party, this setting allows party members that did not participate in a battle to get a share of the resulting EXP.</source>
-        <translation>当小组中的角色超过4个人时，这项选择会允许未参与战斗的组员也能获得战后经验。</translation>
+        <translation>当队伍里超过 4 人时，该设置允许未参战的角色获得经验值。</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemSounds</name>
     <message>
         <source>Sounds</source>
-        <translation>声音</translation>
+        <translation>音效</translation>
     </message>
     <message>
         <source>Sound effects to be used throughout the game.</source>
         <translatorcomment>comment：元翻訳「贯穿游戏的音效。」を「整个游戏的音效。」に変更しました。</translatorcomment>
-        <translation type="unfinished">整个游戏的音效。</translation>
+        <translation>整个游戏中使用的音效。</translation>
     </message>
     <message>
         <source>Cursor</source>
@@ -10679,47 +10679,47 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Enemy Damage</source>
-        <translation>敌人损伤</translation>
+        <translation>敌人受伤</translation>
     </message>
     <message>
         <source>Enemy Collapse</source>
         <translatorcomment>comment：元翻訳「崩溃」は崩壊という意味で、ゲームと合わないので、「击败」を変えました。</translatorcomment>
-        <translation type="unfinished">击败敌人</translation>
+        <translation>敌人消失</translation>
     </message>
     <message>
         <source>Boss Collapse 1</source>
         <translatorcomment>comment：元翻訳「崩溃」は崩壊という意味で、ゲームと合わないので、「击败」を変えました。</translatorcomment>
-        <translation type="unfinished">击败老大1</translation>
+        <translation>Boss 消失 1</translation>
     </message>
     <message>
         <source>Boss Collapse 2</source>
         <translatorcomment>comment：元翻訳「崩溃」は崩壊という意味で、ゲームと合わないので、「击败」を変えました。</translatorcomment>
-        <translation type="unfinished">击败老大2</translation>
+        <translation>Boss 消失 2</translation>
     </message>
     <message>
         <source>Actor Damage</source>
-        <translation>角色损伤</translation>
+        <translation>角色受伤</translation>
     </message>
     <message>
         <source>Actor Collapse</source>
         <translatorcomment>comment：元翻訳「崩溃」は崩壊という意味で、ゲームと合わないので、「击败」を変えました。</translatorcomment>
-        <translation type="unfinished">击败角色</translation>
+        <translation>角色无法战斗</translation>
     </message>
     <message>
         <source>Recovery</source>
-        <translation>康复</translation>
+        <translation>恢复</translation>
     </message>
     <message>
         <source>Miss</source>
-        <translation>未击中</translation>
+        <translation>未命中</translation>
     </message>
     <message>
         <source>Evasion</source>
-        <translation>躲避</translation>
+        <translation>回避</translation>
     </message>
     <message>
         <source>Magic Evasion</source>
-        <translation>魔法躲避</translation>
+        <translation>魔法回避</translation>
     </message>
     <message>
         <source>Magic Reflection</source>
@@ -10742,16 +10742,16 @@ Please complete the post with follow this link.</source>
     <name>Group_SystemStarting</name>
     <message>
         <source>Starting Positions</source>
-        <translation>起始位置</translation>
+        <translation>初始位置</translation>
     </message>
     <message>
         <source>player and the vehicles</source>
         <translatorcomment>comment：元翻訳「玩家和车辆」を「玩家和载具」に変更しました。</translatorcomment>
-        <translation type="unfinished">玩家和载具</translation>
+        <translation>玩家和载具</translation>
     </message>
     <message>
         <source>Location of the %1 at the start of the game.</source>
-        <translation>游戏开始时 %1的位置。</translation>
+        <translation>游戏开始时 %1 的位置。</translation>
     </message>
 </context>
 <context>
@@ -10763,7 +10763,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Change Maximum</source>
         <translatorcomment>comment：元翻訳「改变最大」を「更改最大值」に変更しました。</translatorcomment>
-        <translation type="unfinished">更改最大值</translation>
+        <translation>更改最大值</translation>
     </message>
 </context>
 <context>
@@ -10774,21 +10774,21 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor to change the status.</source>
-        <translation>要改变状态的角色。</translation>
+        <translation>要更改状态的角色。</translation>
     </message>
     <message>
         <source>Fixed</source>
         <translatorcomment>comment：元翻訳「固定的」を「固定」に変更しました。</translatorcomment>
-        <translation type="unfinished">固定</translation>
+        <translation>固定</translation>
     </message>
     <message>
         <source>Directly specifies the actor to be targeted.</source>
-        <translation>直接指定要瞄准的角色。</translation>
+        <translation>直接指定目标角色。</translation>
     </message>
     <message>
         <source>Entire Party</source>
         <translatorcomment>comment：元翻訳「整个小组」を「整个队伍」に変更しました。</translatorcomment>
-        <translation type="unfinished">整个队伍</translation>
+        <translation>整个队伍</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -10941,24 +10941,24 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Slot Type</source>
-        <translation>插槽种类</translation>
+        <translation>装备槽类型</translation>
     </message>
     <message>
         <source>Action Times +</source>
-        <translation type="unfinished">行动次数 +</translation>
+        <translation>增加行动次数</translation>
     </message>
     <message>
         <source>Special Flag</source>
-        <translation>特殊旗帜</translation>
+        <translation>特殊标志</translation>
     </message>
     <message>
         <source>Collapse Effect</source>
         <translatorcomment>comment：元翻訳「崩溃」は崩壊という意味で、ゲームと合わないので、「击败」を変えました。</translatorcomment>
-        <translation type="unfinished">击败效果</translation>
+        <translation>消失效果</translation>
     </message>
     <message>
         <source>Party Ability</source>
-        <translation>小组敏捷度</translation>
+        <translation>队伍能力</translation>
     </message>
     <message>
         <source>Undefined</source>
@@ -11232,27 +11232,27 @@ Please complete the post with follow this link.</source>
     <name>Layout_EventPage</name>
     <message>
         <source>Autonomous Movement</source>
-        <translation type="unfinished">自主移动</translation>
+        <translation>自主移动</translation>
     </message>
     <message>
         <source>Settings for autonomous movement. The event moves automatically by this settings if not controlled by other events.</source>
-        <translation>自主移动的设置。此事件如果没有被其他事件控制的话会根据这个设置自主移动。</translation>
+        <translation>自主移动的设置。事件会根据此设置自动移动，除非被其他事件控制。</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>Movement Type</comment>
         <translatorcomment>移动种类</translatorcomment>
-        <translation>种类</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Type of autonomous movement.&lt;br&gt;[Fixed] Do not move from the position in which it was placed.&lt;br&gt;[Random] Moves passable tiles around freely.&lt;br&gt;[Approach] Moves toward the current location of the player.&lt;br&gt;[Custom] Moves along the specified route.</source>
         <translatorcomment>comment：元翻訳「自动移动的种类。&lt;br&gt;[固定的]在所处的地方不移动。&lt;br&gt;[随机]能自由在可通过的磁贴上移动。&lt;br&gt;[接近]接近角色当前所在的位置。.&lt;br&gt;[习惯]延特定路线移动。」を変更して「自主移动的种类。&lt;br&gt;[固定]在所处的地方不移动。&lt;br&gt;[随机]能在地块上自由移动。&lt;br&gt;[接近]移动到角色当前位置。.&lt;br&gt;[自定义]往特定路线移动。」になりました。</translatorcomment>
-        <translation type="unfinished">自主移动的种类。&lt;br&gt;[固定]在所处的地方不移动。&lt;br&gt;[随机]能在地块上自由移动。&lt;br&gt;[接近]移动到角色当前位置。.&lt;br&gt;[自定义]往特定路线移动。</translation>
+        <translation>自主移动的类型。&lt;br&gt;【固定】不移动。&lt;br&gt;【随机】在可通行的图块上自由移动。&lt;br&gt;【接近】朝向玩家的当前位置移动。.&lt;br&gt;【自定义】沿着指定的移动路线移动。</translation>
     </message>
     <message>
         <source>Fixed</source>
         <translatorcomment>comment：元翻訳「固定的」を変更して「固定」になりました。</translatorcomment>
-        <translation type="unfinished">固定</translation>
+        <translation>固定</translation>
     </message>
     <message>
         <source>Random</source>
@@ -11265,7 +11265,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Custom</source>
         <translatorcomment>comment：元翻訳「习惯」の意味は「習慣」です。ゲームと合わないので、「自定义」を変えました。</translatorcomment>
-        <translation type="unfinished">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Route</source>
@@ -11292,65 +11292,65 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Options for character animation, passage, etc.</source>
-        <translation>角色动画，通道的选择，等等。</translation>
+        <translation>人物动画和能否通行的相关设置。</translation>
     </message>
     <message>
         <source>Walking</source>
         <comment>Walking Animation</comment>
         <translatorcomment>行走动画</translatorcomment>
-        <translation>行走</translation>
+        <translation>步行动画</translation>
     </message>
     <message>
         <source>Turns on the animation when the character is moving.</source>
-        <translation>当角色移动时打开动画。</translation>
+        <translation>人物移动时开启动画。</translation>
     </message>
     <message>
         <source>Stepping</source>
         <comment>Stepping Animation</comment>
         <translatorcomment>起步动画</translatorcomment>
-        <translation>起步</translation>
+        <translation>踏步动画</translation>
     </message>
     <message>
         <source>Turns on the animation when the character is not moving.</source>
-        <translation>当角色没有移动时打开动画。</translation>
+        <translation>角色不移动时开启动画。</translation>
     </message>
     <message>
         <source>Direction Fix</source>
         <translatorcomment>comment：元翻訳「方向固定」を変更して「固定方向」になりました。</translatorcomment>
-        <translation type="unfinished">固定方向</translation>
+        <translation>固定朝向</translation>
     </message>
     <message>
         <source>Makes it impossible to change the direction of the character.</source>
-        <translation>让角色无法改变方向。</translation>
+        <translation>使角色无法改变方向。</translation>
     </message>
     <message>
         <source>Through</source>
         <translatorcomment>comment：元翻訳「通过」を変更して「穿过」になりました。</translatorcomment>
-        <translation type="unfinished">穿过</translation>
+        <translation>穿透</translation>
     </message>
     <message>
         <source>Makes it possible to move through impassable tiles and characters.</source>
-        <translation>允许通过无法穿过的磁贴和角色。</translation>
+        <translation>允许该事件穿过不可通行的图块和其他人物。</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation>优先</translation>
+        <translation>优先级</translation>
     </message>
     <message>
         <source>Display priority of the event. However, when the image is a tile and the priority is [Below characters], the tileset settings will be used.</source>
-        <translation>展示事件的优先性。但，当图像是磁贴时，优先的是[下面的角色]，拼接设置会启用。</translation>
+        <translation>事件显示的优先级。当事件的图像为地图图块，优先级为“在人物下方”时，会使用图块的设置。</translation>
     </message>
     <message>
         <source>Below characters</source>
-        <translation>在角色下面</translation>
+        <translation>在人物下方</translation>
     </message>
     <message>
         <source>Same as characters</source>
-        <translation>和角色一样</translation>
+        <translation>与人物相同</translation>
     </message>
     <message>
         <source>Above characters</source>
-        <translation>在角色上面</translation>
+        <translation>在人物上方</translation>
     </message>
     <message>
         <source>Trigger</source>
@@ -11359,35 +11359,35 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Condition to start the event.&lt;br&gt;[Action Button] Starts when the player presses the button.&lt;br&gt;[Player Touch] In addition to the above, starts when the player touches the event.&lt;br&gt;[Event Touch] In addition to the above, starts when the event touches the player.&lt;br&gt;[Autorun] Starts when the event appears.&lt;br&gt;[Parallel] Runs cyclically while the event is present.</source>
-        <translation>开始事件的条件。&lt;br&gt;[行动按钮]当玩家按动按钮时开启。&lt;br&gt;[玩家触碰]除此之外，当玩家触碰到这个事件时开始。&lt;br&gt;[事件触碰]除此之外，当事件触碰玩家时开始。&lt;br&gt;[自动启动]当事件出现时开始。&lt;br&gt;[平行]当事件出现时周期性运行。</translation>
+        <translation>启动事件，开始处理执行内容的条件。&lt;br&gt;【确定键】在玩家按下确定键时启动。&lt;br&gt;【玩家接触】除了上述之外，用方向键接触事件的时候也会启动。&lt;br&gt;【事件接触】除了上述之外，事件向玩家接触的时候也会启动。&lt;br&gt;【自动执行】事件出现的瞬间即启动。&lt;br&gt;【并行处理】事件出现的时间内周期性地反复执行。</translation>
     </message>
     <message>
         <source>Action Button</source>
-        <translation>行动按钮</translation>
+        <translation>确定键</translation>
     </message>
     <message>
         <source>Player Touch</source>
-        <translation>玩家触碰</translation>
+        <translation>玩家接触</translation>
     </message>
     <message>
         <source>Event Touch</source>
-        <translation>事件 触碰</translation>
+        <translation>事件接触</translation>
     </message>
     <message>
         <source>Autorun</source>
-        <translation>自动运行</translation>
+        <translation>自动执行</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>平行</translation>
+        <translation>并行处理</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation>内容</translation>
+        <translation>执行内容</translation>
     </message>
     <message>
         <source>Event commands to be run for this event. Right-click to open the popup menu.</source>
-        <translation>事件命令为此事件运行。右击打开跳出菜单。</translation>
+        <translation>在事件中要执行的事件指令。右键点击可以打开弹出菜单。</translation>
     </message>
 </context>
 <context>
@@ -11395,78 +11395,78 @@ Please complete the post with follow this link.</source>
     <message>
         <source>New&lt;br&gt;Event Page</source>
         <translatorcomment>comment：元翻訳「新放到&lt;br&gt;事件页面」を変更して「新建&lt;br&gt;事件页面」になりました。</translatorcomment>
-        <translation type="unfinished">新建&lt;br&gt;事件页面</translation>
+        <translation>新建事件页</translation>
     </message>
     <message>
         <source>Creates a new consecutively numbered page after the current page.</source>
-        <translation>在当前页面后创建一个连续的数字页面。</translation>
+        <translation>在当前页面之后创建一个新的事件页。</translation>
     </message>
     <message>
         <source>Copy&lt;br&gt;Event Page</source>
-        <translation>复制&lt;br&gt;事件页面</translation>
+        <translation>复制事件页</translation>
     </message>
     <message>
         <source>Copies the contents of the current page to the clipboard.</source>
-        <translation>将当前页面的内容复制到剪贴板。</translation>
+        <translation>将当前事件页的内容复制到剪贴板。</translation>
     </message>
     <message>
         <source>Paste&lt;br&gt;Event Page</source>
-        <translation>粘贴&lt;br&gt;事件页面</translation>
+        <translation>粘贴事件页</translation>
     </message>
     <message>
         <source>Pastes the contents of the clipboard into a new page.</source>
-        <translation>将剪切板上的内容粘贴到新的页面。</translation>
+        <translation>将剪切板上的内容粘贴到新的事件页。</translation>
     </message>
     <message>
         <source>Delete&lt;br&gt;Event Page</source>
-        <translation>删除&lt;br&gt;事件页面</translation>
+        <translation>删除事件页</translation>
     </message>
     <message>
         <source>Deletes the current page.</source>
-        <translation>删除当前页面。</translation>
+        <translation>删除当前事件页。</translation>
     </message>
     <message>
         <source>Clear&lt;br&gt;Event Page</source>
-        <translation>清空&lt;br&gt;事件页面</translation>
+        <translation>清空事件页</translation>
     </message>
     <message>
         <source>Clears the contents of the current page.</source>
-        <translation>清空当前页面的内容。</translation>
+        <translation>清空当前事件页。</translation>
     </message>
 </context>
 <context>
     <name>Layout_FlashColor</name>
     <message>
         <source>Red</source>
-        <translation>红色</translation>
+        <translation>红</translation>
     </message>
     <message>
         <source>R value of the flash color.</source>
-        <translation>闪光颜色的R值。</translation>
+        <translation>闪光颜色的 R 值。</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>绿色</translation>
+        <translation>绿</translation>
     </message>
     <message>
         <source>G value of the flash color.</source>
-        <translation>闪光颜色的G值。</translation>
+        <translation>闪光颜色的 G 值。</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>蓝色</translation>
+        <translation>蓝</translation>
     </message>
     <message>
         <source>B value of the flash color.</source>
-        <translation>闪光颜色的B值。</translation>
+        <translation>闪光颜色的 B 值。</translation>
     </message>
     <message>
         <source>Intensity</source>
-        <translation>强烈的</translation>
+        <translation>强度</translation>
     </message>
     <message>
         <source>Intensity of the flash color.</source>
-        <translation>闪光色彩的强烈度。</translation>
+        <translation>闪光颜色的强度。</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -11541,12 +11541,12 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Image of the parallax background.</source>
         <translatorcomment>comment：元翻訳「视差背景的图像。」を変更して「循环背景的图像。」になりました。</translatorcomment>
-        <translation type="unfinished">循环背景的图像。</translation>
+        <translation>远景图像</translation>
     </message>
     <message>
         <source>Loops the parallax background horizontally.</source>
         <translatorcomment>元翻訳「水平环住视差背景。」を変更して「循环横向循环背景。」になりました。</translatorcomment>
-        <translation type="unfinished">循环横向循环背景。</translation>
+        <translation>横向循环远景。</translation>
     </message>
     <message>
         <source>Scroll</source>
@@ -11555,35 +11555,35 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Automatically performs horizontal scrolling at the specified speed.</source>
         <translatorcomment>comment：元翻訳「以特定速度自动展示水平滚动。」を変更して「以特定速度自动显示横向滚动。」になりました。</translatorcomment>
-        <translation type="unfinished">以特定速度自动显示横向滚动。</translation>
+        <translation>以指定速度自动横向滚动。</translation>
     </message>
     <message>
         <source>Loops the parallax background vertically.</source>
         <translatorcomment>元翻訳「垂直环住视差背景。」を変更して「循环纵向循环背景。」になりました。</translatorcomment>
-        <translation type="unfinished">循环纵向循环背景。</translation>
+        <translation>纵向循环远景。</translation>
     </message>
     <message>
         <source>Automatically performs vertical scrolling at the specified speed.</source>
         <translatorcomment>comment：元翻訳「以特定速度自动展示垂直滚动。」を変更して「以特定速度自动显示纵向滚动。」になりました。</translatorcomment>
-        <translation type="unfinished">以特定速度自动显示纵向滚动。</translation>
+        <translation>以指定速度自动纵向滚动。</translation>
     </message>
 </context>
 <context>
     <name>Layout_StateMessage</name>
     <message>
         <source>(Target Name)</source>
-        <translation>(目标名称)</translation>
+        <translation>（目标名称）</translation>
     </message>
 </context>
 <context>
     <name>LocationBox</name>
     <message>
         <source>Current Map</source>
-        <translation>目前地图</translation>
+        <translation>当前地图</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
@@ -11658,7 +11658,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Transfer</source>
         <translatorcomment>comment：元翻訳「转移」を変更して「场所移动」になりました。</translatorcomment>
-        <translation type="unfinished">场所移动</translation>
+        <translation>场所移动</translation>
     </message>
     <message>
         <source>Door</source>
@@ -11667,26 +11667,26 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Treasure</source>
         <translatorcomment>元翻訳「宝藏」を変更して「宝箱」になりました。</translatorcomment>
-        <translation type="unfinished">宝箱</translation>
+        <translation>宝箱</translation>
     </message>
     <message>
         <source>Inn</source>
         <translatorcomment>comment：元翻訳「小旅馆」を変更して「旅馆」になりました。</translatorcomment>
-        <translation type="unfinished">旅馆</translation>
+        <translation>旅馆</translation>
     </message>
     <message>
         <source>Set Starting Position</source>
         <translatorcomment>comment：元翻訳「设置开始位置」を変更して「设置初始位置」になりました。</translatorcomment>
-        <translation type="unfinished">设置初始位置</translation>
+        <translation>设置初始位置</translation>
     </message>
     <message>
         <source>New Project</source>
         <translatorcomment>comment：元翻訳「新项目」を変更して「新建项目」になりました。</translatorcomment>
-        <translation type="unfinished">新建项目</translation>
+        <translation>新建项目</translation>
     </message>
     <message>
         <source>Creates a new project.</source>
-        <translation type="unfinished">创建一个新项目。</translation>
+        <translation>创建一个新项目。</translation>
     </message>
     <message>
         <source>Open Project</source>
@@ -11715,47 +11715,47 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Deployment</source>
         <translatorcomment>comment：わかりやすくするため、「部署」を消して「选择游戏平台」に変えました。</translatorcomment>
-        <translation type="unfinished">选择游戏平台</translation>
+        <translation>部署</translation>
     </message>
     <message>
         <source>Creates a distribution package.</source>
-        <translation>创建分配组建。</translation>
+        <translation>创建游戏发行包。</translation>
     </message>
     <message>
         <source>Steam Management</source>
-        <translation>steam管理</translation>
+        <translation>Steam 管理</translation>
     </message>
     <message>
         <source>Manage Your Steam Cloud.</source>
-        <translation>管理你的steam cloud。</translation>
+        <translation>管理你的 Steam 云同步。</translation>
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>分享游戏 (NICONICO)</translation>
     </message>
     <message>
         <source>Upload the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>上传游戏。</translation>
     </message>
     <message>
         <source>Game Share(OPEN GAME CREATORS)</source>
-        <translation type="unfinished"></translation>
+        <translation>分享游戏 (OPEN GAME CREATORS)</translation>
     </message>
     <message>
         <source>Edit</source>
         <comment>Edit Map</comment>
         <translatorcomment>comment：元翻訳「编辑」を変更した「地图设置」になりました。</translatorcomment>
-        <translation type="unfinished">地图设置</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Changes the map settings.</source>
-        <translation>改变地图设置。</translation>
+        <translation>更改地图设置。</translation>
     </message>
     <message>
         <source>New</source>
         <comment>New Map</comment>
         <translatorcomment>comment：元翻訳「新的」を変更した「新建地图」になりました。</translatorcomment>
-        <translation type="unfinished">新建地图</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <source>Creates a new map.</source>
@@ -11764,12 +11764,12 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Load</source>
         <translatorcomment>comment：元翻訳「加载」を変更して「加载」になりました。</translatorcomment>
-        <translation type="unfinished">读取范例地图</translation>
+        <translation>载入</translation>
     </message>
     <message>
         <source>Adds a sample map as a new map.</source>
         <translatorcomment>comment：元翻訳「增加一个样板地图作为新地图。」を変更して「加入一个范例地图作为新地图。」になりました。</translatorcomment>
-        <translation type="unfinished">加入一个范例地图作为新地图。</translation>
+        <translation>加入一个范例地图作为新地图。</translation>
     </message>
     <message>
         <source>Shift</source>
@@ -11803,13 +11803,13 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Changes the event settings.</source>
-        <translation>改变事件设置。</translation>
+        <translation>更改事件设置。</translation>
     </message>
     <message>
         <source>New</source>
         <comment>New Event</comment>
         <translatorcomment>新的事件</translatorcomment>
-        <translation>新的</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <source>Creates a new event.</source>
@@ -11869,25 +11869,25 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Switches to the event editing mode.</source>
-        <translation>换到事件编辑模式。</translation>
+        <translation>切换到事件编辑模式。</translation>
     </message>
     <message>
         <source>Pencil</source>
         <translatorcomment>comment：元翻訳「铅笔」を「画笔」に変更しました。</translatorcomment>
-        <translation type="unfinished">画笔</translation>
+        <translation>铅笔</translation>
     </message>
     <message>
         <source>Draws tiles freehand.</source>
         <translatorcomment>comment：元翻訳「徒手画磁贴。」を「手绘图块。」に変更しました。</translatorcomment>
-        <translation type="unfinished">手绘图块。</translation>
+        <translation>自由绘制图块。</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>长方形</translation>
+        <translation>矩形</translation>
     </message>
     <message>
         <source>Draws a rectangle.</source>
-        <translation>画一个长方形。</translation>
+        <translation>绘制一个矩形。</translation>
     </message>
     <message>
         <source>Ellipse</source>
@@ -11972,19 +11972,19 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Character Generator</source>
         <translatorcomment>comment：「角色生产」の意味はキャラクターを生産する。キャラクターを作る「创建角色」意味を変えました。</translatorcomment>
-        <translation type="unfinished">创建角色</translation>
+        <translation>人物生成器</translation>
     </message>
     <message>
         <source>Opens the Character Generator window.</source>
-        <translation>打开角色生成窗口。</translation>
+        <translation>打开人物生成器窗口。</translation>
     </message>
     <message>
         <source>Resource Manager</source>
-        <translation>资源管理</translation>
+        <translation>素材管理</translation>
     </message>
     <message>
         <source>Opens the Resource Manager window.</source>
-        <translation>打开资源管理窗口。</translation>
+        <translation>打开素材管理窗口。</translation>
     </message>
     <message>
         <source>RPG Maker MV Tools</source>
@@ -12000,16 +12000,16 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change editor settings.</source>
-        <translation>改变编辑器设置。</translation>
+        <translation>更改编辑器设置。</translation>
     </message>
     <message>
         <source>Playtest</source>
         <translatorcomment>comment：元翻訳「播放测试」はテストを再生する意味です、ゲームテストの意味「游戏测试」を変えました。</translatorcomment>
-        <translation type="unfinished">游戏测试</translation>
+        <translation>测试游戏</translation>
     </message>
     <message>
         <source>Starts a playtest of the current game.</source>
-        <translation>开始当前游戏的播放测试。</translation>
+        <translation>开始当前游戏的测试。</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -12218,30 +12218,30 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Opacity level of the character.</source>
-        <translation>角色的不透明度。</translation>
+        <translation>人物的不透明度。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand43</name>
     <message>
         <source>Blend Mode</source>
-        <translation>融合模式</translation>
+        <translation>合成方式</translation>
     </message>
     <message>
         <source>Blend mode used when the character is drawn.</source>
         <translatorcomment>comment：元翻訳「角色融合度的使用为均匀。」を「绘制角色使用的融合模式。」に変更しました。</translatorcomment>
-        <translation type="unfinished">绘制角色使用的融合模式。</translation>
+        <translation>绘制人物时使用的合成方式。</translation>
     </message>
 </context>
 <context>
     <name>MovementCommand45</name>
     <message>
         <source>Script</source>
-        <translation>剧本</translation>
+        <translation>脚本</translation>
     </message>
     <message>
         <source>JavaScript code to be evaluated.</source>
-        <translation>Java剧本代码需被评估。</translation>
+        <translation>要求值的 JavaScript 代码。</translation>
     </message>
 </context>
 <context>
@@ -12569,84 +12569,84 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Faces opposite toward the current location of the player.</source>
-        <translation>面朝目前玩家的反方向。</translation>
+        <translation>面朝目前玩家的相反方向。</translation>
     </message>
     <message>
         <source>Turns the specified switch ON.</source>
-        <translation>把特定开关打开。</translation>
+        <translation>打开指定开关。</translation>
     </message>
     <message>
         <source>Turns the specified switch OFF.</source>
-        <translation>把特定开关关闭。</translation>
+        <translation>关闭指定开关。</translation>
     </message>
     <message>
         <source>Changes the speed.</source>
-        <translation>改变速度。</translation>
+        <translation>更改移动速度。</translation>
     </message>
     <message>
         <source>Changes the frequency. Only applies to autonomous movement.</source>
-        <translation>改变频率。仅应用于自主移动。</translation>
+        <translation>更改移动频率。只影响自主移动。</translation>
     </message>
     <message>
         <source>Turns on the walking animation when the character is moving.</source>
-        <translation>当角色移动时打开走动动画。</translation>
+        <translation>打开人物移动时的行走动画。</translation>
     </message>
     <message>
         <source>Turns off the walking animation when the character is moving.</source>
-        <translation>当角色移动时关闭走动动画。</translation>
+        <translation>关闭人物移动的行走动画。</translation>
     </message>
     <message>
         <source>Turns on the stepping animation when the character has stopped.</source>
-        <translation>当角色停下时打开举步动画。</translation>
+        <translation>打开人物停止时的行走动画。</translation>
     </message>
     <message>
         <source>Turns off the stepping animation when the character has stopped.</source>
-        <translation>当角色停下时关闭举步动画。</translation>
+        <translation>关闭人物停止时的行走动画。</translation>
     </message>
     <message>
         <source>Makes it impossible to change the direction of the character.</source>
-        <translation>让改变主角的方向成为不可能。</translation>
+        <translation>禁止改变人物的朝向。</translation>
     </message>
     <message>
         <source>Makes it possible to change the direction of the character.</source>
-        <translation>让改变主角的方向成为可能。</translation>
+        <translation>允许改变人物的朝向。</translation>
     </message>
     <message>
         <source>Makes it possible to move through impassable tiles and characters.</source>
-        <translation>让穿过不能通行的磁贴和角色成为可能。</translation>
+        <translation>允许人物穿过不可通行的图块和其他人物。</translation>
     </message>
     <message>
         <source>Makes it impossible to move through impassable tiles and characters.</source>
         <translatorcomment>comment：元翻訳「让穿过不能通行的磁贴和角色不可能。」を「不能通行不能穿过的图块和角色。」に変更しました。</translatorcomment>
-        <translation type="unfinished">不能通行不能穿过的图块和角色。</translation>
+        <translation>禁止人物穿过不可通行的图块和其他人物。</translation>
     </message>
     <message>
         <source>Makes the character invisible.</source>
-        <translation>让角色隐身。</translation>
+        <translation>使人物不可见。</translation>
     </message>
     <message>
         <source>Makes the character visible.</source>
-        <translation>让角色可见。</translation>
+        <translation>使人物可见。</translation>
     </message>
     <message>
         <source>Changes the image of the character.</source>
-        <translation>改变角色图像。</translation>
+        <translation>更改人物的图像。</translation>
     </message>
     <message>
         <source>Changes the opacity of the character.</source>
-        <translation>改变角色的不透明度。</translation>
+        <translation>更改人物的不透明度。</translation>
     </message>
     <message>
         <source>Changes the blend mode of the character.</source>
-        <translation type="unfinished">改变角色的融合模式。</translation>
+        <translation>更改人物的合成方式。</translation>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>展示特定的SE。</translation>
+        <translation>播放指定的 SE。</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
-        <translation type="unfinished">以Java脚本评估文本。</translation>
+        <translation>将文本作为 JavaScript 代码求值。</translation>
     </message>
 </context>
 <context>
@@ -12659,7 +12659,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Frequency of autonomous movement.</source>
         <translatorcomment>comment：元翻訳「自助移动的频率。」を変更して「自主移动的频率。」になりました。</translatorcomment>
-        <translation type="unfinished">自主移动的频率。</translation>
+        <translation>自主移动的频率。</translation>
     </message>
     <message>
         <source>1: Lowest</source>
@@ -12691,168 +12691,168 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Movement speed of the character.</source>
-        <translation>角色的移动速度。</translation>
+        <translation>人物的移动速度。</translation>
     </message>
     <message>
         <source>1: x8 Slower</source>
         <translatorcomment>comment：元翻訳「1： x8更慢」を変更して「1： 1/8倍速」になりました。</translatorcomment>
-        <translation type="unfinished">1： 1/8倍速</translation>
+        <translation>1：1/8 倍速</translation>
     </message>
     <message>
         <source>2: x4 Slower</source>
         <translatorcomment>comment：元翻訳「2： x8更慢」を変更して「2： 1/4倍速」になりました。</translatorcomment>
-        <translation type="unfinished">2： 1/4倍速</translation>
+        <translation>2：1/4 倍速</translation>
     </message>
     <message>
         <source>3: x2 Slower</source>
         <translatorcomment>comment：元翻訳「3： x8更慢」を変更して「3： 1/2倍速」になりました。</translatorcomment>
-        <translation type="unfinished">3： 1/2倍速</translation>
+        <translation>3：1/2 倍速</translation>
     </message>
     <message>
         <source>4: Normal</source>
-        <translation>4：正常</translation>
+        <translation>4：标准速度</translation>
     </message>
     <message>
         <source>5: x2 Faster</source>
         <translatorcomment>comment：元翻訳「5： x2更快」を変更して「5： x2倍速」になりました。</translatorcomment>
-        <translation type="unfinished">5： x2倍速</translation>
+        <translation>5：2 倍速</translation>
     </message>
     <message>
         <source>6: x4 Faster</source>
         <translatorcomment>comment：元翻訳「6： x4更快」を変更して「6： x4倍速」になりました。</translatorcomment>
-        <translation type="unfinished">6： x4倍速</translation>
+        <translation>6：4 倍速</translation>
     </message>
 </context>
 <context>
     <name>NewDataMaker</name>
     <message>
         <source>Hit Physical</source>
-        <translation>自然打击</translation>
+        <translation>打击物理</translation>
     </message>
     <message>
         <source>Hit Effect</source>
-        <translation>打击效果</translation>
+        <translation>打击/特效</translation>
     </message>
     <message>
         <source>Hit Fire</source>
-        <translation>火击</translation>
+        <translation>打击/炎</translation>
     </message>
     <message>
         <source>Hit Ice</source>
-        <translation>冰击</translation>
+        <translation>打击/冰</translation>
     </message>
     <message>
         <source>Hit Thunder</source>
-        <translation>雷击</translation>
+        <translation>打击/雷</translation>
     </message>
     <message>
         <source>Slash Physical</source>
-        <translation>自然猛砍</translation>
+        <translation>斩击/物理</translation>
     </message>
     <message>
         <source>Slash Effect</source>
-        <translation>猛砍效果</translation>
+        <translation>斩击/特效</translation>
     </message>
     <message>
         <source>Slash Fire</source>
-        <translation>带火猛砍</translation>
+        <translation>斩击/炎</translation>
     </message>
     <message>
         <source>Slash Ice</source>
-        <translation>带冰猛砍</translation>
+        <translation>斩击/冰</translation>
     </message>
     <message>
         <source>Slash Thunder</source>
-        <translation>带雷猛砍</translation>
+        <translation>斩击/雷</translation>
     </message>
     <message>
         <source>Pierce Physical</source>
-        <translation>自然突刺</translation>
+        <translation>突刺/物理</translation>
     </message>
     <message>
         <source>Pierce Effect</source>
-        <translation>突刺效果</translation>
+        <translation>突刺/特效</translation>
     </message>
     <message>
         <source>Pierce Fire</source>
-        <translation>带火突刺</translation>
+        <translation>突刺/火</translation>
     </message>
     <message>
         <source>Pierce Ice</source>
-        <translation>带冰突刺</translation>
+        <translation>突刺/冰</translation>
     </message>
     <message>
         <source>Pierce Thunder</source>
-        <translation>带雷突刺</translation>
+        <translation>突刺/雷</translation>
     </message>
     <message>
         <source>Claw Physical</source>
-        <translation>自然爪袭</translation>
+        <translation>爪/物理</translation>
     </message>
     <message>
         <source>Claw Effect</source>
-        <translation>爪袭效果</translation>
+        <translation>爪/特效</translation>
     </message>
     <message>
         <source>Claw Fire</source>
-        <translation>带火爪袭</translation>
+        <translation>爪/火</translation>
     </message>
     <message>
         <source>Claw Ice</source>
-        <translation>带冰爪袭</translation>
+        <translation>爪/冰</translation>
     </message>
     <message>
         <source>Claw Thunder</source>
-        <translation>带雷爪袭</translation>
+        <translation>爪/雷</translation>
     </message>
     <message>
         <source>Hit Special 1</source>
-        <translation>特殊打击1</translation>
+        <translation>打击/必杀技1</translation>
     </message>
     <message>
         <source>Hit Special 2</source>
-        <translation>特殊打击2</translation>
+        <translation>打击/必杀技 2</translation>
     </message>
     <message>
         <source>Slash Special 1</source>
-        <translation>特殊猛砍1</translation>
+        <translation>斩击/必杀技 1</translation>
     </message>
     <message>
         <source>Slash Special 2</source>
-        <translation>特殊猛砍2</translation>
+        <translation>斩击/必杀技 2</translation>
     </message>
     <message>
         <source>Slash Special 3</source>
-        <translation>特殊猛砍3</translation>
+        <translation>斩击/必杀技 3</translation>
     </message>
     <message>
         <source>Pierce Special 1</source>
-        <translation>特殊突刺1</translation>
+        <translation>突刺/必杀技 1</translation>
     </message>
     <message>
         <source>Pierce Special 2</source>
-        <translation>特殊突刺2</translation>
+        <translation>突刺/必杀技 2</translation>
     </message>
     <message>
         <source>Claw Special</source>
-        <translation>特殊爪袭</translation>
+        <translation>爪/必杀技</translation>
     </message>
     <message>
         <source>Arrow Special</source>
-        <translation>特殊弓箭</translation>
+        <translation>箭/必杀技</translation>
     </message>
     <message>
         <source>General Special 1</source>
-        <translation>一般特殊1</translation>
+        <translation>泛用/必杀技 1</translation>
     </message>
     <message>
         <source>General Special 2</source>
-        <translation>一般特殊2</translation>
+        <translation>通用/必杀技 2</translation>
     </message>
     <message>
         <source>Breath</source>
         <translatorcomment>comment：元翻訳「呼吸」は息の意味を翻訳しました。ゲーム内の動画を見て修正しました。</translatorcomment>
-        <translation type="unfinished">气流</translation>
+        <translation>吐息</translation>
     </message>
     <message>
         <source>Pollen</source>
@@ -12888,72 +12888,72 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Heal One 1</source>
-        <translation>治愈一1</translation>
+        <translation>恢复/单体 1</translation>
     </message>
     <message>
         <source>Heal One 2</source>
-        <translation>治愈一2</translation>
+        <translation>恢复/单体 2</translation>
     </message>
     <message>
         <source>Heal All 1</source>
-        <translation>治愈所有1</translation>
+        <translation>恢复/全体 1</translation>
     </message>
     <message>
         <source>Heal All 2</source>
-        <translation>治愈所有2</translation>
+        <translation>恢复/全体 2</translation>
     </message>
     <message>
         <source>Cure One 1</source>
-        <translation>治疗一1</translation>
+        <translation>治疗/单体 1</translation>
     </message>
     <message>
         <source>Cure One 2</source>
-        <translation>治疗一2</translation>
+        <translation>治疗/单体 2</translation>
     </message>
     <message>
         <source>Cure All 1</source>
-        <translation>治疗所有1</translation>
+        <translation>治疗/全体 1</translation>
     </message>
     <message>
         <source>Cure All 2</source>
-        <translation>治疗所有2</translation>
+        <translation>治疗/全体 2</translation>
     </message>
     <message>
         <source>Revive 1</source>
-        <translation>复活1</translation>
+        <translation>复活 1</translation>
     </message>
     <message>
         <source>Revive 2</source>
-        <translation>复活2</translation>
+        <translation>复活 2</translation>
     </message>
     <message>
         <source>Powerup 1</source>
-        <translation>能力上升1</translation>
+        <translation>强化 1</translation>
     </message>
     <message>
         <source>Powerup 2</source>
-        <translation>能力上升2</translation>
+        <translation>强化 2</translation>
     </message>
     <message>
         <source>Powerup 3</source>
-        <translation>能力上升3</translation>
+        <translation>强化 3</translation>
     </message>
     <message>
         <source>Powerdown 1</source>
-        <translation>能力下降1</translation>
+        <translation>弱化 1</translation>
     </message>
     <message>
         <source>Powerdown 2</source>
-        <translation>能力下降2</translation>
+        <translation>弱化 2</translation>
     </message>
     <message>
         <source>Powerdown 3</source>
-        <translation>能力下降3</translation>
+        <translation>弱化 3</translation>
     </message>
     <message>
         <source>Bind</source>
         <translatorcomment>comment：元翻訳「捆绑」を消して「束缚」を変えました。</translatorcomment>
-        <translation type="unfinished">束缚</translation>
+        <translation>束缚</translation>
     </message>
     <message>
         <source>Absorb</source>
@@ -12961,20 +12961,20 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Poison</source>
-        <translation>毒药</translation>
+        <translation>毒</translation>
     </message>
     <message>
         <source>Blind</source>
-        <translation>失明</translation>
+        <translation>黑暗</translation>
     </message>
     <message>
         <source>Silence</source>
         <translatorcomment>comment：元翻訳「充满」はフルの意味ですので、「沉默」を修正しました。</translatorcomment>
-        <translation type="unfinished">沉默</translation>
+        <translation>沉默</translation>
     </message>
     <message>
         <source>Sleep</source>
-        <translation>睡觉</translation>
+        <translation>睡眠</translation>
     </message>
     <message>
         <source>Confusion</source>
@@ -13222,28 +13222,28 @@ Please complete the post with follow this link.</source>
         <source>Lv</source>
         <comment>Level (abbr.)</comment>
         <translatorcomment>等级(缩写)</translatorcomment>
-        <translation>LV</translation>
+        <translation>Lv</translation>
     </message>
     <message>
         <source>HP</source>
-        <translation>生命值</translation>
+        <translation>HP</translation>
     </message>
     <message>
         <source>HP</source>
         <comment>HP (abbr.)</comment>
         <translatorcomment>生命值(缩写)</translatorcomment>
-        <translation>生命值</translation>
+        <translation>HP</translation>
     </message>
     <message>
         <source>MP</source>
         <translatorcomment>comment：元翻訳「力量值」を「魔法值」に変更しました。</translatorcomment>
-        <translation type="unfinished">魔法值</translation>
+        <translation>MP</translation>
     </message>
     <message>
         <source>MP</source>
         <comment>MP (abbr.)</comment>
         <translatorcomment>comment：元翻訳「力量值」を「魔法值」に変更しました。力量值(缩写)</translatorcomment>
-        <translation type="unfinished">魔法值</translation>
+        <translation>MP</translation>
     </message>
     <message>
         <source>TP</source>
@@ -13257,30 +13257,30 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>EXP</source>
-        <translation>经验</translation>
+        <translation>经验值</translation>
     </message>
     <message>
         <source>EXP</source>
         <comment>EXP (abbr.)</comment>
         <translatorcomment>经验 (缩写.)</translatorcomment>
-        <translation>经验</translation>
+        <translation>EXP</translation>
     </message>
     <message>
         <source>Max HP</source>
-        <translation>最大生命值</translation>
+        <translation>最大 HP</translation>
     </message>
     <message>
         <source>Max MP</source>
         <translatorcomment>comment：元翻訳「最大力量值」を「最大魔法值」に変更しました。</translatorcomment>
-        <translation type="unfinished">最大魔法值</translation>
+        <translation>最大 MP</translation>
     </message>
     <message>
         <source>Attack</source>
-        <translation>攻击</translation>
+        <translation>攻击力</translation>
     </message>
     <message>
         <source>Defense</source>
-        <translation>防守</translation>
+        <translation>防御力</translation>
     </message>
     <message>
         <source>M.Attack</source>
@@ -13288,75 +13288,75 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>M.Defense</source>
-        <translation>魔法防卫</translation>
+        <translation>魔法防御</translation>
     </message>
     <message>
         <source>Agility</source>
-        <translation>敏捷度</translation>
+        <translation>敏捷性</translation>
     </message>
     <message>
         <source>Luck</source>
-        <translation>运气</translation>
+        <translation>幸运</translation>
     </message>
     <message>
         <source>Hit</source>
         <comment>Hit Rate</comment>
         <translatorcomment>打击程度</translatorcomment>
-        <translation>打击</translation>
+        <translation>命中率</translation>
     </message>
     <message>
         <source>Evasion</source>
         <comment>Evasion Rate</comment>
         <translatorcomment>躲避等级</translatorcomment>
-        <translation>躲避</translation>
+        <translation>回避率</translation>
     </message>
     <message>
         <source>Always Dash</source>
         <translatorcomment>comment：元翻訳「总是奔跑」を変更した「始终运行」になりました。</translatorcomment>
-        <translation type="unfinished">始终运行</translation>
+        <translation>始终跑步</translation>
     </message>
     <message>
         <source>Command Remember</source>
         <translatorcomment>comment：元翻訳「记住命令」を変更した「记住指令」になりました。</translatorcomment>
-        <translation type="unfinished">记住指令</translation>
+        <translation>记住指令</translation>
     </message>
     <message>
         <source>BGM Volume</source>
-        <translation>BGM音量</translation>
+        <translation>BGM 音量</translation>
     </message>
     <message>
         <source>BGS Volume</source>
-        <translation>BGS音量</translation>
+        <translation>BGS 音量</translation>
     </message>
     <message>
         <source>ME Volume</source>
         <translatorcomment>comment：元翻訳「ME数量」は英語のテキスト内容と合わないので、修正しました。</translatorcomment>
-        <translation type="unfinished">ME音量</translation>
+        <translation>ME 音量</translation>
     </message>
     <message>
         <source>SE Volume</source>
         <translatorcomment>comment：元翻訳「SE数量」は英語テキスト内容と合わないので、修正しました。</translatorcomment>
-        <translation type="unfinished">SE音量</translation>
+        <translation>SE 音量</translation>
     </message>
     <message>
         <source>Possession</source>
-        <translation>财产</translation>
+        <translation>持有数</translation>
     </message>
     <message>
         <source>Current %1</source>
-        <translation>目前 %1</translation>
+        <translation>现在的 %1</translation>
     </message>
     <message>
         <source>To Next %1</source>
-        <translation>下一个 %1</translation>
+        <translation>距离下一 %1</translation>
     </message>
     <message>
         <source>Save to which file?</source>
-        <translation type="unfinished">存到哪个文件？</translation>
+        <translation>保存到哪个文件？</translation>
     </message>
     <message>
         <source>Load which file?</source>
-        <translation>加载哪个文件？</translation>
+        <translation>读取哪个文件？</translation>
     </message>
     <message>
         <source>File</source>
@@ -13365,205 +13365,205 @@ Please complete the post with follow this link.</source>
     <message>
         <source>%1&apos;s Party</source>
         <translatorcomment>comment：元翻訳「%1&apos;的小组」を「%1队伍」に変更しました。</translatorcomment>
-        <translation type="unfinished">%1队伍</translation>
+        <translation>%1 的队伍</translation>
     </message>
     <message>
         <source>%1 emerged!</source>
-        <translation>%1出现了！ </translation>
+        <translation>%1 出现了！</translation>
     </message>
     <message>
         <source>%1 got the upper hand!</source>
-        <translation>%1占了上风！ </translation>
+        <translation>%1 先发制人！</translation>
     </message>
     <message>
         <source>%1 was surprised!</source>
-        <translation>%1受惊了！</translation>
+        <translation>%1 被偷袭了！</translation>
     </message>
     <message>
         <source>%1 has started to escape!</source>
         <translatorcomment>comment：元翻訳「%1开始逃避了！」中の「逃避」を消して「逃跑」を修正しました。</translatorcomment>
-        <translation type="unfinished">%1开始逃跑了！</translation>
+        <translation>%1 开始逃跑了！</translation>
     </message>
     <message>
         <source>However, it was unable to escape!</source>
-        <translation type="unfinished">然而，却是无路可退！</translation>
+        <translation>但是没有逃跑成功！</translation>
     </message>
     <message>
         <source>%1 was victorious!</source>
-        <translation>%1胜利了！</translation>
+        <translation>%1 胜利了！</translation>
     </message>
     <message>
         <source>%1 was defeated.</source>
         <translatorcomment>元翻訳「%1击败了。」を変更した「%1被击败了。」になりました。</translatorcomment>
-        <translation type="unfinished">%1被击败了。</translation>
+        <translation>%1 被击败了。</translation>
     </message>
     <message>
         <source>%1 %2 received!</source>
-        <translation>%1 %2收到了！</translation>
+        <translation>获得了 %1 点 %2！</translation>
     </message>
     <message>
         <source>%1\G found!</source>
-        <translation>%1\G找到了！</translation>
+        <translation>获得了 %1\G！</translation>
     </message>
     <message>
         <source>%1 found!</source>
-        <translation>%1 找到了！</translation>
+        <translation>获得了 %1！</translation>
     </message>
     <message>
         <source>%1 is now %2 %3!</source>
-        <translation>%1 现在是 %2 %3!</translation>
+        <translation>%1 升到了 %2 %3！</translation>
     </message>
     <message>
         <source>%1 learned!</source>
-        <translation>%1 获得了！</translation>
+        <translation>学会了 %1！</translation>
     </message>
     <message>
         <source>%1 uses %2!</source>
-        <translation>%1使用了 %2!</translation>
+        <translation>%1 使用了 %2！</translation>
     </message>
     <message>
         <source>An excellent hit!!</source>
         <comment>critical to enemy</comment>
         <translatorcomment>对敌人致命</translatorcomment>
-        <translation type="unfinished">漂亮一击！</translation>
+        <translation>会心一击！</translation>
     </message>
     <message>
         <source>A painful blow!!</source>
         <comment>critical to actor</comment>
         <translatorcomment>对角色致命</translatorcomment>
-        <translation>痛苦的一击！！</translation>
+        <translation>痛恨一击！</translation>
     </message>
     <message>
         <source>%1 took %2 damage!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 遭受了 %2 损害!</translation>
+        <translation>%1 受到了 %2 点伤害！</translation>
     </message>
     <message>
         <source>%1 recovered %2 %3!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 恢复了 %2 %3!</translation>
+        <translation>%1 的 %2 恢复了 %3！</translation>
     </message>
     <message>
         <source>%1 gained %2 %3!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 获得了 %2 %3!</translation>
+        <translation>%1 的 %2 增加了 %3！</translation>
     </message>
     <message>
         <source>%1 lost %2 %3!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1失去了 %2 %3!</translation>
+        <translation>%1 的 %2 减少了 %3 点！</translation>
     </message>
     <message>
         <source>%1 was drained of %2 %3!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 的 %2 %3用光了!</translation>
+        <translation>%1 的 %2 被吸收了 %3 点！</translation>
     </message>
     <message>
         <source>%1 took no damage!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 没有遭受损害!</translation>
+        <translation>%1 没有受到伤害！</translation>
     </message>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation type="unfinished">打偏了！ %1没有受到损害!</translation>
+        <translation>未击中！ %1 没有受到伤害！</translation>
     </message>
     <message>
         <source>%1 took %2 damage!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1 遭受了%2的损害!</translation>
+        <translation>%1 受到了 %2 点伤害！</translation>
     </message>
     <message>
         <source>%1 recovered %2 %3!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1 恢复了 %2 %3!</translation>
+        <translation>%1 的 %2 恢复了 %3 点！</translation>
     </message>
     <message>
         <source>%1 gained %2 %3!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1 获得了 %2 %3!</translation>
+        <translation>%1 的 %2 增加了 %3 点！</translation>
     </message>
     <message>
         <source>%1 lost %2 %3!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1失去了 %2 %3!</translation>
+        <translation>%1 的 %2 减少了 %3 点！</translation>
     </message>
     <message>
         <source>%1 was drained of %2 %3!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1 的 %2 %3用光了!</translation>
+        <translation>%1 的 %2 被吸收了 %3 点！</translation>
     </message>
     <message>
         <source>%1 took no damage!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1 没有遭受损害!</translation>
+        <translation>未能给 %1 造成伤害！</translation>
     </message>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation type="unfinished">打偏了！ %1没有受到损害!</translation>
+        <translation>未命中！未能给 %1 造成伤害！</translation>
     </message>
     <message>
         <source>%1 evaded the attack!</source>
-        <translation>%1躲开了攻击！</translation>
+        <translation>%1 躲开了攻击！</translation>
     </message>
     <message>
         <source>%1 nullified the magic!</source>
-        <translation>%1抵消了魔法！</translation>
+        <translation>%1 抵消了魔法！</translation>
     </message>
     <message>
         <source>%1 reflected the magic!</source>
-        <translation>%1反射了魔法！</translation>
+        <translation>%1 反射了魔法！</translation>
     </message>
     <message>
         <source>%1 counterattacked!</source>
-        <translation>%1反击了！</translation>
+        <translation>%1 的反击！</translation>
     </message>
     <message>
         <source>%1 protected %2!</source>
-        <translation>%1 保护了 %2!</translation>
+        <translation>%1 保护了 %2！</translation>
     </message>
     <message>
         <source>%1&apos;s %2 went up!</source>
-        <translation>%1 的%2 上升了!</translation>
+        <translation>%1 的 %2 上升了！</translation>
     </message>
     <message>
         <source>%1&apos;s %2 went down!</source>
-        <translation>%1 的%2 下降了!</translation>
+        <translation>%1 的 %2 下降了！</translation>
     </message>
     <message>
         <source>%1&apos;s %2 returned to normal!</source>
-        <translation type="unfinished">%1&apos;的 %2恢复正常了！</translation>
+        <translation>%1 的 %2 恢复正常了！</translation>
     </message>
     <message>
         <source>There was no effect on %1!</source>
-        <translation>对%1无效！</translation>
+        <translation>对 %1 没有效果！</translation>
     </message>
     <message>
         <source>Physical</source>
         <comment>element</comment>
         <translatorcomment>元素</translatorcomment>
-        <translation>自然</translation>
+        <translation>物理</translation>
     </message>
     <message>
         <source>Fire</source>
         <comment>element</comment>
         <translatorcomment>元素</translatorcomment>
-        <translation>火</translation>
+        <translation>炎</translation>
     </message>
     <message>
         <source>Ice</source>
@@ -13605,7 +13605,7 @@ Please complete the post with follow this link.</source>
         <source>Darkness</source>
         <comment>element</comment>
         <translatorcomment>元素</translatorcomment>
-        <translation>黑暗</translation>
+        <translation>暗</translation>
     </message>
     <message>
         <source>Magic</source>
@@ -13617,33 +13617,33 @@ Please complete the post with follow this link.</source>
         <source>Special</source>
         <comment>skill type</comment>
         <translatorcomment>技能种类</translatorcomment>
-        <translation>特殊</translation>
+        <translation>必杀技</translation>
     </message>
     <message>
         <source>General Armor</source>
-        <translation>一般盔甲</translation>
+        <translation>一般护甲</translation>
     </message>
     <message>
         <source>Magic Armor</source>
-        <translation>魔法盔甲</translation>
+        <translation>魔法护甲</translation>
     </message>
     <message>
         <source>Light Armor</source>
-        <translation>轻甲</translation>
+        <translation>轻型护甲</translation>
     </message>
     <message>
         <source>Heavy Armor</source>
-        <translation>重甲</translation>
+        <translation>重型护甲</translation>
     </message>
     <message>
         <source>Small Shield</source>
         <translatorcomment>comment：元翻訳「小盾牌」を消して「小型盾牌」を修正しました。</translatorcomment>
-        <translation type="unfinished">小型盾牌</translation>
+        <translation>小型盾牌</translation>
     </message>
     <message>
         <source>Large Shield</source>
         <translatorcomment>comment：元翻訳「大盾牌」を消して「大型盾牌」を修正しました。</translatorcomment>
-        <translation type="unfinished">大型盾牌</translation>
+        <translation>大型盾牌</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -13664,7 +13664,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Accessory</source>
         <translatorcomment>comment：元翻訳「附件」は添付の意味です。「配件」を変えました。</translatorcomment>
-        <translation type="unfinished">配件</translation>
+        <translation>装饰品</translation>
     </message>
     <message>
         <source>Harold</source>
@@ -13694,25 +13694,25 @@ Please complete the post with follow this link.</source>
         <source>Hero</source>
         <comment>class</comment>
         <translatorcomment>等级</translatorcomment>
-        <translation>英雄</translation>
+        <translation>勇者</translation>
     </message>
     <message>
         <source>Warrior</source>
         <comment>class</comment>
         <translatorcomment>comment：等级。元翻訳「勇士」を消して「战士」を修正しました。</translatorcomment>
-        <translation type="unfinished">战士</translation>
+        <translation>战士</translation>
     </message>
     <message>
         <source>Mage</source>
         <comment>class</comment>
         <translatorcomment>comment：等级。元翻訳「大」は大きいの意味ため、「大」を消して「法师」を変えました。</translatorcomment>
-        <translation type="unfinished">法师</translation>
+        <translation>魔法师</translation>
     </message>
     <message>
         <source>Priest</source>
         <comment>class</comment>
         <translatorcomment>comment：等级。元翻訳「教士」を消して「祭司」を修正しました。</translatorcomment>
-        <translation type="unfinished">祭司</translation>
+        <translation>僧侣</translation>
     </message>
     <message>
         <source>Attack</source>
@@ -13723,37 +13723,37 @@ Please complete the post with follow this link.</source>
         <source>Guard</source>
         <comment>skill</comment>
         <translatorcomment>技能</translatorcomment>
-        <translation>守卫</translation>
+        <translation>防御</translation>
     </message>
     <message>
         <source>Dual Attack</source>
         <comment>skill</comment>
         <translatorcomment>技能</translatorcomment>
-        <translation>双重攻击</translation>
+        <translation>连续攻击</translation>
     </message>
     <message>
         <source>Double Attack</source>
         <comment>skill</comment>
         <translatorcomment>技能</translatorcomment>
-        <translation type="unfinished">两倍攻击</translation>
+        <translation>两次攻击</translation>
     </message>
     <message>
         <source>Triple Attack</source>
         <comment>skill</comment>
         <translatorcomment>技能</translatorcomment>
-        <translation>三倍攻击</translation>
+        <translation>三次攻击</translation>
     </message>
     <message>
         <source>Escape</source>
         <comment>skill</comment>
         <translatorcomment>技能</translatorcomment>
-        <translation>逃脱</translation>
+        <translation>逃跑</translation>
     </message>
     <message>
         <source>Wait</source>
         <comment>skill</comment>
         <translatorcomment>技能</translatorcomment>
-        <translation>等候</translation>
+        <translation>观望</translation>
     </message>
     <message>
         <source>Heal</source>
@@ -13765,19 +13765,19 @@ Please complete the post with follow this link.</source>
         <source>Fire</source>
         <comment>skill</comment>
         <translatorcomment>comment：技能。元翻訳「火」はFIREの意味ですけど、スキルっぽい名前を変えました。</translatorcomment>
-        <translation type="unfinished">火焰术</translation>
+        <translation>火焰</translation>
     </message>
     <message>
         <source>Spark</source>
         <comment>skill</comment>
         <translatorcomment>comment：技能。元翻訳はSPARKの意味ですけど、スキルっぽい「火星术」を変えました。</translatorcomment>
-        <translation type="unfinished">火星术</translation>
+        <translation>闪电</translation>
     </message>
     <message>
         <source>Potion</source>
         <comment>item</comment>
         <translatorcomment>物品</translatorcomment>
-        <translation>药剂</translation>
+        <translation>药水</translation>
     </message>
     <message>
         <source>Magic Water</source>
@@ -13789,7 +13789,7 @@ Please complete the post with follow this link.</source>
         <source>Dispel Herb</source>
         <comment>item</comment>
         <translatorcomment>comment：物品。正式な言い方を変えました。</translatorcomment>
-        <translation type="unfinished">驱散草药</translation>
+        <translation>驱魔药草</translation>
     </message>
     <message>
         <source>Stimulant</source>
@@ -13807,13 +13807,13 @@ Please complete the post with follow this link.</source>
         <source>Axe</source>
         <comment>weapon</comment>
         <translatorcomment>comment：武器。元翻訳「斧子」はちょっと適当な言い方です。正式武器の名称「斧头」を変えました。</translatorcomment>
-        <translation type="unfinished">斧头</translation>
+        <translation>斧</translation>
     </message>
     <message>
         <source>Cane</source>
         <comment>weapon</comment>
         <translatorcomment>comment：武器。元翻訳「手杖」は普通な杖の意味です、魔法使い用の言い方を変えました。</translatorcomment>
-        <translation type="unfinished">法杖</translation>
+        <translation>杖</translation>
     </message>
     <message>
         <source>Bow</source>
@@ -13855,7 +13855,7 @@ Please complete the post with follow this link.</source>
         <source>Slime</source>
         <comment>enemy</comment>
         <translatorcomment>comment：敌人。元翻訳「烂泥」の意味は汚れた泥。怪物名前で「史莱姆」を修正しました。</translatorcomment>
-        <translation type="unfinished">史莱姆</translation>
+        <translation>史莱姆</translation>
     </message>
     <message>
         <source>Orc</source>
@@ -13873,19 +13873,19 @@ Please complete the post with follow this link.</source>
         <source>Knockout</source>
         <comment>state</comment>
         <translatorcomment>状态</translatorcomment>
-        <translation>击倒</translation>
+        <translation>无法战斗</translation>
     </message>
     <message>
         <source>Guard</source>
         <comment>state</comment>
         <translatorcomment>状态</translatorcomment>
-        <translation>守卫</translation>
+        <translation>防御</translation>
     </message>
     <message>
         <source>Immortal</source>
         <comment>state</comment>
         <translatorcomment>状态</translatorcomment>
-        <translation>不死</translation>
+        <translation>不死之身</translation>
     </message>
     <message>
         <source>Poison</source>
@@ -13897,7 +13897,7 @@ Please complete the post with follow this link.</source>
         <source>Blind</source>
         <comment>state</comment>
         <translatorcomment>状态</translatorcomment>
-        <translation type="unfinished">失明</translation>
+        <translation>黑暗</translation>
     </message>
     <message>
         <source>Silence</source>
@@ -13909,7 +13909,7 @@ Please complete the post with follow this link.</source>
         <source>Rage</source>
         <comment>state</comment>
         <translatorcomment>状态</translatorcomment>
-        <translation>暴怒</translation>
+        <translation>激昂</translation>
     </message>
     <message>
         <source>Confusion</source>
@@ -13921,13 +13921,13 @@ Please complete the post with follow this link.</source>
         <source>Fascination</source>
         <comment>state</comment>
         <translatorcomment>comment：状态。元翻訳「着迷」は誰を好きすぎるの意味です、ゲームと合う「蛊惑」を変えました。</translatorcomment>
-        <translation type="unfinished">蛊惑</translation>
+        <translation>魅惑</translation>
     </message>
     <message>
         <source>Sleep</source>
         <comment>state</comment>
         <translatorcomment>状态</translatorcomment>
-        <translation>睡觉</translation>
+        <translation>睡眠</translation>
     </message>
     <message>
         <source> has fallen!</source>
@@ -13939,49 +13939,49 @@ Please complete the post with follow this link.</source>
         <source> is slain!</source>
         <comment>Knockout-enemy</comment>
         <translatorcomment>击败敌人</translatorcomment>
-        <translation>屠杀！</translation>
+        <translation> 被打败了！</translation>
     </message>
     <message>
         <source> revives!</source>
         <comment>Knockout-remove</comment>
         <translatorcomment>击败-移除</translatorcomment>
-        <translation>复活！</translation>
+        <translation> 复活了！</translation>
     </message>
     <message>
         <source> is poisoned!</source>
         <comment>Poison-actor</comment>
         <translatorcomment>让角色中毒</translatorcomment>
-        <translation>中毒！</translation>
+        <translation> 中毒了！</translation>
     </message>
     <message>
         <source> is poisoned!</source>
         <comment>Poison-enemy</comment>
         <translatorcomment>敌人中毒</translatorcomment>
-        <translation>中毒！</translation>
+        <translation> 中毒了！</translation>
     </message>
     <message>
         <source> is no longer poisoned!</source>
         <comment>Poison-remove</comment>
         <translatorcomment>中毒移除</translatorcomment>
-        <translation>不再中毒了！</translation>
+        <translation> 的毒消失了！</translation>
     </message>
     <message>
         <source> is blinded!</source>
         <comment>Blind-actor</comment>
         <translatorcomment>角色失眠</translatorcomment>
-        <translation>失眠了!</translation>
+        <translation> 陷入了黑暗！</translation>
     </message>
     <message>
         <source> is blinded!</source>
         <comment>Blind-enemy</comment>
         <translatorcomment>敌人失眠</translatorcomment>
-        <translation>失眠了!</translation>
+        <translation> 陷入了黑暗！</translation>
     </message>
     <message>
         <source> is no longer blinded!</source>
         <comment>Blind-remove</comment>
         <translatorcomment>失眠移除</translatorcomment>
-        <translation>不再失眠了！</translation>
+        <translation> 的黑暗消失了！</translation>
     </message>
     <message>
         <source> is silenced!</source>
@@ -13999,61 +13999,61 @@ Please complete the post with follow this link.</source>
         <source> is no longer silenced!</source>
         <comment>Silence-remove</comment>
         <translatorcomment>沉默移除</translatorcomment>
-        <translation>不再沉默了！</translation>
+        <translation> 的沉默解除了！</translation>
     </message>
     <message>
         <source> is enraged!</source>
         <comment>Rage-actor</comment>
         <translatorcomment>角色暴怒</translatorcomment>
-        <translation>暴怒了！</translation>
+        <translation> 进入了激昂状态！</translation>
     </message>
     <message>
         <source> is enraged!</source>
         <comment>Rage-enemy</comment>
         <translatorcomment>敌人暴怒</translatorcomment>
-        <translation>暴怒了！</translation>
+        <translation> 进入了激昂状态！</translation>
     </message>
     <message>
         <source> is no longer enraged!</source>
         <comment>Rage-remove</comment>
         <translatorcomment>暴怒移除</translatorcomment>
-        <translation>不再暴怒了！</translation>
+        <translation> 恢复了理智！</translation>
     </message>
     <message>
         <source> is confused!</source>
         <comment>Confusion-actor</comment>
         <translatorcomment>角色混乱</translatorcomment>
-        <translation>混乱了！</translation>
+        <translation> 陷入了混乱！</translation>
     </message>
     <message>
         <source> is confused!</source>
         <comment>Confusion-enemy</comment>
         <translatorcomment>敌人混乱</translatorcomment>
-        <translation>混乱了！</translation>
+        <translation> 陷入了混乱！</translation>
     </message>
     <message>
         <source> is no longer confused!</source>
         <comment>Confusion-remove</comment>
         <translatorcomment>混乱移除</translatorcomment>
-        <translation>不再混乱了！</translation>
+        <translation> 恢复了理智！</translation>
     </message>
     <message>
         <source> is fascinated!</source>
         <comment>Fascination-actor</comment>
         <translatorcomment>角色着迷</translatorcomment>
-        <translation>着迷了！</translation>
+        <translation> 被魅惑了！</translation>
     </message>
     <message>
         <source> is fascinated!</source>
         <comment>Fascination-enemy</comment>
         <translatorcomment>敌人着迷</translatorcomment>
-        <translation>着迷了！</translation>
+        <translation> 被魅惑了！</translation>
     </message>
     <message>
         <source> is no longer fascinated!</source>
         <comment>Fascination-remove</comment>
         <translatorcomment>着迷移除</translatorcomment>
-        <translation>不再着迷了！</translation>
+        <translation> 恢复了理智！</translation>
     </message>
     <message>
         <source> falls asleep!</source>
@@ -14071,39 +14071,39 @@ Please complete the post with follow this link.</source>
         <source> is sleeping.</source>
         <comment>Sleep-persist</comment>
         <translatorcomment>睡眠持续</translatorcomment>
-        <translation>正在沉睡中。</translation>
+        <translation> 正在沉睡中。</translation>
     </message>
     <message>
         <source> wakes up!</source>
         <comment>Sleep-remove</comment>
         <translatorcomment>睡眠移除</translatorcomment>
-        <translation type="unfinished">醒来！</translation>
+        <translation> 醒来了！</translation>
     </message>
     <message>
         <source>Skill #1 will be used when you select
 the Attack command.</source>
-        <translation>技能#1将会使用当你选择攻击命令时。</translation>
+        <translation>1 号技能会在选择“攻击”指令时使用。</translation>
     </message>
     <message>
         <source>Skill #2 will be used when you select
 the Guard command.</source>
-        <translation>技能#2将会使用当你选择守卫命令时。</translation>
+        <translation>1 号技能会在选择“防御”指令时使用。</translation>
     </message>
     <message>
         <source>State #1 will be automatically added when
 HP reaches 0.</source>
-        <translation>状态#1会自动加上当生命值到0时。</translation>
+        <translation>1 号状态在 HP 变为 0 时会自动附加。</translation>
     </message>
     <message>
         <source> attacks!</source>
         <comment>skill message</comment>
-        <translation>攻击！</translation>
+        <translation> 的攻击！</translation>
     </message>
     <message>
         <source> guards.</source>
         <comment>skill message</comment>
         <translatorcomment>技能信息</translatorcomment>
-        <translation>守卫。</translation>
+        <translation> 正在保护自己。</translation>
     </message>
     <message>
         <source> flees.</source>
