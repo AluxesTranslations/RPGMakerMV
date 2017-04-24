@@ -2338,11 +2338,11 @@
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="vanished">Ajusta las opciones de despliegue.</translation>
+        <translation>Ajusta las opciones de despliegue.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
-        <translation type="vanished">Excluir los archivos no utilizados</translation>
+        <translation>Excluir los archivos no utilizados</translation>
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
@@ -2354,7 +2354,7 @@
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="vanished">Ajusta las opciones de encriptación.</translation>
+        <translation>Ajusta las opciones de encriptación.</translation>
     </message>
     <message>
         <source>Image files</source>
@@ -2362,15 +2362,15 @@
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="vanished">Encripta los archivos de imagen incluidos en el paquete.</translation>
+        <translation>Encripta los archivos de imagen incluidos en el paquete.</translation>
     </message>
     <message>
         <source>Audio files</source>
-        <translation type="vanished">Archivos de audio</translation>
+        <translation>Archivos de audio</translation>
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="vanished">Encripta los archivos de audio incluidos en el paquete.</translation>
+        <translation>Encripta los archivos de audio incluidos en el paquete.</translation>
     </message>
     <message>
         <source>Encryption key</source>
@@ -3033,11 +3033,11 @@
     <name>Dialog_GameShare</name>
     <message>
         <source>Game Share</source>
-        <translation type="vanished">Compartir juego</translation>
+        <translation>Compartir juego</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="vanished">Autetificación</translation>
+        <translation>Autetificación</translation>
     </message>
     <message>
         <source>If necessary to authenticate.</source>
@@ -3095,7 +3095,7 @@
     <name>Dialog_GameShareOgc</name>
     <message>
         <source>Game Share</source>
-        <translation type="vanished">Compartir juego</translation>
+        <translation>Compartir juego</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -4516,7 +4516,7 @@
     </message>
     <message>
         <source>Import a file into the selected folder.</source>
-        <translation type="vanished">Importa archivos a la carpeta seleccionada.</translation>
+        <translation>Importa archivos a la carpeta seleccionada.</translation>
     </message>
     <message>
         <source>Export</source>
@@ -8807,7 +8807,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <name>GameShareOgc</name>
     <message>
         <source>Succeeded to upload a project.</source>
-        <translation type="vanished">Éxito al subir el proyecto.</translation>
+        <translation>Éxito al subir el proyecto.</translation>
     </message>
     <message>
         <source>Failed to upload a project.</source>
