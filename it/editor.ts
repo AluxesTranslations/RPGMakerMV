@@ -767,7 +767,7 @@
     </message>
     <message>
         <source>Cancel Surprise</source>
-        <translation>Annulla Sorpresa</translation>
+        <translation>Annulla sorpresa</translation>
     </message>
     <message>
         <source>Raise Preemptive</source>
@@ -1610,7 +1610,7 @@
     </message>
     <message>
         <source>Names of elements, skill types, weapon types, armor types, and equipment types.</source>
-        <translation>Nomi degli oggetti, tipi di abilità, tipi di armi, tipi di armature e tipi di equipaggiamento.</translation>
+        <translation>Nomi degli elementi, tipi di abilità, tipi di armi, tipi di armature e tipi di equipaggiamento.</translation>
     </message>
     <message>
         <source>Terms</source>
@@ -1633,7 +1633,7 @@
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation>Imposta le opzioni di rilascio.</translation>
+        <translation>Imposta le opzioni per la distribuzione.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -1641,7 +1641,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation>I file non utilizzati nel gioco saranno esclusi nel rilascio.</translation>
+        <translation>I file non utilizzati nel gioco saranno esclusi dalla distribuzione finale.</translation>
     </message>
     <message>
         <source>Zip Compression</source>
@@ -1657,7 +1657,7 @@
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation>Impostare le Opzioni Crittografia.</translation>
+        <translation>Imposta le opzioni Crittografia.</translation>
     </message>
     <message>
         <source>Image files</source>
@@ -2665,7 +2665,7 @@
     </message>
     <message>
         <source>Game Progression</source>
-        <translation>Progressione del Gioco</translation>
+        <translation>Progressione del gioco</translation>
     </message>
     <message>
         <source>Flow Control</source>
@@ -4494,7 +4494,7 @@
     <message>
         <source>Preview the selected file</source>
         <translatorcomment>原文はピリオドが含まれておりませんが、全体の統一の為にピリオドを追加致しました。</translatorcomment>
-        <translation>Visualizza un&apos;anteprima del file selezionato</translation>
+        <translation>Visualizza un&apos;anteprima del file selezionato.</translation>
     </message>
     <message>
         <source>Import</source>
@@ -4671,7 +4671,7 @@
     <message>
         <source>State Resist</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Impostare Resist.</translation>
+        <translation>Imposta Resist.</translation>
     </message>
     <message>
         <source>Completely negates a state. If knockouts are negated, characters will not be knocked out even when their HP falls to 0.</source>
@@ -4802,7 +4802,7 @@
     <message>
         <source>Lock Equip</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Blocca equip.</translation>
+        <translation>Blocca Equip.</translation>
     </message>
     <message>
         <source>Prevents the changing of equipment for the specified equipment slot. Used mainly for instances such as when you do not want the player changing the equipment of a character that has been temporarily added to the party.</source>
@@ -7901,7 +7901,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>Repeat Above</source>
-        <translation>Ripetere Quanto Sopra</translation>
+        <translation>Ripetere quanto sopra</translation>
     </message>
     <message>
         <source>Break Loop</source>
@@ -7961,15 +7961,15 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>Change Party Member</source>
-        <translation>Modifica membro del gruppo</translation>
+        <translation>Modif. Membro del Gruppo</translation>
     </message>
     <message>
         <source>Change Battle BGM</source>
-        <translation>Modifica BGM battaglia</translation>
+        <translation>Modifica BGM Battaglia</translation>
     </message>
     <message>
         <source>Change Victory ME</source>
-        <translation>Modifica ME vittoria</translation>
+        <translation>Modifica ME Vittoria</translation>
     </message>
     <message>
         <source>Change Save Access</source>
@@ -7997,7 +7997,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>Change Vehicle BGM</source>
-        <translation>Modifica BGM veicolo</translation>
+        <translation>Modifica BGM Veicolo</translation>
     </message>
     <message>
         <source>Transfer Player</source>
@@ -8029,7 +8029,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>Change Player Followers</source>
-        <translation>Modifica seguaci giocatore</translation>
+        <translation>Modifica Seguaci Giocatore</translation>
     </message>
     <message>
         <source>Gather Followers</source>
@@ -8149,7 +8149,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>Change Parallax</source>
-        <translation>Modifica parallasse</translation>
+        <translation>Modifica Parallasse</translation>
     </message>
     <message>
         <source>Get Location Info</source>
@@ -8193,7 +8193,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>Change State</source>
-        <translation>Modifica stato</translation>
+        <translation>Modifica Stato</translation>
     </message>
     <message>
         <source>Recover All</source>
@@ -8205,11 +8205,11 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>Change Level</source>
-        <translation>Modifica livello</translation>
+        <translation>Modifica Livello</translation>
     </message>
     <message>
         <source>Change Parameter</source>
-        <translation>Modifica parametro</translation>
+        <translation>Modifica Parametro</translation>
     </message>
     <message>
         <source>Change Skill</source>
@@ -8237,7 +8237,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>Change Nickname</source>
-        <translation>Modificare Pseudonimo</translation>
+        <translation>Modifica Pseudonimo</translation>
     </message>
     <message>
         <source>Change Profile</source>
@@ -8257,7 +8257,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>Change Enemy State</source>
-        <translation>Modifica stato Nemico</translation>
+        <translation>Modifica Stato Nemico</translation>
     </message>
     <message>
         <source>Enemy Recover All</source>
