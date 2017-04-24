@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Randomize</source>
-        <translation>随机</translation>
+        <translation>随机生成</translation>
     </message>
     <message>
         <source>Sets all the parts at random.</source>
@@ -163,7 +163,7 @@
     </message>
     <message>
         <source>Facial Mark</source>
-        <translation>脸部标志</translation>
+        <translation>面部特征</translation>
     </message>
     <message>
         <source>Beast Ears</source>
@@ -207,7 +207,7 @@
     </message>
     <message>
         <source>Sub Color</source>
-        <translation>辅助颜色</translation>
+        <translation>配色</translation>
     </message>
     <message>
         <source>Eye Color</source>
@@ -253,7 +253,7 @@
     <message>
         <source>Mesh Color</source>
         <translatorcomment>comment：元翻訳「筛网颜色」を「网格颜色」に変更しました。</translatorcomment>
-        <translation type="unfinished">网格颜色</translation>
+        <translation>网格颜色</translation>
     </message>
 </context>
 <context>
@@ -261,7 +261,7 @@
     <message>
         <source>RPG Maker MV</source>
         <translatorcomment>comment：元翻訳「角色扮演制作音乐短片」を「RPG制作大师MV」に変更しました。</translatorcomment>
-        <translation>RPG 制作大师 MV</translation>
+        <translation>RPG Maker MV</translation>
     </message>
     <message>
         <source>Project</source>
@@ -325,7 +325,7 @@
     <message>
         <source>Face</source>
         <comment>Face Image</comment>
-        <translation>脸</translation>
+        <translation>脸图</translation>
     </message>
     <message>
         <source>Image to be displayed on the menu screen.</source>
@@ -334,7 +334,7 @@
     <message>
         <source>Character</source>
         <comment>Character Image</comment>
-        <translation>人物</translation>
+        <translation>行走图</translation>
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
@@ -343,7 +343,7 @@
     <message>
         <source>[SV] Battler</source>
         <comment>[SV] Battler Image</comment>
-        <translation>[SV] 战斗者</translation>
+        <translation>[SV] 战斗图</translation>
     </message>
     <message>
         <source>Image to be displayed in battle when in side-view mode.</source>
@@ -417,7 +417,7 @@
     </message>
     <message>
         <source>Agility</source>
-        <translation>敏捷性</translation>
+        <translation>敏捷</translation>
     </message>
     <message>
         <source>Luck</source>
@@ -537,7 +537,7 @@
     </message>
     <message>
         <source>Agility. Affects things like attack order.</source>
-        <translation>敏捷性。影响攻击顺序。</translation>
+        <translation>敏捷。影响攻击顺序。</translation>
     </message>
     <message>
         <source>Luck. Affects things like the chance of status ailments occurring.</source>
@@ -682,35 +682,35 @@
     </message>
     <message>
         <source>1 Random Enemy</source>
-        <translation>1个随机敌人</translation>
+        <translation>随机 1 个敌人</translation>
     </message>
     <message>
         <source>2 Random Enemies</source>
-        <translation>2个随机敌人</translation>
+        <translation>随机 2 个敌人</translation>
     </message>
     <message>
         <source>3 Random Enemies</source>
-        <translation>3个随机敌人</translation>
+        <translation>随机 3 个敌人</translation>
     </message>
     <message>
         <source>4 Random Enemies</source>
-        <translation>4个随机敌人</translation>
+        <translation>随机 4 个敌人</translation>
     </message>
     <message>
         <source>1 Ally</source>
-        <translation>己方单体</translation>
+        <translation>我方单体</translation>
     </message>
     <message>
         <source>All Allies</source>
-        <translation>己方全体</translation>
+        <translation>我方全体</translation>
     </message>
     <message>
         <source>1 Ally (Dead)</source>
-        <translation>己方单体（死亡）</translation>
+        <translation>我方单体（无法战斗）</translation>
     </message>
     <message>
         <source>All Allies (Dead)</source>
-        <translation>己方全体（无法战斗）</translation>
+        <translation>我方全体（无法战斗）</translation>
     </message>
     <message>
         <source>The User</source>
@@ -718,7 +718,7 @@
     </message>
     <message>
         <source>Always</source>
-        <translation>总是</translation>
+        <translation>随时可用</translation>
     </message>
     <message>
         <source>Battle Screen</source>
@@ -730,15 +730,15 @@
     </message>
     <message>
         <source>Never</source>
-        <translation>从不</translation>
+        <translation>不能使用</translation>
     </message>
     <message>
         <source>Regular Item</source>
-        <translation>常规物品</translation>
+        <translation>普通物品</translation>
     </message>
     <message>
         <source>Key Item</source>
-        <translation>关键物品</translation>
+        <translation>重要物品</translation>
     </message>
     <message>
         <source>Hidden Item A</source>
@@ -778,7 +778,7 @@
     </message>
     <message>
         <source>Instant</source>
-        <translation>即时</translation>
+        <translation>瞬间消失</translation>
     </message>
     <message>
         <source>No Disappear</source>
@@ -808,7 +808,7 @@
     <message>
         <source>Drop Item Double</source>
         <translatorcomment>comment：元翻訳「双倍掉失物品」を「掉落双倍物品」に変更しました。</translatorcomment>
-        <translation>掉落物品双倍</translation>
+        <translation>双倍掉落物品</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -906,7 +906,7 @@
         <source>Screen</source>
         <comment>Screen blending</comment>
         <translatorcomment>comment：元翻訳「屏幕」を「滤色」に変更しました。</translatorcomment>
-        <translation type="unfinished">滤色</translation>
+        <translation>滤色</translation>
     </message>
     <message>
         <source>Window</source>
@@ -939,7 +939,7 @@
     <message>
         <source>Left</source>
         <comment>Horizontal</comment>
-        <translation>左边</translation>
+        <translation>左侧</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -950,7 +950,7 @@
     <message>
         <source>Right</source>
         <comment>Horizontal</comment>
-        <translation>右边</translation>
+        <translation>右侧</translation>
     </message>
     <message>
         <source>Choice #1</source>
@@ -986,11 +986,11 @@
     </message>
     <message>
         <source>ON</source>
-        <translation>开</translation>
+        <translation>ON</translation>
     </message>
     <message>
         <source>OFF</source>
-        <translation>关</translation>
+        <translation>OFF</translation>
     </message>
     <message>
         <source>Map X</source>
@@ -1058,12 +1058,12 @@
     <message>
         <source>Black</source>
         <comment>Fade to Black</comment>
-        <translation>黑色</translation>
+        <translation>黑</translation>
     </message>
     <message>
         <source>White</source>
         <comment>Fade to White</comment>
-        <translation>白色</translation>
+        <translation>白</translation>
     </message>
     <message>
         <source>None</source>
@@ -1072,7 +1072,7 @@
     </message>
     <message>
         <source>Exclamation</source>
-        <translation>惊呼</translation>
+        <translation>惊讶</translation>
     </message>
     <message>
         <source>Question</source>
@@ -1096,7 +1096,7 @@
     </message>
     <message>
         <source>Cobweb</source>
-        <translation>蜘蛛网</translation>
+        <translation>纠结</translation>
     </message>
     <message>
         <source>Silence</source>
@@ -1140,7 +1140,7 @@
     </message>
     <message>
         <source>Terrain Tag</source>
-        <translation>地形标记</translation>
+        <translation>地形标志</translation>
     </message>
     <message>
         <source>Event ID</source>
@@ -1149,22 +1149,22 @@
     <message>
         <source>Tile ID (Layer 1)</source>
         <translatorcomment>comment：元翻訳「磁贴ID（第1层）」を「图块ID（第1层）」に変更しました。</translatorcomment>
-        <translation>图块 ID（第1层）</translation>
+        <translation>图块 ID（第 1 层）</translation>
     </message>
     <message>
         <source>Tile ID (Layer 2)</source>
         <translatorcomment>comment：元翻訳「磁贴ID（第2层）」を「图块ID（第2层）」に変更しました。</translatorcomment>
-        <translation>图块 ID（第2层）</translation>
+        <translation>图块 ID（第 2 层）</translation>
     </message>
     <message>
         <source>Tile ID (Layer 3)</source>
         <translatorcomment>comment：元翻訳「磁贴ID（第3层）」を「图块ID（第3层）」に変更しました。</translatorcomment>
-        <translation>图块 ID（第3层）</translation>
+        <translation>图块 ID（第 3 层）</translation>
     </message>
     <message>
         <source>Tile ID (Layer 4)</source>
         <translatorcomment>comment：元翻訳「磁贴ID（第4层）」を「图块ID（第4层）」に変更しました。</translatorcomment>
-        <translation>图块 ID（第4层）</translation>
+        <translation>图块 ID（第 4 层）</translation>
     </message>
     <message>
         <source>Region ID</source>
@@ -1212,7 +1212,7 @@
     </message>
     <message>
         <source>Retain</source>
-        <translation>保持</translation>
+        <translation>不变</translation>
     </message>
     <message>
         <source>Rain</source>
@@ -1312,7 +1312,7 @@
     </message>
     <message>
         <source>Cane</source>
-        <translation>手杖</translation>
+        <translation>杖</translation>
     </message>
     <message>
         <source>Bow</source>
@@ -1328,7 +1328,7 @@
     </message>
     <message>
         <source>Claw</source>
-        <translation>爪子</translation>
+        <translation>爪</translation>
     </message>
     <message>
         <source>Glove</source>
@@ -1344,17 +1344,17 @@
     </message>
     <message>
         <source>Rod</source>
-        <translation type="unfinished">棒</translation>
+        <translation>棒</translation>
     </message>
     <message>
         <source>Club</source>
         <translatorcomment>comment：元翻訳「棒子」を「棍棒」に変更しました。</translatorcomment>
-        <translation type="unfinished">棍棒</translation>
+        <translation>棍棒</translation>
     </message>
     <message>
         <source>Combat Chain</source>
         <translatorcomment>comment：元翻訳「战链」を「战斗链」に変更しました。</translatorcomment>
-        <translation type="unfinished">战斗链</translation>
+        <translation>战斗链</translation>
     </message>
     <message>
         <source>Futuristic Sword</source>
@@ -1427,7 +1427,7 @@
         <source>Smart</source>
         <comment>Object Selector</comment>
         <translatorcomment>comment：元翻訳「聪明」の意味は頭を賢いです。インテリジェント「智能」を変えました。</translatorcomment>
-        <translation>智能</translation>
+        <translation>自动</translation>
     </message>
     <message>
         <source> frames</source>
@@ -1515,7 +1515,7 @@
     <message>
         <source>Wait for button input.</source>
         <translatorcomment>comment：元翻訳「等待电钮投入。」を「等待按钮输入。」に変更しました。</translatorcomment>
-        <translation>等待按钮输入。</translation>
+        <translation>等待按键输入。</translation>
     </message>
     <message>
         <source>Display remaining text on same line all at once.</source>
@@ -1672,7 +1672,7 @@
     </message>
     <message>
         <source>Types</source>
-        <translation>种类</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Names of elements, skill types, weapon types, armor types, and equipment types.</source>
@@ -1824,7 +1824,7 @@
     </message>
     <message>
         <source>Rating</source>
-        <translation>等级</translation>
+        <translation>评分</translation>
     </message>
     <message>
         <source>Priority of the action. Of all actions meeting the conditions, the one with the highest rating will be the standard, and the one within 2 rating points of the standard will be used. Actions 1 rating point away will be used 2/3 of the time and those 2 rating points away will be used 1/3 of the time.</source>
@@ -2598,7 +2598,7 @@
     </message>
     <message>
         <source>Add Buff</source>
-        <translation>附加强化效果</translation>
+        <translation>强化</translation>
     </message>
     <message>
         <source>Raises the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and an increase of up to two levels is possible. To raise a parameter two or more levels at one time, you can apply this effect multiple times.</source>
@@ -2610,7 +2610,7 @@
     </message>
     <message>
         <source>Add Debuff</source>
-        <translation>增加弱化效果</translation>
+        <translation>弱化</translation>
     </message>
     <message>
         <source>Lowers the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and a decrease of up to two levels is possible. To lower a parameter two or more levels at one time, you can apply this effect multiple times.</source>
@@ -2618,7 +2618,7 @@
     </message>
     <message>
         <source>Remove Buff</source>
-        <translation>解除强化效果</translation>
+        <translation>解除强化</translation>
     </message>
     <message>
         <source>Returns the specified parameter to its original fluctuation level if it has been buffed.</source>
@@ -2626,7 +2626,7 @@
     </message>
     <message>
         <source>Remove Debuff</source>
-        <translation>解除弱化效果</translation>
+        <translation>解除弱化</translation>
     </message>
     <message>
         <source>Returns the specified parameter to its original fluctuation level if it has been debuffed.</source>
@@ -2654,7 +2654,7 @@
     </message>
     <message>
         <source>Learn Skill</source>
-        <translation>习得技能</translation>
+        <translation>学会技能</translation>
     </message>
     <message>
         <source>Allows the character to learn the specified skill. For example, this can be used in creating an item such as a book that enables a spell to be used once it is read.</source>
@@ -2830,7 +2830,7 @@
     <name>Dialog_EventSearcher</name>
     <message>
         <source>Event Searcher</source>
-        <translation>事件搜索</translation>
+        <translation>搜索事件</translation>
     </message>
     <message>
         <source>Search for</source>
@@ -2975,7 +2975,7 @@
     </message>
     <message>
         <source>Type of game data.</source>
-        <translation>游戏数据种类。</translation>
+        <translation>游戏数据的类型。</translation>
     </message>
     <message>
         <source>Item</source>
@@ -3147,11 +3147,11 @@
     </message>
     <message>
         <source>Authentication(NICONICO)</source>
-        <translation>认证（NICONICO）</translation>
+        <translation>授权（NICONICO）</translation>
     </message>
     <message>
         <source>If necessary to authenticate.</source>
-        <translation>需要认证的场合。</translation>
+        <translation>需要授权的场合。</translation>
     </message>
     <message>
         <source>Your acount is</source>
@@ -3160,20 +3160,20 @@
     <message>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation>认证</translation>
+        <translation>授权</translation>
     </message>
     <message>
         <source>Authenticate.</source>
-        <translation>认证。</translation>
+        <translation>授权。</translation>
     </message>
     <message>
         <source>Deauthorize</source>
         <comment>Deauthorize Button</comment>
-        <translation>解除认证</translation>
+        <translation>解除授权</translation>
     </message>
     <message>
         <source>Cancel authentication.</source>
-        <translation>取消认证。</translation>
+        <translation>取消授权。</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -3190,7 +3190,7 @@
     </message>
     <message>
         <source>Account has not been authenticated.</source>
-        <translation>账号没有认证。</translation>
+        <translation>没有授权账号。</translation>
     </message>
 </context>
 <context>
@@ -3201,32 +3201,32 @@
     </message>
     <message>
         <source>Authentication</source>
-        <translation>认证</translation>
+        <translation>授权</translation>
     </message>
     <message>
         <source>If necessary to authenticate OPEN GAME CREATORS.</source>
-        <translation>需要认证的场合（OPEN GAME CREATORS）。</translation>
+        <translation>需要授权的场合（OPEN GAME CREATORS）。</translation>
     </message>
     <message>
         <source>Authenticated account: %1</source>
-        <translation>已认证账号：%1</translation>
+        <translation>已授权账号：%1</translation>
     </message>
     <message>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation>认证</translation>
+        <translation>授权</translation>
     </message>
     <message>
         <source>Authenticate.</source>
-        <translation>认证。</translation>
+        <translation>授权。</translation>
     </message>
     <message>
         <source>Deauthorize</source>
-        <translation>解除认证</translation>
+        <translation>解除授权</translation>
     </message>
     <message>
         <source>Cancel authentication.</source>
-        <translation>取消认证。</translation>
+        <translation>取消授权。</translation>
     </message>
     <message>
         <source>Info</source>
@@ -3234,7 +3234,7 @@
     </message>
     <message>
         <source>Account has not been authenticated.</source>
-        <translation>账号未认证。</translation>
+        <translation>没有授权账号。</translation>
     </message>
 </context>
 <context>
@@ -3320,7 +3320,7 @@
     </message>
     <message>
         <source>Add Margins</source>
-        <translation>留白</translation>
+        <translation>边缘留白</translation>
     </message>
     <message>
         <source>Adds margins around the dungeon.</source>
@@ -3328,7 +3328,7 @@
     </message>
     <message>
         <source>Wide passages</source>
-        <translation>宽通道</translation>
+        <translation>加宽通道</translation>
     </message>
     <message>
         <source>Increases the width of passages.</source>
@@ -3392,11 +3392,11 @@
     </message>
     <message>
         <source>Skill Type</source>
-        <translation>技能种类</translation>
+        <translation>技能类型</translation>
     </message>
     <message>
         <source>Type of the skill.</source>
-        <translation>技能种类。</translation>
+        <translation>技能的类型。</translation>
     </message>
 </context>
 <context>
@@ -4445,11 +4445,11 @@
     </message>
     <message>
         <source>ON</source>
-        <translation>开</translation>
+        <translation>ON</translation>
     </message>
     <message>
         <source>OFF</source>
-        <translation>关</translation>
+        <translation>OFF</translation>
     </message>
 </context>
 <context>
@@ -4496,11 +4496,11 @@
     </message>
     <message>
         <source>ON</source>
-        <translation>开</translation>
+        <translation>ON</translation>
     </message>
     <message>
         <source>OFF</source>
-        <translation>关</translation>
+        <translation>OFF</translation>
     </message>
 </context>
 <context>
@@ -4554,11 +4554,11 @@
     </message>
     <message>
         <source>ON</source>
-        <translation>开</translation>
+        <translation>ON</translation>
     </message>
     <message>
         <source>OFF</source>
-        <translation>关</translation>
+        <translation>OFF</translation>
     </message>
     <message>
         <source>Help</source>
@@ -4681,7 +4681,7 @@
     </message>
     <message>
         <source>%1 was found!</source>
-        <translation>找到了 %1！</translation>
+        <translation>找到了%1！</translation>
     </message>
     <message>
         <source>Content</source>
@@ -4819,7 +4819,7 @@
     </message>
     <message>
         <source>Level for learning the skill.</source>
-        <translation>习得技能的等级。</translation>
+        <translation>学会技能的等级。</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -4968,7 +4968,7 @@
     </message>
     <message>
         <source>Value that is added to agility when determining attack order when a normal attack has been selected.</source>
-        <translation>选择普通攻击时，决定行动顺序时增加到敏捷性的值。</translation>
+        <translation>选择普通攻击时，决定行动顺序时增加到敏捷的值。</translation>
     </message>
     <message>
         <source>Attack Times +</source>
@@ -5392,12 +5392,12 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Display position of the animation.&lt;br&gt;[Head] Displayed using the top edge of the image as a base.&lt;br&gt;[Center] Displayed using the center line of the image as a base.&lt;br&gt;[Feet] Displayed using the bottom edge of the image as a base.&lt;br&gt;[Screen] Displays over the entire screen.</source>
-        <translation>动画显示的位置。.&lt;br&gt;【头部】以图像上方的线作为基准。&lt;br&gt;【中心】以图像中央的线作为基准。&lt;br&gt;【脚底】以图像下方的线作为基准。&lt;br&gt;【画面】覆盖在整个画面上。</translation>
+        <translation>动画显示的位置。.&lt;br&gt;【头顶】以图像上方的线作为基准。&lt;br&gt;【中心】以图像中央的线作为基准。&lt;br&gt;【脚底】以图像下方的线作为基准。&lt;br&gt;【画面】覆盖在整个画面上。</translation>
     </message>
     <message>
         <source>Head</source>
         <translatorcomment>comment：元翻訳「头」はちょっと適当な言い方ですので、正式名称「头部」を変えました。</translatorcomment>
-        <translation>头部</translation>
+        <translation>头顶</translation>
     </message>
     <message>
         <source>Center</source>
@@ -5479,7 +5479,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Where the armor is equipped. Actors can equip different kinds of armor at the same time.</source>
-        <translation>护甲装备的位置。角色可以同时装备不同种类的护甲。</translation>
+        <translation>护甲装备的位置。角色可以同时装备不同类型的护甲。</translation>
     </message>
 </context>
 <context>
@@ -5681,7 +5681,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Type of the item. Key items are typically related to story progression.</source>
-        <translation>物品种类。关键物品通常与故事进展有关。</translation>
+        <translation>物品的类型。重要物品通常与故事进展有关。</translation>
     </message>
     <message>
         <source>Price</source>
@@ -5828,7 +5828,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source> casts %1!</source>
-        <translation>吟唱了 %1！</translation>
+        <translation>吟唱了%1！</translation>
     </message>
     <message>
         <source>"does *!"</source>
@@ -5836,7 +5836,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source> does %1!</source>
-        <translation>施放了 %1！</translation>
+        <translation>施放了%1！</translation>
     </message>
     <message>
         <source>"uses *!"</source>
@@ -5844,7 +5844,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source> uses %1!</source>
-        <translation>使用了 %1！</translation>
+        <translation>使用了%1！</translation>
     </message>
     <message>
         <source>Required Weapon</source>
@@ -6397,7 +6397,7 @@ Please lower the file size of this project.</source>
         <source>Face</source>
         <comment>Face Image</comment>
         <translatorcomment>脸部图像</translatorcomment>
-        <translation>脸</translation>
+        <translation>脸图</translation>
     </message>
     <message>
         <source>Face image to be displayed to the left of the message.</source>
@@ -6502,7 +6502,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Handling method for when the cancel button is pressed.</source>
-        <translation>当点击取消按钮时的处理方式。</translation>
+        <translation>当点击取消按键时的处理方式。</translation>
     </message>
 </context>
 <context>
@@ -6594,7 +6594,7 @@ Please lower the file size of this project.</source>
     <name>EventCommand111</name>
     <message>
         <source>Create Else Branch</source>
-        <translation>创建不满足条件的分支</translation>
+        <translation>创建条件不满足时的分支</translation>
     </message>
     <message>
         <source>Also creates a branch for when the condition is not met.</source>
@@ -6652,7 +6652,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>ON</source>
-        <translation>开</translation>
+        <translation>ON</translation>
     </message>
     <message>
         <source>Turns the specified switch(es) ON.</source>
@@ -6660,7 +6660,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>OFF</source>
-        <translation>关</translation>
+        <translation>OFF</translation>
     </message>
     <message>
         <source>Turns the specified switch(es) OFF.</source>
@@ -6768,7 +6768,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>ON</source>
-        <translation>开</translation>
+        <translation>ON</translation>
     </message>
     <message>
         <source>Turns the specified self switch ON.</source>
@@ -6776,7 +6776,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>OFF</source>
-        <translation>关</translation>
+        <translation>OFF</translation>
     </message>
     <message>
         <source>Turns the specified self switch OFF.</source>
@@ -7127,7 +7127,7 @@ Please lower the file size of this project.</source>
     <name>EventCommand211</name>
     <message>
         <source>Transparency</source>
-        <translation>透明度</translation>
+        <translation>透明状态</translation>
     </message>
     <message>
         <source>Selects whether to show or hide the the player.</source>
@@ -7135,7 +7135,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>ON</source>
-        <translation>开</translation>
+        <translation>ON</translation>
     </message>
     <message>
         <source>Hides the player character.</source>
@@ -7143,7 +7143,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>OFF</source>
-        <translation>关</translation>
+        <translation>OFF</translation>
     </message>
     <message>
         <source>Shows the player character.</source>
@@ -7192,11 +7192,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Balloon Icon</source>
-        <translation>气球图标</translation>
+        <translation>气泡图标</translation>
     </message>
     <message>
         <source>Type of balloon icon to be displayed.</source>
-        <translation>要显示的气球图标。</translation>
+        <translation>要显示的气泡图标。</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
@@ -7221,7 +7221,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>ON</source>
-        <translation>开</translation>
+        <translation>ON</translation>
     </message>
     <message>
         <source>Displays all the party members on the map.</source>
@@ -7230,7 +7230,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>OFF</source>
-        <translation>关</translation>
+        <translation>OFF</translation>
     </message>
     <message>
         <source>Displays only the actor at the head of the party on the map.</source>
@@ -7417,7 +7417,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>ON</source>
-        <translation>开</translation>
+        <translation>ON</translation>
     </message>
     <message>
         <source>Displays the map name when changing the current map.</source>
@@ -7425,7 +7425,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>OFF</source>
-        <translation>关</translation>
+        <translation>OFF</translation>
     </message>
     <message>
         <source>Does not display the map name when changing the current map.</source>
@@ -7602,7 +7602,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Parameter type to increase or decrease.</source>
-        <translation>要增加或减少的能力值种类。</translation>
+        <translation>要增加或减少的能力值类型。</translation>
     </message>
 </context>
 <context>
@@ -7962,7 +7962,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Entire Party</source>
-        <translation>整个队伍</translation>
+        <translation>全体队友</translation>
     </message>
     <message>
         <source>Entire Troop</source>
@@ -8000,12 +8000,12 @@ Please lower the file size of this project.</source>
         <source>When </source>
         <comment>When ** (before the text)</comment>
         <translatorcomment>当** (在文本前)</translatorcomment>
-        <translation>当 </translation>
+        <translation>选择 </translation>
     </message>
     <message>
         <source> </source>
         <comment>When ** (after the text)</comment>
-        <translation></translation>
+        <translation> 时</translation>
     </message>
     <message>
         <source> digits</source>
@@ -8025,7 +8025,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>%1 is %2</source>
-        <translation>%1 是 %2</translation>
+        <translation>%1 为 %2</translation>
     </message>
     <message>
         <source>Self Switch</source>
@@ -8057,7 +8057,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>%1 is affected by %2</source>
-        <translation>%1 在 %2 状态中</translation>
+        <translation>%1 在 %2 状态下</translation>
     </message>
     <message>
         <source>%1 is appeared</source>
@@ -8078,7 +8078,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Button [%1] is pressed down</source>
-        <translation>[%1] 键正在按下的状态</translation>
+        <translation>按键 [%1] 正被按着</translation>
     </message>
     <message>
         <source>Script</source>
@@ -8088,7 +8088,7 @@ Please lower the file size of this project.</source>
         <source>%1 is driven</source>
         <comment>Vehicle</comment>
         <translatorcomment>车辆</translatorcomment>
-        <translation>乘坐 %1</translation>
+        <translation>乘坐着 %1</translation>
     </message>
     <message>
         <source>Random</source>
@@ -8233,7 +8233,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Repeat Above</source>
-        <translation>重复上述内容</translation>
+        <translation>重复以上内容</translation>
     </message>
     <message>
         <source>Break Loop</source>
@@ -8393,7 +8393,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Show Balloon Icon</source>
-        <translation>显示气球图标</translation>
+        <translation>显示气泡图标</translation>
     </message>
     <message>
         <source>Erase Event</source>
@@ -8486,7 +8486,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Play Movie</source>
-        <translation>播放电影</translation>
+        <translation>播放影像</translation>
     </message>
     <message>
         <source>Change Map Name Display</source>
@@ -8861,7 +8861,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays the specified balloon icon above the character's head.</source>
-        <translation>在人物头上显示指定的气球图标。</translation>
+        <translation>在人物头上显示指定的气泡图标。</translation>
     </message>
     <message>
         <source>Temporarily removes the current event on the map. If the player moves off of the map and returns, the event will reappear.</source>
@@ -9010,7 +9010,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the ME to be played at losing a battle.</source>
-        <translation>更改在败北时播放的 ME。</translation>
+        <translation>更改在战败时播放的 ME。</translation>
     </message>
     <message>
         <source>Changes the BGM to be played while riding in a vehicle.</source>
@@ -9243,7 +9243,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Paste Last</source>
-        <translation>粘贴最后</translation>
+        <translation>继承上帧</translation>
     </message>
     <message>
         <source>Makes the currently selected frame identical to the previous frame.</source>
@@ -9495,7 +9495,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Type of damage.</source>
-        <translation>伤害的类型</translation>
+        <translation>伤害的类型。</translation>
     </message>
     <message>
         <source>None</source>
@@ -9671,7 +9671,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Learn Skill</source>
-        <translation>习得技能</translation>
+        <translation>学会技能</translation>
     </message>
     <message>
         <source>Common Event</source>
@@ -9860,7 +9860,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Designation with variables</source>
-        <translation>用变量指定</translation>
+        <translation>变量指定</translation>
     </message>
     <message>
         <source>Specifies the location determined by the variables.</source>
@@ -9892,7 +9892,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Exchange with another event</source>
-        <translation>与另一个事件交换</translation>
+        <translation>与其他事件交换</translation>
     </message>
     <message>
         <source>Swaps the event locations.</source>
@@ -10105,7 +10105,7 @@ Please complete the post with follow this link.</source>
     <name>Group_ParameterChanges</name>
     <message>
         <source>Parameter Changes</source>
-        <translation>能力值更改</translation>
+        <translation>能力值变化量</translation>
     </message>
     <message>
         <source>Set how much the actor's parameters will increase by equipping this item.</source>
@@ -10206,7 +10206,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Designation with variables</source>
-        <translation>用变量指定</translation>
+        <translation>变量指定</translation>
     </message>
     <message>
         <source>Displays at the position determined by the variables.</source>
@@ -10229,7 +10229,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Scale of the picture.</source>
-        <translation>图片的缩放比例</translation>
+        <translation>图片的缩放比例。</translation>
     </message>
     <message>
         <source>Width</source>
@@ -10396,7 +10396,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Defeat</source>
-        <translation>败北</translation>
+        <translation>战败</translation>
     </message>
     <message>
         <source>Obtain EXP</source>
@@ -10417,7 +10417,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Obtain Skill</source>
-        <translation>习得技能</translation>
+        <translation>学会技能</translation>
     </message>
     <message>
         <source>Use Item</source>
@@ -10433,31 +10433,31 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor Damage</source>
-        <translation>己方受伤</translation>
+        <translation>我方受伤</translation>
     </message>
     <message>
         <source>Actor Recovery</source>
-        <translation>角色恢复</translation>
+        <translation>我方恢复</translation>
     </message>
     <message>
         <source>Actor Gain</source>
-        <translation>己方点数增加</translation>
+        <translation>我方点数增加</translation>
     </message>
     <message>
         <source>Actor Loss</source>
-        <translation>角色点数减少</translation>
+        <translation>我方点数减少</translation>
     </message>
     <message>
         <source>Actor Drain</source>
-        <translation>己方点数吸收</translation>
+        <translation>我方点数吸收</translation>
     </message>
     <message>
         <source>Actor No Damage</source>
-        <translation>己方无伤</translation>
+        <translation>我方无伤</translation>
     </message>
     <message>
         <source>Actor No Hit</source>
-        <translation>没有命中己方</translation>
+        <translation>没有命中我方</translation>
     </message>
     <message>
         <source>Enemy Damage</source>
@@ -10549,7 +10549,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Defeat</source>
-        <translation>败北</translation>
+        <translation>战败</translation>
     </message>
     <message>
         <source>Game Over</source>
@@ -10569,7 +10569,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Use Side-view Battle</source>
-        <translation>使用 SideView 战斗</translation>
+        <translation>使用 SideView 战斗系统</translation>
     </message>
     <message>
         <source>Show the battle screen in side-view. If unchecked, the front-view mode will be used.</source>
@@ -10577,7 +10577,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Start Transparent</source>
-        <translation>以透明状态开始游戏</translation>
+        <translation>透明状态下开始游戏</translation>
     </message>
     <message>
         <source>Starts the game with the player's transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
@@ -10788,7 +10788,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Entire Party</source>
         <translatorcomment>comment：元翻訳「整个小组」を「整个队伍」に変更しました。</translatorcomment>
-        <translation>整个队伍</translation>
+        <translation>全体队友</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -10985,7 +10985,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Designation with a variable</source>
-        <translation>用变量指定</translation>
+        <translation>变量指定</translation>
     </message>
     <message>
         <source>Specifies the troop determined by the variable.</source>
@@ -11077,11 +11077,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation>认证成功。</translation>
+        <translation>授权成功。</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation>认证失败。</translation>
+        <translation>授权失败。</translation>
     </message>
     <message>
         <source>Please close this window.</source>
@@ -11096,11 +11096,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation>认证成功。</translation>
+        <translation>授权成功。</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation>认证失败。</translation>
+        <translation>授权失败。</translation>
     </message>
     <message>
         <source>Please close this window.</source>
@@ -11143,11 +11143,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Pan</source>
-        <translation>相位</translation>
+        <translation>声像</translation>
     </message>
     <message>
         <source>Pan for audio playback.</source>
-        <translation>音频播放的相位。</translation>
+        <translation>音频播放的声像。</translation>
     </message>
 </context>
 <context>
@@ -11541,7 +11541,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Image of the parallax background.</source>
         <translatorcomment>comment：元翻訳「视差背景的图像。」を変更して「循环背景的图像。」になりました。</translatorcomment>
-        <translation>远景图像</translation>
+        <translation>远景图像。</translation>
     </message>
     <message>
         <source>Loops the parallax background horizontally.</source>
@@ -11963,7 +11963,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Event Searcher</source>
-        <translation>事件搜索</translation>
+        <translation>搜索事件</translation>
     </message>
     <message>
         <source>Opens the event searcher window.</source>
@@ -12727,7 +12727,7 @@ Please complete the post with follow this link.</source>
     <name>NewDataMaker</name>
     <message>
         <source>Hit Physical</source>
-        <translation>打击物理</translation>
+        <translation>打击/物理</translation>
     </message>
     <message>
         <source>Hit Effect</source>
@@ -12807,7 +12807,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Hit Special 1</source>
-        <translation>打击/必杀技1</translation>
+        <translation>打击/必杀技 1</translation>
     </message>
     <message>
         <source>Hit Special 2</source>
@@ -13292,7 +13292,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Agility</source>
-        <translation>敏捷性</translation>
+        <translation>敏捷</translation>
     </message>
     <message>
         <source>Luck</source>
@@ -13344,11 +13344,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Current %1</source>
-        <translation>现在的 %1</translation>
+        <translation>现在的%1</translation>
     </message>
     <message>
         <source>To Next %1</source>
-        <translation>距离下一 %1</translation>
+        <translation>距离下一%1</translation>
     </message>
     <message>
         <source>Save to which file?</source>
@@ -13365,24 +13365,24 @@ Please complete the post with follow this link.</source>
     <message>
         <source>%1's Party</source>
         <translatorcomment>comment：元翻訳「%1'的小组」を「%1队伍」に変更しました。</translatorcomment>
-        <translation>%1 的队伍</translation>
+        <translation>%1的队伍</translation>
     </message>
     <message>
         <source>%1 emerged!</source>
-        <translation>%1 出现了！</translation>
+        <translation>%1出现了！</translation>
     </message>
     <message>
         <source>%1 got the upper hand!</source>
-        <translation>%1 先发制人！</translation>
+        <translation>%1先发制人！</translation>
     </message>
     <message>
         <source>%1 was surprised!</source>
-        <translation>%1 被偷袭了！</translation>
+        <translation>%1被偷袭了！</translation>
     </message>
     <message>
         <source>%1 has started to escape!</source>
         <translatorcomment>comment：元翻訳「%1开始逃避了！」中の「逃避」を消して「逃跑」を修正しました。</translatorcomment>
-        <translation>%1 开始逃跑了！</translation>
+        <translation>%1开始逃跑了！</translation>
     </message>
     <message>
         <source>However, it was unable to escape!</source>
@@ -13390,16 +13390,16 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1 was victorious!</source>
-        <translation>%1 胜利了！</translation>
+        <translation>%1胜利了！</translation>
     </message>
     <message>
         <source>%1 was defeated.</source>
         <translatorcomment>元翻訳「%1击败了。」を変更した「%1被击败了。」になりました。</translatorcomment>
-        <translation>%1 被击败了。</translation>
+        <translation>%1被击败了。</translation>
     </message>
     <message>
         <source>%1 %2 received!</source>
-        <translation>获得了 %1 点 %2！</translation>
+        <translation>获得了 %1 点%2！</translation>
     </message>
     <message>
         <source>%1\G found!</source>
@@ -13407,19 +13407,19 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1 found!</source>
-        <translation>获得了 %1！</translation>
+        <translation>获得了%1！</translation>
     </message>
     <message>
         <source>%1 is now %2 %3!</source>
-        <translation>%1 升到了 %2 %3！</translation>
+        <translation>%1升到了 %2 %3！</translation>
     </message>
     <message>
         <source>%1 learned!</source>
-        <translation>学会了 %1！</translation>
+        <translation>学会了%1！</translation>
     </message>
     <message>
         <source>%1 uses %2!</source>
-        <translation>%1 使用了 %2！</translation>
+        <translation>%1使用了%2！</translation>
     </message>
     <message>
         <source>An excellent hit!!</source>
@@ -13437,121 +13437,121 @@ Please complete the post with follow this link.</source>
         <source>%1 took %2 damage!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 受到了 %2 点伤害！</translation>
+        <translation>%1受到了 %2 点伤害！</translation>
     </message>
     <message>
         <source>%1 recovered %2 %3!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 的 %2 恢复了 %3！</translation>
+        <translation>%1恢复了 %3 点 %2！</translation>
     </message>
     <message>
         <source>%1 gained %2 %3!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 的 %2 增加了 %3！</translation>
+        <translation>%1的 %2 增加了 %3 点！</translation>
     </message>
     <message>
         <source>%1 lost %2 %3!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 的 %2 减少了 %3 点！</translation>
+        <translation>%1的 %2 减少了 %3 点！</translation>
     </message>
     <message>
         <source>%1 was drained of %2 %3!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 的 %2 被吸收了 %3 点！</translation>
+        <translation>%1被吸收了 %3 点 %2！</translation>
     </message>
     <message>
         <source>%1 took no damage!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>%1 没有受到伤害！</translation>
+        <translation>%1没有受到伤害！</translation>
     </message>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>actor</comment>
         <translatorcomment>角色</translatorcomment>
-        <translation>未击中！ %1 没有受到伤害！</translation>
+        <translation>Miss！ %1没有受到伤害！</translation>
     </message>
     <message>
         <source>%1 took %2 damage!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1 受到了 %2 点伤害！</translation>
+        <translation>%1受到了 %2 点伤害！</translation>
     </message>
     <message>
         <source>%1 recovered %2 %3!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1 的 %2 恢复了 %3 点！</translation>
+        <translation>%1恢复了 %3 点 %2！</translation>
     </message>
     <message>
         <source>%1 gained %2 %3!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1 的 %2 增加了 %3 点！</translation>
+        <translation>%1的 %2 增加了 %3 点！</translation>
     </message>
     <message>
         <source>%1 lost %2 %3!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1 的 %2 减少了 %3 点！</translation>
+        <translation>%1的 %2 减少了 %3 点！</translation>
     </message>
     <message>
         <source>%1 was drained of %2 %3!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>%1 的 %2 被吸收了 %3 点！</translation>
+        <translation>%1被吸收了 %3 点 %2！</translation>
     </message>
     <message>
         <source>%1 took no damage!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>未能给 %1 造成伤害！</translation>
+        <translation>没有对%1造成伤害！</translation>
     </message>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>enemy</comment>
         <translatorcomment>敌人</translatorcomment>
-        <translation>未命中！未能给 %1 造成伤害！</translation>
+        <translation>Miss！没有对%1造成伤害！</translation>
     </message>
     <message>
         <source>%1 evaded the attack!</source>
-        <translation>%1 躲开了攻击！</translation>
+        <translation>%1躲开了攻击！</translation>
     </message>
     <message>
         <source>%1 nullified the magic!</source>
-        <translation>%1 抵消了魔法！</translation>
+        <translation>%1抵消了魔法！</translation>
     </message>
     <message>
         <source>%1 reflected the magic!</source>
-        <translation>%1 反射了魔法！</translation>
+        <translation>%1反射了魔法！</translation>
     </message>
     <message>
         <source>%1 counterattacked!</source>
-        <translation>%1 的反击！</translation>
+        <translation>%1的反击！</translation>
     </message>
     <message>
         <source>%1 protected %2!</source>
-        <translation>%1 保护了 %2！</translation>
+        <translation>%1保护了%2！</translation>
     </message>
     <message>
         <source>%1's %2 went up!</source>
-        <translation>%1 的 %2 上升了！</translation>
+        <translation>%1的%2上升了！</translation>
     </message>
     <message>
         <source>%1's %2 went down!</source>
-        <translation>%1 的 %2 下降了！</translation>
+        <translation>%1的%2下降了！</translation>
     </message>
     <message>
         <source>%1's %2 returned to normal!</source>
-        <translation>%1 的 %2 恢复正常了！</translation>
+        <translation>%1的%2恢复正常了！</translation>
     </message>
     <message>
         <source>There was no effect on %1!</source>
-        <translation>对 %1 没有效果！</translation>
+        <translation>对%1没有效果！</translation>
     </message>
     <message>
         <source>Physical</source>
@@ -13655,7 +13655,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Head</source>
-        <translation>头</translation>
+        <translation>头部</translation>
     </message>
     <message>
         <source>Body</source>
@@ -13783,7 +13783,7 @@ Please complete the post with follow this link.</source>
         <source>Magic Water</source>
         <comment>item</comment>
         <translatorcomment>物品</translatorcomment>
-        <translation>魔法水</translation>
+        <translation>魔法药水</translation>
     </message>
     <message>
         <source>Dispel Herb</source>
@@ -14337,7 +14337,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Unabled to create Workshop Item, you are not logged onto steam!</source>
-        <translation>无法创建创意工坊物品，因为你没有登录 Steam。</translation>
+        <translation>无法创建创意工坊物品，因为你没有登录 Steam！</translation>
     </message>
     <message>
         <source>You still need to accept the Steamwork Shop Agreement in order for this Workshop Item to not appear only private.</source>
@@ -14573,7 +14573,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>is</source>
-        <translation>是</translation>
+        <translation>为</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -14742,7 +14742,7 @@ HP reaches 0.</source>
     <message>
         <source>is driven</source>
         <translatorcomment>comment：元翻訳「被驱使」を「被驾驶」に変更しました。</translatorcomment>
-        <translation></translation>
+        <translation>被乘坐着</translation>
     </message>
 </context>
 <context>
@@ -14786,15 +14786,15 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Button</source>
-        <translation>按钮</translation>
+        <translation>按键</translation>
     </message>
     <message>
         <source>Based on whether or not a particular button is being pressed.</source>
-        <translation>以特定的按钮是否处于按下的状态作为基准。</translation>
+        <translation>以特定的按键是否处于按下的状态作为基准。</translation>
     </message>
     <message>
         <source>is pressed down</source>
-        <translation>正在按下的状态</translation>
+        <translation>正被按着</translation>
     </message>
     <message>
         <source>Script</source>
@@ -15178,7 +15178,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>教程</translation>
     </message>
     <message>
         <source>The tutorial ends.</source>
