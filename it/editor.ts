@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>Randomize</source>
-        <translation>Disporre in ordine casuale</translation>
+        <translation>Casuale</translation>
     </message>
     <message>
         <source>Sets all the parts at random.</source>
@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Walk Character</source>
-        <translation>Personaggio a piedi</translation>
+        <translation>Personaggio</translation>
     </message>
     <message>
         <source>Opens the export window for walk characters.</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Load Settings</source>
-        <translation>Caricare impostazioni</translation>
+        <translation>Carica impostazioni</translation>
     </message>
     <message>
         <source>Loads the saved settings.</source>
@@ -277,11 +277,11 @@
     </message>
     <message>
         <source>Items that are equipped by party members will also be affected.</source>
-        <translation>Verranno influenzati anche gli elementi che sono in dotazione da parte di membri del gruppo.</translation>
+        <translation>Verranno influenzati anche gli oggetti che sono in dotazione da parte di membri del gruppo.</translation>
     </message>
     <message>
         <source>Items that are equipped by party members will also be treated as their possession.</source>
-        <translation>Anche gli elementi che sono in dotazione da parte di membri del gruppo verranno considerati come di loro proprietà.</translation>
+        <translation>Anche gli oggetti che sono in dotazione da parte di membri del gruppo verranno considerati come di loro proprietà.</translation>
     </message>
     <message>
         <source>Allow Knockout</source>
@@ -301,11 +301,11 @@
     </message>
     <message>
         <source>Loop Horizontally</source>
-        <translation>Concatenazione orizzontale</translation>
+        <translation>Ciclo Orizzontale</translation>
     </message>
     <message>
         <source>Loop Vertically</source>
-        <translation>Concatenazione verticale</translation>
+        <translation>Ciclo Verticale</translation>
     </message>
     <message>
         <source>Face</source>
@@ -478,11 +478,11 @@
     </message>
     <message>
         <source>Magical Damage</source>
-        <translation>Danno incantesimo</translation>
+        <translation>Danno magico</translation>
     </message>
     <message>
         <source>Floor Damage</source>
-        <translation>Danno pavimento</translation>
+        <translation>Danno Pavimento</translation>
     </message>
     <message>
         <source>Experience</source>
@@ -494,7 +494,7 @@
     </message>
     <message>
         <source>Maximum magic point. Represents the character&apos;s maximum power for using magic skills.</source>
-        <translation>Punto massimo incantesimo. Rappresenta il massimo potere del personaggio nell&apos;utilizzo di abilità magiche.</translation>
+        <translation>Punti magici massimi. Rappresenta il massimo potere del personaggio nell&apos;utilizzo di abilità magiche.</translation>
     </message>
     <message>
         <source>Attack power. Affects things like the amount of damage done to opponents.</source>
@@ -707,7 +707,7 @@
     </message>
     <message>
         <source>Regular Item</source>
-        <translation>Elemento normale</translation>
+        <translation>Oggetto normale</translation>
     </message>
     <message>
         <source>Key Item</source>
@@ -767,7 +767,7 @@
     </message>
     <message>
         <source>Cancel Surprise</source>
-        <translation>Annullare sorpresa</translation>
+        <translation>Annulla Sorpresa</translation>
     </message>
     <message>
         <source>Raise Preemptive</source>
@@ -779,7 +779,7 @@
     </message>
     <message>
         <source>Drop Item Double</source>
-        <translation>Far cadere doppio elemento</translation>
+        <translation>Doppi Oggetti</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -997,7 +997,7 @@
     </message>
     <message>
         <source>Win Count</source>
-        <translation>Conteggio vincita</translation>
+        <translation>Conteggio vittorie</translation>
     </message>
     <message>
         <source>Escape Count</source>
@@ -1178,7 +1178,7 @@
     <message>
         <source>Cancel</source>
         <comment>Button</comment>
-        <translation>Annullare</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Shift</source>
@@ -1284,19 +1284,19 @@
     </message>
     <message>
         <source> frames</source>
-        <translation>fotogrammi</translation>
+        <translation> fotogrammi</translation>
     </message>
     <message>
         <source> frame</source>
-        <translation>fotogramma</translation>
+        <translation> fotogramma</translation>
     </message>
     <message>
         <source> seconds</source>
-        <translation>secondi</translation>
+        <translation> secondi</translation>
     </message>
     <message>
         <source> second</source>
-        <translation>secondo</translation>
+        <translation> secondo</translation>
     </message>
     <message>
         <source>Last Target</source>
@@ -1483,11 +1483,11 @@
     </message>
     <message>
         <source>The contents of the selected item are displayed in the right side of the window.&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>I contenuti dell&apos;elemento selezionato vengono visualizzati sul lato destro della finestra.&lt;br&gt;[F5] Seleziona l&apos;elemento successivo.&lt;br&gt;[F4] Seleziona l&apos;elemento precedente.</translation>
+        <translation>I contenuti dell&apos;oggetto selezionato vengono visualizzati sul lato destro della finestra.&lt;br&gt;[F5] Seleziona l&apos;oggetto successivo.&lt;br&gt;[F4] Seleziona l&apos;oggetto precedente.</translation>
     </message>
     <message>
         <source>Change Maximum</source>
-        <translation>Modificare massimo</translation>
+        <translation>Modifica Massimo</translation>
     </message>
     <message>
         <source>Changes the number of data entries.</source>
@@ -1526,11 +1526,11 @@
     </message>
     <message>
         <source>Items</source>
-        <translation>Elementi</translation>
+        <translation>Oggetti</translation>
     </message>
     <message>
         <source>Data for non-equipment items, such as recovery and event items.</source>
-        <translation>Dati per elementi diversi dall&apos;equipaggiamento, quali il recupero e elementi relativi a eventi.</translation>
+        <translation>Dati per oggetti diversi dall&apos;equipaggiamento, quali il recupero e oggetti relativi a eventi.</translation>
     </message>
     <message>
         <source>Weapons</source>
@@ -1538,7 +1538,7 @@
     </message>
     <message>
         <source>Data for weapon items that increase attack power mainly.</source>
-        <translation>Dati per elementi legati alle armi che aumentano principalmente la potenza di attacco.</translation>
+        <translation>Dati per oggetti legati alle armi che aumentano principalmente la potenza di attacco.</translation>
     </message>
     <message>
         <source>Armors</source>
@@ -1546,7 +1546,7 @@
     </message>
     <message>
         <source>Data for armor items that increase defense power mainly.</source>
-        <translation>Dati per elementi legati alle armature che aumentano principalmente la potenza di difesa.</translation>
+        <translation>Dati per oggetti legati alle armature che aumentano principalmente la potenza di difesa.</translation>
     </message>
     <message>
         <source>Enemies</source>
@@ -1582,11 +1582,11 @@
     </message>
     <message>
         <source>Tilesets</source>
-        <translation>Set di tessere</translation>
+        <translation>Tilesets</translation>
     </message>
     <message>
         <source>Data defining the behavior of tilesets for maps.</source>
-        <translation>Dati per la definizione del comportamento dei set di tessere per le mappe.</translation>
+        <translation>Dati per la definizione del comportamento dei tilesets per le mappe.</translation>
     </message>
     <message>
         <source>Common Events</source>
@@ -1610,7 +1610,7 @@
     </message>
     <message>
         <source>Names of elements, skill types, weapon types, armor types, and equipment types.</source>
-        <translation>Nomi degli elementi, tipi di abilità, tipi di armi, tipi di armature e tipi di equipaggiamento.</translation>
+        <translation>Nomi degli oggetti, tipi di abilità, tipi di armi, tipi di armature e tipi di equipaggiamento.</translation>
     </message>
     <message>
         <source>Terms</source>
@@ -1629,7 +1629,7 @@
     <name>DeploymentOption</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opzioni</translation>
+        <translation>Opzioni</translation>
     </message>
     <message>
         <source>Set the deployment options.</source>
@@ -1637,7 +1637,7 @@
     </message>
     <message>
         <source>Exclude unused files</source>
-        <translation type="unfinished">Escludi file non utilizzati</translation>
+        <translation>Escludi file non utilizzati</translation>
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
@@ -1653,11 +1653,11 @@
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Crittografia</translation>
+        <translation>Crittografia</translation>
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="unfinished">Impostare le opzioni Crittografia.</translation>
+        <translation>Impostare le Opzioni Crittografia.</translation>
     </message>
     <message>
         <source>Image files</source>
@@ -1665,7 +1665,7 @@
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="unfinished">Crittografa un file di immagine incluso nel pacchetto.</translation>
+        <translation>Crittografa un file di immagine incluso nel pacchetto.</translation>
     </message>
     <message>
         <source>Audio files</source>
@@ -1673,15 +1673,15 @@
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="unfinished">Crittografa un file audio incluso nel pacchetto.</translation>
+        <translation>Crittografa un file audio incluso nel pacchetto.</translation>
     </message>
     <message>
         <source>Encryption key</source>
-        <translation type="unfinished">Chiave di crittografia</translation>
+        <translation>Chiave di crittografia</translation>
     </message>
     <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="unfinished">Inserire la chiave di crittografia.</translation>
+        <translation>Inserire la chiave di crittografia.</translation>
     </message>
 </context>
 <context>
@@ -1698,7 +1698,7 @@
     <message>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
-        <translation>Annullare</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Closes this window without saving any changes.</source>
@@ -1707,7 +1707,7 @@
     <message>
         <source>Apply</source>
         <comment>Dialog Button</comment>
-        <translation>Applicare</translation>
+        <translation>Applica</translation>
     </message>
     <message>
         <source>Saves all changes without closing this window.</source>
@@ -1716,7 +1716,7 @@
     <message>
         <source>Close</source>
         <comment>Dialog Button</comment>
-        <translation>Chiudere</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Closes this window.</source>
@@ -1963,7 +1963,7 @@
     <message>
         <source>Hide Target</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Nascondi obiet.</translation>
+        <translation>Nascondi bersaglio</translation>
     </message>
     <message>
         <source>Hides the target for a given time.</source>
@@ -2174,7 +2174,7 @@
     <message>
         <source>Equipment</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Equip.</translation>
+        <translation>Equipaggiamento</translation>
     </message>
     <message>
         <source>Weapon and armor that the actor has equipped in the battle test.</source>
@@ -2193,7 +2193,7 @@
     <name>Dialog_ChangeMaximum</name>
     <message>
         <source>Change Maximum</source>
-        <translation>Modificare massimo</translation>
+        <translation>Modifica Massimo</translation>
     </message>
     <message>
         <source>Maximum</source>
@@ -2208,7 +2208,7 @@
     <name>Dialog_CharacterGenerator</name>
     <message>
         <source>Character Generator</source>
-        <translation>Generatore personaggio</translation>
+        <translation>Generatore Personaggio</translation>
     </message>
     <message>
         <source>Male</source>
@@ -2262,7 +2262,7 @@
     <name>Dialog_Deployment</name>
     <message>
         <source>Deployment</source>
-        <translation>Apertura</translation>
+        <translation>Distribuzione</translation>
     </message>
     <message>
         <source>Platform</source>
@@ -2302,7 +2302,7 @@
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation>Sceglie la posizione.</translation>
+        <translation>Scegli la destinazione.</translation>
     </message>
     <message>
         <source>Choose Directory</source>
@@ -2338,7 +2338,7 @@
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="vanished">Imposta le opzioni dell&apos;apertura.</translation>
+        <translation>Imposta le opzioni di distribuzione.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -2346,7 +2346,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="vanished">I file non utilizzati nel gioco saranno esclusi dall&apos;apertura.</translation>
+        <translation>I file non utilizzati nel gioco saranno esclusi dalla distribuzione.</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -2354,7 +2354,7 @@
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="vanished">Impostare le opzioni Crittografia.</translation>
+        <translation>Imposta le opzioni Crittografia.</translation>
     </message>
     <message>
         <source>Image files</source>
@@ -2393,11 +2393,11 @@
     <name>Dialog_DropItem</name>
     <message>
         <source>Drop Item</source>
-        <translation>Elemento goccia</translation>
+        <translation>Oggetto Caduto</translation>
     </message>
     <message>
         <source>Kind of the drop item.</source>
-        <translation>Tipo di elemento goccia.</translation>
+        <translation>Tipo di oggetto caduto.</translation>
     </message>
     <message>
         <source>None</source>
@@ -2405,7 +2405,7 @@
     </message>
     <message>
         <source>Turns off the drop item spawning.</source>
-        <translation>Spegne la caduta dell&apos;elemento goccia.</translation>
+        <translation>Disabilita il rilascio di oggetti.</translation>
     </message>
     <message>
         <source>Item</source>
@@ -2413,7 +2413,7 @@
     </message>
     <message>
         <source>Sets the specified item as the drop item.</source>
-        <translation>Imposta l&apos;elemento specificato come l&apos;elemento goccia.</translation>
+        <translation>Imposta l&apos;oggetto specificato come oggetto caduto.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -2421,7 +2421,7 @@
     </message>
     <message>
         <source>Sets the specified weapon as the drop item.</source>
-        <translation>Imposta l&apos;arma specificata come l&apos;elemento goccia.</translation>
+        <translation>Imposta l&apos;arma specificata come oggetto caduto.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -2429,7 +2429,7 @@
     </message>
     <message>
         <source>Sets the specified armor as the drop item.</source>
-        <translation>Imposta l&apos;armatura specificata come l&apos;elemento goccia.</translation>
+        <translation>Imposta l&apos;armatura specificata come oggetto caduto.</translation>
     </message>
     <message>
         <source>Probability</source>
@@ -2437,7 +2437,7 @@
     </message>
     <message>
         <source>Spawning probability of the drop item.</source>
-        <translation>Probabilità di caduta dell&apos;elemento goccia.</translation>
+        <translation>Probabilità di caduta dell&apos;oggetto.</translation>
     </message>
 </context>
 <context>
@@ -2456,7 +2456,7 @@
     </message>
     <message>
         <source>Restores HP. Specify either a percentage of max HP or a set value, or both. In the case of items, the multiplier of the [Pharmacology] sp-parameter is applied.</source>
-        <translation>Ripristina HP. Specificare una percentuale di HP massimo o un valore di impostazione o entrambi. Nel caso di elementi, viene applicato il moltiplicatore del paramento sp [Pharmacology].</translation>
+        <translation>Ripristina HP. Specificare una percentuale di HP massimo o un valore di impostazione o entrambi. Nel caso di oggetti, viene applicato il moltiplicatore del paramento sp [Pharmacology].</translation>
     </message>
     <message>
         <source>Recover MP</source>
@@ -2464,7 +2464,7 @@
     </message>
     <message>
         <source>Restores MP. Specify either a percentage of max MP or a set value, or both. In the case of items, the multiplier of the [Pharmacology] sp-parameter is applied.</source>
-        <translation>Ripristina MP. Specificare una percentuale di MP massimo o un valore di impostazione o entrambi. Nel caso di elementi, viene applicato il moltiplicatore del paramento sp [Pharmacology].</translation>
+        <translation>Ripristina MP. Specificare una percentuale di MP massimo o un valore di impostazione o entrambi. Nel caso di oggetti, viene applicato il moltiplicatore del paramento sp [Pharmacology].</translation>
     </message>
     <message>
         <source>Gain TP</source>
@@ -2587,7 +2587,7 @@
     </message>
     <message>
         <source>Basic encounter settings.</source>
-        <translation>Impostazioni di base incontro.</translation>
+        <translation>Impostazioni base di incontro.</translation>
     </message>
     <message>
         <source>Troop</source>
@@ -2657,7 +2657,7 @@
     <name>Dialog_EventCommandSelect</name>
     <message>
         <source>Event Commands</source>
-        <translation>Comandi evento</translation>
+        <translation>Comandi Evento</translation>
     </message>
     <message>
         <source>Message</source>
@@ -2665,7 +2665,7 @@
     </message>
     <message>
         <source>Game Progression</source>
-        <translation>Progressione del gioco</translation>
+        <translation>Progressione del Gioco</translation>
     </message>
     <message>
         <source>Flow Control</source>
@@ -2728,7 +2728,7 @@
     <name>Dialog_EventSearcher</name>
     <message>
         <source>Event Searcher</source>
-        <translation>Funzione di ricerca evento</translation>
+        <translation>Cerca evento</translation>
     </message>
     <message>
         <source>Search for</source>
@@ -2764,7 +2764,7 @@
     </message>
     <message>
         <source>Search</source>
-        <translation>Ricerca</translation>
+        <translation>Cerca</translation>
     </message>
     <message>
         <source>Executes the search.</source>
@@ -2885,7 +2885,7 @@
     </message>
     <message>
         <source>(Possession Count)</source>
-        <translation>(Conteggio possesso)</translation>
+        <translation>(Conteggio Possedimenti)</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -2893,7 +2893,7 @@
     </message>
     <message>
         <source>Uses the number of the specified weapon in the party&apos;s inventory without the equipped items.</source>
-        <translation>Utilizza il numero dell&apos;arma specificata nell&apos;inventario del gruppo senza elementi in dotazione.</translation>
+        <translation>Utilizza il numero dell&apos;arma specificata nell&apos;inventario del gruppo senza oggetti in dotazione.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -2901,7 +2901,7 @@
     </message>
     <message>
         <source>Uses the number of the specified armor in the party&apos;s inventory without the equipped items.</source>
-        <translation>Utilizza il numero dell&apos;armatura specificata nell&apos;inventario del gruppo senza elementi in dotazione.</translation>
+        <translation>Utilizza il numero dell&apos;armatura specificata nell&apos;inventario del gruppo senza oggetti in dotazione.</translation>
     </message>
     <message>
         <source>Actor</source>
@@ -2960,7 +2960,7 @@
     </message>
     <message>
         <source>Items</source>
-        <translation>Elementi</translation>
+        <translation>Oggetti</translation>
     </message>
     <message>
         <source>Actors</source>
@@ -3016,7 +3016,7 @@
     </message>
     <message>
         <source>Tilesets</source>
-        <translation>Set di tessere</translation>
+        <translation>Tilesets</translation>
     </message>
     <message>
         <source>Troops</source>
@@ -3031,7 +3031,7 @@
     <name>Dialog_GameShare</name>
     <message>
         <source>If necessary to authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticare se necessario.</translation>
     </message>
     <message>
         <source>Authenticate</source>
@@ -3049,7 +3049,7 @@
     </message>
     <message>
         <source>Cancel authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla autenticazione.</translation>
     </message>
     <message>
         <source>Account has not been authenticated.</source>
@@ -3180,7 +3180,7 @@
     <name>Dialog_GenerateDungeon</name>
     <message>
         <source>Generate Dungeon</source>
-        <translation>Generare un dungeon</translation>
+        <translation>Genera Dungeon</translation>
     </message>
     <message>
         <source>Type</source>
@@ -3235,7 +3235,7 @@
     <name>Dialog_ImageSave</name>
     <message>
         <source>Import</source>
-        <translation>Importare</translation>
+        <translation>Importa</translation>
     </message>
     <message>
         <source>Loads a base image from a file.</source>
@@ -3243,7 +3243,7 @@
     </message>
     <message>
         <source>Export</source>
-        <translation>Esportare</translation>
+        <translation>Esporta</translation>
     </message>
     <message>
         <source>Saves the image to a file.</source>
@@ -3826,11 +3826,11 @@
     </message>
     <message>
         <source>Tileset</source>
-        <translation>Set di tessere</translation>
+        <translation>Tilesets</translation>
     </message>
     <message>
         <source>Tileset used for the map.</source>
-        <translation>Set di tessere utilizzato per la mappa.</translation>
+        <translation>Tileset utilizzato per la mappa.</translation>
     </message>
     <message>
         <source>Width</source>
@@ -3858,19 +3858,19 @@
     </message>
     <message>
         <source>No Loop</source>
-        <translation>Nessuna concatenazione</translation>
+        <translation>Nessun Ciclo</translation>
     </message>
     <message>
         <source>Loop Vertically</source>
-        <translation>Concatenazione verticale</translation>
+        <translation>Ciclo Verticale</translation>
     </message>
     <message>
         <source>Loop Horizontally</source>
-        <translation>Concatenazione orizzontale</translation>
+        <translation>Ciclo Orizzontale</translation>
     </message>
     <message>
         <source>Loop Both</source>
-        <translation>Concatenare entrambi</translation>
+        <translation>Cicla Entrambi</translation>
     </message>
     <message>
         <source>Enc. Steps</source>
@@ -3899,7 +3899,7 @@
     </message>
     <message>
         <source>Specify Battleback</source>
-        <translation>Specificare rientro dalla battaglia</translation>
+        <translation>Specificare lo sfondo della battaglia</translation>
     </message>
     <message>
         <source>Displays the specified background when a battle occurs on this map. When not specified, a background conforming to the terrain is automatically selected for world maps, and for other maps, a processed image of the map screen will be used as a background.</source>
@@ -3907,11 +3907,11 @@
     </message>
     <message>
         <source>Disable Dashing</source>
-        <translation>Disabilitare i trattini</translation>
+        <translation>Disabilita Corsa</translation>
     </message>
     <message>
         <source>Makes it impossible to perform a dash on the map.</source>
-        <translation>Rende impossibile eseguire un trattino sulla mappa.</translation>
+        <translation>Rende impossibile eseguire una corsa sulla mappa.</translation>
     </message>
     <message>
         <source>Parallax Background</source>
@@ -3942,7 +3942,7 @@
     </message>
     <message>
         <source>Location to save the map image.</source>
-        <translation>Posizione per salvare l&apos;immagine mappa.</translation>
+        <translation>Destinazione in cui salvare l&apos;immagine della mappa.</translation>
     </message>
     <message>
         <source>Choose</source>
@@ -4090,7 +4090,7 @@
     </message>
     <message>
         <source>Location to create the project folder.</source>
-        <translation>Posizione per creare la cartella progetto.</translation>
+        <translation>Destinazione in cui creare la cartella del progetto.</translation>
     </message>
     <message>
         <source>Choose</source>
@@ -4132,7 +4132,7 @@
     <name>Dialog_Packaging</name>
     <message>
         <source>Deployment</source>
-        <translation>Apertura</translation>
+        <translation>Distribuzione</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
@@ -4216,7 +4216,7 @@
     <name>Dialog_PluginManager</name>
     <message>
         <source>Plugin Manager</source>
-        <translation>Gestione plugin</translation>
+        <translation>Gestione Plugin</translation>
     </message>
     <message>
         <source>Plugin List</source>
@@ -4248,11 +4248,11 @@
     </message>
     <message>
         <source>Turn ON</source>
-        <translation>ACCENDERE</translation>
+        <translation>Attiva</translation>
     </message>
     <message>
         <source>Turn OFF</source>
-        <translation>SPEGNERE</translation>
+        <translation>Disattiva</translation>
     </message>
     <message>
         <source>Discard changes to the plugins?</source>
@@ -4485,7 +4485,7 @@
     <name>Dialog_ResourceManager</name>
     <message>
         <source>Resource Manager</source>
-        <translation>Gestione risorse</translation>
+        <translation>Gestione Risorse</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -4494,11 +4494,11 @@
     <message>
         <source>Preview the selected file</source>
         <translatorcomment>原文はピリオドが含まれておりませんが、全体の統一の為にピリオドを追加致しました。</translatorcomment>
-        <translation>Visualizza un&apos;anteprima del file selezionato.</translation>
+        <translation>Visualizza un&apos;anteprima del file selezionato</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Importare</translation>
+        <translation>Importa</translation>
     </message>
     <message>
         <source>Import a file into the selected folder.</source>
@@ -4506,7 +4506,7 @@
     </message>
     <message>
         <source>Export</source>
-        <translation>Esportare</translation>
+        <translation>Esporta</translation>
     </message>
     <message>
         <source>Export the selected file</source>
@@ -4515,7 +4515,7 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation>Eliminare</translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>Delete the selected file</source>
@@ -4537,7 +4537,7 @@
     <message>
         <source>Close</source>
         <comment>Dialog Button</comment>
-        <translation>Chiudere</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Closes this window.</source>
@@ -4598,7 +4598,7 @@
     <name>Dialog_SoundTest</name>
     <message>
         <source>Sound Test</source>
-        <translation>Prova audio</translation>
+        <translation>Prova Audio</translation>
     </message>
 </context>
 <context>
@@ -4613,7 +4613,7 @@
     </message>
     <message>
         <source>Actor in the starting party.</source>
-        <translation>Attore nel gruppo di avvio.</translation>
+        <translation>Attore nel gruppo di partenza.</translation>
     </message>
 </context>
 <context>
@@ -4671,7 +4671,7 @@
     <message>
         <source>State Resist</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Impostare la resis.</translation>
+        <translation>Impostare Resist.</translation>
     </message>
     <message>
         <source>Completely negates a state. If knockouts are negated, characters will not be knocked out even when their HP falls to 0.</source>
@@ -4793,7 +4793,7 @@
     </message>
     <message>
         <source>Equip Armor</source>
-        <translation>Indossare armatura</translation>
+        <translation>Equipaggia armatura</translation>
     </message>
     <message>
         <source>Enables the equipping of the specified type of armor.</source>
@@ -4802,7 +4802,7 @@
     <message>
         <source>Lock Equip</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Blocco equip.</translation>
+        <translation>Blocca equip.</translation>
     </message>
     <message>
         <source>Prevents the changing of equipment for the specified equipment slot. Used mainly for instances such as when you do not want the player changing the equipment of a character that has been temporarily added to the party.</source>
@@ -4811,7 +4811,7 @@
     <message>
         <source>Seal Equip</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Blocco equip.</translation>
+        <translation>Blocca Equip.</translation>
     </message>
     <message>
         <source>Prevents the equipping of any equipment for the specified equipment slot. For example, preventing the use of shields for a given weapon makes it a two-handed weapon, and preventing the wearing of a headgear for a given piece of armor results in full body armor.</source>
@@ -4904,7 +4904,8 @@
     <message>
         <source>The compressed file size exceeded 300 MBytes.
 Please lower the file size of this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file compresso supera i 300 MBytes.
+Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>It exceeds the data capacity that can be posted.</source>
@@ -4974,7 +4975,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Change Maximum</source>
-        <translation>Modificare massimo</translation>
+        <translation>Modifica Massimo</translation>
     </message>
     <message>
         <source>Changes the number of data entries.</source>
@@ -5212,7 +5213,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Type of the armor. Setting [Equip Armor] in trait lists enables to equip with them.</source>
-        <translation>Tipo dell&apos;armatura. L&apos;impostazione di [Indossare armatura] nell&apos;elenco tratteggiato consente di dotarsi di esse.</translation>
+        <translation>Tipo dell&apos;armatura. L&apos;impostazione di [Equipaggia armatura] nell&apos;elenco dei tratti consente di equipaggiarle.</translation>
     </message>
     <message>
         <source>Price</source>
@@ -5373,11 +5374,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Drop Items</source>
-        <translation>Elementi goccia</translation>
+        <translation>Oggetti Caduti</translation>
     </message>
     <message>
         <source>Items and equipment earned by the party by winning a battle.</source>
-        <translation>Elementi ed equipaggiamento guadagnati dal gruppo per aver vinto una battaglia.</translation>
+        <translation>Oggetti ed equipaggiamento guadagnati dal gruppo per aver vinto una battaglia.</translation>
     </message>
 </context>
 <context>
@@ -5388,7 +5389,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Basic item settings.</source>
-        <translation>Impostazioni di base dell&apos;elemento.</translation>
+        <translation>Impostazioni base dell&apos;oggetto.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5420,7 +5421,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Type of the item. Key items are typically related to story progression.</source>
-        <translation>Gli elementi chiave sono tipicamente riferiti alla progressione del racconto.</translation>
+        <translation>Gli oggetti chiave sono tipicamente riferiti alla progressione della storia.</translation>
     </message>
     <message>
         <source>Price</source>
@@ -5728,7 +5729,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Curse</source>
-        <translation>Maledizione</translation>
+        <translation>Maledetto</translation>
     </message>
     <message>
         <source>Fear</source>
@@ -5740,7 +5741,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Conditions for state removal, apart from using skills and items.</source>
-        <translation>Condizioni per la rimozione dello stato, oltre all&apos;utilizzo di abilità ed elementi.</translation>
+        <translation>Condizioni per la rimozione dello stato, oltre all&apos;utilizzo di abilità ed oggetti.</translation>
     </message>
     <message>
         <source>Remove at Battle End</source>
@@ -5853,7 +5854,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Basic tileset settings.</source>
-        <translation>Impostazioni di base set di tessere.</translation>
+        <translation>Impostazioni base del tileset.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5861,7 +5862,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Name of the tileset.</source>
-        <translation>Nome del set di tessere.</translation>
+        <translation>Nome del tileset.</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -5921,7 +5922,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Damage Floor</source>
-        <translation>Danni pavimento</translation>
+        <translation>Danni Pavimento</translation>
     </message>
     <message>
         <source>Sets a tile to deal damage when walked on. A poisonous swamp is one example of possible uses.</source>
@@ -5964,7 +5965,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Change BG</source>
-        <translation>Modificare BG</translation>
+        <translation>Modifica BG</translation>
     </message>
     <message>
         <source>Changes the background images for editing and battle tests.</source>
@@ -6067,7 +6068,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Type of the weapon. Setting [Equip Weapon] in trait lists enables to equip with them.</source>
-        <translation>Tipo di arma. L&apos;impostazione di [Dotarsi di armi] nell&apos;elenco tratteggiato consente di dotarsi di esse.</translation>
+        <translation>Tipo di arma. Impostare [Equipaggia Arma] nell&apos;elenco dei tratti consente di equipaggiarla.</translation>
     </message>
     <message>
         <source>Price</source>
@@ -6160,7 +6161,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Batch Entry</source>
-        <translation>Ingresso batch</translation>
+        <translation>Gruppo di messaggi</translation>
     </message>
     <message>
         <source>Enables the input of more than 4 lines and inserts multiple event commands.</source>
@@ -6217,7 +6218,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annullare</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Handling method for when the cancel button is pressed.</source>
@@ -6471,7 +6472,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Auto inter.</translation>
+        <translation>Auto Inter.</translation>
     </message>
     <message>
         <source>Self switch to operate.</source>
@@ -6631,7 +6632,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Disabilitare</translation>
+        <translation>Disabilita</translation>
     </message>
     <message>
         <source>Disables the saving of game data.</source>
@@ -6658,7 +6659,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Disabilitare</translation>
+        <translation>Disabilita</translation>
     </message>
     <message>
         <source>Disables the menu screen calls.</source>
@@ -6685,7 +6686,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Disabilitare</translation>
+        <translation>Disabilita</translation>
     </message>
     <message>
         <source>Disables the random encounters.</source>
@@ -6712,7 +6713,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Disabilitare</translation>
+        <translation>Disabilita</translation>
     </message>
     <message>
         <source>Disables the formation command.</source>
@@ -7136,11 +7137,11 @@ Please lower the file size of this project.</source>
     <name>EventCommand282</name>
     <message>
         <source>Tileset</source>
-        <translation>Set di tessere</translation>
+        <translation>Tileset</translation>
     </message>
     <message>
         <source>Tileset to change to.</source>
-        <translation>Set di tessere al quale passare.</translation>
+        <translation>Tileset al quale passare.</translation>
     </message>
 </context>
 <context>
@@ -7215,7 +7216,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Items that can be purchased at the shop.</source>
-        <translation>Elementi che possono essere acquistati presso il negozio.</translation>
+        <translation>Oggetti che possono essere acquistati presso il negozio.</translation>
     </message>
     <message>
         <source>Merchandise</source>
@@ -7231,7 +7232,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Makes it impossible to sell items in the shop.</source>
-        <translation>Rende impossibile vendere elementi nel negozio.</translation>
+        <translation>Rende impossibile vendere oggetti nel negozio.</translation>
     </message>
 </context>
 <context>
@@ -7552,7 +7553,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Target all enemies in the troop?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti i nemici nella truppa?</translation>
     </message>
 </context>
 <context>
@@ -7671,7 +7672,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Disabilitare</translation>
+        <translation>Disabilita</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -7710,7 +7711,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Auto inter.</translation>
+        <translation>Auto Inter.</translation>
     </message>
     <message>
         <source>Timer</source>
@@ -7813,7 +7814,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Repeat</source>
         <comment>Movement Route</comment>
-        <translation>Ripetere</translation>
+        <translation>Ripeti</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -7847,19 +7848,19 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Show Text</source>
-        <translation>Mostra testo</translation>
+        <translation>Mostra Testo</translation>
     </message>
     <message>
         <source>Show Choices</source>
-        <translation>Mostra scelte</translation>
+        <translation>Mostra Scelte</translation>
     </message>
     <message>
         <source>Input Number</source>
-        <translation>Immettere numero</translation>
+        <translation>Immettere Numero</translation>
     </message>
     <message>
         <source>When Cancel</source>
-        <translation>Quando cancellare</translation>
+        <translation>Quando annulla</translation>
     </message>
     <message>
         <source>End</source>
@@ -7868,7 +7869,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Select Item</source>
-        <translation>Selezionare elemento</translation>
+        <translation>Seleziona Oggetto</translation>
     </message>
     <message>
         <source>Text(S)</source>
@@ -7876,7 +7877,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Show Scrolling Text</source>
-        <translation>Mostrare testo scorrimento</translation>
+        <translation>Mostra Testo Scorrimento</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -7892,31 +7893,31 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Else</source>
-        <translation>Altro</translation>
+        <translation>Altrimenti</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation>Concatenazione</translation>
+        <translation>Ciclo</translation>
     </message>
     <message>
         <source>Repeat Above</source>
-        <translation>Ripetere quanto sopra</translation>
+        <translation>Ripetere Quanto Sopra</translation>
     </message>
     <message>
         <source>Break Loop</source>
-        <translation>Interrompere concatenazione</translation>
+        <translation>Interrompere Ciclo</translation>
     </message>
     <message>
         <source>Continue Loop</source>
-        <translation>Continuare concatenazione</translation>
+        <translation>Continuare Ciclo</translation>
     </message>
     <message>
         <source>Exit Event Processing</source>
-        <translation>Elaborazione uscita evento</translation>
+        <translation>Elaborazione Uscita Evento</translation>
     </message>
     <message>
         <source>Common Event</source>
-        <translation>Evento comune</translation>
+        <translation>Evento Comune</translation>
     </message>
     <message>
         <source>Label</source>
@@ -7924,79 +7925,79 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Jump to Label</source>
-        <translation>Saltare a etichetta</translation>
+        <translation>Salta a Etichetta</translation>
     </message>
     <message>
         <source>Control Switches</source>
-        <translation>Interruttori di controllo</translation>
+        <translation>Interruttori di Controllo</translation>
     </message>
     <message>
         <source>Control Variables</source>
-        <translation>Variabili di controllo</translation>
+        <translation>Variabili di Controllo</translation>
     </message>
     <message>
         <source>Control Self Switch</source>
-        <translation>Interruttore aut. di controllo</translation>
+        <translation>Interruttore Aut. di Controllo</translation>
     </message>
     <message>
         <source>Control Timer</source>
-        <translation>Timer di controllo</translation>
+        <translation>Timer di Controllo</translation>
     </message>
     <message>
         <source>Change Gold</source>
-        <translation>Modificare oro</translation>
+        <translation>Modifica Oro</translation>
     </message>
     <message>
         <source>Change Items</source>
-        <translation>Modificare elementi</translation>
+        <translation>Modifica oggetti</translation>
     </message>
     <message>
         <source>Change Weapons</source>
-        <translation>Modificare armi</translation>
+        <translation>Modifica Armi</translation>
     </message>
     <message>
         <source>Change Armors</source>
-        <translation>Modificare armatura</translation>
+        <translation>Modifica Armatura</translation>
     </message>
     <message>
         <source>Change Party Member</source>
-        <translation>Modificare membro del gruppo</translation>
+        <translation>Modifica membro del gruppo</translation>
     </message>
     <message>
         <source>Change Battle BGM</source>
-        <translation>Modificare BGM battaglia</translation>
+        <translation>Modifica BGM battaglia</translation>
     </message>
     <message>
         <source>Change Victory ME</source>
-        <translation>Modificare ME vittoria</translation>
+        <translation>Modifica ME vittoria</translation>
     </message>
     <message>
         <source>Change Save Access</source>
-        <translation>Modif. accesso salvataggio</translation>
+        <translation>Modif. Accesso Salvataggio</translation>
     </message>
     <message>
         <source>Change Menu Access</source>
-        <translation>Modificare accesso menu</translation>
+        <translation>Modifica Accesso Menu</translation>
     </message>
     <message>
         <source>Change Encounter</source>
-        <translation>Modificare incontro</translation>
+        <translation>Modifica Incontro</translation>
     </message>
     <message>
         <source>Change Formation Access</source>
-        <translation>Modif. accesso formazione</translation>
+        <translation>Modif. Accesso Formazione</translation>
     </message>
     <message>
         <source>Change Window Color</source>
-        <translation>Modificare colore finestra</translation>
+        <translation>Modifica Colore Finestra</translation>
     </message>
     <message>
         <source>Change Defeat ME</source>
-        <translation>Modificare ME sconfitta</translation>
+        <translation>Modifica ME Sconfitta</translation>
     </message>
     <message>
         <source>Change Vehicle BGM</source>
-        <translation>Modificare BGM veicolo</translation>
+        <translation>Modifica BGM veicolo</translation>
     </message>
     <message>
         <source>Transfer Player</source>
@@ -8004,67 +8005,67 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Set Vehicle Location</source>
-        <translation>Impostazione posiz. veicolo</translation>
+        <translation>Imposta Posiz. Veicolo</translation>
     </message>
     <message>
         <source>Set Event Location</source>
-        <translation>Impostare posizione evento</translation>
+        <translation>Imposta Posizione Evento</translation>
     </message>
     <message>
         <source>Scroll Map</source>
-        <translation>Far scorrere la mappa</translation>
+        <translation>Scorrimento Mappa</translation>
     </message>
     <message>
         <source>Set Movement Route</source>
-        <translation>Impostare itinerario</translation>
+        <translation>Imposta Itinerario</translation>
     </message>
     <message>
         <source>Get on/off Vehicle</source>
-        <translation>Salire/scendere dal veicolo</translation>
+        <translation>Sali/Scendi dal Veicolo</translation>
     </message>
     <message>
         <source>Change Transparency</source>
-        <translation>Modificare trasparenza</translation>
+        <translation>Modifica Trasparenza</translation>
     </message>
     <message>
         <source>Change Player Followers</source>
-        <translation>Modificare seguaci giocatore</translation>
+        <translation>Modifica seguaci giocatore</translation>
     </message>
     <message>
         <source>Gather Followers</source>
-        <translation>Riunire seguaci</translation>
+        <translation>Riunire Seguaci</translation>
     </message>
     <message>
         <source>Show Animation</source>
-        <translation>Mostrare animazione</translation>
+        <translation>Mostra Animazione</translation>
     </message>
     <message>
         <source>Show Balloon Icon</source>
-        <translation>Mostra icona fumetto</translation>
+        <translation>Mostra Icona Fumetto</translation>
     </message>
     <message>
         <source>Erase Event</source>
-        <translation>Cancellare evento</translation>
+        <translation>Cancella Evento</translation>
     </message>
     <message>
         <source>Fadeout Screen</source>
-        <translation>Dissolvenza schermata</translation>
+        <translation>Dissolvenza Schermata</translation>
     </message>
     <message>
         <source>Fadein Screen</source>
-        <translation>Assolvenza schermata</translation>
+        <translation>Assolvenza Schermata</translation>
     </message>
     <message>
         <source>Tint Screen</source>
-        <translation>Coloritura schermata</translation>
+        <translation>Tinta Schermata</translation>
     </message>
     <message>
         <source>Flash Screen</source>
-        <translation>Schermata flash</translation>
+        <translation>Flash Schermata</translation>
     </message>
     <message>
         <source>Shake Screen</source>
-        <translation>Scuotere schermata</translation>
+        <translation>Scuoti schermata</translation>
     </message>
     <message>
         <source>Wait</source>
@@ -8072,27 +8073,27 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Show Picture</source>
-        <translation>Mostrare immagine</translation>
+        <translation>Mostra Immagine</translation>
     </message>
     <message>
         <source>Move Picture</source>
-        <translation>Spostare immagine</translation>
+        <translation>Sposta Immagine</translation>
     </message>
     <message>
         <source>Rotate Picture</source>
-        <translation>Ruotare immagine</translation>
+        <translation>Ruota Immagine</translation>
     </message>
     <message>
         <source>Tint Picture</source>
-        <translation>Colorare immagine</translation>
+        <translation>Colore Immagine</translation>
     </message>
     <message>
         <source>Erase Picture</source>
-        <translation>Cancellare immagine</translation>
+        <translation>Cancell Immagine</translation>
     </message>
     <message>
         <source>Set Weather Effect</source>
-        <translation>Impostare effetto meteo</translation>
+        <translation>Imposta Effetto Meteo</translation>
     </message>
     <message>
         <source>Play BGM</source>
@@ -8104,7 +8105,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Save BGM</source>
-        <translation>Salvare BGM</translation>
+        <translation>Salva BGM</translation>
     </message>
     <message>
         <source>Replay BGM</source>
@@ -8124,7 +8125,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Play SE</source>
-        <translation>Giocare SE</translation>
+        <translation>Riprodurre SE</translation>
     </message>
     <message>
         <source>Stop SE</source>
@@ -8140,23 +8141,23 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Change Tileset</source>
-        <translation>Modificare set di tessere</translation>
+        <translation>Modifica Tileset</translation>
     </message>
     <message>
         <source>Change Battle Back</source>
-        <translation>Modif. rientro da battaglia</translation>
+        <translation>Modifica Sfondo Battaglia</translation>
     </message>
     <message>
         <source>Change Parallax</source>
-        <translation>Modificare parallasse</translation>
+        <translation>Modifica parallasse</translation>
     </message>
     <message>
         <source>Get Location Info</source>
-        <translation>Ottenere info. sulla posizione</translation>
+        <translation>Ottenere Info Posizione</translation>
     </message>
     <message>
         <source>Battle Processing</source>
-        <translation>Elaborazione battaglia</translation>
+        <translation>Elaborazione Battaglia</translation>
     </message>
     <message>
         <source>If Win</source>
@@ -8172,123 +8173,123 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Shop Processing</source>
-        <translation>Elaborazione negozio</translation>
+        <translation>Elaborazione Negozio</translation>
     </message>
     <message>
         <source>Name Input Processing</source>
-        <translation>Elab. inserimento nome</translation>
+        <translation>Inserimento Nome</translation>
     </message>
     <message>
         <source>Change HP</source>
-        <translation>Modificare HP</translation>
+        <translation>Modifica HP</translation>
     </message>
     <message>
         <source>Change MP</source>
-        <translation>Modificare MP</translation>
+        <translation>Modifica MP</translation>
     </message>
     <message>
         <source>Change TP</source>
-        <translation>Modificare TP</translation>
+        <translation>Modifica TP</translation>
     </message>
     <message>
         <source>Change State</source>
-        <translation>Modificare stato</translation>
+        <translation>Modifica stato</translation>
     </message>
     <message>
         <source>Recover All</source>
-        <translation>Recuperare tutto</translation>
+        <translation>Recupera Tutto</translation>
     </message>
     <message>
         <source>Change EXP</source>
-        <translation>Modificare EXP</translation>
+        <translation>Modifica EXP</translation>
     </message>
     <message>
         <source>Change Level</source>
-        <translation>Modificare livello</translation>
+        <translation>Modifica livello</translation>
     </message>
     <message>
         <source>Change Parameter</source>
-        <translation>Modificare parametro</translation>
+        <translation>Modifica parametro</translation>
     </message>
     <message>
         <source>Change Skill</source>
-        <translation>Modificare abilità</translation>
+        <translation>Modifica Abilità</translation>
     </message>
     <message>
         <source>Change Equipment</source>
-        <translation>Modificare equipaggiamento</translation>
+        <translation>Modifica Equipaggiamento</translation>
     </message>
     <message>
         <source>Change Name</source>
-        <translation>Modificare nome</translation>
+        <translation>Modifica Nome</translation>
     </message>
     <message>
         <source>Change Class</source>
-        <translation>Modificare classe</translation>
+        <translation>Modifica Classe</translation>
     </message>
     <message>
         <source>Change Actor Images</source>
-        <translation>Modificare immagini attore</translation>
+        <translation>Modifica Immagini Attore</translation>
     </message>
     <message>
         <source>Change Vehicle Image</source>
-        <translation>Modificare immagine veicolo</translation>
+        <translation>Modifica Immagine Veicolo</translation>
     </message>
     <message>
         <source>Change Nickname</source>
-        <translation>Modificare pseudonimo</translation>
+        <translation>Modificare Pseudonimo</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation>Modificare profilo</translation>
+        <translation>Modifica Profilo</translation>
     </message>
     <message>
         <source>Change Enemy HP</source>
-        <translation>Modificare HP nemico</translation>
+        <translation>Modifica HP Nemico</translation>
     </message>
     <message>
         <source>Change Enemy MP</source>
-        <translation>Modificare MP nemico</translation>
+        <translation>Modifica MP Nemico</translation>
     </message>
     <message>
         <source>Change Enemy TP</source>
-        <translation>Modificare TP nemico</translation>
+        <translation>Modifica TP Nemico</translation>
     </message>
     <message>
         <source>Change Enemy State</source>
-        <translation>Modificare stato nemico</translation>
+        <translation>Modifica stato Nemico</translation>
     </message>
     <message>
         <source>Enemy Recover All</source>
-        <translation>Recupero totale nemico</translation>
+        <translation>Recupero Totale Nemico</translation>
     </message>
     <message>
         <source>Enemy Appear</source>
-        <translation>Apparizione nemico</translation>
+        <translation>Apparizione Nemico</translation>
     </message>
     <message>
         <source>Enemy Transform</source>
-        <translation>Trasformazione nemico</translation>
+        <translation>Trasformazione Nemico</translation>
     </message>
     <message>
         <source>Show Battle Animation</source>
-        <translation>Mostrare animazione battaglia</translation>
+        <translation>Mostra Animazione Battaglia</translation>
     </message>
     <message>
         <source>Force Action</source>
-        <translation>Forzare azione</translation>
+        <translation>Forza Azione</translation>
     </message>
     <message>
         <source>Abort Battle</source>
-        <translation>Interrompere battaglia</translation>
+        <translation>Interrompi Battaglia</translation>
     </message>
     <message>
         <source>Open Menu Screen</source>
-        <translation>Aprire schermata menu</translation>
+        <translation>Apri Schermata Menu</translation>
     </message>
     <message>
         <source>Open Save Screen</source>
-        <translation>Aprire scherm. salvataggio</translation>
+        <translation>Apri Scherm. Salvataggio</translation>
     </message>
     <message>
         <source>Game Over</source>
@@ -8296,7 +8297,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Return to Title Screen</source>
-        <translation>Tornare alla schermata titolo</translation>
+        <translation>Tornare al Titolo</translation>
     </message>
     <message>
         <source>Script</source>
@@ -8304,7 +8305,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Plugin Command</source>
-        <translation>Comando plugin</translation>
+        <translation>Comando Plugin</translation>
     </message>
     <message>
         <source>Undefined Command</source>
@@ -8356,7 +8357,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Escapes the innermost loop.</source>
-        <translation>Fugge dalla concatenazione più interna.</translation>
+        <translation>Esce da ciclo più interno.</translation>
     </message>
     <message>
         <source>Ends running events.</source>
@@ -8572,7 +8573,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Fades out the current BGS.</source>
-        <translation>Manda in dissolvenza il BGS corrente.</translation>
+        <translation>Dissolve il BGS corrente.</translation>
     </message>
     <message>
         <source>Plays the specified ME.</source>
@@ -8668,7 +8669,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the tileset used by the current map temporarily.</source>
-        <translation>Modifica temporaneamente il set di tessere utilizzato dalla mappa corrente.</translation>
+        <translation>Modifica temporaneamente il tileset utilizzato dalla mappa corrente.</translation>
     </message>
     <message>
         <source>Changes the battle background associated with the current map temporarily.</source>
@@ -8746,7 +8747,7 @@ Please lower the file size of this project.</source>
     <name>EventImageBox</name>
     <message>
         <source>Tileset</source>
-        <translation>Set di tessere</translation>
+        <translation>Tileset</translation>
     </message>
 </context>
 <context>
@@ -8878,7 +8879,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Batch</source>
-        <translation>Partita</translation>
+        <translation>Gruppo</translation>
     </message>
     <message>
         <source>Changes the properties for multiple cells in the specified frames.</source>
@@ -8910,7 +8911,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Paste Last</source>
-        <translation>Incollare l’ultimo</translation>
+        <translation>Incolla l’ultimo</translation>
     </message>
     <message>
         <source>Makes the currently selected frame identical to the previous frame.</source>
@@ -8978,7 +8979,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Hide Target</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Nascondi obiet.</translation>
+        <translation>Nascondi Obiet.</translation>
     </message>
 </context>
 <context>
@@ -9362,7 +9363,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Auto inter.</translation>
+        <translation>Auto Inter.</translation>
     </message>
     <message>
         <source>Appears when the specified self switch is ON.</source>
@@ -9413,7 +9414,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Repeat</source>
-        <translation>Ripetere</translation>
+        <translation>Ripeti</translation>
     </message>
     <message>
         <source>Number of times the effect is applied to the target.</source>
@@ -10197,7 +10198,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Show Player Followers</source>
-        <translation>Mostrare seguaci giocatore</translation>
+        <translation>Mostra seguaci giocatore</translation>
     </message>
     <message>
         <source>Enables the display of party members walking behind the player. This can be changed using the [Change Player Followers] event command.</source>
@@ -10209,7 +10210,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Allows HP to drop to 0 by slip damage, such as poison. If unchecked, stops at 1 HP.</source>
-        <translation>Consente all&apos;HP di diminuire fino a 0 a causa di danno da slittamento, tipo veleno. Senza segno di spunta, si arresta a 1 HP.</translation>
+        <translation>Consente agli HP di scendere a 0 a causa di danno da slittamento, tipo veleno. Senza segno di spunta, si ferma a 1 HP.</translation>
     </message>
     <message>
         <source>Knockout by Floor Damage</source>
@@ -10217,7 +10218,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Allows HP to drop to 0 by damage caused by map terrain. If unchecked, stops at 1 HP.</source>
-        <translation>Consente all&apos;HP di diminuire fino a 0 a causa di danno causato dal terreno della mappa. Senza segno di spunta, si arresta a 1 HP.</translation>
+        <translation>Consente agli HP di scendere a 0 a causa di danno causato dal terreno della mappa. Senza segno di spunta, si ferma a 1 HP.</translation>
     </message>
     <message>
         <source>Display TP in Battle</source>
@@ -10256,7 +10257,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annullare</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Buzzer</source>
@@ -10367,7 +10368,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Maximum</source>
-        <translation>Modificare massimo</translation>
+        <translation>Modifica Massimo</translation>
     </message>
 </context>
 <context>
@@ -10378,7 +10379,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor to change the status.</source>
-        <translation>Attore per modificare lo stato.</translation>
+        <translation>Attore a cui modificare lo stato.</translation>
     </message>
     <message>
         <source>Fixed</source>
@@ -10420,11 +10421,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Images to be used in this tileset.</source>
-        <translation>Immagini da utilizzare in questo set di tessere.</translation>
+        <translation>Immagini da utilizzare in questo tileset.</translation>
     </message>
     <message>
         <source>Tileset image for the tab %1.</source>
-        <translation>Immagine del set di tessere per la tabella %1.</translation>
+        <translation>Immagine del tileset per la scheda %1.</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -10480,7 +10481,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>State Resist</source>
         <translatorcomment>省略のピリオドを追加しております。長い場合はlaを削除して頂けますと幸いです。</translatorcomment>
-        <translation>Impostare la resis.</translation>
+        <translation>Resistenza stati</translation>
     </message>
     <message>
         <source>Parameter</source>
@@ -10532,7 +10533,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Equip Armor</source>
-        <translation>Indossare armatura</translation>
+        <translation>Equipaggia armatura</translation>
     </message>
     <message>
         <source>Lock Equip</source>
@@ -10541,7 +10542,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Seal Equip</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Blocco equip.</translation>
+        <translation>Blocca Equip.</translation>
     </message>
     <message>
         <source>Slot Type</source>
@@ -10627,7 +10628,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Chooses an object selector for selecting in-game objects in the editor like Items, Weapons, Armors and so on.</source>
-        <translation>Sceglie un selettore di oggetti per selezionare oggetti in-game dall&apos;editor, come Elementi, Armi e Armature.</translation>
+        <translation>Sceglie un selettore di oggetti per selezionare oggetti in-game dall&apos;editor, come Oggetti, Armi e Armature.</translation>
     </message>
     <message>
         <source>Optimized for less than 100 objects.</source>
@@ -10738,11 +10739,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Pitch</source>
-        <translation>Passo</translation>
+        <translation>Intonazione</translation>
     </message>
     <message>
         <source>Pitch for audio playback.</source>
-        <translation>Passo per la riproduzione audio.</translation>
+        <translation>Intonazione per la riproduzione audio.</translation>
     </message>
     <message>
         <source>Pan</source>
@@ -10932,7 +10933,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Display priority of the event. However, when the image is a tile and the priority is [Below characters], the tileset settings will be used.</source>
-        <translation>Visualizzare la priorità dell&apos;evento. Tuttavia, quando l&apos;immagine è una tessera e la priorità è [Below characters], verranno utilizzate le impostazioni del set di tessere.</translation>
+        <translation>Visualizzare la priorità dell&apos;evento. Tuttavia, quando l&apos;immagine è una tessera e la priorità è [Sotto il personaggio], verranno utilizzate le impostazioni del tileset.</translation>
     </message>
     <message>
         <source>Below characters</source>
@@ -11137,7 +11138,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Loops the parallax background horizontally.</source>
-        <translation>Concatena orizzontalmente lo sfondo parallasse.</translation>
+        <translation>Cicla orizzontalmente lo sfondo parallasse.</translation>
     </message>
     <message>
         <source>Scroll</source>
@@ -11149,7 +11150,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Loops the parallax background vertically.</source>
-        <translation>Concatena verticalmente lo sfondo parallasse.</translation>
+        <translation>Cicla verticalmente lo sfondo parallasse.</translation>
     </message>
     <message>
         <source>Automatically performs vertical scrolling at the specified speed.</source>
@@ -11213,7 +11214,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Modificare</translation>
+        <translation>Modifica</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -11261,7 +11262,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Set Starting Position</source>
-        <translation>Impostare posizione di avvio</translation>
+        <translation>Imposta posizione di avvio</translation>
     </message>
     <message>
         <source>New Project</source>
@@ -11273,7 +11274,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Open Project</source>
-        <translation>Aprire progetto</translation>
+        <translation>Apri Progetto</translation>
     </message>
     <message>
         <source>Opens an existing project.</source>
@@ -11281,7 +11282,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Close Project</source>
-        <translation>Chiudere progetto</translation>
+        <translation>Chiudi Progetto</translation>
     </message>
     <message>
         <source>Closes the current project.</source>
@@ -11297,7 +11298,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Deployment</source>
-        <translation>Apertura</translation>
+        <translation>Distribuzione</translation>
     </message>
     <message>
         <source>Creates a distribution package.</source>
@@ -11306,7 +11307,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Edit</source>
         <comment>Edit Map</comment>
-        <translation>Modificare</translation>
+        <translation>Modifica</translation>
     </message>
     <message>
         <source>Changes the map settings.</source>
@@ -11323,7 +11324,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Load</source>
-        <translation>Carico</translation>
+        <translation>Carica</translation>
     </message>
     <message>
         <source>Adds a sample map as a new map.</source>
@@ -11348,7 +11349,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Edit</source>
         <comment>Edit Event</comment>
-        <translation>Modificare</translation>
+        <translation>Modifica</translation>
     </message>
     <message>
         <source>Changes the event settings.</source>
@@ -11365,7 +11366,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Tagliare</translation>
+        <translation>Taglia</translation>
     </message>
     <message>
         <source>Removes and copies the selection to the clipboard.</source>
@@ -11373,7 +11374,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copiare</translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <source>Copies the selection to the clipboard.</source>
@@ -11381,7 +11382,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Incollare</translation>
+        <translation>Incolla</translation>
     </message>
     <message>
         <source>Inserts the contents of the clipboard.</source>
@@ -11389,7 +11390,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Eliminare</translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>Removes the selection.</source>
@@ -11397,7 +11398,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Annullare</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Reverses the last action.</source>
@@ -11493,7 +11494,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Plugin Manager</source>
-        <translation>Gestione plugin</translation>
+        <translation>Gestione Plugin</translation>
     </message>
     <message>
         <source>Opens the plugin manager window.</source>
@@ -11501,7 +11502,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sound Test</source>
-        <translation>Prova audio</translation>
+        <translation>Prova Audio</translation>
     </message>
     <message>
         <source>Opens the sound test window.</source>
@@ -11509,15 +11510,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Event Searcher</source>
-        <translation>Funzione di ricerca evento</translation>
+        <translation>Cerca Evento</translation>
     </message>
     <message>
         <source>Opens the event searcher window.</source>
-        <translation>Apre la finestra della funzione di ricerca evento.</translation>
+        <translation>Apre la finestra di ricerca evento.</translation>
     </message>
     <message>
         <source>Playtest</source>
-        <translation>Playtest</translation>
+        <translation>Prova Gioco</translation>
     </message>
     <message>
         <source>Starts a playtest of the current game.</source>
@@ -11525,7 +11526,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Aprire cartella</translation>
+        <translation>Apri Cartella</translation>
     </message>
     <message>
         <source>Opens folder for the current game.</source>
@@ -11537,7 +11538,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Open the help.</source>
-        <translation>Aprire la guida.</translation>
+        <translation>Apri la guida.</translation>
     </message>
     <message>
         <source>About</source>
@@ -11565,7 +11566,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Character Generator</source>
-        <translation>Generatore personaggio</translation>
+        <translation>Generatore Personaggio</translation>
     </message>
     <message>
         <source>Opens the Character Generator window.</source>
@@ -11573,11 +11574,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Resource Manager</source>
-        <translation>Gestione risorse</translation>
+        <translation>Gestione Risorse</translation>
     </message>
     <message>
         <source>Opens the Resource Manager window.</source>
-        <translation>Apre la finestra Gestione risorse.</translation>
+        <translation>Apre la finestra Gestione Risorse.</translation>
     </message>
     <message>
         <source>Options</source>
@@ -11688,7 +11689,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
-        <translation>Annullare</translation>
+        <translation>Annulla</translation>
     </message>
 </context>
 <context>
@@ -11947,7 +11948,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Speed</source>
-        <translation>Modificare la velocità</translation>
+        <translation>Modifica Velocità</translation>
     </message>
     <message>
         <source>Frequency</source>
@@ -11956,7 +11957,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Frequency</source>
-        <translation>Modificare la frequenza</translation>
+        <translation>Modifica Frequenza</translation>
     </message>
     <message>
         <source>Walking Animation ON</source>
@@ -12004,7 +12005,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Image</source>
-        <translation>Modificare immagine</translation>
+        <translation>Modifica Immagine</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -12012,7 +12013,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Opacity</source>
-        <translation>Modificare opacità</translation>
+        <translation>Modifica Opacità</translation>
     </message>
     <message>
         <source>Blend Mode</source>
@@ -12865,7 +12866,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Always Dash</source>
-        <translation>Sempre trattino</translation>
+        <translation>Corri Sempre</translation>
     </message>
     <message>
         <source>Command Remember</source>
@@ -12929,11 +12930,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1 has started to escape!</source>
-        <translation>%1 ha iniziato a fuggire!</translation>
+        <translation>%1 inizia a fuggire!</translation>
     </message>
     <message>
         <source>However, it was unable to escape!</source>
-        <translation>Tuttavia, non è stato in grado di fuggire!</translation>
+        <translation>Tuttavia, non c&apos;è riuscito!</translation>
     </message>
     <message>
         <source>%1 was victorious!</source>
@@ -12961,7 +12962,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1 learned!</source>
-        <translation>%1 appreso!</translation>
+        <translation>Appreso %1!</translation>
     </message>
     <message>
         <source>%1 uses %2!</source>
@@ -13069,11 +13070,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1&apos;s %2 went up!</source>
-        <translation>%2 di %1 è salito!</translation>
+        <translation>%2 di %1 sale!</translation>
     </message>
     <message>
         <source>%1&apos;s %2 went down!</source>
-        <translation>%2 di %1 è sceso!</translation>
+        <translation>%2 di %1 cala!</translation>
     </message>
     <message>
         <source>%1&apos;s %2 returned to normal!</source>
@@ -13540,7 +13541,8 @@ the Guard command.</source>
     <message>
         <source>State #1 will be automatically added when
 HP reaches 0.</source>
-        <translation>Stato #1 verrà aggiunto automaticamente quando HP raggiunge 0.</translation>
+        <translation>Stato #1 verrà aggiunto automaticamente
+quando gli HP raggiungono lo 0.</translation>
     </message>
     <message>
         <source> attacks!</source>
@@ -13570,7 +13572,7 @@ HP reaches 0.</source>
     <message>
         <source>Overworld</source>
         <comment>tileset</comment>
-        <translation>Overworld</translation>
+        <translation>Mappa del Mondo</translation>
     </message>
     <message>
         <source>Outside</source>
@@ -13650,7 +13652,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Open Project</source>
-        <translation>Aprire progetto</translation>
+        <translation>Apri Progetto</translation>
     </message>
     <message>
         <source>Save changes to the game?</source>
@@ -13697,23 +13699,23 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Modificare</translation>
+        <translation>Modifica</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Tagliare</translation>
+        <translation>Taglia</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copiare</translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Incollare</translation>
+        <translation>Incolla</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Eliminare</translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -13725,11 +13727,11 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Annullare</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Ripetere</translation>
+        <translation>Ripeti</translation>
     </message>
 </context>
 <context>
@@ -13744,7 +13746,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Unable to update Steam Workshop Item, you are banned from the community.</source>
-        <translation>Impossibile aggiornare l&apos;Elemento Steam Workshop. Sarai bandito dalla comunità.</translation>
+        <translation>Impossibile aggiornare l&apos;oggetto su Steam Workshop, sei bandito dalla comunità.</translation>
     </message>
     <message>
         <source>A Timeout occurred when sharing or updating your Workshop Item.</source>
@@ -13768,7 +13770,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>An unknown error occurred when attempting to update the Workshop Item.</source>
-        <translation>Si è verificato un errore sconosciuto durante il tentativo di aggiornamento dell&apos;Elemento Workshop.</translation>
+        <translation>Si è verificato un errore sconosciuto durante il tentativo di aggiornamento dell&apos;Oggetto Workshop.</translation>
     </message>
     <message>
         <source>Subscribed</source>
@@ -13909,15 +13911,15 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Chiudere</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>You must input a valid Project Name for the Workshop Item.</source>
-        <translation>È necessario inserire un Nome progetto valido per l&apos;Elemento Workshop.</translation>
+        <translation>È necessario inserire un nome progetto valido per l&apos;Oggetto Workshop.</translation>
     </message>
     <message>
         <source>You must input a valid Project Description for the Workshop Item.</source>
-        <translation>È necessario inserire una Descrizione progetto valida per l&apos;Elemento Workshop.</translation>
+        <translation>È necessario inserire una descrizione progetto valida per l&apos;Oggetto Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image for the Workshop Item.</source>
@@ -14025,7 +14027,7 @@ HP reaches 0.</source>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Auto inter.</translation>
+        <translation>Auto Inter.</translation>
     </message>
     <message>
         <source>Based on the state of the specified self switch. Vaild only in the map event.</source>
@@ -14096,7 +14098,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular weapon equipped.</source>
-        <translation>In base al fatto che l&apos;attore specificato abbia o meno in dotazione una particolare arma.</translation>
+        <translation>In base al fatto che l&apos;attore specificato abbia o meno equipaggiato una particolare arma.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -14104,7 +14106,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular armor equipped.</source>
-        <translation>In base al fatto che l&apos;attore specificato abbia o meno in dotazione una particolare armatura.</translation>
+        <translation>In base al fatto che l&apos;attore specificato abbia o meno equipaggiato una particolare armatura.</translation>
     </message>
     <message>
         <source>State</source>
@@ -14261,7 +14263,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Title Screen</source>
-        <translation>Schermata tessera</translation>
+        <translation>Schermata del titolo</translation>
     </message>
     <message>
         <source>Screen to display at game startup.</source>
@@ -14359,7 +14361,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Data for representing the special characteristics given to skills and items.</source>
-        <translation>Dati di rappresentazione delle caratteristiche speciali date alle abilità e agli elementi.</translation>
+        <translation>Dati di rappresentazione delle caratteristiche speciali date alle abilità e agli oggetti.</translation>
     </message>
     <message>
         <source>Name of the element.</source>
@@ -14391,7 +14393,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Data for representing weapon types. Sets whether each weapon type can be equipped.</source>
-        <translation>Dati per la rappresentazione dei tipi di arma. Imposta se ciascun tipo di arma può essere in dotazione.</translation>
+        <translation>Dati per la rappresentazione dei tipi di arma. Imposta se ciascun tipo di arma può essere equipaggiato.</translation>
     </message>
     <message>
         <source>Name of the weapon type.</source>
@@ -14407,7 +14409,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Data for representing armor types. Sets whether each armor type can be equipped.</source>
-        <translation>Dati per la rappresentazione dei tipi di armatura. Imposta se ciascun tipo di armatura può essere in dotazione.</translation>
+        <translation>Dati per la rappresentazione dei tipi di armatura. Imposta se ciascun tipo di armatura può essere equipaggiato.</translation>
     </message>
     <message>
         <source>Name of the armor type.</source>
@@ -14449,19 +14451,19 @@ HP reaches 0.</source>
     <name>TextEditPopupMenu</name>
     <message>
         <source>Cut</source>
-        <translation>Tagliare</translation>
+        <translation>Taglia</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copiare</translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Incollare</translation>
+        <translation>Incolla</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Eliminare</translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -14469,11 +14471,11 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Annullare</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Ripetere</translation>
+        <translation>Ripeti</translation>
     </message>
 </context>
 <context>
