@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>Cloak</source>
-        <translation>Накидка (Плащ, шарф...)</translation>
+        <translation>Покров(Плащ, шарф...)</translation>
     </message>
     <message>
         <source>Accessory 1</source>
@@ -315,7 +315,7 @@
     </message>
     <message>
         <source>Image to be displayed on the menu screen.</source>
-        <translation>Изображение графики лица персонажа в меню.</translation>
+        <translation>Изображение на титульном экране.</translation>
     </message>
     <message>
         <source>Character</source>
@@ -2341,11 +2341,11 @@
     </message>
     <message>
         <source>Options</source>
-        <translation type="vanished">Дополнительно</translation>
+        <translation>Дополнительно</translation>
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="vanished">Дополнительные опции экспорта.</translation>
+        <translation>Дополнительные опции экспорта.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -2353,7 +2353,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="vanished">Файлы, которые  не используются, будут исключены из пакета игры.</translation>
+        <translation>Файлы, которые  не используются, будут исключены из пакета игры.</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -2361,23 +2361,23 @@
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="vanished">Параметры шифрования.</translation>
+        <translation>Параметры шифрования.</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="vanished">Графика</translation>
+        <translation>Графика</translation>
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="vanished">Зашифровать изображения, включённые в этот проект.</translation>
+        <translation>Зашифровать изображения, включённые в этот проект.</translation>
     </message>
     <message>
         <source>Audio files</source>
-        <translation type="vanished">Аудио</translation>
+        <translation>Аудио</translation>
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="vanished">Зашифровать аудио файлы, включённые в этот проект.</translation>
+        <translation>Зашифровать аудио файлы, включённые в этот проект.</translation>
     </message>
     <message>
         <source>Encryption key</source>
@@ -2385,7 +2385,7 @@
     </message>
     <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="vanished">Пожалуйста, введите ключ шифрования.</translation>
+        <translation>Пожалуйста, введите ключ шифрования.</translation>
     </message>
     <message>
         <source>Linux</source>
@@ -3044,11 +3044,11 @@
     <name>Dialog_GameShare</name>
     <message>
         <source>Game Share</source>
-        <translation type="vanished">Поделится игрой</translation>
+        <translation>Поделится игрой</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="vanished">Авторизация</translation>
+        <translation>Авторизация</translation>
     </message>
     <message>
         <source>If necessary to authenticate.</source>
@@ -3106,7 +3106,7 @@
     <name>Dialog_GameShareOgc</name>
     <message>
         <source>Game Share</source>
-        <translation type="vanished">Поделится игрой</translation>
+        <translation>Поделится игрой</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -6622,7 +6622,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Actor to add or remove.</source>
-        <translation type="vanished">Актёр, которого нужно добавить или удалить из партии.</translation>
+        <translation>Актёр, которого нужно добавить или удалить из партии.</translation>
     </message>
     <message>
         <source>Selects whether to add or remove the actor.</source>
@@ -7737,7 +7737,7 @@ Please lower the file size of this project.</source>
     <message>
         <source> </source>
         <comment>When ** (after the text)</comment>
-        <translation></translation>
+        <translation> </translation>
     </message>
     <message>
         <source> digits</source>
@@ -8847,7 +8847,7 @@ Please complete the post with follow this link.</source>
     <name>GameShareOgc</name>
     <message>
         <source>Succeeded to upload a project.</source>
-        <translation type="vanished">Проект успешно загружен.</translation>
+        <translation>Проект успешно загружен.</translation>
     </message>
     <message>
         <source>Failed to upload a project.</source>
