@@ -2022,7 +2022,7 @@
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Описание</translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <source>Path</source>
@@ -3082,7 +3082,7 @@
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
-        <translation type="unfinished">Поделиться игрой(NICONICO)</translation>
+        <translation>Поделиться игрой(NICONICO)</translation>
     </message>
     <message>
         <source>Authentication(NICONICO)</source>
@@ -3131,7 +3131,7 @@
     </message>
     <message>
         <source>Game Share(OPEN GAME CREATORS)</source>
-        <translation type="unfinished">Поделиться игрой(OPEN GAME CREATORS)</translation>
+        <translation>Поделиться игрой(OPEN GAME CREATORS)</translation>
     </message>
     <message>
         <source>Authenticated account: %1</source>
@@ -3143,7 +3143,7 @@
     </message>
     <message>
         <source>Cancel authentication.</source>
-        <translation type="unfinished">Отменить авторизацию.</translation>
+        <translation>Отменить авторизацию.</translation>
     </message>
     <message>
         <source>Info</source>
@@ -4897,24 +4897,24 @@
     <name>Dialog_TutorialSelector</name>
     <message>
         <source>Tutorial Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор урока</translation>
     </message>
     <message>
         <source>StartTutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать</translation>
     </message>
     <message>
         <source>Start the selected tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать выбранный урок.</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Closes this window.</source>
-        <translation type="unfinished">Закрывает это окно.</translation>
+        <translation>Закрывает это окно.</translation>
     </message>
 </context>
 <context>
@@ -8856,7 +8856,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Succeeded to upload a project.
 Please complete the post with follow this link.</source>
-        <translation type="unfinished">Проект успешно загружен.
+        <translation>Проект успешно загружен.
 Пожалуйста, оформите пост по ссылке.</translation>
     </message>
 </context>
@@ -11693,15 +11693,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Stop tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить урок</translation>
     </message>
     <message>
         <source>Tutorial...</source>
-        <translation type="unfinished"></translation>
+        <translation>Уроки...</translation>
     </message>
     <message>
         <source>Start a tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать урок.</translation>
     </message>
 </context>
 <context>
@@ -14574,11 +14574,11 @@ HP reaches 0.</source>
     <name>TutorialList</name>
     <message>
         <source>Step 1: Map Basics</source>
-        <translation type="unfinished"></translation>
+        <translation>Урок 1: Основы работы с картами</translation>
     </message>
     <message>
         <source>Step 2: Event Basics (Dialogue)</source>
-        <translation type="unfinished"></translation>
+        <translation>Урок 2: Основы работы с событиями(Диалог)</translation>
     </message>
     <message>
         <source>Step 3: Event Transfer 1</source>
@@ -14692,7 +14692,7 @@ HP reaches 0.</source>
     <name>TutorialStep1</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>* step1. Create a new project, and create a map.
@@ -14701,19 +14701,19 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>- You can change the title name.</source>
-        <translation type="unfinished"></translation>
+        <translation>- Вы можете изменить название игры.</translation>
     </message>
     <message>
         <source>Change the title name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Измените название игры.</translation>
     </message>
     <message>
         <source>Click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите ОК.</translation>
     </message>
     <message>
         <source>- It takes a little while to create a new project.</source>
@@ -14721,7 +14721,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Wait for creating a new project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ждите окончание загрузки проекта.</translation>
     </message>
     <message>
         <source>&gt; About map settings.</source>
@@ -14731,7 +14731,9 @@ HP reaches 0.</source>
         <source>The right side of the screen is the map. 
 On the upper left is the tile palette for the map.
 On the lower left is the map list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Большую часть экрана справа занимает карта. 
+В левой части сверху находится палитра карты.
+В левой части снизу находится список карт.</translation>
     </message>
     <message>
         <source>&gt; You make a map by putting tilechips.</source>
@@ -15042,7 +15044,7 @@ Next we will determine the player's initial position.</source>
     <name>TutorialStep10</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 9?</source>
@@ -15067,7 +15069,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -15270,7 +15272,7 @@ Well then, nicely done.</source>
     <name>TutorialStep11</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 10?</source>
@@ -15295,7 +15297,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -15574,7 +15576,7 @@ Please do challenge yourself to even more complex events.</source>
     <name>TutorialStep12</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 11?</source>
@@ -15599,7 +15601,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -15998,7 +16000,7 @@ Next time we'll handle the database again.</source>
     <name>TutorialStep13</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 12?</source>
@@ -16023,7 +16025,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -16425,7 +16427,7 @@ but please familiarize yourself with them bit by bit.</source>
     <name>TutorialStep14</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 13?</source>
@@ -16450,7 +16452,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -16746,7 +16748,7 @@ In the next step we will continue to deal with dungeon setup.</source>
     <name>TutorialStep15</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 14?</source>
@@ -16771,7 +16773,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -17017,7 +17019,7 @@ try adding even more components.</source>
     <name>TutorialStep16</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 15?</source>
@@ -17042,7 +17044,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -17640,7 +17642,7 @@ In the next step we'll place our boss.</source>
     <name>TutorialStep17</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 16?</source>
@@ -17665,7 +17667,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -18169,7 +18171,7 @@ and set the Operand to 5.</source>
     </message>
     <message>
         <source>Click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите ОК.</translation>
     </message>
     <message>
         <source>Select item #5, "Elixir".</source>
@@ -18269,7 +18271,7 @@ and ending, so we'll leave the player starting position as it is.</source>
     <name>TutorialStep18</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 17?</source>
@@ -18294,7 +18296,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -18754,7 +18756,7 @@ The next step will finally be the last one.</source>
     <name>TutorialStep19</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 18?</source>
@@ -18779,7 +18781,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -18970,7 +18972,7 @@ Please try to come up with ways to innovate on your own.</source>
     <name>TutorialStep2</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 1?</source>
@@ -18995,7 +18997,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then press OK.</source>
@@ -19222,7 +19224,7 @@ Save the project.</source>
     <name>TutorialStep3</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 2?</source>
@@ -19247,7 +19249,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then press OK.</source>
@@ -19485,7 +19487,7 @@ Double click the event under the statue.</source>
     <name>TutorialStep4</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 3?</source>
@@ -19510,7 +19512,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -19776,7 +19778,7 @@ Also, check to see that if you block one of their paths that they will no longer
     <name>TutorialStep5</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 4?</source>
@@ -19801,7 +19803,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -20146,7 +20148,7 @@ Please save your work up until now.</source>
     <name>TutorialStep6</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 5?</source>
@@ -20171,7 +20173,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -20303,7 +20305,7 @@ But the one you will have the most opportunities to use is the switch.</source>
     <name>TutorialStep7</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 6?</source>
@@ -20328,7 +20330,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -20627,7 +20629,7 @@ We'll reuse the gold spot later, so don't forget about it.</source>
     <name>TutorialStep8</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 7?</source>
@@ -20652,7 +20654,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
@@ -20693,7 +20695,7 @@ Right click Normal Town and select "Load...".</source>
     </message>
     <message>
         <source>Click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите ОК.</translation>
     </message>
     <message>
         <source>Now a map has been created a level under "Normal Town". 
@@ -20961,7 +20963,7 @@ Since your starting gold will be zero, test it out after you get the gold from t
     <name>TutorialStep9</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ВНИМАНИЕ: Если вы вы случайно сделаете не то, что требуется по уроку, просто нажмите %1/%2 что бы остановить урок и начните его заново.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 8?</source>
@@ -20986,7 +20988,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на "Новый проект".</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
