@@ -2030,7 +2030,7 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Delete additional tools.</source>
@@ -3086,12 +3086,12 @@
     </message>
     <message>
         <source>Authentication(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Вход(NICONICO)</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>Clear Game ID Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Clear the Game ID.</source>
