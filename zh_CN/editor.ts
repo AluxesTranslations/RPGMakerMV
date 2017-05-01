@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>The selected frame is displayed in the right side.&lt;br&gt;[N] Selects the next item.&lt;br&gt;[B] Selects the previous item.</source>
-        <translation>选择的帧显示在右边。[N]选择下一项。[B]选择前一项。</translation>
+        <translation>选择的帧显示在右侧。&lt;br&gt;[N] 选择下一项。&lt;br&gt;[B] 选择前一项。</translation>
     </message>
 </context>
 <context>
@@ -306,7 +306,7 @@
     </message>
     <message>
         <source>Show Level Up</source>
-        <translation>显示升级</translation>
+        <translation>显示升级信息</translation>
     </message>
     <message>
         <source>Displays a message upon leveling up.</source>
@@ -1132,7 +1132,7 @@
     </message>
     <message>
         <source>Upper Left</source>
-        <translation>左上方</translation>
+        <translation>左上</translation>
     </message>
     <message>
         <source>Center</source>
@@ -1308,7 +1308,7 @@
     </message>
     <message>
         <source>Whip</source>
-        <translation>鞭子</translation>
+        <translation>鞭</translation>
     </message>
     <message>
         <source>Cane</source>
@@ -1320,7 +1320,7 @@
     </message>
     <message>
         <source>Crossbow</source>
-        <translation>十字弓</translation>
+        <translation>弩</translation>
     </message>
     <message>
         <source>Gun</source>
@@ -1344,7 +1344,7 @@
     </message>
     <message>
         <source>Rod</source>
-        <translation>棒</translation>
+        <translation>魔杖</translation>
     </message>
     <message>
         <source>Club</source>
@@ -1354,11 +1354,11 @@
     <message>
         <source>Combat Chain</source>
         <translatorcomment>comment：元翻訳「战链」を「战斗链」に変更しました。</translatorcomment>
-        <translation>战斗链</translation>
+        <translation>分铜锁</translation>
     </message>
     <message>
         <source>Futuristic Sword</source>
-        <translation>幻想剑</translation>
+        <translation>近未来剑</translation>
     </message>
     <message>
         <source>Iron pipe</source>
@@ -1387,7 +1387,7 @@
     </message>
     <message>
         <source>Stun Rod</source>
-        <translation>电击棒</translation>
+        <translation>电击棍</translation>
     </message>
     <message>
         <source>User-defined 6</source>
@@ -1482,7 +1482,7 @@
     </message>
     <message>
         <source>Draw the subsequent text in the nth color.</source>
-        <translation>用第 n 个颜色来画接下来的文本。</translation>
+        <translation>后方的文字显示为第 n 号颜色。</translation>
     </message>
     <message>
         <source>Draw the nth icon.</source>
@@ -1525,7 +1525,7 @@
     <message>
         <source>Cancel the effect that displays text all at once.</source>
         <translatorcomment>comment：元翻訳「取消同时显示所有文字的功能。」を「同时取消文本的显示效果。」に変更しました。</translatorcomment>
-        <translation>取消“立刻显示所有文本”的效果。</translation>
+        <translation>取消立刻显示文字的效果。</translation>
     </message>
     <message>
         <source>Do not wait for input after displaying text.</source>
@@ -1566,7 +1566,7 @@
     </message>
     <message>
         <source>Data for player-controlled party members.</source>
-        <translation>玩家控制的队伍成员的数据。</translation>
+        <translation>玩家操作的队伍成员的数据。</translation>
     </message>
     <message>
         <source>Classes</source>
@@ -1601,7 +1601,7 @@
     </message>
     <message>
         <source>Data for weapon items that increase attack power mainly.</source>
-        <translation>主要增加攻击能力的武器的数据。</translation>
+        <translation>主要增加攻击力的武器的数据。</translation>
     </message>
     <message>
         <source>Armors</source>
@@ -1609,7 +1609,7 @@
     </message>
     <message>
         <source>Data for armor items that increase defense power mainly.</source>
-        <translation>主要增加防御的物品的数据。</translation>
+        <translation>主要增加防御力的护甲的数据。</translation>
     </message>
     <message>
         <source>Enemies</source>
@@ -4039,11 +4039,11 @@
     </message>
     <message>
         <source>Tileset</source>
-        <translation>图块组</translation>
+        <translation>图块</translation>
     </message>
     <message>
         <source>Tileset used for the map.</source>
-        <translation>地图的图块组。</translation>
+        <translation>地图的图块。</translation>
     </message>
     <message>
         <source>Width</source>
@@ -6598,7 +6598,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Also creates a branch for when the condition is not met.</source>
-        <translation>当条件未满足时也创建一个分支。</translation>
+        <translation>同时创建条件不满足时的分支。</translation>
     </message>
 </context>
 <context>
@@ -6876,7 +6876,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Add</source>
         <comment>Add to the party</comment>
-        <translation>增加</translation>
+        <translation>入队</translation>
     </message>
     <message>
         <source>Adds the actor to the party.</source>
@@ -6885,7 +6885,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Remove</source>
         <comment>Remove from the party</comment>
-        <translation>移除</translation>
+        <translation>离队</translation>
     </message>
     <message>
         <source>Removes the actor from the party.</source>
@@ -8112,7 +8112,7 @@ Please lower the file size of this project.</source>
         <source>Add %1</source>
         <comment>Add to the party</comment>
         <translatorcomment>增加到小组</translatorcomment>
-        <translation>添加 %1</translation>
+        <translation>%1 入队</translation>
     </message>
     <message>
         <source>Initialize</source>
@@ -8122,7 +8122,7 @@ Please lower the file size of this project.</source>
         <source>Remove %1</source>
         <comment>Remove from the party</comment>
         <translatorcomment>从小组中去除</translatorcomment>
-        <translation>移除 %1</translation>
+        <translation>%1 离队</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -8639,7 +8639,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Abort Battle</source>
-        <translation>战斗中断</translation>
+        <translation>中断战斗</translation>
     </message>
     <message>
         <source>Open Menu Screen</source>
@@ -9227,7 +9227,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Frame View</source>
-        <translation>帧视域</translation>
+        <translation>帧视图</translation>
     </message>
     <message>
         <source>Displays the contents of the selected frame. Double-click on the empty area to place a new cell. Drag a cell to move it. Right-click to open the popup menu.</source>
@@ -9768,7 +9768,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Invocation</source>
         <translatorcomment>comment：元の翻訳「符咒」を消して「启用」に変更致しました。</translatorcomment>
-        <translation>调用</translation>
+        <translation>发动</translation>
     </message>
     <message>
         <source>Settings related to action invocation.</source>
@@ -9999,7 +9999,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Show [%1] command in the menu screen.</source>
-        <translation>在菜单画面上显示“%1”命令。</translation>
+        <translation>在菜单画面上显示“%1”指令。</translation>
     </message>
 </context>
 <context>
@@ -10238,7 +10238,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Horizontal scale.</source>
-        <translation>水平缩放率。</translation>
+        <translation>横向缩放率。</translation>
     </message>
     <message>
         <source>Height</source>
@@ -10595,7 +10595,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Knockout by Slip Damage</source>
-        <translation>地形伤害可导致无法战斗</translation>
+        <translation>慢性伤害可导致无法战斗</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0 by slip damage, such as poison. If unchecked, stops at 1 HP.</source>
@@ -11637,7 +11637,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation>比例</translation>
+        <translation>缩放</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -12376,7 +12376,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Speed</source>
-        <translation>更改移动频率</translation>
+        <translation>更改移动速度</translation>
     </message>
     <message>
         <source>Frequency</source>
@@ -12421,11 +12421,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Transparent ON</source>
-        <translation>开启透明化</translation>
+        <translation>开启透明状态</translation>
     </message>
     <message>
         <source>Transparent OFF</source>
-        <translation>关闭透明</translation>
+        <translation>关闭透明状态</translation>
     </message>
     <message>
         <source>Image</source>
@@ -12843,7 +12843,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>General Special 1</source>
-        <translation>泛用/必杀技 1</translation>
+        <translation>通用/必杀技 1</translation>
     </message>
     <message>
         <source>General Special 2</source>
@@ -13006,7 +13006,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Fire All 3</source>
-        <translation>火/全体 3</translation>
+        <translation>炎/全体 3</translation>
     </message>
     <message>
         <source>Ice One 1</source>
@@ -13186,7 +13186,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Laser One</source>
-        <translation>激光/单体</translation>
+        <translation>激光/单发</translation>
     </message>
     <message>
         <source>Laser All</source>
@@ -14403,7 +14403,7 @@ HP reaches 0.</source>
     </message>
     <message>
         <source>Game Genre/Resource Type</source>
-        <translation>Game Genre/Resource 类型</translation>
+        <translation>Game Genre/Resource Type</translation>
     </message>
     <message>
         <source>Game/Resource Flavor</source>
@@ -14742,7 +14742,7 @@ HP reaches 0.</source>
     <message>
         <source>is driven</source>
         <translatorcomment>comment：元翻訳「被驱使」を「被驾驶」に変更しました。</translatorcomment>
-        <translation>被乘坐着</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
