@@ -4928,11 +4928,11 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Compressione dei file</translation>
     </message>
     <message>
         <source>File uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>Invio dei file</translation>
     </message>
 </context>
 <context>
@@ -11698,7 +11698,7 @@ Per favore completa il post seguendo questo link.</translation>
     <message>
         <source>Yes</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Sì</translation>
+        <translation>Sì</translation>
     </message>
     <message>
         <source>No</source>
