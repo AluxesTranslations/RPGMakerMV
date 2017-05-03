@@ -1645,11 +1645,11 @@
     </message>
     <message>
         <source>Zip Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimi</translation>
     </message>
     <message>
         <source>Zip compress the project files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimi i file del progetto.</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -2005,7 +2005,7 @@
     </message>
     <message>
         <source>Additional Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Strumenti Aggiuntivi</translation>
     </message>
     <message>
         <source>List of tools that have already been added.</source>
@@ -2021,7 +2021,7 @@
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Percorso</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2029,7 +2029,7 @@
     </message>
     <message>
         <source>Delete additional tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella gli strumenti aggiuntivi.</translation>
     </message>
     <message>
         <source>Found Tools</source>
@@ -2045,19 +2045,19 @@
     </message>
     <message>
         <source>Add a tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiunge uno strumento.</translation>
     </message>
     <message>
         <source>Select Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione Percorso</translation>
     </message>
     <message>
         <source>Select a folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona la cartella.</translation>
     </message>
     <message>
         <source>Select Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona Cartella</translation>
     </message>
 </context>
 <context>
@@ -3036,16 +3036,16 @@
     <message>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Autentica</translation>
     </message>
     <message>
         <source>Authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentica.</translation>
     </message>
     <message>
         <source>Deauthorize</source>
         <comment>Deauthorize Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi autorizzazione</translation>
     </message>
     <message>
         <source>Cancel authentication.</source>
@@ -3053,72 +3053,72 @@
     </message>
     <message>
         <source>Account has not been authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'account non è stato autenticato.</translation>
     </message>
     <message>
         <source>Your acount is</source>
-        <translation type="unfinished"></translation>
+        <translation>Il tuo account è</translation>
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Game Share(NICONICO)</translation>
     </message>
     <message>
         <source>Authentication(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticazione(NICONICO)</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>Clear Game ID Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pulisci</translation>
     </message>
     <message>
         <source>Clear the Game ID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella ID Gioco.</translation>
     </message>
     <message>
         <source>Clear the Game ID?</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancellare ID Gioco?</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GameShareOgc</name>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticazione</translation>
     </message>
     <message>
         <source>If necessary to authenticate OPEN GAME CREATORS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se necessario autenticare OPEN GAME CREATORS.</translation>
     </message>
     <message>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Autentica</translation>
     </message>
     <message>
         <source>Authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentica.</translation>
     </message>
     <message>
         <source>Account has not been authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'account non è stato autenticato.</translation>
     </message>
     <message>
         <source>Game Share(OPEN GAME CREATORS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Game Share(OPEN GAME CREATORS)</translation>
     </message>
     <message>
         <source>Authenticated account: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Account autenticato: %1</translation>
     </message>
     <message>
         <source>Deauthorize</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi autorizzazione</translation>
     </message>
     <message>
         <source>Cancel authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuove l'autorizzazione.</translation>
     </message>
     <message>
         <source>Info</source>
@@ -4140,7 +4140,7 @@
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimi file</translation>
     </message>
 </context>
 <context>
@@ -4891,7 +4891,7 @@
     <name>Dialog_Upload</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
@@ -4899,7 +4899,7 @@
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimi file</translation>
     </message>
     <message>
         <source>The compressed file size exceeded 300 MBytes.
@@ -4909,7 +4909,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>It exceeds the data capacity that can be posted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eccede la capacità di dati che può essere inviata.</translation>
     </message>
     <message>
         <source>File uploading</source>
@@ -4920,7 +4920,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     <name>Dialog_UploadOgc</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Carica</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
@@ -5014,14 +5014,14 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     <name>Dialog_WebBrowser</name>
     <message>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Browser</translation>
     </message>
 </context>
 <context>
     <name>Dialog_WebBrowserOgc</name>
     <message>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Browser</translation>
     </message>
     <message>
         <source>It is authenticated by Creator name: %1</source>
@@ -7549,7 +7549,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>Target all enemies in the troop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona tutti i nemici nella truppa.</translation>
     </message>
     <message>
         <source>Target all enemies in the troop?</source>
@@ -10677,7 +10677,7 @@ Please complete the post with follow this link.</source>
     <name>Html</name>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Connetti</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
@@ -10685,7 +10685,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticazione fallita.</translation>
     </message>
     <message>
         <source>Please close this window.</source>
@@ -10696,7 +10696,7 @@ Please complete the post with follow this link.</source>
     <name>HtmlOgc</name>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Connetti</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
