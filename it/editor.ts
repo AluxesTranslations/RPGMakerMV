@@ -9639,7 +9639,7 @@ Per favore completa il post seguendo questo link.</translation>
     <message>
         <source>OPEN GAME CREATORS</source>
         <comment>Upload operation enable</comment>
-        <translation type="unfinished"></translation>
+        <translation>OPEN GAME CREATORS</translation>
     </message>
 </context>
 <context>
@@ -13689,7 +13689,7 @@ quando gli HP raggiungono lo 0.</translation>
     </message>
     <message>
         <source>The tool could not be launched.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo strumento non può essere eseguito.</translation>
     </message>
 </context>
 <context>
