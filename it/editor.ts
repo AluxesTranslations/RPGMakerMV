@@ -289,15 +289,15 @@
     </message>
     <message>
         <source>Allows HP to drop to 0. If unchecked, stops at 1 HP.</source>
-        <translation>Consentire HP di scendere a 0. Senza segno di spunta, si arresta a 1 HP.</translation>
+        <translation>Consente agli HP di scendere a 0. Senza spunta, si arresta a 1.</translation>
     </message>
     <message>
         <source>Show Level Up</source>
-        <translation>Mostra livello superiore</translation>
+        <translation>Mostra Nuovo Livello</translation>
     </message>
     <message>
         <source>Displays a message upon leveling up.</source>
-        <translation>Visualizza un messaggio relativo al passaggio a livelli superiori.</translation>
+        <translation>Visualizza un messaggio relativo al passaggio di livello.</translation>
     </message>
     <message>
         <source>Loop Horizontally</source>
