@@ -8780,19 +8780,20 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Failed to upload a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Invio del progetto fallito.</translation>
     </message>
 </context>
 <context>
     <name>GameShareOgc</name>
     <message>
         <source>Failed to upload a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Invio del progetto fallito.</translation>
     </message>
     <message>
         <source>Succeeded to upload a project.
 Please complete the post with follow this link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Invio del progetto avvenuto con successo.
+Per favore completa il post seguendo questo link.</translation>
     </message>
 </context>
 <context>
@@ -9624,16 +9625,16 @@ Please complete the post with follow this link.</source>
     <name>Group_Network</name>
     <message>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Rete</translation>
     </message>
     <message>
         <source>Turns the upload operation on/off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva/Disattiva l'operazione di invio.</translation>
     </message>
     <message>
         <source>NicoNico</source>
         <comment>Upload operation enable</comment>
-        <translation type="unfinished"></translation>
+        <translation>NicoNico</translation>
     </message>
     <message>
         <source>OPEN GAME CREATORS</source>
@@ -10681,7 +10682,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticazione avvenuta con successo.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
@@ -10689,7 +10690,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Please close this window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per favore chiudi questa finestra.</translation>
     </message>
 </context>
 <context>
@@ -10700,15 +10701,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticazione riuscita.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticazione fallita.</translation>
     </message>
     <message>
         <source>Please close this window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per favore chiudi questa finestra.</translation>
     </message>
 </context>
 <context>
@@ -11598,35 +11599,35 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Game Share(NICONICO)</translation>
     </message>
     <message>
         <source>Upload the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia il gioco.</translation>
     </message>
     <message>
         <source>Game Share(OPEN GAME CREATORS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Game Share(OPEN GAME CREATORS)</translation>
     </message>
     <message>
         <source>RPG Maker MV Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>RPG Maker MV Tools</translation>
     </message>
     <message>
         <source>Add external tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi strumenti esterni.</translation>
     </message>
     <message>
         <source>Stop tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferma tutorial</translation>
     </message>
     <message>
         <source>Tutorial...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutorial...</translation>
     </message>
     <message>
         <source>Start a tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comincia il tutorial.</translation>
     </message>
 </context>
 <context>
