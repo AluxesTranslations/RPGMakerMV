@@ -4880,11 +4880,11 @@
     <message>
         <source>Close</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Chiudere</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Closes this window.</source>
-        <translation type="unfinished">Chiude questa finestra.</translation>
+        <translation>Chiude questa finestra.</translation>
     </message>
 </context>
 <context>
