@@ -1661,7 +1661,7 @@
     </message>
     <message>
         <source>Image files</source>
-        <translation type="unfinished">File di immagine</translation>
+        <translation>File di immagine</translation>
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
