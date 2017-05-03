@@ -4913,7 +4913,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>File uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>Invio del file</translation>
     </message>
 </context>
 <context>
@@ -5025,7 +5025,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>It is authenticated by Creator name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticato da Nome creatore: %1</translation>
     </message>
 </context>
 <context>
