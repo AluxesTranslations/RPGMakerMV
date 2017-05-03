@@ -281,7 +281,7 @@
     </message>
     <message>
         <source>Items that are equipped by party members will also be treated as their possession.</source>
-        <translation>Gli oggetti che sono equipaggiati dai membri del gruppo verranno considerati come di loro proprietà.</translation>
+        <translation>Gli oggetti equipaggiati dai membri del gruppo verranno considerati come di loro proprietà.</translation>
     </message>
     <message>
         <source>Allow Knockout</source>
