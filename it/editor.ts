@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>The selected frame is displayed in the right side.&lt;br&gt;[N] Selects the next item.&lt;br&gt;[B] Selects the previous item.</source>
-        <translation>Il fotogramma selezionato viene visualizzato nel lato destro.&lt;br&gt;[N] Consente di selezionare l'elemento successivo.&lt;br&gt;[B] Consente di selezionare l'elemento precedente.</translation>
+        <translation>Il fotogramma selezionato viene visualizzato nel lato destro.&lt;br&gt;[N] Seleziona l'elemento successivo.&lt;br&gt;[B] Seleziona l'elemento precedente.</translation>
     </message>
 </context>
 <context>
@@ -59,7 +59,7 @@
     </message>
     <message>
         <source>Damage Character</source>
-        <translation>Personaggio ferito</translation>
+        <translation>Personaggio Ferito</translation>
     </message>
     <message>
         <source>Opens the export window for damage characters.</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Save Settings</source>
-        <translation>Salvare impostazioni</translation>
+        <translation>Salva Impostazioni</translation>
     </message>
     <message>
         <source>Saves the current settings.</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Load Settings</source>
-        <translation>Carica impostazioni</translation>
+        <translation>Carica Impostazioni</translation>
     </message>
     <message>
         <source>Loads the saved settings.</source>
@@ -122,11 +122,11 @@
     </message>
     <message>
         <source>Front Hair</source>
-        <translation>Capelli lato anteriore</translation>
+        <translation>Capelli Anteriori</translation>
     </message>
     <message>
         <source>Rear Hair</source>
-        <translation>Capelli lato posteriore</translation>
+        <translation>Capelli Posteriori</translation>
     </message>
     <message>
         <source>Beard</source>
@@ -166,7 +166,7 @@
     </message>
     <message>
         <source>Wing</source>
-        <translation>Ala</translation>
+        <translation>Ali</translation>
     </message>
     <message>
         <source>Clothing</source>
@@ -190,19 +190,19 @@
     </message>
     <message>
         <source>Skin Color</source>
-        <translation>Colore della pelle</translation>
+        <translation>Colore Pelle</translation>
     </message>
     <message>
         <source>Hair Color</source>
-        <translation>Colore dei capelli</translation>
+        <translation>Colore Capelli</translation>
     </message>
     <message>
         <source>Sub Color</source>
-        <translation>Colore secondario</translation>
+        <translation>Colore Secondario</translation>
     </message>
     <message>
         <source>Eye Color</source>
-        <translation>Colore degli occhi</translation>
+        <translation>Colore Occhi</translation>
     </message>
     <message>
         <source>Facial Mark Color</source>
@@ -222,23 +222,23 @@
     </message>
     <message>
         <source>Main Color</source>
-        <translation>Colore principale</translation>
+        <translation>Colore Principale</translation>
     </message>
     <message>
         <source>Sub Color 1</source>
-        <translation>Colore secondario 1</translation>
+        <translation>Colore Secondario 1</translation>
     </message>
     <message>
         <source>Sub Color 2</source>
-        <translation>Colore secondario 2</translation>
+        <translation>Colore Secondario 2</translation>
     </message>
     <message>
         <source>Sub Color 3</source>
-        <translation>Colore secondario 3</translation>
+        <translation>Colore Secondario 3</translation>
     </message>
     <message>
         <source>Hair Clip Color</source>
-        <translation>Colore della clip per capelli</translation>
+        <translation>Colore Clip Capelli</translation>
     </message>
     <message>
         <source>Mesh Color</source>
@@ -273,15 +273,15 @@
     </message>
     <message>
         <source>Include Equipment</source>
-        <translation>Includere equipaggiamento</translation>
+        <translation>Includere Equipaggiamento</translation>
     </message>
     <message>
         <source>Items that are equipped by party members will also be affected.</source>
-        <translation>Verranno influenzati anche gli oggetti che sono in dotazione da parte di membri del gruppo.</translation>
+        <translation>Verranno influenzati anche gli oggetti equipaggiati dai membri del gruppo.</translation>
     </message>
     <message>
         <source>Items that are equipped by party members will also be treated as their possession.</source>
-        <translation>Anche gli oggetti che sono in dotazione da parte di membri del gruppo verranno considerati come di loro proprietà.</translation>
+        <translation>Gli oggetti che sono equipaggiati dai membri del gruppo verranno considerati come di loro proprietà.</translation>
     </message>
     <message>
         <source>Allow Knockout</source>
