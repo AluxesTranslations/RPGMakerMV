@@ -5025,7 +5025,7 @@ Per favore riduci la dimensione dei file del progetto.</translation>
     </message>
     <message>
         <source>It is authenticated by Creator name: %1</source>
-        <translation>Autenticato da Nome creatore: %1</translation>
+        <translation>Autenticato da nome Creator: %1</translation>
     </message>
 </context>
 <context>
