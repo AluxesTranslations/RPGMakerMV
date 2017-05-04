@@ -1386,7 +1386,7 @@
     <message>
         <source>High Contrast Black</source>
         <comment>Theme</comment>
-        <translation>Forte contrasto nero</translation>
+        <translation>Alto Contrasto Nero</translation>
     </message>
     <message>
         <source>Dropdown</source>
