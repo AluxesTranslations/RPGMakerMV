@@ -699,7 +699,7 @@
     </message>
     <message>
         <source>Menu Screen</source>
-        <translation>Schermata menù</translation>
+        <translation>Schermata Menù</translation>
     </message>
     <message>
         <source>Never</source>
