@@ -5,7 +5,7 @@
     <name>AnimationFrameList</name>
     <message>
         <source>Frame List</source>
-        <translation>Elenco fotogrammi</translation>
+        <translation>Elenco Fotogrammi</translation>
     </message>
     <message>
         <source>The selected frame is displayed in the right side.&lt;br&gt;[N] Selects the next item.&lt;br&gt;[B] Selects the previous item.</source>
@@ -16,11 +16,11 @@
     <name>AnimationScreen</name>
     <message>
         <source>To Upper</source>
-        <translation>Al livello superiore</translation>
+        <translation>Al Livello Superiore</translation>
     </message>
     <message>
         <source>To Lower</source>
-        <translation>Al livello inferiore</translation>
+        <translation>Al Livello Inferiore</translation>
     </message>
 </context>
 <context>
@@ -273,7 +273,7 @@
     </message>
     <message>
         <source>Include Equipment</source>
-        <translation>Includere Equipaggiamento</translation>
+        <translation>Includi Equipaggiamento</translation>
     </message>
     <message>
         <source>Items that are equipped by party members will also be affected.</source>
@@ -314,7 +314,7 @@
     </message>
     <message>
         <source>Image to be displayed on the menu screen.</source>
-        <translation>Immagine da visualizzare sulla schermata menu.</translation>
+        <translation>Immagine da visualizzare sulla schermata menù.</translation>
     </message>
     <message>
         <source>Character</source>
@@ -340,7 +340,7 @@
     </message>
     <message>
         <source>Boat</source>
-        <translation>Imbarcazione</translation>
+        <translation>Barca</translation>
     </message>
     <message>
         <source>Ship</source>
@@ -348,7 +348,7 @@
     </message>
     <message>
         <source>Airship</source>
-        <translation>Dirigibile</translation>
+        <translation>Aeronave</translation>
     </message>
     <message>
         <source>This Event</source>
@@ -514,11 +514,11 @@
     </message>
     <message>
         <source>Agility. Affects things like attack order.</source>
-        <translation>Ha effetto su cose  quali l'ordine di attacco.</translation>
+        <translation>Agilità. Ha effetto su cose quali l'ordine di attacco.</translation>
     </message>
     <message>
         <source>Luck. Affects things like the chance of status ailments occurring.</source>
-        <translation>Ha effetto su cose quali la possibilità che si verifichino disturbi dello stato.</translation>
+        <translation>Fortuna. Ha effetto su cose quali la possibilità che si verifichino disturbi dello stato.</translation>
     </message>
     <message>
         <source>Fight</source>
@@ -593,7 +593,7 @@
     <message>
         <source>Key Item</source>
         <comment>command</comment>
-        <translation>Oggetto chiave</translation>
+        <translation>Oggetto Chiave</translation>
     </message>
     <message>
         <source>Equip</source>
@@ -699,7 +699,7 @@
     </message>
     <message>
         <source>Menu Screen</source>
-        <translation>Schermata menu</translation>
+        <translation>Schermata menù</translation>
     </message>
     <message>
         <source>Never</source>
