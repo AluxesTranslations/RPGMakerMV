@@ -989,19 +989,19 @@
     </message>
     <message>
         <source>Save Count</source>
-        <translation>Salvare conteggio</translation>
+        <translation>Conteggio Salvataggi</translation>
     </message>
     <message>
         <source>Battle Count</source>
-        <translation>Conteggio battaglia</translation>
+        <translation>Conteggio Battaglie</translation>
     </message>
     <message>
         <source>Win Count</source>
-        <translation>Conteggio vittorie</translation>
+        <translation>Conteggio Vittorie</translation>
     </message>
     <message>
         <source>Escape Count</source>
-        <translation>Conteggio fuga</translation>
+        <translation>Conteggio Fughe</translation>
     </message>
     <message>
         <source>Black</source>
@@ -1140,7 +1140,7 @@
     </message>
     <message>
         <source>Down</source>
-        <translation>In basso</translation>
+        <translation>Giù</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1152,11 +1152,11 @@
     </message>
     <message>
         <source>Up</source>
-        <translation>In alto</translation>
+        <translation>Su</translation>
     </message>
     <message>
         <source>Retain</source>
-        <translation>Conservare</translation>
+        <translation>Mantieni</translation>
     </message>
     <message>
         <source>Rain</source>
@@ -1248,7 +1248,7 @@
     </message>
     <message>
         <source>Whip</source>
-        <translation>Frustino</translation>
+        <translation>Frusta</translation>
     </message>
     <message>
         <source>Cane</source>
@@ -1300,7 +1300,7 @@
     </message>
     <message>
         <source>Last Target</source>
-        <translation>Ultimo obiettivo</translation>
+        <translation>Ultimo bersaglio</translation>
     </message>
     <message>
         <source>Random</source>
@@ -1348,7 +1348,7 @@
     </message>
     <message>
         <source>Chainsaw</source>
-        <translation>Sega a catena</translation>
+        <translation>Motosega</translation>
     </message>
     <message>
         <source>Railgun</source>
@@ -1381,7 +1381,7 @@
     <message>
         <source>High Contrast White</source>
         <comment>Theme</comment>
-        <translation>Forte contrasto bianco</translation>
+        <translation>Alto Contrasto Bianco</translation>
     </message>
     <message>
         <source>High Contrast Black</source>
