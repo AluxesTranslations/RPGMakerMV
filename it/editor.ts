@@ -727,11 +727,11 @@
     </message>
     <message>
         <source>Dual Wield</source>
-        <translation>Doppio brandeggio</translation>
+        <translation>Doppia Arma</translation>
     </message>
     <message>
         <source>Auto Battle</source>
-        <translation>Battaglia automatica</translation>
+        <translation>Battaglia Automatica</translation>
     </message>
     <message>
         <source>Guard</source>
@@ -1448,7 +1448,7 @@
     </message>
     <message>
         <source>Open the gold window.</source>
-        <translation>Aprire la finestra d'oro.</translation>
+        <translation>Aprire la finestra dell'oro.</translation>
     </message>
     <message>
         <source>Wait 1/4 second.</source>
@@ -1506,7 +1506,7 @@
     </message>
     <message>
         <source>Data for player-controlled party members.</source>
-        <translation>Dati per i membri del gruppo controllato dal giocatore.</translation>
+        <translation>Dati per i membri del gruppo controllati dal giocatore.</translation>
     </message>
     <message>
         <source>Classes</source>
@@ -1657,7 +1657,7 @@
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation>Imposta le opzioni Crittografia.</translation>
+        <translation>Imposta le opzioni di Crittografia.</translation>
     </message>
     <message>
         <source>Image files</source>
@@ -1833,7 +1833,7 @@
     <name>Dialog_AnimationBatch</name>
     <message>
         <source>Batch</source>
-        <translation>Partita</translation>
+        <translation>Gruppo</translation>
     </message>
     <message>
         <source>Data</source>
