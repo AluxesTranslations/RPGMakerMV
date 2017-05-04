@@ -1381,7 +1381,7 @@
     <message>
         <source>High Contrast White</source>
         <comment>Theme</comment>
-        <translation>Alto Contrasto Bianco</translation>
+        <translation>Bianco Alto Contrasto</translation>
     </message>
     <message>
         <source>High Contrast Black</source>
