@@ -10653,7 +10653,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Chooses an object selector for selecting in-game objects in the editor like Items, Weapons, Armors and so on.</source>
-        <translation>Elije un selector de objetos para elegir los objetos del juego dentro del editor, tales como Objetos, Armas, Armaduras, etc.</translation>
+        <translation>Elige un selector de objetos para seleccionar los objetos del juego dentro del editor, tales como Objetos, Armas, Armaduras, etc.</translation>
     </message>
     <message>
         <source>Optimized for less than 100 objects.</source>
@@ -10668,7 +10668,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     <message>
         <source>Chooses one based on the amount of objects automatically.</source>
         <comment>Object Selector hint</comment>
-        <translation>Selecciona un objeto automáticamente basándose en la cantidad de objetos.</translation>
+        <translation>Selecciona un objeto automát. basándose en la cantidad de estos.</translation>
     </message>
 </context>
 <context>
