@@ -14121,7 +14121,7 @@ HP reaches 0.</source>
         <source> casts %1!</source>
         <comment>skill message</comment>
         <translatorcomment>技能信息</translatorcomment>
-        <translation>吟唱了 %1！</translation>
+        <translation>吟唱了%1！</translation>
     </message>
     <message>
         <source>Overworld</source>
