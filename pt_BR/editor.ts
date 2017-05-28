@@ -4898,7 +4898,7 @@
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Compactação de arquivo</translation>
     </message>
     <message>
         <source>The compressed file size exceeded 300 MBytes.
