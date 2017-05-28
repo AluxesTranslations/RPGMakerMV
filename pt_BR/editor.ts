@@ -1632,7 +1632,7 @@
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation>Define as opções de distribuição.</translation>
+        <translation>Definir as opções de distribuição.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -1648,39 +1648,39 @@
     </message>
     <message>
         <source>Zip compress the project files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Compactar os arquivos do projeto.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Criptografia</translation>
+        <translation>Criptografia</translation>
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="unfinished">Defina as opções de criptografia.</translation>
+        <translation>Definir as opções de criptografia.</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="unfinished">Arquivos de imagem</translation>
+        <translation>Arquivos de imagem</translation>
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="unfinished">Criptografe um arquivo de imagem que está incluído no pacote.</translation>
+        <translation>Criptografar arquivos de imagem no pacote de instalação.</translation>
     </message>
     <message>
         <source>Audio files</source>
-        <translation type="unfinished">Arquivos de áudio</translation>
+        <translation>Arquivos de áudio</translation>
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="unfinished">Criptografe um arquivo de áudio que está incluído no pacote.</translation>
+        <translation>Criptografar os arquivos de áudio no pacote de instalação.</translation>
     </message>
     <message>
         <source>Encryption key</source>
-        <translation type="unfinished">Chave de criptografia</translation>
+        <translation>Chave de criptografia</translation>
     </message>
     <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="unfinished">Favor inserir a chave de criptografia.</translation>
+        <translation>Insirir a chave de criptografia.</translation>
     </message>
 </context>
 <context>
@@ -1995,67 +1995,67 @@
     <name>Dialog_AppendTools</name>
     <message>
         <source>RPG Maker MV Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas do RPG Maker MV</translation>
     </message>
     <message>
         <source>Discard changes to RPG Maker MV tools?</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar alterações nas ferramentas do RPG Maker MV?</translation>
     </message>
     <message>
         <source>Additional Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas Adicionais</translation>
     </message>
     <message>
         <source>List of tools that have already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de ferramentas que já foram adicionadas.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descrição</translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Excluir</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Delete additional tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deletar ferramentas adicionais.</translation>
     </message>
     <message>
         <source>Found Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas Encontradas</translation>
     </message>
     <message>
         <source>List of tools that have been found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de ferramentas que foram encontradas.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <source>Add a tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar uma ferramenta.</translation>
     </message>
     <message>
         <source>Select Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Selec. Pasta</translation>
     </message>
     <message>
         <source>Select a folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar uma pasta.</translation>
     </message>
     <message>
         <source>Select Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar Pasta</translation>
     </message>
 </context>
 <context>
@@ -2379,11 +2379,11 @@
     </message>
     <message>
         <source>Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>Linux</translation>
     </message>
     <message>
         <source>Creates a package for Linux.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cria um pacote de instalação para Linux.</translation>
     </message>
 </context>
 <context>
@@ -3028,65 +3028,65 @@
     <name>Dialog_GameShare</name>
     <message>
         <source>If necessary to authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se é necessário autenticação.</translation>
     </message>
     <message>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Autenticação</translation>
     </message>
     <message>
         <source>Authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticar.</translation>
     </message>
     <message>
         <source>Deauthorize</source>
         <comment>Deauthorize Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desautorizar</translation>
     </message>
     <message>
         <source>Cancel authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar autenticação.</translation>
     </message>
     <message>
         <source>Account has not been authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conta não foi autenticada.</translation>
     </message>
     <message>
         <source>Your acount is</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua conta é</translation>
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartilhar Jogo (Niconico)</translation>
     </message>
     <message>
         <source>Authentication(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticação (Niconico)</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>Clear Game ID Button</comment>
-        <translation type="unfinished">Limpar</translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Clear the Game ID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar ID do Jogo.</translation>
     </message>
     <message>
         <source>Clear the Game ID?</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar ID do Jogo?</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GameShareOgc</name>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticação</translation>
     </message>
     <message>
         <source>If necessary to authenticate OPEN GAME CREATORS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se é necessário autenticação no Open Game Creators.</translation>
     </message>
     <message>
         <source>Authenticate</source>
