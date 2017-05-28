@@ -1644,7 +1644,7 @@
     </message>
     <message>
         <source>Zip Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Compactação Zip</translation>
     </message>
     <message>
         <source>Zip compress the project files.</source>
