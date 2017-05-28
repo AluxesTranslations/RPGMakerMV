@@ -4890,11 +4890,11 @@
     <name>Dialog_Upload</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
-        <translation type="unfinished">Criando um pacote de distribuição...</translation>
+        <translation>Criando um pacote de distribuição...</translation>
     </message>
     <message>
         <source>File compression</source>
