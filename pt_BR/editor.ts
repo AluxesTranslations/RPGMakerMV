@@ -3091,11 +3091,11 @@
     <message>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Autenticar</translation>
     </message>
     <message>
         <source>Authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticar.</translation>
     </message>
     <message>
         <source>Account has not been authenticated.</source>
