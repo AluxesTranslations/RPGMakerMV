@@ -3099,27 +3099,27 @@
     </message>
     <message>
         <source>Account has not been authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conta não foi autenticada.</translation>
     </message>
     <message>
         <source>Game Share(OPEN GAME CREATORS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartilhar Jogo (Open Game Creators)</translation>
     </message>
     <message>
         <source>Authenticated account: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Conta autenticada: %1</translation>
     </message>
     <message>
         <source>Deauthorize</source>
-        <translation type="unfinished"></translation>
+        <translation>Desautorizar</translation>
     </message>
     <message>
         <source>Cancel authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar autenticação.</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished">Informações</translation>
+        <translation>Informações</translation>
     </message>
 </context>
 <context>
