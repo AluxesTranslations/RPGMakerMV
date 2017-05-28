@@ -4138,7 +4138,7 @@
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Compactação de arquivo</translation>
     </message>
 </context>
 <context>
