@@ -5353,7 +5353,7 @@ Favor diminuir o tamanho do arquivo deste projeto.</translation>
     </message>
     <message>
         <source>EXP and Gold earned for defeating this enemy.</source>
-        <translation>EXP e Ouro conquistados por ter derrotado este inimigo.</translation>
+        <translation>EXP e Ouro ganhos por derrotar este inimigo.</translation>
     </message>
     <message>
         <source>EXP</source>
@@ -5361,7 +5361,7 @@ Favor diminuir o tamanho do arquivo deste projeto.</translation>
     </message>
     <message>
         <source>EXP earned by the party by winning a battle.</source>
-        <translation>EXP conquistado pelo grupo por ter vencido uma batalha.</translation>
+        <translation>EXP ganho pelo grupo por vencer uma batalha.</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -5369,7 +5369,7 @@ Favor diminuir o tamanho do arquivo deste projeto.</translation>
     </message>
     <message>
         <source>Gold earned by the party by winning a battle.</source>
-        <translation>Ouro conquistado pelo grupo por ter vencido a batalha.</translation>
+        <translation>Ouro ganho pelo grupo por vencer a batalha.</translation>
     </message>
     <message>
         <source>Drop Items</source>
