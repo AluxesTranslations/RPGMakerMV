@@ -1812,7 +1812,7 @@
     </message>
     <message>
         <source>Party Level</source>
-        <translation>Nivel del grupo</translation>
+        <translation>Niv. del grupo</translation>
     </message>
     <message>
         <source>Possible when the party members' highest level is greater than or equal to the specified number.</source>
@@ -8866,7 +8866,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Party Level</source>
-        <translation>Nivel del grupo</translation>
+        <translation>Niv. del grupo</translation>
     </message>
 </context>
 <context>
@@ -9241,7 +9241,7 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation>Esperar hasta finalizar</translation>
+        <translation>Esperar hasta final.</translation>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
