@@ -1401,6 +1401,30 @@
         <source>Index </source>
         <translation>الفهرس</translation>
     </message>
+    <message>
+        <source>Partial Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">تطابق جزئي</translation>
+    </message>
+    <message>
+        <source>Word Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">تطابق الكلمة</translation>
+    </message>
+    <message>
+        <source>Full Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">تطابق كلي</translation>
+    </message>
+    <message>
+        <source>Regular Expression</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">تعبير عادي</translation>
+    </message>
+    <message>
+        <source>Free text notes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ControlCharactersHint</name>
@@ -2379,11 +2403,11 @@
     </message>
     <message>
         <source>Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>لينكس</translation>
     </message>
     <message>
         <source>Creates a package for Linux.</source>
-        <translation type="unfinished"></translation>
+        <translation>يقوم بإنشاء مجموعة لنظام التشغيل لينكس.</translation>
     </message>
 </context>
 <context>
@@ -3022,6 +3046,18 @@
     <message>
         <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
         <translation>&lt;br&gt;[F5] يختار البند التالي.&lt;br&gt;[F4] يختار البند السابق.</translation>
+    </message>
+    <message>
+        <source>Common Events</source>
+        <translation type="unfinished">الأحداث العامة</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">الاسم</translation>
+    </message>
+    <message>
+        <source>Name of the object.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4260,6 +4296,14 @@
         <source>OFF</source>
         <translation>إيقاف</translation>
     </message>
+    <message>
+        <source>Name of the plugin.</source>
+        <translation type="unfinished">اسم المكون الإضافي.</translation>
+    </message>
+    <message>
+        <source>Description of the plugin.</source>
+        <translation type="unfinished">وصف المكون الإضافي.</translation>
+    </message>
 </context>
 <context>
     <name>Dialog_PluginParameter</name>
@@ -4278,6 +4322,106 @@
     <message>
         <source>Description of the parameter.</source>
         <translation>وصف المعامل.</translation>
+    </message>
+    <message>
+        <source>%1 List</source>
+        <translation type="unfinished">قائمة 1%</translation>
+    </message>
+    <message>
+        <source>Structure</source>
+        <translation type="unfinished">التركيب</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">نص</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">رقم</translation>
+    </message>
+    <message>
+        <source>Boolean</source>
+        <translation type="unfinished">منطقي</translation>
+    </message>
+    <message>
+        <source>Option</source>
+        <translation type="unfinished">خيار</translation>
+    </message>
+    <message>
+        <source>Editable Option</source>
+        <translation type="unfinished">خيار قابل للتعديل</translation>
+    </message>
+    <message>
+        <source>Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Actor</source>
+        <translation type="unfinished">اللاعب</translation>
+    </message>
+    <message>
+        <source>Class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skill</source>
+        <translation type="unfinished">المهارة</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weapon</source>
+        <translation type="unfinished">السلاح</translation>
+    </message>
+    <message>
+        <source>Armor</source>
+        <translation type="unfinished">الدرع</translation>
+    </message>
+    <message>
+        <source>Enemy</source>
+        <translation type="unfinished">العدو</translation>
+    </message>
+    <message>
+        <source>Troop</source>
+        <translation type="unfinished">القوات</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tileset</source>
+        <translation type="unfinished">مجموعة الصور</translation>
+    </message>
+    <message>
+        <source>Common Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Variable</source>
+        <translation type="unfinished">المتغير</translation>
+    </message>
+    <message>
+        <source>Visual mode is not available as the current value is malformed. 
+
+Please try to clear or reset the value.</source>
+        <translation type="unfinished">الوضع المرئي غير متاح نظراً لصياغة القيمة الحالية بطريقة خاطئة.
+
+الرجاء محاولة مسح القيمة أو إعادة ضبطها.</translation>
     </message>
 </context>
 <context>
@@ -4324,7 +4468,7 @@
     </message>
     <message>
         <source>Displays the help text of the plugin.</source>
-        <translation>يعرض نص المساعدة للمكون الإضافي.</translation>
+        <translation type="vanished">يعرض نص المساعدة للمكون الإضافي.</translation>
     </message>
     <message>
         <source>Description</source>
@@ -4352,7 +4496,11 @@
     </message>
     <message>
         <source>Value</source>
-        <translation>القيمة</translation>
+        <translation type="vanished">القيمة</translation>
+    </message>
+    <message>
+        <source>Displays the help text of the plugin</source>
+        <translation type="unfinished">يعرض نص المساعدة للمكون الإضافي</translation>
     </message>
 </context>
 <context>
@@ -4895,6 +5043,10 @@ Please lower the file size of this project.</source>
         <source>File uploading</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Checking a difference between file...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Dialog_UploadOgc</name>
@@ -4988,6 +5140,10 @@ Please lower the file size of this project.</source>
     <message>
         <source>Name of the variable.</source>
         <translation>اسم المتغير.</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5092,6 +5248,14 @@ Please lower the file size of this project.</source>
     <message>
         <source>Weapon and armor that the actor has equipped at the start of the game.</source>
         <translation>السلاح والدرع الذي تم تجهيز اللاعب بهما في بداية اللعبة.</translation>
+    </message>
+    <message>
+        <source>Nickname displayed on the status screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text to be displayed on the status screen.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8728,6 +8892,26 @@ Please lower the file size of this project.</source>
         <source>(None)</source>
         <translation>(لا شيء)</translation>
     </message>
+    <message>
+        <source>File List</source>
+        <translation type="unfinished">قائمة الملف</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="unfinished">اسم الملف</translation>
+    </message>
+    <message>
+        <source>The name of the file.</source>
+        <translation type="unfinished">اسم الملف.</translation>
+    </message>
+    <message>
+        <source>File Extension Name</source>
+        <translation type="unfinished">اسم امتداد الملف</translation>
+    </message>
+    <message>
+        <source>File names should end with “.%1” instead of “.%2”. Otherwise your game may not run correctly in case-sensitive environments, such as popular Linux web hosting services.</source>
+        <translation type="unfinished">يجب أن تنتهي أسماء الملفات بـ ”1%“ بدلاً من ”2%“. وإلا قد يتعذر على لعبتك العمل بصورة صحيحة في بيئات تمييز الأحرف الاستهلالية، مثل خدمات استضافة الويب الشهيرة من لينكس.</translation>
+    </message>
 </context>
 <context>
     <name>GameObjectBox</name>
@@ -9605,6 +9789,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>OPEN GAME CREATORS</source>
+        <comment>Upload operation enable</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monaca</source>
         <comment>Upload operation enable</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -11591,6 +11780,34 @@ Please complete the post with follow this link.</source>
         <source>Start a tutorial.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">بحث</translation>
+    </message>
+    <message>
+        <source>Finds the specified text.</source>
+        <translation type="unfinished">يبحث عن النص المحدد.</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">البحث عن التالي</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">يبحث عن الحالة التالية للنص الذي قمت بتحديده.</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">البحث عن السابق</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">يبحث عن الحالة السابقة للنص الذي قمت بتحديده.</translation>
+    </message>
 </context>
 <context>
     <name>MapEditTreeBox</name>
@@ -11608,6 +11825,18 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Cannot create any more events.</source>
         <translation>لا يمكن إنشاء المزيد من الأحداث.</translation>
+    </message>
+    <message>
+        <source>Map Events</source>
+        <translation type="unfinished">أحداث الخريطة</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">الاسم</translation>
+    </message>
+    <message>
+        <source>Name of the event.</source>
+        <translation type="unfinished">اسم الحادث.</translation>
     </message>
 </context>
 <context>
@@ -13698,6 +13927,18 @@ HP reaches 0.</source>
         <source>Redo</source>
         <translation>تكرار</translation>
     </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">بحث</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">البحث عن التالي</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">البحث عن السابق</translation>
+    </message>
 </context>
 <context>
     <name>SteamWindow</name>
@@ -14528,6 +14769,10 @@ HP reaches 0.</source>
         <source>Step 19: Title and Plug-ins</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Step 16: Symbol Encounters</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialManager</name>
@@ -14917,6 +15162,10 @@ Next we will determine the player&apos;s initial position.</source>
         <source>That&apos;s it! Click Playtest.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click &quot;normal town&quot; from the map tree.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialStep10</name>
@@ -15143,6 +15392,12 @@ Check that the rocks move, and that everything is all right even if they&apos;re
     <message>
         <source>If it went well, let&apos;s try thinking about why they moved. 
 Well then, nicely done.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The placement coordinate will be (16,18). From the entrance, it is 11 spaces up and 1 space right. 
+After making the event, we&apos;ll copy and paste it to the coordinates to the left and right of this space. 
+First, find (16,18).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18629,6 +18884,12 @@ Make sure the BGM is playing in each map.</source>
 The next step will finally be the last one.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enter:　　　　　　　　　\{\{\{THE END
+ 
+The first characters are 12 spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialStep19</name>
@@ -21025,6 +21286,227 @@ an event with no image above that as well.</source>
         <source>A noticeboard event has various applications. 
 That&apos;s the end of the explanation of Step 9.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Find</name>
+    <message>
+        <source>Find in %1</source>
+        <translation type="unfinished">البحث في 1%</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">بحث</translation>
+    </message>
+    <message>
+        <source>Find what</source>
+        <translation type="unfinished">البحث عن</translation>
+    </message>
+    <message>
+        <source>Provides a space for you to type the text you want to find.</source>
+        <translation type="unfinished">يعطيك المجال لطباعة النص الذي تريد البحث عنه.</translation>
+    </message>
+    <message>
+        <source>Look at</source>
+        <translation type="unfinished">النظر إلى</translation>
+    </message>
+    <message>
+        <source>Narrows the search by specifying the text in which you want to search.</source>
+        <translation type="unfinished">يحصر نطاق البحث من خلال تحديد النص الذي تريد البحث عنه.</translation>
+    </message>
+    <message>
+        <source>Matching</source>
+        <translation type="unfinished">التطابق</translation>
+    </message>
+    <message>
+        <source>Controls how to match the text against your keyword.</source>
+        <translation type="unfinished">يتحكم بطريقة مطابقة النص مع اللوحة المفاتيح الخاصة بك.</translation>
+    </message>
+    <message>
+        <source>Case sensitive</source>
+        <translation type="unfinished">الحروف الاستهلالية</translation>
+    </message>
+    <message>
+        <source>Finds only text with uppercase and lowercase characters as specified.</source>
+        <translation type="unfinished">يبحث عن النص بالأحرف الاستهلالية الكبيرة والصغيرة وفقاً لما تم تحديده فقط.</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">البحث عن التالي</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">يبحث عن الحالة السابقة للنص الذي قمت بتحديده.</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">البحث عن السابق</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">يبحث عن الحالة السابقة للنص الذي قمت بتحديده.</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>Dialog Button</comment>
+        <translation type="unfinished">إغلاق</translation>
+    </message>
+    <message>
+        <source>Closes this window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Searches for your text inside longer strings.</source>
+        <translation type="unfinished">يبحث عن النص الخاص بك داخل الجمل الطويلة.</translation>
+    </message>
+    <message>
+        <source>Searches for whole words instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">يبحث عن الكلمات الكاملة بدلاً من البحث عن النص الخاص بك في الجمل الطويلة.</translation>
+    </message>
+    <message>
+        <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">يبحث عن الجمل الكاملة بدلاً من البحث عن النص الخاص بك في الجمل الطويلة.</translation>
+    </message>
+    <message>
+        <source>Enables regular expressions (JavaScript flavour).</source>
+        <translation type="unfinished">يتيح التعابير العادية (نكهة JavaScript).</translation>
+    </message>
+    <message>
+        <source>Only works for languages where words are separated by spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Monaca</name>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FindManager</name>
+    <message>
+        <source>No more results can be found below the current position.</source>
+        <translation type="unfinished">تعذّر العثور على المزيد من النتائج في أسفل الموضع الحالي.</translation>
+    </message>
+    <message>
+        <source>No more results can be found above the current position.</source>
+        <translation type="unfinished">تعذّر العثور على المزيد من النتائج في أعلى الموضع الحالي.</translation>
+    </message>
+    <message>
+        <source>The regular expression contains an error.</source>
+        <translation type="unfinished">يوجد خطأ في التعبير الحالي.</translation>
+    </message>
+</context>
+<context>
+    <name>IssuesDialogBox</name>
+    <message>
+        <source>Issues with “%1”</source>
+        <comment>filename</comment>
+        <translation type="unfinished">مشاكل ”1%“</translation>
+    </message>
+</context>
+<context>
+    <name>MapSelectTreeBox</name>
+    <message>
+        <source>Map List</source>
+        <translation type="unfinished">قائمة الخريطة</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">الاسم</translation>
+    </message>
+    <message>
+        <source>Name of the map.</source>
+        <translation type="unfinished">اسم الخريطة.</translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished">عرض الاسم</translation>
+    </message>
+    <message>
+        <source>Name displayed on the upper left part of the screen when moving to the map.</source>
+        <translation>يتم عرض الاسم على الجزء الأيسر العلوي من الشاشة عند الانتقال إلى الخريطة.</translation>
+    </message>
+</context>
+<context>
+    <name>Monaca</name>
+    <message>
+        <source>Succeeded to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There was no difference file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorBoolean</name>
+    <message>
+        <source>ON</source>
+        <translation type="unfinished">تشغيل</translation>
+    </message>
+    <message>
+        <source>OFF</source>
+        <translation type="unfinished">إيقاف</translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorList</name>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">القيمة</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">تحرير نص</translation>
+    </message>
+    <message>
+        <source>Plugin Parameter Values</source>
+        <translation type="unfinished">قيم محددات المكون الإضافي</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">قيمة محدد المكون الإضافي.</translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingBox</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">الاسم</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">القيمة</translation>
+    </message>
+    <message>
+        <source>Plugin Parameters</source>
+        <translation type="unfinished">محددات المكون الإضافي</translation>
+    </message>
+    <message>
+        <source>Name of the plugin parameter.</source>
+        <translation type="unfinished">اسم محدد المكون الإضافي.</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">قيمة محدد المكون الإضافي.</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">الوصف</translation>
+    </message>
+    <message>
+        <source>Description of the plugin parameter.</source>
+        <translation type="unfinished">وصف محدد المكون الإضافي.</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">تحرير نص</translation>
     </message>
 </context>
 </TS>

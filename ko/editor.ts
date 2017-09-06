@@ -1400,6 +1400,30 @@
         <comment>Object Selector</comment>
         <translation>자동 정렬</translation>
     </message>
+    <message>
+        <source>Partial Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">부분 일치</translation>
+    </message>
+    <message>
+        <source>Word Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">단어 일치</translation>
+    </message>
+    <message>
+        <source>Full Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">전체 일치</translation>
+    </message>
+    <message>
+        <source>Regular Expression</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">정규 표현</translation>
+    </message>
+    <message>
+        <source>Free text notes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ControlCharactersHint</name>
@@ -2378,11 +2402,11 @@
     </message>
     <message>
         <source>Linux</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">리눅스</translation>
     </message>
     <message>
         <source>Creates a package for Linux.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">리눅스용 패키지를 만듭니다.</translation>
     </message>
 </context>
 <context>
@@ -3021,6 +3045,18 @@
     <message>
         <source>Enemies</source>
         <translation>적 캐릭터</translation>
+    </message>
+    <message>
+        <source>Common Events</source>
+        <translation type="unfinished">공통 이벤트</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name of the object.</source>
+        <translation type="unfinished">대상 이름.</translation>
     </message>
 </context>
 <context>
@@ -4258,6 +4294,14 @@
         <source>Refresh</source>
         <translation>새로 고침</translation>
     </message>
+    <message>
+        <source>Name of the plugin.</source>
+        <translation type="unfinished">플러그인 이름.</translation>
+    </message>
+    <message>
+        <source>Description of the plugin.</source>
+        <translation type="unfinished">플러그인에 대한 설명.</translation>
+    </message>
 </context>
 <context>
     <name>Dialog_PluginParameter</name>
@@ -4276,6 +4320,106 @@
     <message>
         <source>Description of the parameter.</source>
         <translation>매개변수에 대한 설명.</translation>
+    </message>
+    <message>
+        <source>%1 List</source>
+        <translation type="unfinished">%1 목록</translation>
+    </message>
+    <message>
+        <source>Structure</source>
+        <translation type="unfinished">구조</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">텍스트</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">파일</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation type="unfinished">메모</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">번호</translation>
+    </message>
+    <message>
+        <source>Boolean</source>
+        <translation type="unfinished">불린</translation>
+    </message>
+    <message>
+        <source>Option</source>
+        <translation type="unfinished">옵션</translation>
+    </message>
+    <message>
+        <source>Editable Option</source>
+        <translation type="unfinished">편집 가능한 옵션</translation>
+    </message>
+    <message>
+        <source>Animation</source>
+        <translation type="unfinished">애니메이션</translation>
+    </message>
+    <message>
+        <source>Actor</source>
+        <translation type="unfinished">액터</translation>
+    </message>
+    <message>
+        <source>Class</source>
+        <translation type="unfinished">직업</translation>
+    </message>
+    <message>
+        <source>Skill</source>
+        <translation type="unfinished">스킬</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <translation type="unfinished">아이템</translation>
+    </message>
+    <message>
+        <source>Weapon</source>
+        <translation type="unfinished">무기</translation>
+    </message>
+    <message>
+        <source>Armor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enemy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Troop</source>
+        <translation type="unfinished">적 군단</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished">스탯</translation>
+    </message>
+    <message>
+        <source>Tileset</source>
+        <translation type="unfinished">타일셋</translation>
+    </message>
+    <message>
+        <source>Common Event</source>
+        <translation type="unfinished">공통 이벤트</translation>
+    </message>
+    <message>
+        <source>Switch</source>
+        <translation type="unfinished">스위치</translation>
+    </message>
+    <message>
+        <source>Variable</source>
+        <translation type="unfinished">변수</translation>
+    </message>
+    <message>
+        <source>Visual mode is not available as the current value is malformed. 
+
+Please try to clear or reset the value.</source>
+        <translation type="unfinished">값이 잘못되어 현재 시각 모드를 이용할 수 없습니다. 
+
+값을 삭제하시거나 재설정하십시오.</translation>
     </message>
 </context>
 <context>
@@ -4322,7 +4466,7 @@
     </message>
     <message>
         <source>Displays the help text of the plugin.</source>
-        <translation>플러그인의 도움말 텍스트를 표시.</translation>
+        <translation type="vanished">플러그인의 도움말 텍스트를 표시.</translation>
     </message>
     <message>
         <source>Description</source>
@@ -4350,7 +4494,11 @@
     </message>
     <message>
         <source>Value</source>
-        <translation>값</translation>
+        <translation type="vanished">값</translation>
+    </message>
+    <message>
+        <source>Displays the help text of the plugin</source>
+        <translation type="unfinished">플러그인 도움말 표시</translation>
     </message>
 </context>
 <context>
@@ -4904,6 +5052,10 @@ Please lower the file size of this project.</source>
         <source>File uploading</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Checking a difference between file...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Dialog_UploadOgc</name>
@@ -4997,6 +5149,10 @@ Please lower the file size of this project.</source>
     <message>
         <source>Name of the variable.</source>
         <translation>변수의 명칭.</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">없음</translation>
     </message>
 </context>
 <context>
@@ -5101,6 +5257,14 @@ Please lower the file size of this project.</source>
     <message>
         <source>Weapon and armor that the actor has equipped at the start of the game.</source>
         <translation>게임 시작 시 액터가 장착하고 있는 무기와 방어구.</translation>
+    </message>
+    <message>
+        <source>Nickname displayed on the status screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text to be displayed on the status screen.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8739,6 +8903,26 @@ Please lower the file size of this project.</source>
         <source>(None)</source>
         <translation>(없음)</translation>
     </message>
+    <message>
+        <source>File List</source>
+        <translation type="unfinished">파일 목록</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="unfinished">파일 이름</translation>
+    </message>
+    <message>
+        <source>The name of the file.</source>
+        <translation type="unfinished">파일 이름입니다.</translation>
+    </message>
+    <message>
+        <source>File Extension Name</source>
+        <translation type="unfinished">파일 확장자명</translation>
+    </message>
+    <message>
+        <source>File names should end with “.%1” instead of “.%2”. Otherwise your game may not run correctly in case-sensitive environments, such as popular Linux web hosting services.</source>
+        <translation type="unfinished">파일명은 “.%2”가 아니라 “.%1” 로 끝나야 합니다. 그렇지 않으면 일반적인 리눅스 웹 호스팅 서비스 등 대/소문자를 구분하는 환경에서 게임이 정상적으로 실행되지 않을 수 있습니다.</translation>
+    </message>
 </context>
 <context>
     <name>GameObjectBox</name>
@@ -9616,6 +9800,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>OPEN GAME CREATORS</source>
+        <comment>Upload operation enable</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monaca</source>
         <comment>Upload operation enable</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -11602,6 +11791,34 @@ Please complete the post with follow this link.</source>
         <source>Start a tutorial.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">찾기</translation>
+    </message>
+    <message>
+        <source>Finds the specified text.</source>
+        <translation type="unfinished">지정한 텍스트를 찾습니다.</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">다음 찾기</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">지정한 텍스트의 다음 검색 결과를 찾습니다.</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">이전 찾기</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">지정한 텍스트의 이전 검색 결과를 찾습니다.</translation>
+    </message>
 </context>
 <context>
     <name>MapEditTreeBox</name>
@@ -11619,6 +11836,18 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Cannot create any more events.</source>
         <translation>더 이상 이벤트를 만들 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Map Events</source>
+        <translation type="unfinished">지도 이벤트</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name of the event.</source>
+        <translation type="unfinished">이벤트명.</translation>
     </message>
 </context>
 <context>
@@ -13706,6 +13935,18 @@ HP reaches 0.</source>
         <source>Redo</source>
         <translation>다시하기</translation>
     </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">찾기</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">다음 찾기</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">이전 찾기</translation>
+    </message>
 </context>
 <context>
     <name>SteamWindow</name>
@@ -14535,6 +14776,10 @@ HP reaches 0.</source>
         <source>Step 19: Title and Plug-ins</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Step 16: Symbol Encounters</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialManager</name>
@@ -14924,6 +15169,10 @@ Next we will determine the player&apos;s initial position.</source>
         <source>That&apos;s it! Click Playtest.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click &quot;normal town&quot; from the map tree.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialStep10</name>
@@ -15150,6 +15399,12 @@ Check that the rocks move, and that everything is all right even if they&apos;re
     <message>
         <source>If it went well, let&apos;s try thinking about why they moved. 
 Well then, nicely done.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The placement coordinate will be (16,18). From the entrance, it is 11 spaces up and 1 space right. 
+After making the event, we&apos;ll copy and paste it to the coordinates to the left and right of this space. 
+First, find (16,18).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18636,6 +18891,12 @@ Make sure the BGM is playing in each map.</source>
 The next step will finally be the last one.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enter:　　　　　　　　　\{\{\{THE END
+ 
+The first characters are 12 spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialStep19</name>
@@ -21032,6 +21293,227 @@ an event with no image above that as well.</source>
         <source>A noticeboard event has various applications. 
 That&apos;s the end of the explanation of Step 9.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Find</name>
+    <message>
+        <source>Find in %1</source>
+        <translation type="unfinished">%1에서 찾기</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">찾기</translation>
+    </message>
+    <message>
+        <source>Find what</source>
+        <translation type="unfinished">찾는 내용</translation>
+    </message>
+    <message>
+        <source>Provides a space for you to type the text you want to find.</source>
+        <translation type="unfinished">찾고 싶은 텍스트를 입력할 칸을 제공합니다.</translation>
+    </message>
+    <message>
+        <source>Look at</source>
+        <translation type="unfinished">보기</translation>
+    </message>
+    <message>
+        <source>Narrows the search by specifying the text in which you want to search.</source>
+        <translation type="unfinished">검색하려는 텍스트를 지정하여 검색 결과를 한정합니다.</translation>
+    </message>
+    <message>
+        <source>Matching</source>
+        <translation type="unfinished">일치</translation>
+    </message>
+    <message>
+        <source>Controls how to match the text against your keyword.</source>
+        <translation type="unfinished">검색어와 일치하는 텍스트 검색 방법을 설정합니다.</translation>
+    </message>
+    <message>
+        <source>Case sensitive</source>
+        <translation type="unfinished">대/소문자 구분</translation>
+    </message>
+    <message>
+        <source>Finds only text with uppercase and lowercase characters as specified.</source>
+        <translation type="unfinished">대문자나 소문자를 지정하여 검색합니다.</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">다음 찾기</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">지정한 텍스트의 다음 검색 결과를 찾습니다.</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">이전 찾기</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">지정한 텍스트의 이전 검색 결과를 찾습니다.</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>Dialog Button</comment>
+        <translation type="unfinished">닫기</translation>
+    </message>
+    <message>
+        <source>Closes this window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Searches for your text inside longer strings.</source>
+        <translation type="unfinished">더 긴 문자열에서 텍스트를 검색합니다.</translation>
+    </message>
+    <message>
+        <source>Searches for whole words instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">더 긴 문자열에서 텍스트를 검색하는 대신 전체 단어를 찾습니다.</translation>
+    </message>
+    <message>
+        <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">더 긴 문자열에서 텍스트를 검색하는 대신 전체 문자열을 찾습니다.</translation>
+    </message>
+    <message>
+        <source>Enables regular expressions (JavaScript flavour).</source>
+        <translation type="unfinished">정규 표현을 허용합니다(JavaScript 버전).</translation>
+    </message>
+    <message>
+        <source>Only works for languages where words are separated by spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Monaca</name>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FindManager</name>
+    <message>
+        <source>No more results can be found below the current position.</source>
+        <translation type="unfinished">현재 위치 아래로 더 이상 결과가 없습니다.</translation>
+    </message>
+    <message>
+        <source>No more results can be found above the current position.</source>
+        <translation type="unfinished">현재 위치 위로 더 이상 결과가 없습니다.</translation>
+    </message>
+    <message>
+        <source>The regular expression contains an error.</source>
+        <translation type="unfinished">정규 표현에 오류가 있습니다.</translation>
+    </message>
+</context>
+<context>
+    <name>IssuesDialogBox</name>
+    <message>
+        <source>Issues with “%1”</source>
+        <comment>filename</comment>
+        <translation type="unfinished">“%1” 관련 문제</translation>
+    </message>
+</context>
+<context>
+    <name>MapSelectTreeBox</name>
+    <message>
+        <source>Map List</source>
+        <translation type="unfinished">지도 목록</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name of the map.</source>
+        <translation type="unfinished">지도명.</translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished">이름 표시</translation>
+    </message>
+    <message>
+        <source>Name displayed on the upper left part of the screen when moving to the map.</source>
+        <translation type="unfinished">지도 이동 시에, 이름이 화면의 좌측 상단에 표시됩니다.</translation>
+    </message>
+</context>
+<context>
+    <name>Monaca</name>
+    <message>
+        <source>Succeeded to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There was no difference file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorBoolean</name>
+    <message>
+        <source>ON</source>
+        <translation type="unfinished">ON</translation>
+    </message>
+    <message>
+        <source>OFF</source>
+        <translation type="unfinished">OFF</translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorList</name>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">값</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">텍스트로 편집</translation>
+    </message>
+    <message>
+        <source>Plugin Parameter Values</source>
+        <translation type="unfinished">플러그인 매개 변수 값</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">플러그인 매개 변수의 값입니다.</translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingBox</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">값</translation>
+    </message>
+    <message>
+        <source>Plugin Parameters</source>
+        <translation type="unfinished">플러그인 매개 변수</translation>
+    </message>
+    <message>
+        <source>Name of the plugin parameter.</source>
+        <translation type="unfinished">플러그인 매개 변수의 이름입니다.</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">플러그인 매개 변수의 값입니다.</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">설명</translation>
+    </message>
+    <message>
+        <source>Description of the plugin parameter.</source>
+        <translation type="unfinished">플러그인 매개 변수의 설명입니다.</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">텍스트로 편집</translation>
     </message>
 </context>
 </TS>

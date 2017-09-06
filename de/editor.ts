@@ -1401,6 +1401,30 @@
         <comment>Object Selector</comment>
         <translation>Intelligent</translation>
     </message>
+    <message>
+        <source>Partial Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">Teilweise Übereinstimmung</translation>
+    </message>
+    <message>
+        <source>Word Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">Wortübereinstimmung</translation>
+    </message>
+    <message>
+        <source>Full Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">Vollständige Übereinstimmung</translation>
+    </message>
+    <message>
+        <source>Regular Expression</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">Regulärer Ausdruck</translation>
+    </message>
+    <message>
+        <source>Free text notes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ControlCharactersHint</name>
@@ -2381,11 +2405,11 @@
     </message>
     <message>
         <source>Linux</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Linux</translation>
     </message>
     <message>
         <source>Creates a package for Linux.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erstellt ein Paket für Linux</translation>
     </message>
 </context>
 <context>
@@ -3031,6 +3055,18 @@
     <message>
         <source>Enemies</source>
         <translation>Gegner</translation>
+    </message>
+    <message>
+        <source>Common Events</source>
+        <translation type="unfinished">Gew. Ereignisse</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+        <source>Name of the object.</source>
+        <translation type="unfinished">Name des Objekts.</translation>
     </message>
 </context>
 <context>
@@ -4269,6 +4305,14 @@
         <source>Refresh</source>
         <translation>Aktualisieren</translation>
     </message>
+    <message>
+        <source>Name of the plugin.</source>
+        <translation type="unfinished">Name des Plugins.</translation>
+    </message>
+    <message>
+        <source>Description of the plugin.</source>
+        <translation type="unfinished">Beschreibung des Plug-ins.</translation>
+    </message>
 </context>
 <context>
     <name>Dialog_PluginParameter</name>
@@ -4287,6 +4331,106 @@
     <message>
         <source>Description of the parameter.</source>
         <translation>Beschreibung des Parameters.</translation>
+    </message>
+    <message>
+        <source>%1 List</source>
+        <translation type="unfinished">Liste %1</translation>
+    </message>
+    <message>
+        <source>Structure</source>
+        <translation type="unfinished">Struktur</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Text</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Datei</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation type="unfinished">Hinweis</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">Zahl</translation>
+    </message>
+    <message>
+        <source>Boolean</source>
+        <translation type="unfinished">Boolean</translation>
+    </message>
+    <message>
+        <source>Option</source>
+        <translation type="unfinished">Option</translation>
+    </message>
+    <message>
+        <source>Editable Option</source>
+        <translation type="unfinished">Editierbare Option</translation>
+    </message>
+    <message>
+        <source>Animation</source>
+        <translation type="unfinished">Animation</translation>
+    </message>
+    <message>
+        <source>Actor</source>
+        <translation type="unfinished">Akteur</translation>
+    </message>
+    <message>
+        <source>Class</source>
+        <translation type="unfinished">Klasse</translation>
+    </message>
+    <message>
+        <source>Skill</source>
+        <translation type="unfinished">Skill</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weapon</source>
+        <translation type="unfinished">Waffe</translation>
+    </message>
+    <message>
+        <source>Armor</source>
+        <translation type="unfinished">Rüstung</translation>
+    </message>
+    <message>
+        <source>Enemy</source>
+        <translation type="unfinished">Gegner</translation>
+    </message>
+    <message>
+        <source>Troop</source>
+        <translation type="unfinished">Truppe</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished">Zustand</translation>
+    </message>
+    <message>
+        <source>Tileset</source>
+        <translation type="unfinished">Kachelset</translation>
+    </message>
+    <message>
+        <source>Common Event</source>
+        <translation type="unfinished">Gewhn. Ereignis</translation>
+    </message>
+    <message>
+        <source>Switch</source>
+        <translation type="unfinished">Schalter</translation>
+    </message>
+    <message>
+        <source>Variable</source>
+        <translation type="unfinished">Variable</translation>
+    </message>
+    <message>
+        <source>Visual mode is not available as the current value is malformed. 
+
+Please try to clear or reset the value.</source>
+        <translation type="unfinished">Visueller Modus ist nicht verfügbar, da der derzeitige Wert fehlerhaft ist.
+
+Bitte versuchen Sie den Wert zu löschen oder den Wert zurückzusetzen.</translation>
     </message>
 </context>
 <context>
@@ -4333,7 +4477,7 @@
     </message>
     <message>
         <source>Displays the help text of the plugin.</source>
-        <translation>Zeigt den Hilfe-Text des Plug-ins an.</translation>
+        <translation type="vanished">Zeigt den Hilfe-Text des Plug-ins an.</translation>
     </message>
     <message>
         <source>Description</source>
@@ -4361,7 +4505,11 @@
     </message>
     <message>
         <source>Value</source>
-        <translation>Wert</translation>
+        <translation type="vanished">Wert</translation>
+    </message>
+    <message>
+        <source>Displays the help text of the plugin</source>
+        <translation type="unfinished">Zeigt den Hilfetext des Plugins an.</translation>
     </message>
 </context>
 <context>
@@ -4918,6 +5066,10 @@ Please lower the file size of this project.</source>
         <source>File uploading</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Checking a difference between file...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Dialog_UploadOgc</name>
@@ -5011,6 +5163,10 @@ Please lower the file size of this project.</source>
     <message>
         <source>Name of the variable.</source>
         <translation>Name der Variablen.</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Keine</translation>
     </message>
 </context>
 <context>
@@ -5115,6 +5271,14 @@ Please lower the file size of this project.</source>
     <message>
         <source>Weapon and armor that the actor has equipped at the start of the game.</source>
         <translation>Waffe und Rüstung, mit denen der Akteur zu Spielbeginn ausgerüstet wurde.</translation>
+    </message>
+    <message>
+        <source>Nickname displayed on the status screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text to be displayed on the status screen.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8758,6 +8922,26 @@ Please lower the file size of this project.</source>
         <source>(None)</source>
         <translation>(Keine)</translation>
     </message>
+    <message>
+        <source>File List</source>
+        <translation type="unfinished">Dateiliste</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="unfinished">Dateiname</translation>
+    </message>
+    <message>
+        <source>The name of the file.</source>
+        <translation type="unfinished">Der Name der Datei.</translation>
+    </message>
+    <message>
+        <source>File Extension Name</source>
+        <translation type="unfinished">Dateierweiterungsname</translation>
+    </message>
+    <message>
+        <source>File names should end with “.%1” instead of “.%2”. Otherwise your game may not run correctly in case-sensitive environments, such as popular Linux web hosting services.</source>
+        <translation type="unfinished">Dateien sollten mit „.%1“ enden, nicht mit „.%2“. Andernfalls läuft das Spiel in Umgebungen, die auf Groß- und Kleinschreibung achten (z. B. populäre Linux Webhosting Services), möglicherweise nicht richtig.</translation>
+    </message>
 </context>
 <context>
     <name>GameObjectBox</name>
@@ -9639,6 +9823,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>OPEN GAME CREATORS</source>
+        <comment>Upload operation enable</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monaca</source>
         <comment>Upload operation enable</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -11626,6 +11815,34 @@ Please complete the post with follow this link.</source>
         <source>Start a tutorial.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">Suchen</translation>
+    </message>
+    <message>
+        <source>Finds the specified text.</source>
+        <translation type="unfinished">Sucht den angegebenen Text.</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">Nächstes suchen</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">Sucht nach der nächsten Übereinstimmung mit dem angegebenen Text.</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">Vorheriges suchen</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">Sucht nach der vorherigen Übereinstimmung mit dem angegebenen Text.</translation>
+    </message>
 </context>
 <context>
     <name>MapEditTreeBox</name>
@@ -11643,6 +11860,18 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Cannot create any more events.</source>
         <translation>Kann keine weiteren Ereignisse erstellen.</translation>
+    </message>
+    <message>
+        <source>Map Events</source>
+        <translation type="unfinished">Kartenereignisse</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+        <source>Name of the event.</source>
+        <translation type="unfinished">Name des Ereignisses.</translation>
     </message>
 </context>
 <context>
@@ -13729,6 +13958,18 @@ HP reaches 0.</source>
         <source>Redo</source>
         <translation>Wiederherstellen</translation>
     </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">Suchen</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">Nächstes suchen</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">Vorheriges suchen</translation>
+    </message>
 </context>
 <context>
     <name>SteamWindow</name>
@@ -14559,6 +14800,10 @@ HP reaches 0.</source>
         <source>Step 19: Title and Plug-ins</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Step 16: Symbol Encounters</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialManager</name>
@@ -14948,6 +15193,10 @@ Next we will determine the player&apos;s initial position.</source>
         <source>That&apos;s it! Click Playtest.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click &quot;normal town&quot; from the map tree.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialStep10</name>
@@ -15174,6 +15423,12 @@ Check that the rocks move, and that everything is all right even if they&apos;re
     <message>
         <source>If it went well, let&apos;s try thinking about why they moved. 
 Well then, nicely done.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The placement coordinate will be (16,18). From the entrance, it is 11 spaces up and 1 space right. 
+After making the event, we&apos;ll copy and paste it to the coordinates to the left and right of this space. 
+First, find (16,18).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18660,6 +18915,12 @@ Make sure the BGM is playing in each map.</source>
 The next step will finally be the last one.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enter:　　　　　　　　　\{\{\{THE END
+ 
+The first characters are 12 spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialStep19</name>
@@ -21056,6 +21317,227 @@ an event with no image above that as well.</source>
         <source>A noticeboard event has various applications. 
 That&apos;s the end of the explanation of Step 9.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Find</name>
+    <message>
+        <source>Find in %1</source>
+        <translation type="unfinished">Suchen in %1</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">Suchen</translation>
+    </message>
+    <message>
+        <source>Find what</source>
+        <translation type="unfinished">Suchen nach</translation>
+    </message>
+    <message>
+        <source>Provides a space for you to type the text you want to find.</source>
+        <translation type="unfinished">Platz zur Eingabe des Textes, nach dem gesucht werden soll.</translation>
+    </message>
+    <message>
+        <source>Look at</source>
+        <translation type="unfinished">Finden in</translation>
+    </message>
+    <message>
+        <source>Narrows the search by specifying the text in which you want to search.</source>
+        <translation type="unfinished">Eingrenzung der Suche durch Spezifizierung des Textes, in dem gesucht werden soll.</translation>
+    </message>
+    <message>
+        <source>Matching</source>
+        <translation type="unfinished">Übereinstimmung</translation>
+    </message>
+    <message>
+        <source>Controls how to match the text against your keyword.</source>
+        <translation type="unfinished">Bestimmt, wie der Text mit dem Stichwort verglichen wird.</translation>
+    </message>
+    <message>
+        <source>Case sensitive</source>
+        <translation type="unfinished">Groß-/Kleinschreibung beachten</translation>
+    </message>
+    <message>
+        <source>Finds only text with uppercase and lowercase characters as specified.</source>
+        <translation type="unfinished">Sucht nur Text mit der angegebenen Groß- und Kleinschreibung.</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">Nächstes suchen</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">Sucht nach der nächsten Übereinstimmung mit dem angegebenen Text.</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">Vorheriges suchen</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">Sucht nach der vorherigen Übereinstimmung mit dem angegebenen Text.</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>Dialog Button</comment>
+        <translation type="unfinished">Schließen</translation>
+    </message>
+    <message>
+        <source>Closes this window.</source>
+        <translation type="unfinished">Schließt dieses Fenster.</translation>
+    </message>
+    <message>
+        <source>Searches for your text inside longer strings.</source>
+        <translation type="unfinished">Sucht in längeren Strings nach dem Text.</translation>
+    </message>
+    <message>
+        <source>Searches for whole words instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">Sucht nach ganzen Wörtern, statt in längeren Strings.</translation>
+    </message>
+    <message>
+        <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">Sucht nach ganzen Strings, statt in längeren Strings.</translation>
+    </message>
+    <message>
+        <source>Enables regular expressions (JavaScript flavour).</source>
+        <translation type="unfinished">Macht reguläre Ausdrücke (JavaScript) verfügbar.</translation>
+    </message>
+    <message>
+        <source>Only works for languages where words are separated by spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Monaca</name>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FindManager</name>
+    <message>
+        <source>No more results can be found below the current position.</source>
+        <translation type="unfinished">Es konnten keine weiteren Ergebnisse unter der derzeitigen Position gefunden werden.</translation>
+    </message>
+    <message>
+        <source>No more results can be found above the current position.</source>
+        <translation type="unfinished">Es konnten keine weiteren Ergebnisse über der derzeitigen Position gefunden werden.</translation>
+    </message>
+    <message>
+        <source>The regular expression contains an error.</source>
+        <translation type="unfinished">Der reguläre Ausdruck ist fehlerhaft.</translation>
+    </message>
+</context>
+<context>
+    <name>IssuesDialogBox</name>
+    <message>
+        <source>Issues with “%1”</source>
+        <comment>filename</comment>
+        <translation type="unfinished">Probleme mit „%1“</translation>
+    </message>
+</context>
+<context>
+    <name>MapSelectTreeBox</name>
+    <message>
+        <source>Map List</source>
+        <translation type="unfinished">Kartenliste</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+        <source>Name of the map.</source>
+        <translation type="unfinished">Name der Karte.</translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished">Namen anzeigen</translation>
+    </message>
+    <message>
+        <source>Name displayed on the upper left part of the screen when moving to the map.</source>
+        <translation type="unfinished">Der Name, der oben links im Bildschirm angezeigt wird, wenn zur Karte gewechselt wird.</translation>
+    </message>
+</context>
+<context>
+    <name>Monaca</name>
+    <message>
+        <source>Succeeded to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There was no difference file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorBoolean</name>
+    <message>
+        <source>ON</source>
+        <translation type="unfinished">EIN</translation>
+    </message>
+    <message>
+        <source>OFF</source>
+        <translation type="unfinished">AUS</translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorList</name>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">Wert</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">Als Text bearbeiten</translation>
+    </message>
+    <message>
+        <source>Plugin Parameter Values</source>
+        <translation type="unfinished">Plugin-Parameterwerte</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">Wert des Plugin-Parameters.</translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingBox</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">Wert</translation>
+    </message>
+    <message>
+        <source>Plugin Parameters</source>
+        <translation type="unfinished">Plugin-Parameter</translation>
+    </message>
+    <message>
+        <source>Name of the plugin parameter.</source>
+        <translation type="unfinished">Name des Plugin-Parameters.</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">Wert des Plugin-Parameters.</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Beschreibung</translation>
+    </message>
+    <message>
+        <source>Description of the plugin parameter.</source>
+        <translation type="unfinished">Beschreibung des Plugin-Parameters.</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">Als Text bearbeiten</translation>
     </message>
 </context>
 </TS>

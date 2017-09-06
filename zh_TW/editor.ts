@@ -1400,6 +1400,30 @@
         <comment>Object Selector</comment>
         <translation>自動</translation>
     </message>
+    <message>
+        <source>Partial Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">部分符合</translation>
+    </message>
+    <message>
+        <source>Word Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">單字符合</translation>
+    </message>
+    <message>
+        <source>Full Match</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">全文符合</translation>
+    </message>
+    <message>
+        <source>Regular Expression</source>
+        <comment>Matching Type</comment>
+        <translation type="unfinished">正規表示式</translation>
+    </message>
+    <message>
+        <source>Free text notes.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ControlCharactersHint</name>
@@ -2382,11 +2406,11 @@
     </message>
     <message>
         <source>Linux</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Linux</translation>
     </message>
     <message>
         <source>Creates a package for Linux.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">製作Linux用的套件。</translation>
     </message>
 </context>
 <context>
@@ -3025,6 +3049,18 @@
     <message>
         <source>Enemies</source>
         <translation>敵人</translation>
+    </message>
+    <message>
+        <source>Common Events</source>
+        <translation type="unfinished">一般劇情</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">名稱</translation>
+    </message>
+    <message>
+        <source>Name of the object.</source>
+        <translation type="unfinished">物件名稱。</translation>
     </message>
 </context>
 <context>
@@ -4262,6 +4298,14 @@
         <source>Refresh</source>
         <translation>更新</translation>
     </message>
+    <message>
+        <source>Name of the plugin.</source>
+        <translation type="unfinished">插件名稱。</translation>
+    </message>
+    <message>
+        <source>Description of the plugin.</source>
+        <translation type="unfinished">插件描述。</translation>
+    </message>
 </context>
 <context>
     <name>Dialog_PluginParameter</name>
@@ -4280,6 +4324,106 @@
     <message>
         <source>Description of the parameter.</source>
         <translation>參數描述。</translation>
+    </message>
+    <message>
+        <source>%1 List</source>
+        <translation type="unfinished">%1清單</translation>
+    </message>
+    <message>
+        <source>Structure</source>
+        <translation type="unfinished">結構</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">文字</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">檔案</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <translation type="unfinished">注釋</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished">數目</translation>
+    </message>
+    <message>
+        <source>Boolean</source>
+        <translation type="unfinished">布林</translation>
+    </message>
+    <message>
+        <source>Option</source>
+        <translation type="unfinished">選項</translation>
+    </message>
+    <message>
+        <source>Editable Option</source>
+        <translation type="unfinished">可編輯選項</translation>
+    </message>
+    <message>
+        <source>Animation</source>
+        <translation type="unfinished">動畫</translation>
+    </message>
+    <message>
+        <source>Actor</source>
+        <translation type="unfinished">角色</translation>
+    </message>
+    <message>
+        <source>Class</source>
+        <translation type="unfinished">類別</translation>
+    </message>
+    <message>
+        <source>Skill</source>
+        <translation type="unfinished">技能</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <translation type="unfinished">道具</translation>
+    </message>
+    <message>
+        <source>Weapon</source>
+        <translation type="unfinished">武器</translation>
+    </message>
+    <message>
+        <source>Armor</source>
+        <translation type="unfinished">盔甲</translation>
+    </message>
+    <message>
+        <source>Enemy</source>
+        <translation type="unfinished">敵人</translation>
+    </message>
+    <message>
+        <source>Troop</source>
+        <translation type="unfinished">軍隊</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished">狀態</translation>
+    </message>
+    <message>
+        <source>Tileset</source>
+        <translation type="unfinished">圖塊設置</translation>
+    </message>
+    <message>
+        <source>Common Event</source>
+        <translation type="unfinished">一般劇情</translation>
+    </message>
+    <message>
+        <source>Switch</source>
+        <translation type="unfinished">開關</translation>
+    </message>
+    <message>
+        <source>Variable</source>
+        <translation type="unfinished">變數</translation>
+    </message>
+    <message>
+        <source>Visual mode is not available as the current value is malformed. 
+
+Please try to clear or reset the value.</source>
+        <translation type="unfinished">因目前的值錯誤，故無法使用視覺化模式。
+
+請嘗試清除或重置該錯誤值。</translation>
     </message>
 </context>
 <context>
@@ -4326,7 +4470,7 @@
     </message>
     <message>
         <source>Displays the help text of the plugin.</source>
-        <translation>顯示插件幫助文字。</translation>
+        <translation type="vanished">顯示插件幫助文字。</translation>
     </message>
     <message>
         <source>Description</source>
@@ -4354,7 +4498,11 @@
     </message>
     <message>
         <source>Value</source>
-        <translation>值</translation>
+        <translation type="vanished">值</translation>
+    </message>
+    <message>
+        <source>Displays the help text of the plugin</source>
+        <translation type="unfinished">顯示插件的協助說明</translation>
     </message>
 </context>
 <context>
@@ -4908,6 +5056,10 @@ Please lower the file size of this project.</source>
         <source>File uploading</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Checking a difference between file...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Dialog_UploadOgc</name>
@@ -5001,6 +5153,10 @@ Please lower the file size of this project.</source>
     <message>
         <source>Name of the variable.</source>
         <translation>變數名稱。</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">無</translation>
     </message>
 </context>
 <context>
@@ -5105,6 +5261,14 @@ Please lower the file size of this project.</source>
     <message>
         <source>Weapon and armor that the actor has equipped at the start of the game.</source>
         <translation>遊戲開始時角色裝備的武器和盔甲。</translation>
+    </message>
+    <message>
+        <source>Nickname displayed on the status screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text to be displayed on the status screen.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8744,6 +8908,26 @@ Please lower the file size of this project.</source>
         <source>(None)</source>
         <translation>(無)</translation>
     </message>
+    <message>
+        <source>File List</source>
+        <translation type="unfinished">檔案清單</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="unfinished">檔案名稱</translation>
+    </message>
+    <message>
+        <source>The name of the file.</source>
+        <translation type="unfinished">檔案的名稱。</translation>
+    </message>
+    <message>
+        <source>File Extension Name</source>
+        <translation type="unfinished">副檔名</translation>
+    </message>
+    <message>
+        <source>File names should end with “.%1” instead of “.%2”. Otherwise your game may not run correctly in case-sensitive environments, such as popular Linux web hosting services.</source>
+        <translation type="unfinished">檔案名稱須以「.%1」而非「.%2」結尾。否則您的遊戲有可能無法在有區分大小寫的環境下執行，例如常見的Linux網頁代存服務。</translation>
+    </message>
 </context>
 <context>
     <name>GameObjectBox</name>
@@ -9621,6 +9805,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>OPEN GAME CREATORS</source>
+        <comment>Upload operation enable</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Monaca</source>
         <comment>Upload operation enable</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -11607,6 +11796,34 @@ Please complete the post with follow this link.</source>
         <source>Start a tutorial.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">尋找</translation>
+    </message>
+    <message>
+        <source>Finds the specified text.</source>
+        <translation type="unfinished">尋找特定文字。</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">找下一個</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">搜尋下一個包含指定文字的例子。</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">找上一個</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">搜尋上一個包含指定文字的例子。</translation>
+    </message>
 </context>
 <context>
     <name>MapEditTreeBox</name>
@@ -11624,6 +11841,18 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Cannot create any more events.</source>
         <translation>不能創建任何更多劇情。</translation>
+    </message>
+    <message>
+        <source>Map Events</source>
+        <translation type="unfinished">地圖事件</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">名稱</translation>
+    </message>
+    <message>
+        <source>Name of the event.</source>
+        <translation type="unfinished">劇情名稱。</translation>
     </message>
 </context>
 <context>
@@ -13709,6 +13938,18 @@ HP reaches 0.</source>
         <source>Redo</source>
         <translation>恢復</translation>
     </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">尋找</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">找下一個</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">找上一個</translation>
+    </message>
 </context>
 <context>
     <name>SteamWindow</name>
@@ -14539,6 +14780,10 @@ HP reaches 0.</source>
         <source>Step 19: Title and Plug-ins</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Step 16: Symbol Encounters</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialManager</name>
@@ -14928,6 +15173,10 @@ Next we will determine the player&apos;s initial position.</source>
         <source>That&apos;s it! Click Playtest.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click &quot;normal town&quot; from the map tree.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialStep10</name>
@@ -15154,6 +15403,12 @@ Check that the rocks move, and that everything is all right even if they&apos;re
     <message>
         <source>If it went well, let&apos;s try thinking about why they moved. 
 Well then, nicely done.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The placement coordinate will be (16,18). From the entrance, it is 11 spaces up and 1 space right. 
+After making the event, we&apos;ll copy and paste it to the coordinates to the left and right of this space. 
+First, find (16,18).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18640,6 +18895,12 @@ Make sure the BGM is playing in each map.</source>
 The next step will finally be the last one.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enter:　　　　　　　　　\{\{\{THE END
+ 
+The first characters are 12 spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TutorialStep19</name>
@@ -21036,6 +21297,227 @@ an event with no image above that as well.</source>
         <source>A noticeboard event has various applications. 
 That&apos;s the end of the explanation of Step 9.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Find</name>
+    <message>
+        <source>Find in %1</source>
+        <translation type="unfinished">於%1中尋找</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">尋找</translation>
+    </message>
+    <message>
+        <source>Find what</source>
+        <translation type="unfinished">尋找目標</translation>
+    </message>
+    <message>
+        <source>Provides a space for you to type the text you want to find.</source>
+        <translation type="unfinished">您可於此空欄填入欲搜尋的內容。</translation>
+    </message>
+    <message>
+        <source>Look at</source>
+        <translation type="unfinished">查找</translation>
+    </message>
+    <message>
+        <source>Narrows the search by specifying the text in which you want to search.</source>
+        <translation type="unfinished">將搜尋範圍限制於您欲尋找的文本內。</translation>
+    </message>
+    <message>
+        <source>Matching</source>
+        <translation type="unfinished">比對</translation>
+    </message>
+    <message>
+        <source>Controls how to match the text against your keyword.</source>
+        <translation type="unfinished">控制該如何用您提供的關鍵字來比對文字。</translation>
+    </message>
+    <message>
+        <source>Case sensitive</source>
+        <translation type="unfinished">區分大小寫</translation>
+    </message>
+    <message>
+        <source>Finds only text with uppercase and lowercase characters as specified.</source>
+        <translation type="unfinished">只搜尋和指定大小寫完全相符的文字。</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">找下一個</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">搜尋下一個包含指定文字的例子。</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">找上一個</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">搜尋上一個包含指定文字的例子。</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>Dialog Button</comment>
+        <translation type="unfinished">關閉</translation>
+    </message>
+    <message>
+        <source>Closes this window.</source>
+        <translation type="unfinished">關閉此視窗。</translation>
+    </message>
+    <message>
+        <source>Searches for your text inside longer strings.</source>
+        <translation type="unfinished">於較長字串中搜尋您輸入的文字。</translation>
+    </message>
+    <message>
+        <source>Searches for whole words instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">搜尋所有單字，而非於更長的字串中搜尋指定文字。</translation>
+    </message>
+    <message>
+        <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">搜尋所有字串，而非於更長的字串中搜尋指定文字。</translation>
+    </message>
+    <message>
+        <source>Enables regular expressions (JavaScript flavour).</source>
+        <translation type="unfinished">啟用規則運算式（JavaScript flavour）。</translation>
+    </message>
+    <message>
+        <source>Only works for languages where words are separated by spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Monaca</name>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FindManager</name>
+    <message>
+        <source>No more results can be found below the current position.</source>
+        <translation type="unfinished">目前位置以下已無其他符合結果。</translation>
+    </message>
+    <message>
+        <source>No more results can be found above the current position.</source>
+        <translation type="unfinished">目前位置以上已無其他符合結果。</translation>
+    </message>
+    <message>
+        <source>The regular expression contains an error.</source>
+        <translation type="unfinished">規則運算式中包含錯誤。</translation>
+    </message>
+</context>
+<context>
+    <name>IssuesDialogBox</name>
+    <message>
+        <source>Issues with “%1”</source>
+        <comment>filename</comment>
+        <translation type="unfinished">「%1」的問題</translation>
+    </message>
+</context>
+<context>
+    <name>MapSelectTreeBox</name>
+    <message>
+        <source>Map List</source>
+        <translation type="unfinished">地圖清單</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">名稱</translation>
+    </message>
+    <message>
+        <source>Name of the map.</source>
+        <translation type="unfinished">地圖名稱。</translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished">顯示名稱</translation>
+    </message>
+    <message>
+        <source>Name displayed on the upper left part of the screen when moving to the map.</source>
+        <translation type="unfinished">移動到地圖時顯示在螢幕左上部的名稱。</translation>
+    </message>
+</context>
+<context>
+    <name>Monaca</name>
+    <message>
+        <source>Succeeded to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There was no difference file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorBoolean</name>
+    <message>
+        <source>ON</source>
+        <translation type="unfinished">ON</translation>
+    </message>
+    <message>
+        <source>OFF</source>
+        <translation type="unfinished">OFF</translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorList</name>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">值</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">以文字編輯</translation>
+    </message>
+    <message>
+        <source>Plugin Parameter Values</source>
+        <translation type="unfinished">插件參數值</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">插件參數的值。</translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingBox</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">名稱</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">值</translation>
+    </message>
+    <message>
+        <source>Plugin Parameters</source>
+        <translation type="unfinished">插件參數</translation>
+    </message>
+    <message>
+        <source>Name of the plugin parameter.</source>
+        <translation type="unfinished">插件參數的名稱。</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">插件參數的值。</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">描述</translation>
+    </message>
+    <message>
+        <source>Description of the plugin parameter.</source>
+        <translation type="unfinished">插件參數的描述。</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">以文字編輯</translation>
     </message>
 </context>
 </TS>
