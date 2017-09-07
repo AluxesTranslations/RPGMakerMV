@@ -2872,6 +2872,94 @@
     </message>
 </context>
 <context>
+    <name>Dialog_Find</name>
+    <message>
+        <source>Find in %1</source>
+        <translation type="unfinished">البحث في 1%</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">بحث</translation>
+    </message>
+    <message>
+        <source>Find what</source>
+        <translation type="unfinished">البحث عن</translation>
+    </message>
+    <message>
+        <source>Provides a space for you to type the text you want to find.</source>
+        <translation type="unfinished">يعطيك المجال لطباعة النص الذي تريد البحث عنه.</translation>
+    </message>
+    <message>
+        <source>Look at</source>
+        <translation type="unfinished">النظر إلى</translation>
+    </message>
+    <message>
+        <source>Narrows the search by specifying the text in which you want to search.</source>
+        <translation type="unfinished">يحصر نطاق البحث من خلال تحديد النص الذي تريد البحث عنه.</translation>
+    </message>
+    <message>
+        <source>Matching</source>
+        <translation type="unfinished">التطابق</translation>
+    </message>
+    <message>
+        <source>Controls how to match the text against your keyword.</source>
+        <translation type="unfinished">يتحكم بطريقة مطابقة النص مع اللوحة المفاتيح الخاصة بك.</translation>
+    </message>
+    <message>
+        <source>Case sensitive</source>
+        <translation type="unfinished">الحروف الاستهلالية</translation>
+    </message>
+    <message>
+        <source>Finds only text with uppercase and lowercase characters as specified.</source>
+        <translation type="unfinished">يبحث عن النص بالأحرف الاستهلالية الكبيرة والصغيرة وفقاً لما تم تحديده فقط.</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">البحث عن التالي</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">يبحث عن الحالة السابقة للنص الذي قمت بتحديده.</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">البحث عن السابق</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">يبحث عن الحالة السابقة للنص الذي قمت بتحديده.</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>Dialog Button</comment>
+        <translation type="unfinished">إغلاق</translation>
+    </message>
+    <message>
+        <source>Closes this window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Searches for your text inside longer strings.</source>
+        <translation type="unfinished">يبحث عن النص الخاص بك داخل الجمل الطويلة.</translation>
+    </message>
+    <message>
+        <source>Searches for whole words instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">يبحث عن الكلمات الكاملة بدلاً من البحث عن النص الخاص بك في الجمل الطويلة.</translation>
+    </message>
+    <message>
+        <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">يبحث عن الجمل الكاملة بدلاً من البحث عن النص الخاص بك في الجمل الطويلة.</translation>
+    </message>
+    <message>
+        <source>Enables regular expressions (JavaScript flavour).</source>
+        <translation type="unfinished">يتيح التعابير العادية (نكهة JavaScript).</translation>
+    </message>
+    <message>
+        <source>Only works for languages where words are separated by spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Dialog_FrameMaximum</name>
     <message>
         <source>Max Frames</source>
@@ -4087,6 +4175,13 @@
     <message>
         <source>Uses the specific price.</source>
         <translation>يستخدم السعر المحدد.</translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Monaca</name>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8914,6 +9009,21 @@ Please lower the file size of this project.</source>
     </message>
 </context>
 <context>
+    <name>FindManager</name>
+    <message>
+        <source>No more results can be found below the current position.</source>
+        <translation type="unfinished">تعذّر العثور على المزيد من النتائج في أسفل الموضع الحالي.</translation>
+    </message>
+    <message>
+        <source>No more results can be found above the current position.</source>
+        <translation type="unfinished">تعذّر العثور على المزيد من النتائج في أعلى الموضع الحالي.</translation>
+    </message>
+    <message>
+        <source>The regular expression contains an error.</source>
+        <translation type="unfinished">يوجد خطأ في التعبير الحالي.</translation>
+    </message>
+</context>
+<context>
     <name>GameObjectBox</name>
     <message>
         <source>None</source>
@@ -10865,6 +10975,14 @@ Please complete the post with follow this link.</source>
     </message>
 </context>
 <context>
+    <name>IssuesDialogBox</name>
+    <message>
+        <source>Issues with “%1”</source>
+        <comment>filename</comment>
+        <translation type="unfinished">مشاكل ”1%“</translation>
+    </message>
+</context>
+<context>
     <name>Layout_AudioSelector</name>
     <message>
         <source>Play</source>
@@ -11840,6 +11958,29 @@ Please complete the post with follow this link.</source>
     </message>
 </context>
 <context>
+    <name>MapSelectTreeBox</name>
+    <message>
+        <source>Map List</source>
+        <translation type="unfinished">قائمة الخريطة</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">الاسم</translation>
+    </message>
+    <message>
+        <source>Name of the map.</source>
+        <translation type="unfinished">اسم الخريطة.</translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished">عرض الاسم</translation>
+    </message>
+    <message>
+        <source>Name displayed on the upper left part of the screen when moving to the map.</source>
+        <translation>يتم عرض الاسم على الجزء الأيسر العلوي من الشاشة عند الانتقال إلى الخريطة.</translation>
+    </message>
+</context>
+<context>
     <name>MenuItem_IconSetViewer</name>
     <message>
         <source>IconSet Viewer</source>
@@ -11905,6 +12046,21 @@ Please complete the post with follow this link.</source>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
         <translation type="unfinished">إلغاء</translation>
+    </message>
+</context>
+<context>
+    <name>Monaca</name>
+    <message>
+        <source>Succeeded to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There was no difference file.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13831,6 +13987,71 @@ HP reaches 0.</source>
     </message>
 </context>
 <context>
+    <name>ParameterEditorBoolean</name>
+    <message>
+        <source>ON</source>
+        <translation type="unfinished">تشغيل</translation>
+    </message>
+    <message>
+        <source>OFF</source>
+        <translation type="unfinished">إيقاف</translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorList</name>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">القيمة</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">تحرير نص</translation>
+    </message>
+    <message>
+        <source>Plugin Parameter Values</source>
+        <translation type="unfinished">قيم محددات المكون الإضافي</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">قيمة محدد المكون الإضافي.</translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingBox</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">الاسم</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">القيمة</translation>
+    </message>
+    <message>
+        <source>Plugin Parameters</source>
+        <translation type="unfinished">محددات المكون الإضافي</translation>
+    </message>
+    <message>
+        <source>Name of the plugin parameter.</source>
+        <translation type="unfinished">اسم محدد المكون الإضافي.</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">قيمة محدد المكون الإضافي.</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">الوصف</translation>
+    </message>
+    <message>
+        <source>Description of the plugin parameter.</source>
+        <translation type="unfinished">وصف محدد المكون الإضافي.</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">تحرير نص</translation>
+    </message>
+</context>
+<context>
     <name>ProjectManager</name>
     <message>
         <source>Failed to create a new project.</source>
@@ -14754,10 +14975,6 @@ HP reaches 0.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Step 16: Encounters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Step 17: Enemy Character (Boss) Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14820,16 +15037,7 @@ HP reaches 0.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>* step1. Create a new project, and create a map.
-&gt; You can create a new project by clicking %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- You can change the title name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14841,15 +15049,7 @@ HP reaches 0.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- It takes a little while to create a new project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Wait for creating a new project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; About map settings.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14859,16 +15059,8 @@ On the lower left is the map list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You make a map by putting tilechips.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This is the tileset palette. 
 Select a tile here and it will be drawn on the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 is in %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14881,17 +15073,9 @@ Click Database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can select %1/%2 in %3.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This is the tileset settings screen. 
 The mode is important. In Field, you can specify the field type
 or area type.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; How to use the editor.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14910,15 +15094,7 @@ Give it a try.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can magnify the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Zoom In to magnify the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- You can shrink the map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14926,23 +15102,11 @@ Give it a try.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can directly magnify/shrink the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Pressing &lt;windows&gt;Ctrl&lt;/windows&gt;&lt;mac&gt;Command&lt;/mac&gt; key, roll the center wheel of the mouse to magnify/shrink the map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can scroll the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Pressing the center wheel of the mouse, move the mouse to scroll the map when the entire map is not inside the window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- You can reset the map at actual size.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14955,10 +15119,6 @@ Next is an explanation of the map tree on the lower left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can change a map name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Right-click to change a map name.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14967,19 +15127,11 @@ Next is an explanation of the map tree on the lower left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- The editor will show the changed name of the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change the name to &quot;Field Map&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next we will place tiles on the map from the tile palette.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; Let&apos;s put a town and a cave on the field map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15012,10 +15164,6 @@ This time we&apos;ll use a sample map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You can load a preset map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Right-click to load a town map.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15041,23 +15189,11 @@ so they can be entered and exited freely.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can select a map to edit.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Map to edit the field map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You can connect maps by putting transfer events.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Event.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- It&apos;s easy to connect maps.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15086,11 +15222,6 @@ so they can be entered and exited freely.</source>
     </message>
     <message>
         <source>Click the town.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- You should fill the entrance/exit of the map.
-- You can copy/paste events.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15135,10 +15266,6 @@ Next we will determine the player&apos;s initial position.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You can set the initial position when the game starts.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Right-click a tile on the road.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15147,15 +15274,7 @@ Next we will determine the player&apos;s initial position.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You should save the project because you change it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Save Project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; You can play it by clicking %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15225,12 +15344,6 @@ Projects are in the Games folder in My Documents.</source>
     <message>
         <source>The stones you push to move will be
 placed in the passage 3 tiles in width a bit above the entrance. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The placement coordinate will be (16,18). It&apos;s 12 spaces above the entrance. 
-After making the event, we&apos;ll copy and paste it to the coordinates to the left and right of this space. 
-First, find (16,18).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18657,12 +18770,6 @@ Now it won&apos;t show the window frame.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter:　　　　　　　　　\{\{\{THE END
- 
-The first characters are 6 full-width spaces.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Afterwards, we will simply return to the title screen. 
 Double click the next line.</source>
         <translation type="unfinished"></translation>
@@ -21286,227 +21393,6 @@ an event with no image above that as well.</source>
         <source>A noticeboard event has various applications. 
 That&apos;s the end of the explanation of Step 9.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Dialog_Find</name>
-    <message>
-        <source>Find in %1</source>
-        <translation type="unfinished">البحث في 1%</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="unfinished">بحث</translation>
-    </message>
-    <message>
-        <source>Find what</source>
-        <translation type="unfinished">البحث عن</translation>
-    </message>
-    <message>
-        <source>Provides a space for you to type the text you want to find.</source>
-        <translation type="unfinished">يعطيك المجال لطباعة النص الذي تريد البحث عنه.</translation>
-    </message>
-    <message>
-        <source>Look at</source>
-        <translation type="unfinished">النظر إلى</translation>
-    </message>
-    <message>
-        <source>Narrows the search by specifying the text in which you want to search.</source>
-        <translation type="unfinished">يحصر نطاق البحث من خلال تحديد النص الذي تريد البحث عنه.</translation>
-    </message>
-    <message>
-        <source>Matching</source>
-        <translation type="unfinished">التطابق</translation>
-    </message>
-    <message>
-        <source>Controls how to match the text against your keyword.</source>
-        <translation type="unfinished">يتحكم بطريقة مطابقة النص مع اللوحة المفاتيح الخاصة بك.</translation>
-    </message>
-    <message>
-        <source>Case sensitive</source>
-        <translation type="unfinished">الحروف الاستهلالية</translation>
-    </message>
-    <message>
-        <source>Finds only text with uppercase and lowercase characters as specified.</source>
-        <translation type="unfinished">يبحث عن النص بالأحرف الاستهلالية الكبيرة والصغيرة وفقاً لما تم تحديده فقط.</translation>
-    </message>
-    <message>
-        <source>Find Next</source>
-        <translation type="unfinished">البحث عن التالي</translation>
-    </message>
-    <message>
-        <source>Searches for the next instance of the text you specified.</source>
-        <translation type="unfinished">يبحث عن الحالة السابقة للنص الذي قمت بتحديده.</translation>
-    </message>
-    <message>
-        <source>Find Previous</source>
-        <translation type="unfinished">البحث عن السابق</translation>
-    </message>
-    <message>
-        <source>Searches for the previous instance of the text you specified.</source>
-        <translation type="unfinished">يبحث عن الحالة السابقة للنص الذي قمت بتحديده.</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <comment>Dialog Button</comment>
-        <translation type="unfinished">إغلاق</translation>
-    </message>
-    <message>
-        <source>Closes this window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Searches for your text inside longer strings.</source>
-        <translation type="unfinished">يبحث عن النص الخاص بك داخل الجمل الطويلة.</translation>
-    </message>
-    <message>
-        <source>Searches for whole words instead of searching for your text inside longer strings.</source>
-        <translation type="unfinished">يبحث عن الكلمات الكاملة بدلاً من البحث عن النص الخاص بك في الجمل الطويلة.</translation>
-    </message>
-    <message>
-        <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
-        <translation type="unfinished">يبحث عن الجمل الكاملة بدلاً من البحث عن النص الخاص بك في الجمل الطويلة.</translation>
-    </message>
-    <message>
-        <source>Enables regular expressions (JavaScript flavour).</source>
-        <translation type="unfinished">يتيح التعابير العادية (نكهة JavaScript).</translation>
-    </message>
-    <message>
-        <source>Only works for languages where words are separated by spaces.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Dialog_Monaca</name>
-    <message>
-        <source>Monaca</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>FindManager</name>
-    <message>
-        <source>No more results can be found below the current position.</source>
-        <translation type="unfinished">تعذّر العثور على المزيد من النتائج في أسفل الموضع الحالي.</translation>
-    </message>
-    <message>
-        <source>No more results can be found above the current position.</source>
-        <translation type="unfinished">تعذّر العثور على المزيد من النتائج في أعلى الموضع الحالي.</translation>
-    </message>
-    <message>
-        <source>The regular expression contains an error.</source>
-        <translation type="unfinished">يوجد خطأ في التعبير الحالي.</translation>
-    </message>
-</context>
-<context>
-    <name>IssuesDialogBox</name>
-    <message>
-        <source>Issues with “%1”</source>
-        <comment>filename</comment>
-        <translation type="unfinished">مشاكل ”1%“</translation>
-    </message>
-</context>
-<context>
-    <name>MapSelectTreeBox</name>
-    <message>
-        <source>Map List</source>
-        <translation type="unfinished">قائمة الخريطة</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished">الاسم</translation>
-    </message>
-    <message>
-        <source>Name of the map.</source>
-        <translation type="unfinished">اسم الخريطة.</translation>
-    </message>
-    <message>
-        <source>Display Name</source>
-        <translation type="unfinished">عرض الاسم</translation>
-    </message>
-    <message>
-        <source>Name displayed on the upper left part of the screen when moving to the map.</source>
-        <translation>يتم عرض الاسم على الجزء الأيسر العلوي من الشاشة عند الانتقال إلى الخريطة.</translation>
-    </message>
-</context>
-<context>
-    <name>Monaca</name>
-    <message>
-        <source>Succeeded to upload a project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to upload a project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There was no difference file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ParameterEditorBoolean</name>
-    <message>
-        <source>ON</source>
-        <translation type="unfinished">تشغيل</translation>
-    </message>
-    <message>
-        <source>OFF</source>
-        <translation type="unfinished">إيقاف</translation>
-    </message>
-</context>
-<context>
-    <name>ParameterEditorList</name>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished">القيمة</translation>
-    </message>
-    <message>
-        <source>Edit as Text</source>
-        <translation type="unfinished">تحرير نص</translation>
-    </message>
-    <message>
-        <source>Plugin Parameter Values</source>
-        <translation type="unfinished">قيم محددات المكون الإضافي</translation>
-    </message>
-    <message>
-        <source>Value of the plugin parameter.</source>
-        <translation type="unfinished">قيمة محدد المكون الإضافي.</translation>
-    </message>
-</context>
-<context>
-    <name>PluginSettingBox</name>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished">الاسم</translation>
-    </message>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished">القيمة</translation>
-    </message>
-    <message>
-        <source>Plugin Parameters</source>
-        <translation type="unfinished">محددات المكون الإضافي</translation>
-    </message>
-    <message>
-        <source>Name of the plugin parameter.</source>
-        <translation type="unfinished">اسم محدد المكون الإضافي.</translation>
-    </message>
-    <message>
-        <source>Value of the plugin parameter.</source>
-        <translation type="unfinished">قيمة محدد المكون الإضافي.</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="unfinished">الوصف</translation>
-    </message>
-    <message>
-        <source>Description of the plugin parameter.</source>
-        <translation type="unfinished">وصف محدد المكون الإضافي.</translation>
-    </message>
-    <message>
-        <source>Edit as Text</source>
-        <translation type="unfinished">تحرير نص</translation>
     </message>
 </context>
 </TS>

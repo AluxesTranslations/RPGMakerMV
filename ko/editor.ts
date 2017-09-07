@@ -2871,6 +2871,94 @@
     </message>
 </context>
 <context>
+    <name>Dialog_Find</name>
+    <message>
+        <source>Find in %1</source>
+        <translation type="unfinished">%1에서 찾기</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">찾기</translation>
+    </message>
+    <message>
+        <source>Find what</source>
+        <translation type="unfinished">찾는 내용</translation>
+    </message>
+    <message>
+        <source>Provides a space for you to type the text you want to find.</source>
+        <translation type="unfinished">찾고 싶은 텍스트를 입력할 칸을 제공합니다.</translation>
+    </message>
+    <message>
+        <source>Look at</source>
+        <translation type="unfinished">보기</translation>
+    </message>
+    <message>
+        <source>Narrows the search by specifying the text in which you want to search.</source>
+        <translation type="unfinished">검색하려는 텍스트를 지정하여 검색 결과를 한정합니다.</translation>
+    </message>
+    <message>
+        <source>Matching</source>
+        <translation type="unfinished">일치</translation>
+    </message>
+    <message>
+        <source>Controls how to match the text against your keyword.</source>
+        <translation type="unfinished">검색어와 일치하는 텍스트 검색 방법을 설정합니다.</translation>
+    </message>
+    <message>
+        <source>Case sensitive</source>
+        <translation type="unfinished">대/소문자 구분</translation>
+    </message>
+    <message>
+        <source>Finds only text with uppercase and lowercase characters as specified.</source>
+        <translation type="unfinished">대문자나 소문자를 지정하여 검색합니다.</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">다음 찾기</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">지정한 텍스트의 다음 검색 결과를 찾습니다.</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">이전 찾기</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">지정한 텍스트의 이전 검색 결과를 찾습니다.</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>Dialog Button</comment>
+        <translation type="unfinished">닫기</translation>
+    </message>
+    <message>
+        <source>Closes this window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Searches for your text inside longer strings.</source>
+        <translation type="unfinished">더 긴 문자열에서 텍스트를 검색합니다.</translation>
+    </message>
+    <message>
+        <source>Searches for whole words instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">더 긴 문자열에서 텍스트를 검색하는 대신 전체 단어를 찾습니다.</translation>
+    </message>
+    <message>
+        <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">더 긴 문자열에서 텍스트를 검색하는 대신 전체 문자열을 찾습니다.</translation>
+    </message>
+    <message>
+        <source>Enables regular expressions (JavaScript flavour).</source>
+        <translation type="unfinished">정규 표현을 허용합니다(JavaScript 버전).</translation>
+    </message>
+    <message>
+        <source>Only works for languages where words are separated by spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Dialog_FrameMaximum</name>
     <message>
         <source>Max Frames</source>
@@ -4085,6 +4173,13 @@
     <message>
         <source>Uses the specific price.</source>
         <translation>특정한 가격을 사용합니다.</translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Monaca</name>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8925,6 +9020,21 @@ Please lower the file size of this project.</source>
     </message>
 </context>
 <context>
+    <name>FindManager</name>
+    <message>
+        <source>No more results can be found below the current position.</source>
+        <translation type="unfinished">현재 위치 아래로 더 이상 결과가 없습니다.</translation>
+    </message>
+    <message>
+        <source>No more results can be found above the current position.</source>
+        <translation type="unfinished">현재 위치 위로 더 이상 결과가 없습니다.</translation>
+    </message>
+    <message>
+        <source>The regular expression contains an error.</source>
+        <translation type="unfinished">정규 표현에 오류가 있습니다.</translation>
+    </message>
+</context>
+<context>
     <name>GameObjectBox</name>
     <message>
         <source>None</source>
@@ -10876,6 +10986,14 @@ Please complete the post with follow this link.</source>
     </message>
 </context>
 <context>
+    <name>IssuesDialogBox</name>
+    <message>
+        <source>Issues with “%1”</source>
+        <comment>filename</comment>
+        <translation type="unfinished">“%1” 관련 문제</translation>
+    </message>
+</context>
+<context>
     <name>Layout_AudioSelector</name>
     <message>
         <source>Play</source>
@@ -11851,6 +11969,29 @@ Please complete the post with follow this link.</source>
     </message>
 </context>
 <context>
+    <name>MapSelectTreeBox</name>
+    <message>
+        <source>Map List</source>
+        <translation type="unfinished">지도 목록</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name of the map.</source>
+        <translation type="unfinished">지도명.</translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished">이름 표시</translation>
+    </message>
+    <message>
+        <source>Name displayed on the upper left part of the screen when moving to the map.</source>
+        <translation type="unfinished">지도 이동 시에, 이름이 화면의 좌측 상단에 표시됩니다.</translation>
+    </message>
+</context>
+<context>
     <name>MenuItem_IconSetViewer</name>
     <message>
         <source>IconSet Viewer</source>
@@ -11915,6 +12056,21 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Monaca</name>
+    <message>
+        <source>Succeeded to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to upload a project.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There was no difference file.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13839,6 +13995,71 @@ HP reaches 0.</source>
     </message>
 </context>
 <context>
+    <name>ParameterEditorBoolean</name>
+    <message>
+        <source>ON</source>
+        <translation type="unfinished">ON</translation>
+    </message>
+    <message>
+        <source>OFF</source>
+        <translation type="unfinished">OFF</translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorList</name>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">값</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">텍스트로 편집</translation>
+    </message>
+    <message>
+        <source>Plugin Parameter Values</source>
+        <translation type="unfinished">플러그인 매개 변수 값</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">플러그인 매개 변수의 값입니다.</translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingBox</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">값</translation>
+    </message>
+    <message>
+        <source>Plugin Parameters</source>
+        <translation type="unfinished">플러그인 매개 변수</translation>
+    </message>
+    <message>
+        <source>Name of the plugin parameter.</source>
+        <translation type="unfinished">플러그인 매개 변수의 이름입니다.</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">플러그인 매개 변수의 값입니다.</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">설명</translation>
+    </message>
+    <message>
+        <source>Description of the plugin parameter.</source>
+        <translation type="unfinished">플러그인 매개 변수의 설명입니다.</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">텍스트로 편집</translation>
+    </message>
+</context>
+<context>
     <name>ProjectManager</name>
     <message>
         <source>Failed to create a new project.</source>
@@ -14761,10 +14982,6 @@ HP reaches 0.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Step 16: Encounters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Step 17: Enemy Character (Boss) Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14827,16 +15044,7 @@ HP reaches 0.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>* step1. Create a new project, and create a map.
-&gt; You can create a new project by clicking %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- You can change the title name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14848,15 +15056,7 @@ HP reaches 0.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- It takes a little while to create a new project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Wait for creating a new project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; About map settings.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14866,16 +15066,8 @@ On the lower left is the map list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You make a map by putting tilechips.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This is the tileset palette. 
 Select a tile here and it will be drawn on the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 is in %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14888,17 +15080,9 @@ Click Database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can select %1/%2 in %3.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This is the tileset settings screen. 
 The mode is important. In Field, you can specify the field type
 or area type.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; How to use the editor.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14917,15 +15101,7 @@ Give it a try.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can magnify the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Zoom In to magnify the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- You can shrink the map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14933,23 +15109,11 @@ Give it a try.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can directly magnify/shrink the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Pressing &lt;windows&gt;Ctrl&lt;/windows&gt;&lt;mac&gt;Command&lt;/mac&gt; key, roll the center wheel of the mouse to magnify/shrink the map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can scroll the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Pressing the center wheel of the mouse, move the mouse to scroll the map when the entire map is not inside the window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- You can reset the map at actual size.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14962,10 +15126,6 @@ Next is an explanation of the map tree on the lower left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can change a map name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Right-click to change a map name.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14974,19 +15134,11 @@ Next is an explanation of the map tree on the lower left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- The editor will show the changed name of the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change the name to &quot;Field Map&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next we will place tiles on the map from the tile palette.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; Let&apos;s put a town and a cave on the field map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15019,10 +15171,6 @@ This time we&apos;ll use a sample map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You can load a preset map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Right-click to load a town map.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15048,23 +15196,11 @@ so they can be entered and exited freely.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can select a map to edit.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Map to edit the field map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You can connect maps by putting transfer events.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Event.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- It&apos;s easy to connect maps.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15093,11 +15229,6 @@ so they can be entered and exited freely.</source>
     </message>
     <message>
         <source>Click the town.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- You should fill the entrance/exit of the map.
-- You can copy/paste events.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15142,10 +15273,6 @@ Next we will determine the player&apos;s initial position.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You can set the initial position when the game starts.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Right-click a tile on the road.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15154,15 +15281,7 @@ Next we will determine the player&apos;s initial position.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You should save the project because you change it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Save Project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; You can play it by clicking %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15232,12 +15351,6 @@ Projects are in the Games folder in My Documents.</source>
     <message>
         <source>The stones you push to move will be
 placed in the passage 3 tiles in width a bit above the entrance. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The placement coordinate will be (16,18). It&apos;s 12 spaces above the entrance. 
-After making the event, we&apos;ll copy and paste it to the coordinates to the left and right of this space. 
-First, find (16,18).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18664,12 +18777,6 @@ Now it won&apos;t show the window frame.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter:　　　　　　　　　\{\{\{THE END
- 
-The first characters are 6 full-width spaces.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Afterwards, we will simply return to the title screen. 
 Double click the next line.</source>
         <translation type="unfinished"></translation>
@@ -21293,227 +21400,6 @@ an event with no image above that as well.</source>
         <source>A noticeboard event has various applications. 
 That&apos;s the end of the explanation of Step 9.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Dialog_Find</name>
-    <message>
-        <source>Find in %1</source>
-        <translation type="unfinished">%1에서 찾기</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="unfinished">찾기</translation>
-    </message>
-    <message>
-        <source>Find what</source>
-        <translation type="unfinished">찾는 내용</translation>
-    </message>
-    <message>
-        <source>Provides a space for you to type the text you want to find.</source>
-        <translation type="unfinished">찾고 싶은 텍스트를 입력할 칸을 제공합니다.</translation>
-    </message>
-    <message>
-        <source>Look at</source>
-        <translation type="unfinished">보기</translation>
-    </message>
-    <message>
-        <source>Narrows the search by specifying the text in which you want to search.</source>
-        <translation type="unfinished">검색하려는 텍스트를 지정하여 검색 결과를 한정합니다.</translation>
-    </message>
-    <message>
-        <source>Matching</source>
-        <translation type="unfinished">일치</translation>
-    </message>
-    <message>
-        <source>Controls how to match the text against your keyword.</source>
-        <translation type="unfinished">검색어와 일치하는 텍스트 검색 방법을 설정합니다.</translation>
-    </message>
-    <message>
-        <source>Case sensitive</source>
-        <translation type="unfinished">대/소문자 구분</translation>
-    </message>
-    <message>
-        <source>Finds only text with uppercase and lowercase characters as specified.</source>
-        <translation type="unfinished">대문자나 소문자를 지정하여 검색합니다.</translation>
-    </message>
-    <message>
-        <source>Find Next</source>
-        <translation type="unfinished">다음 찾기</translation>
-    </message>
-    <message>
-        <source>Searches for the next instance of the text you specified.</source>
-        <translation type="unfinished">지정한 텍스트의 다음 검색 결과를 찾습니다.</translation>
-    </message>
-    <message>
-        <source>Find Previous</source>
-        <translation type="unfinished">이전 찾기</translation>
-    </message>
-    <message>
-        <source>Searches for the previous instance of the text you specified.</source>
-        <translation type="unfinished">지정한 텍스트의 이전 검색 결과를 찾습니다.</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <comment>Dialog Button</comment>
-        <translation type="unfinished">닫기</translation>
-    </message>
-    <message>
-        <source>Closes this window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Searches for your text inside longer strings.</source>
-        <translation type="unfinished">더 긴 문자열에서 텍스트를 검색합니다.</translation>
-    </message>
-    <message>
-        <source>Searches for whole words instead of searching for your text inside longer strings.</source>
-        <translation type="unfinished">더 긴 문자열에서 텍스트를 검색하는 대신 전체 단어를 찾습니다.</translation>
-    </message>
-    <message>
-        <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
-        <translation type="unfinished">더 긴 문자열에서 텍스트를 검색하는 대신 전체 문자열을 찾습니다.</translation>
-    </message>
-    <message>
-        <source>Enables regular expressions (JavaScript flavour).</source>
-        <translation type="unfinished">정규 표현을 허용합니다(JavaScript 버전).</translation>
-    </message>
-    <message>
-        <source>Only works for languages where words are separated by spaces.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Dialog_Monaca</name>
-    <message>
-        <source>Monaca</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>FindManager</name>
-    <message>
-        <source>No more results can be found below the current position.</source>
-        <translation type="unfinished">현재 위치 아래로 더 이상 결과가 없습니다.</translation>
-    </message>
-    <message>
-        <source>No more results can be found above the current position.</source>
-        <translation type="unfinished">현재 위치 위로 더 이상 결과가 없습니다.</translation>
-    </message>
-    <message>
-        <source>The regular expression contains an error.</source>
-        <translation type="unfinished">정규 표현에 오류가 있습니다.</translation>
-    </message>
-</context>
-<context>
-    <name>IssuesDialogBox</name>
-    <message>
-        <source>Issues with “%1”</source>
-        <comment>filename</comment>
-        <translation type="unfinished">“%1” 관련 문제</translation>
-    </message>
-</context>
-<context>
-    <name>MapSelectTreeBox</name>
-    <message>
-        <source>Map List</source>
-        <translation type="unfinished">지도 목록</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name of the map.</source>
-        <translation type="unfinished">지도명.</translation>
-    </message>
-    <message>
-        <source>Display Name</source>
-        <translation type="unfinished">이름 표시</translation>
-    </message>
-    <message>
-        <source>Name displayed on the upper left part of the screen when moving to the map.</source>
-        <translation type="unfinished">지도 이동 시에, 이름이 화면의 좌측 상단에 표시됩니다.</translation>
-    </message>
-</context>
-<context>
-    <name>Monaca</name>
-    <message>
-        <source>Succeeded to upload a project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to upload a project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There was no difference file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ParameterEditorBoolean</name>
-    <message>
-        <source>ON</source>
-        <translation type="unfinished">ON</translation>
-    </message>
-    <message>
-        <source>OFF</source>
-        <translation type="unfinished">OFF</translation>
-    </message>
-</context>
-<context>
-    <name>ParameterEditorList</name>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished">값</translation>
-    </message>
-    <message>
-        <source>Edit as Text</source>
-        <translation type="unfinished">텍스트로 편집</translation>
-    </message>
-    <message>
-        <source>Plugin Parameter Values</source>
-        <translation type="unfinished">플러그인 매개 변수 값</translation>
-    </message>
-    <message>
-        <source>Value of the plugin parameter.</source>
-        <translation type="unfinished">플러그인 매개 변수의 값입니다.</translation>
-    </message>
-</context>
-<context>
-    <name>PluginSettingBox</name>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished">값</translation>
-    </message>
-    <message>
-        <source>Plugin Parameters</source>
-        <translation type="unfinished">플러그인 매개 변수</translation>
-    </message>
-    <message>
-        <source>Name of the plugin parameter.</source>
-        <translation type="unfinished">플러그인 매개 변수의 이름입니다.</translation>
-    </message>
-    <message>
-        <source>Value of the plugin parameter.</source>
-        <translation type="unfinished">플러그인 매개 변수의 값입니다.</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="unfinished">설명</translation>
-    </message>
-    <message>
-        <source>Description of the plugin parameter.</source>
-        <translation type="unfinished">플러그인 매개 변수의 설명입니다.</translation>
-    </message>
-    <message>
-        <source>Edit as Text</source>
-        <translation type="unfinished">텍스트로 편집</translation>
     </message>
 </context>
 </TS>

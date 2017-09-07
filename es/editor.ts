@@ -2876,6 +2876,95 @@
     </message>
 </context>
 <context>
+    <name>Dialog_Find</name>
+    <message>
+        <source>Find in %1</source>
+        <translation type="unfinished">Buscar en %1</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished">Buscar</translation>
+    </message>
+    <message>
+        <source>Find what</source>
+        <translatorcomment>It is the same as in the cell above, but looking at the screenshots, I find it is more natural this way.</translatorcomment>
+        <translation type="unfinished">Buscar</translation>
+    </message>
+    <message>
+        <source>Provides a space for you to type the text you want to find.</source>
+        <translation type="unfinished">Ofrece espacio para escribir el texto que quieres encontrar.</translation>
+    </message>
+    <message>
+        <source>Look at</source>
+        <translation type="unfinished">Buscar dentro de</translation>
+    </message>
+    <message>
+        <source>Narrows the search by specifying the text in which you want to search.</source>
+        <translation type="unfinished">Reduce la búsqueda al especificar el texto en el que quieres buscar.</translation>
+    </message>
+    <message>
+        <source>Matching</source>
+        <translation type="unfinished">Coincidencia</translation>
+    </message>
+    <message>
+        <source>Controls how to match the text against your keyword.</source>
+        <translation type="unfinished">Controla cómo se producen las coincidencias con la palabra clave.</translation>
+    </message>
+    <message>
+        <source>Case sensitive</source>
+        <translation type="unfinished">Distinguir entre mayúsculas y minúsculas</translation>
+    </message>
+    <message>
+        <source>Finds only text with uppercase and lowercase characters as specified.</source>
+        <translation type="unfinished">Busca solo texto en el que coincidan las mayúsculas y las minúsculas especificadas.</translation>
+    </message>
+    <message>
+        <source>Find Next</source>
+        <translation type="unfinished">Buscar siguiente</translation>
+    </message>
+    <message>
+        <source>Searches for the next instance of the text you specified.</source>
+        <translation type="unfinished">Busca la siguiente coincidencia del texto especificado.</translation>
+    </message>
+    <message>
+        <source>Find Previous</source>
+        <translation type="unfinished">Buscar anterior</translation>
+    </message>
+    <message>
+        <source>Searches for the previous instance of the text you specified.</source>
+        <translation type="unfinished">Busca la anterior coincidencia del texto especificado.</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>Dialog Button</comment>
+        <translation type="unfinished">Cerrar</translation>
+    </message>
+    <message>
+        <source>Closes this window.</source>
+        <translation type="unfinished">Cierra esta ventana.</translation>
+    </message>
+    <message>
+        <source>Searches for your text inside longer strings.</source>
+        <translation type="unfinished">Busca el texto en secuencias más largas.</translation>
+    </message>
+    <message>
+        <source>Searches for whole words instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">Busca palabras completas en lugar de buscar el texto en secuencias más largas.</translation>
+    </message>
+    <message>
+        <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
+        <translation type="unfinished">Busca secuencias completas en lugar de buscar el texto en secuencias más largas.</translation>
+    </message>
+    <message>
+        <source>Enables regular expressions (JavaScript flavour).</source>
+        <translation type="unfinished">Activa las expresiones regulares (JavaScript).</translation>
+    </message>
+    <message>
+        <source>Only works for languages where words are separated by spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Dialog_FrameMaximum</name>
     <message>
         <source>Max Frames</source>
@@ -4103,6 +4192,13 @@
     <message>
         <source>Uses the specific price.</source>
         <translation>Usa un precio personalizado.</translation>
+    </message>
+</context>
+<context>
+    <name>Dialog_Monaca</name>
+    <message>
+        <source>Monaca</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8961,6 +9057,21 @@ Por favor, reduce el tamaño de este proyecto.</translation>
     </message>
 </context>
 <context>
+    <name>FindManager</name>
+    <message>
+        <source>No more results can be found below the current position.</source>
+        <translation type="unfinished">No se han encontrado más resultados por debajo de la posición actual.</translation>
+    </message>
+    <message>
+        <source>No more results can be found above the current position.</source>
+        <translation type="unfinished">No se han encontrado más resultados por encima de la posición actual.</translation>
+    </message>
+    <message>
+        <source>The regular expression contains an error.</source>
+        <translation type="unfinished">La expresión regular contiene un error.</translation>
+    </message>
+</context>
+<context>
     <name>GameObjectBox</name>
     <message>
         <source>None</source>
@@ -10926,6 +11037,14 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
 </context>
 <context>
+    <name>IssuesDialogBox</name>
+    <message>
+        <source>Issues with “%1”</source>
+        <comment>filename</comment>
+        <translation type="unfinished">Conflictos con “%1”</translation>
+    </message>
+</context>
+<context>
     <name>Layout_AudioSelector</name>
     <message>
         <source>Play</source>
@@ -11904,6 +12023,29 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
     </message>
 </context>
 <context>
+    <name>MapSelectTreeBox</name>
+    <message>
+        <source>Map List</source>
+        <translation type="unfinished">Lista de mapas</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name of the map.</source>
+        <translation type="unfinished">Nombre del mapa.</translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished">Nombre de visualización</translation>
+    </message>
+    <message>
+        <source>Name displayed on the upper left part of the screen when moving to the map.</source>
+        <translation>Nombre visualizado en la parte superior izquierda de la pantalla al entrar al mapa.</translation>
+    </message>
+</context>
+<context>
     <name>MenuItem_IconSetViewer</name>
     <message>
         <source>IconSet Viewer</source>
@@ -11969,6 +12111,21 @@ Por favor, completa la publicación siguiendo este enlace.</translation>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
         <translation>Cancelar</translation>
+    </message>
+</context>
+<context>
+    <name>Monaca</name>
+    <message>
+        <source>Succeeded to upload a project.</source>
+        <translation type="unfinished">Éxito al subir el proyecto.</translation>
+    </message>
+    <message>
+        <source>Failed to upload a project.</source>
+        <translation type="unfinished">Fallo al subir el proyecto.</translation>
+    </message>
+    <message>
+        <source>There was no difference file.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13902,6 +14059,71 @@ cuando los PV lleguen a 0.</translation>
     </message>
 </context>
 <context>
+    <name>ParameterEditorBoolean</name>
+    <message>
+        <source>ON</source>
+        <translation type="unfinished">ON</translation>
+    </message>
+    <message>
+        <source>OFF</source>
+        <translation type="unfinished">OFF</translation>
+    </message>
+</context>
+<context>
+    <name>ParameterEditorList</name>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">Valor</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">Editar como texto</translation>
+    </message>
+    <message>
+        <source>Plugin Parameter Values</source>
+        <translation type="unfinished">Valores de los parámetros del complemento</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">Valor de los parámetros del complemento.</translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingBox</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">Valor</translation>
+    </message>
+    <message>
+        <source>Plugin Parameters</source>
+        <translation type="unfinished">Parámetros del complemento</translation>
+    </message>
+    <message>
+        <source>Name of the plugin parameter.</source>
+        <translation type="unfinished">Nombre del parámetro del complemento.</translation>
+    </message>
+    <message>
+        <source>Value of the plugin parameter.</source>
+        <translation type="unfinished">Valor del parámetro del complemento.</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Descripción</translation>
+    </message>
+    <message>
+        <source>Description of the plugin parameter.</source>
+        <translation type="unfinished">Descripción del parámetro del complemento.</translation>
+    </message>
+    <message>
+        <source>Edit as Text</source>
+        <translation type="unfinished">Editar como texto</translation>
+    </message>
+</context>
+<context>
     <name>ProjectManager</name>
     <message>
         <source>Failed to create a new project.</source>
@@ -15040,10 +15262,6 @@ Next is an explanation of the map tree on the lower left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can change a map name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Right-click to change a map name.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15052,19 +15270,11 @@ Next is an explanation of the map tree on the lower left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- The editor will show the changed name of the map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change the name to &quot;Field Map&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next we will place tiles on the map from the tile palette.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; Let&apos;s put a town and a cave on the field map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15097,10 +15307,6 @@ This time we&apos;ll use a sample map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You can load a preset map.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Right-click to load a town map.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15126,23 +15332,11 @@ so they can be entered and exited freely.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>- You can select a map to edit.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Map to edit the field map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You can connect maps by putting transfer events.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Event.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- It&apos;s easy to connect maps.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15171,11 +15365,6 @@ so they can be entered and exited freely.</source>
     </message>
     <message>
         <source>Click the town.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>- You should fill the entrance/exit of the map.
-- You can copy/paste events.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15220,10 +15409,6 @@ Next we will determine the player&apos;s initial position.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You can set the initial position when the game starts.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Right-click a tile on the road.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15232,15 +15417,7 @@ Next we will determine the player&apos;s initial position.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&gt; You should save the project because you change it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click Save Project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; You can play it by clicking %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15310,12 +15487,6 @@ Projects are in the Games folder in My Documents.</source>
     <message>
         <source>The stones you push to move will be
 placed in the passage 3 tiles in width a bit above the entrance. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The placement coordinate will be (16,18). It&apos;s 12 spaces above the entrance. 
-After making the event, we&apos;ll copy and paste it to the coordinates to the left and right of this space. 
-First, find (16,18).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18742,12 +18913,6 @@ Now it won&apos;t show the window frame.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter:　　　　　　　　　\{\{\{THE END
- 
-The first characters are 6 full-width spaces.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Afterwards, we will simply return to the title screen. 
 Double click the next line.</source>
         <translation type="unfinished"></translation>
@@ -21371,228 +21536,6 @@ an event with no image above that as well.</source>
         <source>A noticeboard event has various applications. 
 That&apos;s the end of the explanation of Step 9.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Dialog_Find</name>
-    <message>
-        <source>Find in %1</source>
-        <translation type="unfinished">Buscar en %1</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="unfinished">Buscar</translation>
-    </message>
-    <message>
-        <source>Find what</source>
-        <translatorcomment>It is the same as in the cell above, but looking at the screenshots, I find it is more natural this way.</translatorcomment>
-        <translation type="unfinished">Buscar</translation>
-    </message>
-    <message>
-        <source>Provides a space for you to type the text you want to find.</source>
-        <translation type="unfinished">Ofrece espacio para escribir el texto que quieres encontrar.</translation>
-    </message>
-    <message>
-        <source>Look at</source>
-        <translation type="unfinished">Buscar dentro de</translation>
-    </message>
-    <message>
-        <source>Narrows the search by specifying the text in which you want to search.</source>
-        <translation type="unfinished">Reduce la búsqueda al especificar el texto en el que quieres buscar.</translation>
-    </message>
-    <message>
-        <source>Matching</source>
-        <translation type="unfinished">Coincidencia</translation>
-    </message>
-    <message>
-        <source>Controls how to match the text against your keyword.</source>
-        <translation type="unfinished">Controla cómo se producen las coincidencias con la palabra clave.</translation>
-    </message>
-    <message>
-        <source>Case sensitive</source>
-        <translation type="unfinished">Distinguir entre mayúsculas y minúsculas</translation>
-    </message>
-    <message>
-        <source>Finds only text with uppercase and lowercase characters as specified.</source>
-        <translation type="unfinished">Busca solo texto en el que coincidan las mayúsculas y las minúsculas especificadas.</translation>
-    </message>
-    <message>
-        <source>Find Next</source>
-        <translation type="unfinished">Buscar siguiente</translation>
-    </message>
-    <message>
-        <source>Searches for the next instance of the text you specified.</source>
-        <translation type="unfinished">Busca la siguiente coincidencia del texto especificado.</translation>
-    </message>
-    <message>
-        <source>Find Previous</source>
-        <translation type="unfinished">Buscar anterior</translation>
-    </message>
-    <message>
-        <source>Searches for the previous instance of the text you specified.</source>
-        <translation type="unfinished">Busca la anterior coincidencia del texto especificado.</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <comment>Dialog Button</comment>
-        <translation type="unfinished">Cerrar</translation>
-    </message>
-    <message>
-        <source>Closes this window.</source>
-        <translation type="unfinished">Cierra esta ventana.</translation>
-    </message>
-    <message>
-        <source>Searches for your text inside longer strings.</source>
-        <translation type="unfinished">Busca el texto en secuencias más largas.</translation>
-    </message>
-    <message>
-        <source>Searches for whole words instead of searching for your text inside longer strings.</source>
-        <translation type="unfinished">Busca palabras completas en lugar de buscar el texto en secuencias más largas.</translation>
-    </message>
-    <message>
-        <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
-        <translation type="unfinished">Busca secuencias completas en lugar de buscar el texto en secuencias más largas.</translation>
-    </message>
-    <message>
-        <source>Enables regular expressions (JavaScript flavour).</source>
-        <translation type="unfinished">Activa las expresiones regulares (JavaScript).</translation>
-    </message>
-    <message>
-        <source>Only works for languages where words are separated by spaces.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Dialog_Monaca</name>
-    <message>
-        <source>Monaca</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>FindManager</name>
-    <message>
-        <source>No more results can be found below the current position.</source>
-        <translation type="unfinished">No se han encontrado más resultados por debajo de la posición actual.</translation>
-    </message>
-    <message>
-        <source>No more results can be found above the current position.</source>
-        <translation type="unfinished">No se han encontrado más resultados por encima de la posición actual.</translation>
-    </message>
-    <message>
-        <source>The regular expression contains an error.</source>
-        <translation type="unfinished">La expresión regular contiene un error.</translation>
-    </message>
-</context>
-<context>
-    <name>IssuesDialogBox</name>
-    <message>
-        <source>Issues with “%1”</source>
-        <comment>filename</comment>
-        <translation type="unfinished">Conflictos con “%1”</translation>
-    </message>
-</context>
-<context>
-    <name>MapSelectTreeBox</name>
-    <message>
-        <source>Map List</source>
-        <translation type="unfinished">Lista de mapas</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name of the map.</source>
-        <translation type="unfinished">Nombre del mapa.</translation>
-    </message>
-    <message>
-        <source>Display Name</source>
-        <translation type="unfinished">Nombre de visualización</translation>
-    </message>
-    <message>
-        <source>Name displayed on the upper left part of the screen when moving to the map.</source>
-        <translation>Nombre visualizado en la parte superior izquierda de la pantalla al entrar al mapa.</translation>
-    </message>
-</context>
-<context>
-    <name>Monaca</name>
-    <message>
-        <source>Succeeded to upload a project.</source>
-        <translation type="unfinished">Éxito al subir el proyecto.</translation>
-    </message>
-    <message>
-        <source>Failed to upload a project.</source>
-        <translation type="unfinished">Fallo al subir el proyecto.</translation>
-    </message>
-    <message>
-        <source>There was no difference file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ParameterEditorBoolean</name>
-    <message>
-        <source>ON</source>
-        <translation type="unfinished">ON</translation>
-    </message>
-    <message>
-        <source>OFF</source>
-        <translation type="unfinished">OFF</translation>
-    </message>
-</context>
-<context>
-    <name>ParameterEditorList</name>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished">Valor</translation>
-    </message>
-    <message>
-        <source>Edit as Text</source>
-        <translation type="unfinished">Editar como texto</translation>
-    </message>
-    <message>
-        <source>Plugin Parameter Values</source>
-        <translation type="unfinished">Valores de los parámetros del complemento</translation>
-    </message>
-    <message>
-        <source>Value of the plugin parameter.</source>
-        <translation type="unfinished">Valor de los parámetros del complemento.</translation>
-    </message>
-</context>
-<context>
-    <name>PluginSettingBox</name>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished">Valor</translation>
-    </message>
-    <message>
-        <source>Plugin Parameters</source>
-        <translation type="unfinished">Parámetros del complemento</translation>
-    </message>
-    <message>
-        <source>Name of the plugin parameter.</source>
-        <translation type="unfinished">Nombre del parámetro del complemento.</translation>
-    </message>
-    <message>
-        <source>Value of the plugin parameter.</source>
-        <translation type="unfinished">Valor del parámetro del complemento.</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="unfinished">Descripción</translation>
-    </message>
-    <message>
-        <source>Description of the plugin parameter.</source>
-        <translation type="unfinished">Descripción del parámetro del complemento.</translation>
-    </message>
-    <message>
-        <source>Edit as Text</source>
-        <translation type="unfinished">Editar como texto</translation>
     </message>
 </context>
 </TS>
