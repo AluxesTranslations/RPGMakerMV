@@ -8231,7 +8231,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>The number of %1</source>
-        <translation>%1 数</translation>
+        <translation>%1 的持有数</translation>
     </message>
     <message>
         <source>%1 of %2</source>
